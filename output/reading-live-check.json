@@ -1,0 +1,68 @@
+{
+  "deployment": 38071557817,
+  "commit": "c4eacb1",
+  "files": [
+    {
+      "file": "index.html",
+      "sha256": "1a1f80240828ec90658f7a3fa81aedcbddb7434107437afd283e0885bd9b4dc2"
+    },
+    {
+      "file": "law.css",
+      "sha256": "95f6e49b6ce8fc502fdd4ed7081479432d0f3e0f18b2b948f6497642669492e2"
+    },
+    {
+      "file": "law.js",
+      "sha256": "c7c8339c6abcb74b012bd71063258cb56e3e121c7843230b559a1fd18664f46c"
+    },
+    {
+      "file": "read-electronic-government.html",
+      "sha256": "1ca85eb86997c154697e0c9d17920742bfbc07ed3aca17467eecfcf5b4ea7c12"
+    },
+    {
+      "file": "read-fedramp.html",
+      "sha256": "cba3b3638b686adde4954e39c86e04c7e09d43a580afb894bbde532ffbde26db"
+    },
+    {
+      "file": "read-information-collection.html",
+      "sha256": "fdaa1e293f7bc5c7029a24dbc68d910c8957925fd7666099da865555153e9164"
+    },
+    {
+      "file": "read-information-policy.html",
+      "sha256": "ce6db94083163476e5337844597f6f510fb6ac7987333b755cb3aca935a5896c"
+    },
+    {
+      "file": "read-inspectors-general.html",
+      "sha256": "66a19a11d6e1987aae9dd891019f137d1103b283c8a7e83f7b10cca20721668f"
+    },
+    {
+      "file": "read-it-management.html",
+      "sha256": "93cf8cb5c218e2e9a88ae27143555707a70f0379d26d30354421e40f52cd7254"
+    },
+    {
+      "file": "read-operations.html",
+      "sha256": "8406d5b73fb51dc23b5affe7345061fa5a46493775daaf74623d5412c85c4c33"
+    },
+    {
+      "file": "read-privacy.html",
+      "sha256": "9bef793e72b8db049669cf8ff15f994183e1d8fac76d37fe2121494968c980e2"
+    },
+    {
+      "file": "read-security.html",
+      "sha256": "68c171a59754ace5ad5062f582586261629d8defb1e3c2defeaa003dd287a787"
+    },
+    {
+      "file": "read-standards.html",
+      "sha256": "737a56606c1f9c75c70ae343504f1fdcb6628604f37e095be5bc0c3ca78083fe"
+    },
+    {
+      "file": "read-statistics.html",
+      "sha256": "b70a4400fa6dd42ecd2d757b409a67e379db032b01520fdca15a40599a1bb617"
+    },
+    {
+      "file": "read-supply-chain.html",
+      "sha256": "5accff0ddb56fded8a353b522c6174ef55d6bd5d001f9d55417e839dc407d0b7"
+    }
+  ],
+  "mobileNavigation": true,
+  "passed": true
+}
