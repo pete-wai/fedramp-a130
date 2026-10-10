@@ -29,3 +29,4 @@ Final Pages publication: commit ff792fd, Actions run 38057785165, succeeded Octo
 - Reader checks pass at 1440px and 390px without JavaScript: no viewport overflow, page-index navigation, GitHub Pages subpath, file:// reading and return to source record.
 - Existing report browser suite passes: search, combined filters, sorting, reset, timeline, print, no-JavaScript reading.
 - Self-review of representative 1985 Federal Register and older NBS reader screenshots; readable measure, clear page links, conservative OCR warning. This was self-review, not a verified transcription of every source page.
+- Pages deployment run 38059578187 succeeded for commit d89bcaa. Live 1985 reader HTML and reader CSS matched the tested local files byte-for-byte after deployment.
