@@ -1,0 +1,140 @@
+
+[PDF page 1]
+M-96-20, Implementation of the 
+Information Technology Management 
+Reform Act of 1996 
+April 4, 1996  
+M-96-20 
+MEMORANDUM FOR THE HEADS OF EXECUTIVE DEPARTMENTS AND ESTABLISHMENTS  
+FROM:  Alice M. Rivlin  
+  Director 
+ 
+SUBJECT:Implementation of the Information Technology Management Reform Act of 1996 
+This memorandum provides preliminary guidance to Federal agencies on the implementation of the 
+Information Technology Management Reform Act of 1996 (ITMRA), Pub. L. 104106, which President 
+Clinton signed into law on February 10, 1996. ITMRA repeals Section 111 of the Federal Property and 
+Administrative Services Act of 1949 (popularly referred to as the "Brooks Act") and establishes a new 
+statutory scheme for information technology management and acquisition within the Executive branch. 
+The Act's provisions take effect on August 8, 1996, 180 days after enactment. This memorandum 
+addresses two areas -- the designation of the chief information officer (CIO) and the role of the General 
+Services Board of Contract Appeals (GSBCA) in information technology protests.  
+In addition to this memorandum, OMB Circulars will be revised to provide further guidance to agencies. 
+OMB will seek agency and public comment of draft revisions to Circul ar A130, "Management of Federal 
+Information Resources," so that these revisions will be final by early August 1996. In addition, OMB 
+Circular A-l l, "Preparation and Submission of Budget Estimates," will be revised as part of the annual 
+update of that Circ ular. 
+Agency Chief Information Officers  
+Section 5125(a) of ITMRA amends Section 3506 of the Paperwork Reduction Act of 1996 (PRA), Pub. 
+L. 104-13, 44 U.S.C. Chapter 35, by establishing the position of Chief Information Officer in place of the 
+designated senior of official for information resources management previously established by the PRA. 
+This provision is intended to establish clear accountability for agency information resources 
+
+[PDF page 2]
+management activities, provide for greater coordination among the agency' s information activities, and 
+ensure greater visibility of such activities within each agency.  
+One of the most important responsibilities of the CIO is to promote effective agency operations by 
+implementing budget -linked capital planning for, and performance -based management of, information 
+technology systems. Under the ITMRA, agencies are to determine, before making an investment in a 
+new information system to support a particular function, whether the function should be performed or 
+supported by the private sector or another agency. Agencies should also, where appropriate, 
+reorganize and revise the way a function is performed to improve its effectiveness before making 
+significant IT investments to support that work. To ensure that these strategic issues ar e addressed by 
+the agency, the Act makes the CIO explicitly responsible for promoting improvements in agency work 
+processes. 
+The CIO is also charged with facilitating the development, implementation, and maintenance of a sound 
+and integrated information technology architecture for the agency, and promoting the effective design 
+and operation of all major information resources management processes. The duties of the CIO are set 
+forth at section S 125(c) of the ITMRA.  
+Designation and Organizational Placement o f the Chief information Officer.  
+Each agency head is expected to select and position a CIO to ensure the effective acquisition and use 
+of IT and to carry out the agency's information resources management responsibilities. While the 
+organizational placement  of the CIO is to be determined by the agency head, the person selected 
+should report to the agency head directly, and not through another official. The CIO must actively 
+participate, with the agency head and other senior agency officials, in planning and budgeting 
+deliberations, support of work process redesign in areas being considered for IT investment, and the 
+development of information technology program performance measures. Consistent with the ITMRA for 
+the agencies listed in the Attachment, informat ion resources management shall be the primary duty of 
+the CIO. 
+The agency head may designate as the CIO any individual who has the professional qualifications and 
+experience required for the duties of the position. The position may be filled by recruiting and 
+appointing someone from outside the agency, by the current senior information resources management 
+official, or by someone holding another position in the agency.  1 
+Agencies may also establish CIOs for major subcomponents or bureaus, and may also appoint deputy 
+CIOs that have additional experience in work process redesign, design and management of information 
+technology architectures, and data and telecommunications management.  
+Relation to Chief Financial Officer (CFO).  
+
+[PDF page 3]
+The head of the agency is responsible for defining the operating relationship between the CIO and CFO 
+functions and ensuring coordination in the implementation of the ITMRA, the PRA, the Chief Financial 
+Officers Act, and the Government Performance and Results Act. The CFO continues to be responsible 
+for developing, implementing, and maintaining the financial management systems as provided for in the 
+CFO Act. In agencies where financial systems represent a s ubstantial part of the agency's information 
+systems portfolio, it may be appropriate for the same person to serve as both CIO and CFO, so long as 
+the mix of the CFO/CIO duties and qualifications is consistent with the intent of ITMRA. Finally, Section 
+S 126 of the 11 ITMRA encourages the CIO and CFO to work together under the direction of the 
+agency head to ensure that the agency's information systems provide reliable, consistent, and timely 
+program performance information.  
+Appointment Process.  
+By August 8, 1996, the head of each agency shall designate its Chief Information Officer, as required 
+by ITMRA and the PRA.  
+Each agency listed in the Attachment should consult with the OMB Deputy Director for Management 
+prior to establishing and filling the position, and provide the following information:  
+• the CIO's name, background and experience. 
+• an organization chart which identifies the CIO's position relative to the head of the agency, and other 
+senior agency officials, and the agency staff and associated resources assigned, or to be assigned, to the 
+CIO for the performance of functions assigned by the PRA and ITMRA. 
+• a description of the CIO's authority and responsibilities. 
+All agencies should provide the name, title, and phone number for the CIO to OMB once the position is 
+filled. This information should be mailed to Room 10236, New Executive Office Building, Washington, 
+D.C. 20503. This information should be updated as changes occur.  
+Role of the General Services Board Of Contract Appeals (GSBCA)  
+The repeal of the Brooks Act revokes the GSBCA's authority to hear and decide bid protests. The 
+GSBCA will continue to hear and decide protests received up to and including August 7, 1996. The 
+GSBCA will not accept any protest received on or after August  8, 1996. 
+Inquiries. Inquiries or suggestions regarding the role of the Chief Information Officer may be directed to 
+the Information Policy and Technology Branch in OMB's Office of Information and Regulatory Affairs 
+(202) 395-3785. Inquiries regarding the role of the GSBCA should be directed to OMB's Office of 
+Federal Procurement Policy (202) 395- 6803. 
+
+[PDF page 4]
+ 
+ 
+Footnotes 
+1. In agencies listed in the Attachment, if the position is placed in the Senior Executive Service (career 
+or non-career), the agency head may set the pay of the incumbent at any rate of the Senior Executive 
+Service in accordance with 5 U.S.C. S383.  
+ 
+ 
+Attachment 
+  
+Department of Agriculture  
+Department of Commerce  
+Department of Defense  
+Department of the Army  
+Department of the Navy  
+Department of the Air Force 
+Department of Education 
+Department of Energy  
+Department of Health and Human Services  
+Department of Housing and Urban Development  
+Department of Interior  
+Department of Justice  
+Department of Labor  
+Department of State 
+Department of Transportation 
+Department of Treasury  
+Department of Veterans Affairs  
+Environmental Protection Agency  
+National Aeronautics and Space Administration 
+Social Security Administration  
+Agency for International Development  
+Federal Emergency Management Agency  
+
+[PDF page 5]
+General Services Administration 
+National Science Foundation 
+Nuclear Regulatory  Commission 
+Office of Personnel Management  
+Small Business Administration  
+ 

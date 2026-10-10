@@ -1,0 +1,147 @@
+
+[PDF page 1]
+ EXECUTIVE OFFICE OF THE PRESIDENT  
+   OFFICE OF MANAGE MENT AND BUDGET  
+  WASHINGTON, D.C. 20503  
+ 
+March 31, 2008 
+M-08-15 
+MEMORANDUM FOR AGENCY CHIEF INFORMATION OFFICERS 
+ 
+FROM:  Karen S. Evans  
+   Administrator 
+   Office of Electronic Government and  
+   Information Technology 
+ 
+SUBJECT:  Tools Available for Implem enting Electronic Records Management 
+ 
+The strategic management of government information resources, in coordination with records 
+management, helps to: 
+ 
+• Ensure public accountability; 
+• Guard the legal and financial rights of the government and public; and 
+• Promote public access to information.   
+ 
+To ensure the information being collected and created by the Federal government is accessible 
+now and in the future, it is necessary to systematically manage Federal records.  Cost effective 
+information resource management programs promote a more citizen centered government by 
+providing access to government information throughout the entire lifecycle of information.   
+ 
+When planning for and acquiring information systems and services, agencies must incorporate 
+records management and archival functions, including the cost of implementing and maintaining 
+those functions, into the design, development, and implementation of information systems.
+1  
+Additionally, agencies can minimize barriers to information access and more efficiently use 
+resources through avoiding duplicative investments in records management information systems.   
+This memorandum reminds agencies of resources to improve how your agency:  
+ 
+• Provides cost-effective and consistent access to and dissemination of government information;  
+• Incorporates records management into your capital planning and investment control process;  
+• Simplifies the activities, systems, and processes of records creation, maintenance, and use; and 
+• Plans for the lifecycle of information including the transfer of permanent records to the 
+National Archives and Records Administration (NARA). 
+ 
+A recently finalized SmartBUY agreement for records management software provides a secure, 
+scalable, and high-performance solution for the management and control of documents, records, 
+and other enterprise content.
+2  NARA has also worked jointly with the Federal community to 
+                                                 
+1 These requirements are in existing law and policy including OMB Circular A-130 and the Paperwork Reduction 
+Act.  OMB Circular A-130 can be found at: http://www.whitehouse.gov/omb/circulars/a130/a130trans4.html.  The 
+Paperwork Reduction Act can be found at: http://www.archives.gov/federal-register/laws/paperwork-reduction/. 
+2 This refers to the Meridio Enterprise Content Management SmartBUY agreement. This software possesses a valid 
+certification until November 2009.  A list of current SmartBUY agreements can be found at: 
+http://www.gsa.gov/smartbuy. 
+
+[PDF page 2]
+develop a set of requirements to be used to specify web services supporting various records 
+management functions.3   
+ 
+The Office of Management and Budget (OMB) expects agencies to apply the existing 
+requirements when acquiring and implementing information systems and services.  OMB, in 
+coordination with NARA, will monitor agency compliance with these policies as part of its 
+oversight of agency information resource management programs.  The following guidance 
+documents will aid the implementation of existing law and policies when investing in an 
+information system. 
+ 
+ 
+1. E-Government Electronic Records Management Initiative
+4 
+ This E-Government initiative provides tools for agencies to reference when managing 
+ their records in electronic form.  The guidance and best practice documents produced 
+ through this initiative by NARA, the Department of Defense (DOD), and the 
+ Environmental Protection Agency on electronic records management help agencies 
+ transfer electronic records to NARA in a variet y of data types and formats so they can be 
+ preserved for future use. 
+ 
+2. DOD Electronic Records Management Software Application Design Criteria 
+Standard, Version 2 (DOD 5015.2-STD)
+5 
+ This DOD-issued standard endorsed by NARA sets forth mandatory functional 
+ requirements and identified recommended features for Records Management Application 
+ (RMA) software.  NARA recommends agencies use the DOD standard and DOD-
+ certified products as a baseline when selecting an RMA to manage the agency's electronic 
+ records.  Version 3 of the standard is currently undergoing review for NARA 
+ endorsement. 
+ 
+3. Federal Enterprise Architecture (FEA) Records Management Profile, version 1.0
+6 
+ The Records Management Profile provide s the framework for embedding common and 
+ consistent records management procedures and practices into agency business processes 
+ to help cost-effectively ensure access to in formation.  Agencies should use the Profile to 
+ identify records management issues, risk s, benefits, and challenges during business 
+ process and information technology investment  planning.  To aid in this process, NARA 
+ has published checklists for agencies to us e in implementing the goals of the Records 
+ Management Profile. 7 
+ 
+                                                 
+3   This refers to the Records Management Services Program which can be found at: 
+http://www.archives.gov/era/rms/index.html. 
+4 The guidance products issued by the Electronic Records Management Initiative can be found at: 
+http://www.archives.gov/records-mgmt/initiatives/erm-overview.html. 
+5 DOD 5015.2 can be found at: http://jitc.fhu.disa.mil/recmgt/standards.html. 
+6 The FEA Records Management Profile can be found at: http://www.archives.gov/records-mgmt/pdf/rm-profile.pdf.    
+7 The RM Profile checklists can be found at http://www.archives.gov/records-mgmt/initiatives/erm-guidance.html. 
+
+[PDF page 3]
+ 
+4. The Federal Enterprise Architecture (FEA) Practice Guidance8 
+ The FEA Practice Guidance describes impor tant concepts architects can use with 
+ stakeholders to deliver value to the bu siness and improve results in agency mission 
+ areas.  The Practice Guidance focuses on de velopment of segment architectures and 
+ provides a context for applyi ng the Records Management Profile to augment specific 
+ segment architectures to reflect records ma nagement requirements, shared services, and 
+ technology solutions. 
+ 
+5. NARA Guidance for Implementing Section 207(e) of the E-Government Act9 
+ NARA’s guidance highlights agency responsib ilities to identify and schedule their 
+ electronic records and to transfer to NARA electronic records requiring permanent 
+ retention.  Agency responsibilities for iden tifying and scheduling electronic records can 
+ be separated into two categories: developing records schedules for all records in existing 
+ electronic information systems and establ ishing procedures for addressing records 
+ management requirements, including record keeping requirements and disposition, before 
+ approving new electronic information systems or enhancements to existing systems. 
+ 
+6. OMB Memorandum 06-02, “Improving Public Access to and Dissemination of 
+Government Information and Using the Federal Enterprise Architecture Data 
+Reference Model”
+10 
+ Agency information resource management pr ograms should already ensure the ability to 
+ access records regardless of form or medium.  The procedures to organize and categorize 
+ information and make it searchable across agencies in OMB Memorandum 06-02 should 
+ be used to improve public access and dissemi nation of government information as a part 
+ of managing government information throughout  its lifecycle.  To cost-effectively 
+ implement these procedures, agencies should publish their information directly to the 
+ Internet. 
+ 
+Many of the above guidance documents and additional resources from NARA and other 
+organizations are available through NARA’s Toolkit for Managing Electronic Records.
+11   
+ 
+                                                 
+8 The FEA Practice Guidance can be found at: 
+http://www.whitehouse.gov/omb/egov/documents/FEA_Practice_Guidance.pdf. 
+9 NARA’s Guidance on Implementing Section 207(e) of the E-Government Act can be found at: 
+http://www.archives.gov/records-mgmt/bulletins/2006/2006-02.html. 
+10 OMB Memorandum 06-02 can be found at: http://www.whitehouse.gov/omb/memoranda/fy2006/m06-02.pdf. 
+11 The Toolkit for Managing Electronic Records can be found at: http://toolkit.archives.gov. 

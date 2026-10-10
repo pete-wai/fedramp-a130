@@ -1,0 +1,303 @@
+
+[PDF page 1]
+EXECUTIVE OFFICE OF THE PRESIDENT 
+OFFICE OF MANAGEMENT AND BUDGET 
+WASHINGTON , D.C. 20503 
+THE DIRECTOR 
+November 12, 2020 
+M-21-04 
+MEMORANDUM FOR THE HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES 
+FROM : R~ssell T. Vought <":\ t f\. _, 
+D1rector \J \J \J v~ 
+SUBJECT: Modernizing Access to and Consent for Disclosure of Records Subject to the 
+Privacy Act · 
+This Memorandum provides guidance for Federal agencies to modernize the processes by 
+which individuals may request access to, and consent to the disclosure of, records protected 
+under the Privacy Act of 1974.1 As required by the Creating Advanced Streamlined Electronic 
+Services for Constituents Act of 2019 ("CASES Act"),2 this guidance outlines the 
+responsibilities of agencies for accepting access and consent forms provided in a digital format 
+from individuals who are properly identity-proofed and authenticated. 
+Authority, Scope, and Terminology 
+The CASES Act, which became law on August 22, 2019, provides the authority for this 
+Memorandum and requires the Director of the Office of Management and Budget (0MB) to 
+issue this guidance. In accordance with the CASES Act, the terms "agency," "individual," and 
+"record" have the meanings given those terms in the Privacy Act3 This Memorandum 
+characterizes the "electronic consent and access forms"4 identified in the CASES Act as "access 
+and consent forms provided in a digital format" (hereinafter "access and consent forms"). It also 
+characterizes the "electronic identity-proofing and authentication processes"5 identified in the 
+CASES Act as "remote identity-proofing and authentication through digital processes" 
+(hereinafter "remote identity-proofing and authentication"). For purposes of this Memorandum, 
+"identity-proofing" is the process by which a Credential Service Provider collects, validates, and 
+verifies information about a person, while "authentication" is the process of establishing 
+confidence in user identities presented digitally to a system. 6 
+1 5 U.S.C. § 552a. 
+2 Pub . L. No. 116-50, 133 Stat. 1073 (2019). 
+3 Id. § 3(c)(I); see 5 U.S.C . § 552a(a)(l), (2), (4). 
+4 See Pub. L. No. 116-50, § 3. 
+5 See id. 
+6 See, e.g., Paul A. Grassi, et al., Nat'! Inst. of Standards & Tech., Dep't of Commerce, Special Publication 800-63-
+3, Digital Identity Guidelines 45, 47 (June 2017), available at 
+https:/ /nvlpubs.nist.gov/nistpubs/Specia!Publications/NIST. SP. 800-63-3. pdf. 
+
+
+[PDF page 2]
+Background 
+The Privacy Act grants individuals a right of access to their records and any information 
+pertaining to them that are contained in agency systems of records. 7 While the Privacy Act 
+increases an individual's right to access the individual's own record, it restricts an individual's 
+ability to access a record pertaining to someone else. The Privacy Act prohibits disclosure of 
+records in a system ofrecords to any person or agency, unless disclosure is pursuant to the prior 
+written request by, or with the prior written consent of, the individual to whom the record 
+pertains. 8 The Privacy Act provides that "the parent of any minor, or the legal guardian of any 
+individual who has been declared to be incompetent due to physical or mental incapacity or age 
+by a court of competent jurisdiction, may act on behalf of the individual."9 
+Modernizing these processes across the Federal Government is important to facilitating 
+transparency and enabling access to Federal programs through seamless and secure digital 
+service delivery. Over the years, agencies have developed various procedures and forms by 
+which individuals may establish their identity and request access to or provide written consent 
+for disclosure of their records. As technology developed and the Federal Government increased 
+electronic collection and dissemination of information, electronic consent was recognized as a 
+form of written consent. 10 In an effort to modernize and simplify the process, the CASES Act 
+requires 0MB to issue guidance that requires agencies to accept access and consent forms from 
+individuals properly identity-proofed and authenticated remotely through digital channels.11 The 
+CASES Act also requires that this guidance include a template for such forms, which agencies 
+must post on their websites. 12 
+Agency Responsibilities 
+Agencies must provide a digital service option to ensure that individuals have the ability 
+to digitally request access to or consent to disclosure of their records. 
+Within one year of the release of this Memorandum, agencies shall: 
+1. Accept remote identity-proofing and authentication for the purposes of allowing an 
+individual to request access to their records or to provide prior written consent 
+authorizing disclosure of their records under the Privacy Act. 13 
+2. Post on the agency website's privacy program page (www.[agency].gov/privacy)14 the 
+forms developed using the templates provided in the appendix to this guidance (i.e., the 
+templates for access and consent forms), as customized by the agency. Update all 
+7 5 U.S.C. § 552a(d)(l). 
+8 Id. § 552a(b). 
+9 Id. § 552a(h). 
+10 See Office of Mgmt. & Budget, Exec. Office of the President, 0MB M-01-05, Guidance on Interagency Sharing 
+of Personal Data -Protecting Personal Privacy (Dec. 20, 2000). 
+11 Pub. L. No. 116-50, § 3(a). 
+12 Id. § 3(a)(2). 
+13 See id. § 3(a)(l). 
+14 See Office of Mgmt. & Budget, Exec. Office of the President, 0MB M-17-06, Policies for Federal Agency Public 
+Websites and Digital Services (Nov. 8, 2016). 
+2 
+
+
+[PDF page 3]
+relevant portions of the agency website that pertain to obtaining access to records with 
+these forms and instructions on how to submit requests digitally. 15 
+3. Accept the access and consent forms from any individual properly identity-proofed and 
+authenticated remotely through digital channels for the purpose of individual access to 
+records or for authorizing disclosure of the individual's records to another person or 
+entity, including a congressional office. 16 
+Agencies are responsible for modernizing supporting information systems and digitizing 
+any existing processes to ensure that a digital service option is offered in addition to paper-based 
+or in-person options. Moreover, agencies should avoid to the maximum extent possible 
+establishing any requirements that prevent or impede an individual who has been properly 
+identity-proofed and authenticated from submitting a digital request to access or consent to 
+disclosure of their records. 
+Additional Guidance 
+1. Agency Officials 
+The agency's Senior Agency Official for Privacy (SAOP) shall coordinate the activities 
+required by this Memorandum with the agency's Chief Information Officer, Chief Information 
+Security Officer, and other agency officials whose duties include processing requests for access 
+to and disclosure ofrecords subject to the Privacy Act.17 
+2. Minimization 
+As agencies determine the specific information required to verify an individual's identity, 
+establish consent, and identify relevant records, they should apply the minimization principle, 
+one of the Fair Information Practice Principles identified in 0MB Circular A-130, Managing 
+Information as a Strategic Resource, 18 and ensure that they limit the collection of personally 
+identifiable information (Pil)19 to the minimum that is directly relevant-and necessary for this 
+purpose.20 In applying this principle, agencies may customize the PII required by their access 
+and consent forms in accordance with applicable law and policy requirements and assessment of 
+privacy risks. Different types of records may require different types of PII when identifying 
+15 See id. § 3(a)(2). 
+16 See id. § 3(a)(3). 
+17 The requirements of this Memorandum do not apply to third-party requests made under the Freedom of 
+Information Act (FOIA), 5 U.S.C. § 552. However, because individual access requests under the Privacy Act must 
+also be processed under the FOIA, see 5 U.S.C. § 552a(t)(l), (2), many agencies manage and process Privacy Act 
+requests as part of their FOIA programs. In such cases, SAOPs shall also coordinate the activities required by this 
+Memorandum with the agency's ChiefFOIA Officer. 
+18 See Office ofMgmt. & Budget, Exec. Office ofthe President, Circular No. A-130, Managing Information as a 
+Strategic Resource, app. II, at 2 (July 28, 2016). 
+19 Per 0MB Circular A-130, "personally identifiable information" means information that can be used to distinguish 
+or trace an individual's identity, either alone or when combined with other information that is linked or linkable to a 
+specific individual. Id. at 33. 
+20 See Office of Mgmt. & Budget, Exec. Office of the President, Privacy Act Implementation Guidelines and 
+Responsibilities, 40 Fed. Reg. 28,948, 28,957, 28,967 (July 9, 1975). 
+3 
+
+
+[PDF page 4]
+relevant records and conducting identity-proofing and authentication. In accordance with 0MB 
+Circular A-130, for this purpose, agencies shall take steps to eliminate unnecessary collection, 
+maintenance, and use of Social Security numbers, and explore alternatives to the use of Social 
+Security numbers as a personal identifier.21 
+3. Remote Identity-Proofing and Authentication 
+Strong identity-proofing and authentication are important to prevent improper disclosure 
+of records. Consistent with Privacy Act implementation guidance,22 agencies shall establish 
+requirements to verify the identity of the individual making the request through remote identity­
+proofing and authentication processes. These requirements and their implementation shall 
+conform to 0MB guidance and NIST standards.23 
+The importance of strong identity-proofing and authentication is underscored not only by 
+the Privacy Act's disclosure prohibition, but also by other of its requirements. The Privacy Act 
+requires agencies to "establish appropriate administrative, technical, and physical safeguards to 
+insure the security and confidentiality of records and to protect against any anticipated threats or 
+hazards to their security or integrity which could result in substantial harm, embarrassment, 
+inconvenience, or unfairness to any individual on whom information is maintained."24 Agencies 
+also are required to keep an accurate accounting of disclosures outside the agency, including 
+those made at the request of the individual or with the individual's written consent.25 Violations 
+of the Privacy Act can incur civil remedies and criminal penalties.26 
+4. Privacy Act Implementation Rules and Systems of Records Notices 
+Agencies shall review their Privacy Act implementation rules27 regarding accessing and 
+consenting to disclosure of records and update them, as necessary, to ensure they are consistent 
+with and reflect the procedures required by this Memorandum. Where such updates affect the 
+descriptions ofrecord access procedures in existing systems ofrecords notices (SORNs), 
+agencies may need to modify their SORNs. 28 In addition, agencies shall review SORNs 
+governing systems of records that include Privacy Act requests for access to and consent to 
+disclosure ofrecords, and, if necessary, modify those SORNs, as well. 
+Points of Contact 
+Please direct questions or inquiries on this Memorandum via email to privacy­
+oira@omb.eop.gov and ofcio@omb.eop.gov. 
+21 See Circular No. A-130, at 17. 
+22 See Privacy Act Implementation Guidelines and Responsibilities, 40 Fed. Reg. at 28,957. 
+23 See Office of Mgmt. & Budget, Exec. Office of the President, 0MB M-19-17, Enabling Mission Delivery through 
+Improved Identity, Credential, and Access Management (May 21, 2019). See also the NIST Special Publication 
+(SP) 800-63 suite, including Digital Identity Guidelines, supra note 6. 
+24 5 U.S.C. § 552a(e)(10). 
+25 See Privacy Act Implementation Guidelines and Responsibilities, 40 Fed. Reg. at 28,955. 
+26 See 5 U.S.C. § 552a(g), (i). 
+27 See id § 552a(f). 
+28 See Office of Mgmt. & Budget, Exec. Office of the President, Circular No. A-108, Federal Agency 
+Responsibilities for Review, Reporting, and Publication under the Privacy Act 6 (Dec. 23, 2016). 
+4 
+
+
+[PDF page 5]
+Appendix I: Instructions and Template for Access Forms 
+Instructions for Agencies 
+These instructions are for agencies' use and are not meant to be posted on agency websites: 
+Agencies shall post to their websites the access forms developed based on the template provided 
+in this Memorandum, as customized by the agency. Agencies shall use the language and section 
+headings provided in the template, replace the language in brackets with appropriate agency 
+language that is consistent with the agency's Privacy Act implementation rules, and customize 
+the formatting, as appropriate. Agencies may modify the text of the Privacy Act statement in 
+accordance with law and policy, in addition to the designated placeholders. 
+Agencies shall accept the access forms from individuals properly identity-proofed and 
+authenticated according to the requirements in this Memorandum for the purpose of individual 
+access to records under the Privacy Act. Agencies may accept access forms from parents on 
+behalf of minors or from legal guardians on behalf of incompetents. 29 Agencies that provide 
+access to parents and legal guardians may include the relevant [italicized and bracketedj 
+language. 
+Template 
+[Name of agency and, if applicable, agency component] 
+Request for Individual Access to Records Protected under the Privacy Act 
+If you are seeking access to your records, please provide the information below. [This form may 
+also be used if you are the parent seeking access to the records of a minor or the legal guardian 
+seeking access to the records of an incompetent.] 
+Information Required for Identity-Proofing and Authentication 
+This information is required for the agency to verify your identity. 
+Full Name 
+[Other Information Required for Identity-Proofing and Authentication] 
+[If Applicable: Information for Request by Parent or Legal Guardian] 
+[Name of Record Subject] 
+[ Other Information Required to Establish Relationship/Guardianship] 
+29 As defined in 5 U.S.C. § 552a(h) and in accordance with agency policy and regulations implementing § 552a(h). 
+5 
+
+
+[PDF page 6]
+Additional Information Required to Locate the Record(s) 
+This information is required for the agency to be able to match the individual's information 
+provided in this request with the records that pertain to that individual. 
+[Other Information Required to Identify the Record Subject - e.g., Date of Birth] 
+Description of Requested Records [Describe what information is requested.] 
+Contact Information 
+Address for Receiving Records 
+I declare under penalty of perjury under the laws of the United States of America that the 
+foregoing is true and correct, and that I am the person named above and requesting access 
+to my records [, or records that I am entitled to request as the parent of a minor or the legal 
+guardian of an incompetent], and I understand that any falsification of this statement is 
+punishable under the provisions of 18 U.S.C. § 1001 by a fine, imprisonment of not more 
+than five years, or both, and that requesting or obtaining any record(s) under false 
+pretenses is punishable under the provisions of 5 U.S.C. § 552a(i)(3) by a fine of not more 
+than $5,000. 
+[Electronic] Signature [and Date] 
+Privacy Act Statement 
+In accordance with [the agency's Privacy Act implementation rules] personal information 
+sufficient to identify the individuals requesting access to records under the Privacy Act of 
+1974, 5 U.S.C. § 552a, is required. The purpose of this solicitation is to ensure that the 
+records of individuals who are the subject of [ agency name] systems of records are not 
+wrongfully disclosed by [agency name]. [Information about published routine uses to 
+which the information is subject.] Requests will not be processed if this information is not 
+furnished. False information on this form may subject the requester to criminal penalties 
+under 18 U.S.C. § 1001 and/or 5 U.S.C. § 552a(i)(3). [Appropriate citation (and, if 
+practicable, a link) to the relevant system of records notice(s).] 
+6 
+
+
+[PDF page 7]
+Appendix II: Instructions and Template for Consent Forms 
+Instructions for Agencies 
+These instructions are for agencies' use and are not meant to be posted on agency websites: 
+Agencies shall post to their websites the consent forms developed based on the template 
+provided in this Memorandum, as customized by the agency. Agencies shall use the language 
+and section headings provided in the template, replace the language in brackets with appropriate 
+agency language that is consistent with the agency's Privacy Act implementation rules, and 
+customize the formatting, as appropriate. Agencies may modify the text of the Privacy Act 
+statement in accordance with law and policy, in addition to the designated placeholders. 
+Agencies shall accept consent forms from individuals properly identity-proofed and 
+authenticated according to the requirements in this Memorandum for the purpose of authorizing 
+disclosure of the individual's records under the Privacy Act. Agencies may accept consent forms 
+from parents on behalf of minors or from legal guardians on behalf of incompetents.30 Agencies 
+that provide access to parents and legal guardians may include the relevant [italicized and 
+bracketed] language. 
+Template 
+[Name of agency and, if applicable, agency component] 
+Consent for Disclosure of Records Protected under the Privacy Act 
+If you are providing consent and authorizing the agency to disclose your records to another 
+person or entity, please provide the information below. [Thisform may also be used if you are 
+the parent consenting to and authorizing disclosure of the records of a minor or the legal 
+guardian consenting to and authorizing disclosure of the records of an incompetent.] 
+Information Used for Identity-Proofing and Authentication 
+This information is required for the agency to verify your identity. 
+Full Name 
+[Other Information Required for Identity-Proofing and Authentication] 
+[!{Applicable: Information for Request by Parent or Legal Guardian] 
+[Name of Record Subject] 
+30 As defined in 5 U.S.C. § 552a(h) and in accordance with agency policy and regulations implementing§ 552a(h). 
+7 
+
+
+[PDF page 8]
+[Other Iriformation Required to Establish Relationship/Guardianship] 
+Additional Information Required to Locate the Record(s) 
+This information is required for the agency to be able to match the individual's information 
+provided in this request with the records that pertain to that individual. 
+[Other Information Required to Identify the Record Subject-e.g., Date of Birth] 
+Description of Requested Records [Describe what information is requested.] 
+Recipient Information 
+Name of Recipient (Person or Entity) to Whom Disclosure is Authorized 
+Address for Receiving Records 
+I declare under penalty of perjury under the laws of the United States of America that the 
+foregoing is true and correct, and that I am the person named above and consenting to and 
+authorizing disclosure of my records [, or records that I am entitled to request as the parent of 
+a minor or the legal guardian of an incompetent], and I understand th'at any falsification of 
+this statement is punishable under the provisions of 18 U.S.C. § 1001 by a fine, 
+imprisonment of not more than five years, or both, and that requesting or obtaining any 
+record(s) under false pretenses is punishable under the provisions of 5 U.S.C. § 552a(i)(3) 
+by a fine of not more than $5,000. 
+[Electronic] Signature [and Date] 
+Privacy Act Statement 
+In accordance with [the agency's Privacy Act implementation rules] personal information 
+sufficient to identify the individuals requesting access to records under the Privacy Act of 
+1974, 5 U.S.C. § 552a, is required. The purpose of this solicitation is to ensure that the 
+records of individuals who are the subject of [agency name] systems of records are not 
+wrongfully disclosed by [agency name]. [Information about published routine uses to 
+which the information is subject.] Requests will not be processed if this information is not 
+furnished. False information on this form may subject the requester to criminal penalties 
+under 18 U.S.C. § 1001 and/or 5 U.S.C. § 552a(i)(3). [Appropriate citation (and, if 
+practicable, a link) to the relevant system of records notice(s).] 
+8 

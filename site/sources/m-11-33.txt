@@ -1,0 +1,1138 @@
+
+[PDF page 1]
+EXECUT IV E OFFICE OF THE PRES I DENT 
+OFF ICE OF MANAGEMENT A ND B U DGET 
+WASHINGTON , D. C . 2050 3 
+September 14,2011 
+THE D I RECTOR 
+M-11-33 
+MEMORANDUM FOR HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES 
+FROM: 	 Jacob 1. Lew 
+Director 
+SUBJECT: 	 FY 2011 Reporting Instructions for the Federal Information Security Management 
+Act and Agency Privacy Management 
+The attached memorandum provides instructions for meeting your agency's FY 2011 
+repOliing requirements under the Federal Information Security Management Act of 2002 
+(FISMA) (Title III, Pub. L. No. 107-347) . It also includes repOliing instructions on your 
+agency ' s privacy management program. 
+The goa l for Federal information security in FY 2011 is to build a defensible Federa l 
+enterprise that enables agencies to harness technological innovation , while protecting agency 
+information and information systems. To maximize the timeliness and fidelity of security related 
+information, the collection of data should be a by-product of existing continuous monitoring 
+processes. 
+As discussed in OMB Memorandum 10-28, "Clarifying Cybersecurity Responsibilities 
+and Activities ofthe Executive Office ofthe President and the Department ofHomeland Security 
+(DHS), " DHS is exercising primary responsibility within the Executive Branch for the 
+operational aspects of Federal agency cybersecurity with respect to the Federal infOlmation 
+systems that fall within FISMA under 44 U.S .c. §3543. As stated in previous FISMA guidance, 
+agencies are required to adhere to Department of Homeland Security (DHS) direction to report 
+data through CyberScope. This shift from the once-a-year FISMA reporting process to a monthly 
+reporting of key metrics through CyberScope allows security practitioners to make decisions 
+using more information - delivered more quickly than ever before. 
+I ask for your help in overseeing your agency's implementation of the reporting guidance 
+outlined in the DHS memorandum. 
+Questions for OMB may be directed to Carol Bales at 202-395-9915 or 
+fisma @omb.eop.gov. 
+Attachment 
+
+[PDF page 2]
+i.( >111(' Li 11c1 
+,c'CUrll) 
+August 24, 2011 
+FISM 11-02 
+FEDERAL INFORMA nON SECURITY MEMORANDUM FOR THE HEADS OF 
+EXECUTIV~DEPARTMENTS AND AGENCIES 
+FROM: 	 ~berta Stempfley, Acting Assistant Secretary, Office of Cybersecurity and 
+Communications, Department of Homeland Security 
+SUBJECT: 	 FY 20 II Reporting Instructions for the Federal Infonnation Security Management Act 
+and Agency Privacy Management 
+This Federal Information Security Memorandum (FISM) 1 provides instructions for meeting your 
+agency 's FY 201 1 reporting requirements under the Federa l Information Security Management Act of 
+2002 (FISMA) (Title III, Pub . L. No . 107-347) . It also includes reporting instructions for your agency's 
+privacy management program . 
+The goa l for Federa l infonnation security in FY 20 II is to build a defensible Federal ente rprise that 
+enables agencies to harness technological innovation, while protecting agency infonnation and 
+information systems. To maximize the timeliness and fidelity of security-related information, the 
+co llection of data should be a by-product of existing continuous monitoring processes , not a bolt-on 
+activity that redirects valuable resources from important mission act ivities. As stated in previous FISMA 
+guidance, agencies are required to adhere to Department of Homeland Security (DHS) direction to report 
+data through CyberScope . This shift from the once-a-year FISMA reporting process to a monthly 
+reporting of key metrics through CyberScope allows security practitioners to make decisions using more 
+information - delivered more quickly than ever before . 
+Agency Reporting Activities 
+To comply with this guidance, agencies will carry out the following activities: 
+1. 	 Estab lish monthly data feeds to CyberScope ; 
+2. 	 Respond to security posture questions; and 
+3. 	 Participate in CyberStat accountability sessions and agency interviews 
+I. 	 Monthly Data Feeds 
+Effective next month, agencies must load data from their automated security management tools into 
+CyberScope on a monthly basis for a limit ed number of data elements. While full implementation of 
+automated security management tools across agencies will take time , agencies should report what they 
+can using outpu t from their automated security management tools. These reporting requirements will 
+mature over time as the efforts of the Chief Infonnation Officer (CIO) Council's Continuous 
+Monitoring Working Group (CMWG), in collaboration with the agencies , evolve and additional 
+metrics and capabi lities are developed . 
+1 The Department of Homeland Security issues Federal Information Security Memoranda to inform federal 
+departments and agencies of their responsibilities, required actions, and effective dates to achieve federal 
+information security policies. 
+
+[PDF page 3]
+FISM 11-02 
+DHS will provid e advance notic e to agencies as these metrics evo lve. The initial monthly reporting 
+metrics and schema for FY 20 I I will remain identical to the metrics and schema used for the auto ­
+feed portion of the FY 20 I 0 reporting cycle. Revisions of metrics will be publi shed in CyberScope 
+and on the CyberScope page within the Office of Management and Budget (OMB) MAX Portal prior 
+to the reporting period in order to allow sufficient time for adoption. As associated data feed schemas 
+are revised, they will be posted on the NIST Security Content Automation Protocol (SCAP) web page 
+as well as the CyberScope page within the OMB MAX Portal. 
+Frequently asked questions related to data feeds can be found on the CyberScope information page 
+within the OMB MAX Portal. The URL for the page is: hI1Rs:// l1l ax.o l1l b.gov /communit y/x/EqQrFQ 
+2. 	 Information Security Questions 
+In addition to providing the data feeds described above , agencies are also required to answer a set of 
+information security questions in CyberScope. These questions address areas of risk and are design ed 
+to assess the implementation of security capabi lities and measure their effectiveness. 
+3. 	 CyberStat Review Sess ions and Agency Interviews 
+Building on the TechStat model, DHS launched CyberStat accountabi lity sessions in Jan uary 20 II. 
+Thro ugh CyberStat , DHS cybersecurity experts engage with selected agencies to help them develop 
+focused actions plans for improving their information security posture . CyberStat is gro unded in 
+analysis that is based on data provided through CyberScope and other key data sources. The 
+development of clear and consistent metrics for CyberScope has improved the ability of agencies to 
+have more accountability for outcomes. As DHS works with agencies to improve data quality , the 
+insights provid ed through CyberStat and CyberScope will enable DHS to assist agencies in quickly 
+address ing problems that pos e risks . 
+DHS-Ied CyberStat sessions promote accountability and assist Federal civilian agencies in driving 
+progress with key strateg ic enterprise cybersecur ity capabilities. Specifically, CyberStat is designed 
+to: 
+• 	 Highlight capabi lity areas where agencies must place additional focus; 
+• 	 He lp agencies remove roadblocks to meeting requirement standards; and 
+• 	 Recog nize agencies in those areas where they are meeting requirement standards. 
+CyberStat sessions feature representatives from DHS, OMB , the National Security Staff (NSS) , and 
+agency teams working toge ther to carefully exam ine program data with a focus on problem so lving. 
+The outcome is a prioritized action plan for the agency to improve overall agency performance. 
+Information compiled from the review process will also give DHS , OMB, NSS and other relevant 
+stakeholders a holistic viewpoint of the cybersecurity posture of the Exec utive Branch of the Federal 
+Govemment, informing future po licy and oversight decisions. 
+A team of govemment security specialists will interview agencies not se lected for a formal CyberStat 
+review. These interview s will be focused on specific threats that eac h agency faces as a consequence 
+of its unique mission. 
+Effective Dates of Compliance 
+2 
+
+[PDF page 4]
+FISM 11-02 
+o 	 Monthly Data Feeds: Agencies are required to submit infonnation security data to CyberScope 
+by close of business on the fifth calendar day of each month . Small and micro agenc ies are not 
+required to submit monthly reports, although they are highly encouraged to do so. 
+o 	 Quarterly Reporting: Moving forward, agencies will be expected to submit metrics data for 2nd 
+and 3,d quarters. For 2nd quarter, agencies must submit their updates to Cyberscope between April 
+l SI and Apri115 lh • For 3,d quarter, agencies must submit their updates to CyberScope between 
+July 1'1 and July 151h . Agencies are not expected to submit metrics data for ISI or 4tll quarters, 
+other than what is required for the annual report. 
+o 	 Annual Reporting: The due date for annual FISMA reporting through CyberScope is November 
+15,2011. 
+Additional Requirements 
+o 	 CyberScope is the platfonn for the FISMA reporting process. Agencies should note that a 
+Personal Identity Verification card, compliant with Homeland Security Presidential Directive 12, 
+is required for access to CyberScope. No FISMA submissions will be accepted outside of 
+CyberScope. For infonnation related to CyberScope, please visit: 
+http://max.omb.gov/col11munit IxiEgOrFQ 
+'" 	 CIOs, Inspectors General, and Senior Agency Officials for Privacy will all report through 
+CyberScope. Micro agencies will also report using this automated collection tool. 
+o 	 Consistent with prior years ' guidance, the agency head should submit an electronic copy of an 
+official letter to CyberScope providing a comprehensive overview reflecting his or her assessment 
+of the adequacy and effectiveness of infonnation security policies, procedures, and practices, and 
+compliance with the requirements of FISMA for the agency. 
+o 	 Senior Agency Officials for Privacy are to submit the following documents through CyberScope: 
+o 	 Breach notification policy if it has changed significantly since last year's report; 
+o 	 Progress update on eliminating unnecessary use of Social Security Numbers; and 
+o 	 Progress update on the review and reduction of holdings of personally identifiable 
+information. 
+Please direct questions on FISMA to the Cybersecurity Perfonnance Management Office, Federal 
+Network Security Branch, DHS, at FISMA.F S(@dhs.gov or 703-235-5045. 
+For OMB policy related questions , please contact Carol Bales, 202-395-9915 or fisma(iilomb .cop.gO\ . 
+Attachment: FY 20 II Frequently Asked Questions on Reporting for FISMA 
+cc: Director, Office of Management and Budget 
+3 
+
+[PDF page 5]
+FY 2011 Frequently Asked Questions on Reporting for the 
+Federal Information Security Management Act and 
+Agency Privacy Management 
+Sending RepOlts to Congress and GAO ........... ......... .......................... .... .............................. ... .... 2 
+Submission Instructions and Templates ..... ............................................ .. ...... ......... ......... ... ... ... ... 2 
+Security Repolting .. .. .... ...................... .. ... .. .... ....... ... ... .. .. ...... .... .. ..... ............... ......... .. ....... ... ... ... ... 3 
+NIST Standards and Guide lines ....................... .......... .................................................... .............. 5 
+General ....... ........... .. ...... .... ... ..... ............. ..... ... ................... ........ ...... ..... ...... .... ...... .... ...... .. .... .... .. .. 5 
+Security Authori zation ...................................... ........................................ .............. ............... .... 1 0 
+Testing ........ ................................ ............................................ ......................................... ........... 11 
+Configuration Mana gement. ....................... ............................................. ................ .............. ..... 13 
+Plan of Action and Milestones (POA&M) .... .. .. ............. .. ... ...... .. ............................................... 14 
+Contractor Monitoring and Controls ................................. .. ........... .................... ............. .... ....... 14 
+Training .......................................................... ........... .. .............. ....... .................. ... .... ...... ...... ... .. 18 
+Privacy Reporting ...... ... .... ... ................... .......................................... .. ... .... ..... .................. .......... 19 
+Electroni c Authentication .................... ...................................................... .................. ........... .... 20 
+Homeland Securit y Presid ential Directive 12 (HSPD-12) .............. ........................ ................... 21 
+Definitions .... ........ .. .... .... .. ....... ..... ...... .... ............................ .. ... ... ....... ......... .... .. .................... ...... 23 
+1 
+
+
+[PDF page 6]
+Sending Reports to Congress and GAO 
+1. When should my agency send its annual report to Congress and the Government 
+Accountability Office (GAO)? 
+After review by and notification from OMB , agencies shall forward their transmittal letter with a 
+report generated by CyberScope to the appropriate Congressional Committees . Transmittal of 
+agency reports to Congress shall be made by, or be consistent with guidance from , the agenc y' s 
+Congressional or Legislative Affairs office to the following: Committees on Oversight and 
+Government Reform and Science and Technology of the House , the Committees on Government 
+Affairs and Commerce , Science , and Transportation of the Senate , and the Congressional 
+authorization and appropriations committees for each individual agency . In prior years , the 
+Committees have provided to OMB specific points of contact for receiving the reports. As in the 
+past, if such are provided to OMB , we will notify the agencies . In addition , agencies must 
+forward a copy of their printed reports to the GAO. 
+Submission Instructions and Templates 
+2. Which set of questions should my agency fill out in CyberScope? 
+All agencies , except for micro agencies , should complete the Chieflnformation Officer (CIO) , 
+Inspector General (lG) and Senior Agency Official for Privacy (SAOP) questions in CyberScope 
+for submission no later than November 15, 2011 . 
+Micro agencies (i.e. agencies employing 100 or fewer full time equivalents (FTEs)) should 
+answer the abbreviated questions for their annual report. Micro agencies will be automatically 
+presented with the correct questions within CyberScope. 
+Please note that only submissions through CyberScope will be accepted. 
+3. When should program officials, CIOs, IGs, and SAOPs share the results of their reviews? 
+While the goal of FISMA is stronger agency- and Government-wide security , information 
+regarding an agency 's information security program should be shared as it becomes available. 
+This helps promote timely correction of weaknesses in the agency ' s information systems and 
+resolution of issues . Waiting until the completion of a report or the year 's end does not promote 
+stronger information system security. 
+As in previous years , the Agency Head should submit a signed letter that provides a 
+comprehensive overview of the adequacy and effectiveness of information security policies , 
+procedures , and practices, and compliance with the requirements ofFISMA for the agency. 
+CyberScope will require that agencies upload a portable document format (PDF) of this letter 
+with the Agency Head ' s signature prior to accepting the agency ' s FY 2011 report submission. 
+4. Should agencies set an internal FISMA reporting cut-off date? 
+Yes. Agencies should set an internal cut-off date for data collection and repOli preparation. A cut­
+off date should permit adequate time for meaningful internal review and comment and resolution 
+of any disputes before finalizing the agency 's report. With respect to an IG ' s review of the CIO 's 
+or SAOP 's work product , such review does not in itself fulfill FISMA's requirement for IGs to 
+2 
+
+
+[PDF page 7]
+independently evaluate an agency's program including testing the effectiveness of a 
+representative subset of the agency 's information systems. 
+5. Why are there questions in CyberScope that do not correspond to a security control in 
+National Institute of Standards and Technology (NIST) Special Publication (SP) SOO-53 , 
+Recommended Security Controls ofFederal Information Systems and Organizations?? 
+Not all FISMA questions relate to security controls in NIST SP 800-53. OMB and the 
+Department of Homeland Security (DHS) are looking at the current maturity level of 
+Cybersecurity in the agencies , not just specific control implementations. The intention is for the 
+questions to evolve over the years as Cybersecurity matures . 
+6. Is the use of CyberScope mandatory? 
+Yes. Submissions will only be accepted through CyberScope. Full instructions for the use of the 
+tool as well as additional information , including a project schedule and detailed CyberScope 
+Frequently Asked Questions (F AQs), are available on the Max portal at: 
+https://max.omb.gov /community /x/EgOrFO. 
+Security Reporting 
+7. Must agencies report at both an agency wide level and by individual component? 
+Yes. Agencies must provide an overall agency view of their security and privacy program but 
+most of the topic areas also require specific responses for each of the major components (e.g. , 
+bureaus or operating divisions). Thus, the agencies ' and OMB 's reports can distinguish good 
+performing components from poor performers and more accurately reflect the overall agency 
+performance. 
+Please note that CyberScope will require reporting by component in several areas as well as at the 
+agency level. 
+S. Should all of my agency's information systems be included as part of our FISMA report? 
+Yes. Section 3544(a)(1)(A) ofFISMA states: "The head ofeach agency shall be responsible for 
+providing information security protections commensurate with the risk and magnitude ofthe 
+harm resulting from unauthorized access, use, disclosure, disruption, modification, or 
+destruction of(i) information collected or maintained by or on behalfofthe agency; and (ii) 
+information systems used or operated by an agency or by a contractor ofan agency or other 
+organization on behalfofan agency. " 
+Your agency's annual FISMA report therefore summarizes the performance of your agency 's 
+program to secure all of your agency's information and information systems, in any form or 
+format, whether automated or manual. NIST Special Publication 800-37, Guide for Applying the 
+Risk Management Framework ofInformation Systems, provides guidance on establishing 
+information system boundaries which can help you identify your systems. 
+3 
+
+
+[PDF page 8]
+9. Must the Department of Defense (DoD) and the Office of the Director of National 
+Intelligence (ODNI) follow OMB policy and NIST guidelines? 
+Yes, for non-national security systems DOD and ODNI are to incorporate OMB policy and NIST 
+guidelines into their internal policies. 
+For national security systems, the Joint Task Force Transformation Initiative (JTFTI) 
+Interagency Working Group with representatives from the Civil, Defense and Intelligence 
+Communities (IC) stalied an on-going effort in FY2009 to produce a unified information security 
+framework for the Federal Government. Under this effort, DoD and ODNI jointly issued with 
+NIST the following publications: 
+• 	 NIST SP 800-37, Revision 1, Guide for Applying the Risk Management Framework to 
+Federal Information Systems, February 2010. 
+• 	 NIST SP 800-38A, Recommendationfor Block Cipher Modes ofOperation, December 
+2001. 
+• 	 NIST SP 800-39, Managing Information Security Risk: Organization, Mission, and 
+Information System View, March 2011. 
+• 	 NIST SP 800-53, Revision 3, Recommended Security Controls for Federal Information 
+Systems and Organizations, August 2009. 
+Because these guidelines are jointly issued, DOD and ODNI policies for national security 
+systems should incorporate these guidelines. 
+10. What reporting is required for national security systems? 
+FISMA requires annual reviews and reporting of all systems, including national security systems. 
+Agencies can choose to provide responses to the questions in the template either in aggregate or 
+separate from their non-national security systems. 
+Agencies shall describe how they are implementing the requirements of FISMA for national 
+security systems. When management and internal control oversight of an agency's national 
+security programs and systems are handled differently than non-national security programs , a 
+description of and explanation for the differences is required. DoD and the ODNI shall report on 
+compliance with their policies and guidance . Note that SP 800-53 , Revision 3, was developed 
+jointly by NIST, DoD and the IC through the Joint Task Force Transformation Initiative 
+Interagency Working Group. 
+The CIO for the ODNI reports on systems processing or storing sensitive compartmentalized 
+information (SCI) across the Intelligence Community and those other systems for which the DNI 
+is the principal accrediting authority. Agel).cies shall follow the Intelligence Community reporting 
+guidance for these systems. SCI systems shall only be reported via the Intelligence Community 
+report. However , this separate reporting does not alter an agency head 's responsibility for 
+overseeing the security of all operations and assets of the agency or component. Therefore , copies 
+of separate reporting must also be provided to the agency head for their use. 
+4 
+
+
+[PDF page 9]
+To assist oversight by appropriate national security authorities , it is important to specify where 
+practicable which portion of the agency report pertains to national security systems. 
+NIST Standards and Guidelines 
+11. Is use of National Institute of Standards and Technology (NIST) publications required? 
+Yes. For non-national security programs and information systems, agencies must follow NIST 
+standards and guidelines unless otherwise stated by OMB. For legacy information systems , 
+agencies are expected to be in compliance with NIST standards and guidelines within one year of 
+the publication date unless otherwise directed by OMB. The one year compliance date for 
+revisions to NIST publications applies only to the new and/or updated material in the 
+publications. For information systems under development or for legacy systems undergoing 
+significant changes , agencies are expected to be in compliance with the NIST publications 
+immediately upon deployment ofthe information system. 
+12. Are NIST guidelines flexible? 
+Yes. While agencies are required to follow NIST standards and guidelines in accordance with 
+OMB policy , there is flexibility within NIST's guidelines (specifically in the 800-series) in how 
+agencies apply them. However , NIST Federal Information Processing Standards (FIPS) 
+publications are mandatory. Unless specified by additional implementing policy by OMB, NIST 
+guidelines generally allow agencies latitude in their application. Consequently, the application of 
+NIST guidelines by agencies can result in different security solutions that are equally acceptable 
+and compliant with the guidelines. 
+General 
+13. Are the security requirements outlined in the Federal Information Security 
+Management Act of 2002 (44 U.S.c. 3544) limited to information in electronic form? 
+No. Section 3541 ofFISMA provides the Act's security requirements apply to "information and 
+information systems" without distinguishing by form or format; therefore, the security 
+requirements outlined in FISMA apply to Federal information in all forms and formats (including 
+electronic , paper, audio , etc.). 
+14. Does OMB give equal weight to the assessments by the agency and the IG? What if the 
+two parties disagree? 
+OMB gives equal weight to both assessments . In asking different questions of each party , OMB 
+and DHS seek complementary and not conflicting reporting. While government-wide reporting 
+guidelines require a single report from each agency, the report should represent the consolidated 
+views of the agency and not separate views of various reviewers. 
+15. FISMA, OMB policy, and NIST standards and guidelines require agency security 
+programs to be risk-based. Who is responsible for deciding the acceptable level of risk (e.g., 
+the CIO, program officials and system owners, or the IG)? Are the IGs' independent 
+evaluations also to be risk-based? What if they disagree? 
+5 
+
+
+[PDF page 10]
+The agency head ultimately is responsible for deciding the acceptable level of risk for their 
+agency. System owners , program officials , and CIOs provide input for this decision . Such 
+decisions must reflect policies from OMB and standards and guidelines from NIST (particularly 
+FIPS publication 199, Standards for Security Categorization ofFederal Information and 
+Information Systems, and FIPS publication 200, Minimum Security Requirements for Federal 
+Information and Information Security, as well as SP 800-39, Managing Information Security 
+Risk). An information system ' s Authorizing Official takes responsibility for accepting any 
+residual risk, thus they are held accountable for managing the security for that system. 
+IG evaluations are intended to independently assess if the agency is applying a risk-based 
+approach to their information security programs and the information systems that support the 
+conduct of agency missions and business functions. For example , when reviewing the assessment 
+in support of an individual security authorization, the IG would generally assess whether: 1) the 
+assessment was performed in the manner prescribed in NIST guidelines and agency policy ; 2) 
+controls are being implemented as stated in any planning documentation; and 3) continuous 
+monitoring is adequate given the system impact level of the system and information. 
+16. Could you provide examples of high impact systems? 
+In some respects , the answer to this question is unique to each agency depending on their mission 
+requirements. At the same time, some examples are relatively obvious and common to all 
+agencies. As a rebuttable presumption , all cyber critical infrastructure and key resources 
+identified in an agency 's Homeland Security Policy Directive 7 (HSPD-7) , Critical Infrastructure 
+Identification, Prioritization, and Protection, plans are high impact, as are all systems identified 
+as necessary to support agency continuity of operations. 
+As discussed in OMB Memorandum 05-16, Regulation on Maintaining Telecommunications 
+Service During Crisis or Emergency in Federally-owned Buildings, issued June 2005, systems 
+necessary for continuity of operations purposes include, for example , telecommunications 
+systems identified in agency reviews implementing Section 414 the Transportation , Treasury , 
+Independent Agencies , and General Government Appropriations Act, 2005 (Division H of Public 
+Law 108-447.) 
+Additionally , information systems used by agencies to provide services to other agencies such as 
+under E-Government initiatives and lines of business, could also be high impact , but are at least 
+moderate impact. The decision as to information system impact level in this circumstance must 
+be agreed to by the provider and all of its customers. Please see NIST FIPS publication 199 and 
+NIST SP 800-60, Guide for Mapping Types ofInformation and Information Systems to Security 
+Categories, for further guidance. 
+17. If my IG says the agency's inventory of major information systems is less than 100% 
+complete, how do I reconcile the differing lists? 
+Agencies should be provided the list of systems the I G has identified as not being part of the 
+agency 's inventory. 
+6 
+
+
+[PDF page 11]
+18. When OMB asks if an agency has a process, are you also asking if the process is 
+implemented and is effective? 
+Yes. OMB wants to know whether processes are working effectively to safeguard information 
+and information systems. An ineffective process cannot be relied upon to achieve its information 
+security and privacy objectives. To gauge the effectiveness of a particular Information 
+Technology (IT) security program process , we rely on responses to questions asked of the agency 
+IG. 
+19. We often find security weaknesses requiring additional and significant resources to 
+correct such discoveries seldom coincide with the budget process. Can we delay correction 
+until the next budget cycle? 
+No. Agencies must plan for security needs as they develop new and operate existing systems and 
+as security weaknesses are identified. 
+OMB's policies regarding information security funding were articulated in OMB Memorandum 
+M-00-07, Incorporating and Funding Security in Information Systems Investments, dated 
+February 2000. They remain in effect, were repeated in OMB Memorandum M-06-19, R eporting 
+Incidents Involving Personally Identifiable Information and Incorporating the Cost for Security 
+in Agency Information Technology Investments, dated July 2006, and are included in OMB 's 
+budget preparation guidance , i.e. , Circular A-II , Preparation, Submission, and Execution ofthe 
+Budget. In brief, agencies must do two specific things . First, they must integrate security into and 
+fund it over the lifecycle of each system as it is developed. This requirement was codified in 
+section 3544(b )(2)(C) of FISMA. Second, the operations of legacy (steady-state) systems must 
+meet security requirements (as stated in OMB policy, NIST standards, etc.) before funds are 
+spent on new systems (development, modernization or enhancement). 
+As an example of this policy in practice , if an agency has a legacy system without a current 
+security authorization, or for which a contingency plan has not been tested , these actions must be 
+completed before spending funds on a new system. A simple way to accomplish this is to redirect 
+the costs of security authorization or contingency plan testing from the funds intended for 
+development , modernization or enhancement. 
+OMB recognizes that other unanticipated security needs may arise from time-to-time. In such 
+cases, agencies should prioritize available resources to correct the most significant weaknesses. 
+20. You are no longer asking agencies to report significant deficiencies in the annual 
+FISMA report. Don't we have to report them? 
+Not in your annual FISMA report. However , agencies must maintain all documentation 
+supporting a finding of a significant deficiency and make it available in a timely manner upon 
+request by OMB or other oversight authorities. 
+FISMA requires agencies to report a significant deficiency as: 1) a material weakness under the 
+Federal Managers Financial Integrity Act (FMFIA) and 2) an instance of a lack of substantial 
+compliance under FFMIA , if related to financial management systems. (See OMB Circular A­
+123, Management 's Responsibility for Internal Control, for further information on reporting 
+7 
+
+
+[PDF page 12]
+significant deficiencies.) All security weaknesses must be included in and tracked on your plan of 
+action and milestones (POA&M.). 
+A significant deficiency is defined as a weakness in an agency 's overall information systems 
+security program or management control structure , or within one or more information systems 
+that significantly restricts the capability of the agency to carry out its mission or compromises the 
+security of its information , information systems , personnel, or other resources , operations , or 
+assets. In this context , the risk is great enough that the agency head and other agencies must be 
+notified and immediate or near-immediate corrective action must be taken. 
+21. Should I apply FISMA and privacy requirements to my agency's regulatory and 
+information collection activities? 
+Yes. Federal regulatory and information collection activities depend upon quality 
+information protected from unauthorized access, use, disclosure, disruption , modification , or 
+destruction. 
+Federal regulatory and information collection activities often require Federal agencies , and 
+entities (e.g., contractors , private companies , non-profit organizations) which operate on behalf of 
+Federal agencies , to collect , create, process , or maintain Federal government information. When 
+developing regulations , agencies must ensure information security and privacy law and policy are 
+applied where appropriate. Your agency's information collection activities (subject to the 
+Paperwork Reduction Act and OMB's rule providing implementing guidance found at 5 CFR 
+1320, Controlling Paperwork Burdens on the Public), including those activities conducted or 
+sponsored by other entities on behalf of your agency, must also ensure procedures for adequately 
+securing and safeguarding Federal information are consistent with existing law and policy. 
+If your agency promulgates regulations requiring entities which operate on behalf of your agency 
+to collect, create, process, or maintain Federal information , then procedures established by the 
+regulation for adequately securing and safeguarding this information must be consistent with 
+existing law and policy (e.g. FISMA, the Privacy Act, the E-Government Act, OMB security and 
+privacy policy , and NIST standards and guidelines), regardless of whether the information is 
+being held at the agency or with the entity collecting , processing, or maintaining the information 
+on behalf of the agency . 
+22. Are agencies allowed to utilize data services provided by the private sector, including 
+"software as a service," "platform as a service," "infrastructure as a service" and software 
+subscription type solutions? 
+Yes. Agencies are permitted to use these types of agreements and arrangements , provided 
+appropriate security controls are implemented , tested , and reviewed as part of your agency ' s 
+information security program. We encourage agencies to seek out and leverage private sector, 
+market-driven solutions resulting in cost savings and performance improvements - provided 
+agency information is protected to the degree required by FISMA , FISMA implementation 
+standards, and associated policy and guidance. As with other contractor services and 
+relationships, agencies should include these software solutions and subscriptions as they 
+complete their annual security reviews. 
+8 
+
+
+[PDF page 13]
+23. How do agencies ensure FISMA compliance for connections to non-agency systems? Do 
+Statement of Auditing Standards No. 70 (SAS 70) audits meet the requirements of FISMA 
+and implementing policies and guidance? 
+NIST Special Publication 800-47 , Security Guide for Interconnecting Information Technology 
+Systems, provides a management approach for interconnecting IT systems , with an emphasis on 
+security. The document recommends development of an Interconnection Security Agreement 
+(ISA) and a Memorandum of Understanding (MOU). The ISA specifies the technical and security 
+requirements of the interconnection , and the MOU defines the responsibilities of the participating 
+organizations. The security guide recommends regular communications between the 
+organizations throughout the life cycle of the interconnection . One or both organizations shall 
+review the security controls for the interconnection at least annually or whenever a significant 
+change occurs to ensure the controls are operating properly and are providing appropriate levels 
+of protection . 
+Security reviews may be conducted by designated audit authorities of one or both organizations , 
+or by an independent third party . Both organizations shall agree on the rigor and frequency of 
+reviews as well as a reporting process. 
+SAS 70 audits compliance does not necessarily ensure FISMA compliance . The private sector 
+relies on SAS 70, to ensure compliance with Section 404 of the Sarbanes -Oxley Act of 2002, 
+requiring management assessment of internal controls. While SAS 70 reports may be sufficient to 
+determine contractor compliance with OMB Circular A-123 and financial statement audit 
+requirements , it is not a pre-determined set of control objectives or control activities , and 
+therefore is not in itself sufficient to meet FISMA requirements. In addition , the extent to which 
+specific systems supporting the Government activity or contract are actually reviewed as part of a 
+particular audit is not always clear. In determining whether SAS 70 reports provide sufficient 
+evidence of contractor system FISMA compliance , it is the agency ' s responsibility to ensure that: 
+• The scope of the SAS 70 audit was sufficient and fully addressed the specific contractor 
+system requiring FISMA review. 
+• The audit encompassed all controls and requirements of law, OMB policy and NIST 
+standards and guidelines. 
+To reduce burden on agencies and service providers and increase efficiency , agencies and IGs 
+should share with their counterpatis at other agencies any assessment described above. 
+24. Are there security requirements specific for mobile devices (e.g. smartphones and 
+tablets)? 
+All existing Federal requirements for data protection and remote access are applicabl e to mobile 
+devices. For example , the security requirements in OMB Circular A-130 , NIST FIPS 140-2, 
+Security Requirementsfor Cryptographic Modules, NIST FIPS 199, Standardsfor Security 
+Categorization ofFederal Information and Information Systems, and NIST FIPS 200, Minimum 
+Security ReqUirements for Federal Information and Information Systems, apply (including 
+appropriate security controls specified in NIST Special Publication 800-53). Agencies should 
+specify security requirements during the acquisition process and ensure that procurements 
+capture the requirements of the Federal Acquisition Regulation (e.g. 52.225-5, Trade 
+9 
+
+
+[PDF page 14]
+Agreements), OMB policy (e.g. M-06-16 and M-07-16), and NIST standards and guidelines . 
+Additional guidance regarding the use and management of mobile devices will be developed as 
+appropriate. 
+Security Authorization 
+25. Why place such an emphasis on the security authorization of agency information 
+systems? 
+The security authorization process provides a systematic approach for assessing security controls 
+to determine their overall effectiveness. That is, the extent to which operational , technical , and 
+management security controls are implemented correctly, operating as intended , and producing 
+the desired outcome with respect to meeting the security requirements for the system. 
+Understanding the overall effectiveness of the security controls implemented in the information 
+system is essential in determining the risk to the organization's operations and assets, to 
+individuals , to other organizations, and to the Nation resulting from the use of the system. 
+Agencies are reminded that the security authorization process is more than just planning . The 
+continuous monitoring phase (discussed in NIST SP 800-37, Revision 1, and NIST SP 800-53, 
+Revision 3) must include an appropriate set of management, operational, and technical controls 
+including controls over physical access to systems and information. Agency officials and IGs 
+should be advised of the results of this monitoring as appropriate. OMB asks CIOs to present a 
+quantitative assessment and the IGs a qualitative assessment of the security authorization process. 
+26. Is a security authorization required for all information systems? OMB Circular A-130 
+requires a security authorization to process only for general support systems and major 
+applications. 
+Yes. Security authorizations are required for all Federal information systems. Section 3 544(b )(3) 
+of FISMA refers to "subordinate plans for providing adequate information security for networks, 
+facilities, and systems or groups ofinformation systems" and does not distinguish between major 
+or other applications. Smaller "systems" and "applications " may be included as part of the 
+assessment of a larger system-as allowable in NIST guidelines and provided an appropriate risk 
+assessment is completed and security controls are implemented. 
+27. Does OMB recognize interim authority to operate for security authorizations? 
+No. The security authorization process has been required for many years, and it is important to 
+measure the implementation of this process to improve consistency and quality Government­
+wide. Introducing additional inconsistency to the Government ' s security program would be 
+counter to FISMA ' s goals. 
+28. Is a security reauthorization still required every 3 years or when an information system 
+has undergone significant change as stated in OMB Circular A-130? 
+No. Rather than enforcing a static, three-year reauthorization process , agencies are expected to 
+conduct ongoing authorizations of information systems through the implementation of continuous 
+monitoring programs . Continuous monitoring programs thus fulfill the three year security 
+reauthorization requirement , so a separate re-authorization process is not necessary. In an effort 
+to implement a more dynamic, risk-based security authorization process , agencies should follow 
+10 
+
+
+[PDF page 15]
+the guidance in NIST Special Publication 800-37 , Revision 1. Agencies should develop and 
+implement continuous monitoring strategies for all information systems. Agency officials should 
+monitor the security state of their information systems on an ongoing basis with a frequency 
+sufficient to make ongoing risk-based decisions on whether to continue to operate the systems 
+within their organizations. Continuous monitoring programs and strategies should address: (i) the 
+effectiveness of deployed security controls; (ii) changes to information systems and the 
+environments in which those systems operate ; and (iii) compliance to federal legislation , 
+directives , policies , standards , and guidance with regard to information security and risk 
+management. Agencies will be required to report the security state of their information systems 
+and results of their ongoing authorizations through CyberScope in accordance with the data feeds 
+defined by DHS. 
+Testing 
+29. Must all agency information systems be tested and evaluated annually? 
+Yes, all information systems used or operated by an agency or by a contractor of an agency or 
+other organization on behalf of an agency must be tested at least annually. FISMA (Section 
+3544(b)(5» requires each agency to perform for all systems "periodic testing and evaluation of 
+the effectiveness ofinformation security policies, procedures, and practices, to be performed with 
+a frequency depending on risk, but no less than annually. " This review shall include the testing of 
+management , operational , and technical controls. 
+30. How can agencies meet the annual testing and evaluation (review) requirement? 
+To satisfy the annual FISMA assessment requirement, organizations can draw upon the security 
+control assessment results from any ofthe following sources , including but not limited to : 
+• 	 Security assessments conducted as part of an information system security 
+authorization or re-authorization process; 
+• 	 Continuous monitoring activities ; or 
+• 	 Testing and evaluation of the information system as part of the ongoing system 
+development life cycle process (provided that the testing and evaluation results are 
+current and relevant to the determination of security control effectiveness). 
+Existing security assessment results can be reused to the extent that they are still valid and are 
+supplemented with additional assessments as needed. Reuse of assessment information is critical 
+in achieving a broad-based , cost-effective , and fully integrated security program capable of 
+producing the needed evidence to determine the actual security status of the information system . 
+FISMA does not require an annual assessment of all security controls employed in an 
+organizational information system. In accordance with OMB policy , organizations must 
+determine the necessary depth and breadth of an annual review and assess a subset of the security 
+controls based on several factors , including : (i) the NIST FIPS publication 199 securit y 
+categorization of the information system; (ii) the specific security controls selected and employed 
+by the organization to protect the information system ; (iii) the relative comprehensiveness of the 
+most recent past review , (iv) the adequacy and successful implementation of the plan of action 
+and milestone (POA&M) for weaknesses in the system , (v) advice from IGs or United States 
+11 
+
+
+[PDF page 16]
+Computer Emergency Readiness Team (US-CERT) on threats and vulnerabilities at your agency , 
+and (vi) the level of assurance (or confidence) that the organization must have in determining the 
+effectiveness of the security controls in the information system, among others. 
+Agencies are expected to conduct ongoing authorizations of information systems through the 
+implementation of continuous monitoring programs in accordance with NIST SP 800-37, Guide 
+for Applying the Risk Management Framework to Federal Information Systems. Agencies can 
+use the current year 's assessment results to meet the annual FISMA assessment requirement. 
+31. What NIST guidelines must agencies use for their annual testing and evaluations? 
+Agencies are required to use NIST FIPS publication 200INIST SP 800-53 , Revision 3, for the 
+specification of security controls and NIST SP 800-37, Revision 1, and NIST SP 800-53A, 
+Revision 1, for the assessment of security control effectiveness. 
+While NIST guidelines do not apply to national security systems , DoD and ODNI participated in 
+the Joint Task Force Transformation Initiative Working Group to produce a unified information 
+security framework that DoD and ODNI are implementing. 
+32. Why should agencies conduct continuous monitoring of their security controls? 
+Continuous monitoring of security controls is a cost-effective and important part of managing 
+enterprise risk and maintaining an accurate understanding of the security risks confronting your 
+agency's information systems. Continuous monitoring of security controls is required as part of 
+the security authorization process to ensure that controls remain effective over time (e.g., after 
+the initial security authorization or reauthorization of an information system) in the face of 
+changing threats , missions, environments of operation, and technologies. 
+Agencies should develop an enterprise-wide strategy for monitoring security controls on an 
+ongoing basis. A robust and effective continuous monitoring program will ensure important 
+procedures included in an agency ' s security authorization package (e.g., as described in system 
+security plans, security assessment reports , and POA&Ms) are updated as appropriate and contain 
+the necessary information for authorizing officials to make credible risk-based decisions 
+regarding the security state of the information system on an ongoing basis. This will help make 
+the security authorization process more dynamic and responsive to today ' s federal missions and 
+rapidly changing conditions. NIST SPs 800-37 (Revision 1), NIST SP 800-53 (Revision 3), and 
+NIST SP 800-53A (Revision 1), provide guidance on continuous monitoring programs . 
+33. Do agencies need to test and evaluate (review) security controls on low impact 
+information systems? 
+Yes. While the depth and breadth of security controls testing and evaluation (review) will vary 
+based on information system risk and system impact level, agencies are required to do annual 
+testing and evaluation (review) of all systems. NIST SP 800-37 (Revision 1) and NIST SP 800­
+53A (Revision 1) provide guidance on assessment of security controls in low-impact information 
+systems. 
+12 
+
+
+[PDF page 17]
+Configuration Management 
+34. What are minimally acceptable system configuration requirements? 
+FISMA (Section 3544(b )(2)(D)(iii)) requires each agency to develop minimally acceptable 
+system configuration requirements and ensure compliance with them. Common security 
+configurations provide a baseline level of security , reduce risk from security threats and 
+vulnerabilities , and save time and resources. This allows agencies to improve system 
+performance , decrease operating costs , and ensure public confidence in the confidentiality , 
+integrity , and availability of Government information. 
+In FY 2007, OMB issued policy for agencies to adopt security configurations for Windows XP 
+and VISTA , as well as policy for ensuring new acquisitions include common security 
+configurations. For more information , see OMB Memorandum M-07-11, Implementation of 
+Commonly Accepted Security Configurations for Windows Operating Systems, at: 
+http://www.whitehouse.gov /omb /memoranda /fy2007/m07-11.pdf, and OMB Memorandum M­
+07-18, Ensuring New Acquisitions Include Common Security Configurations, at: 
+http://www.whitehouse.gov /omb /memoranda / fy2007/m07-18.pdf, respectively. 
+The acquisition language in OMB Memorandum 07-18 was published in the Federal Register , 
+FAR Case 2007-004, Common Security Configurations. For all contracts , the following language 
+from Division A, Section 101 (h), Title VI, Section 622 of the Omnibus Appropriations and 
+Authorization Act (P.L. 105-277) , Part 39 - Acquisition ofInformation Technology , Section 39. 
+101 Policy, should be included to encompass Federal Desktop Core Configurations (FDCC): 
+"(d) In acquiring information technology, agencies shall include the appropriate 
+information technology security policies and requirements, including use ofcommon 
+security configurations available from the National Institute ofStandards and 
+Technology 's website at http://checklists.nist.gov. Agency contracting officers should 
+consult with the requiring official to ensure the appropriate standards are incorporated. " 
+In FY 2010, the CIO Council announced the creation of the United States Government 
+Configuration Baselines (USGCB) which is maintained by the CIO Council's Technology 
+Infrastructure Subcommittee. Baselines developed by the USGCB should be applied to Federal 
+systems. See http://usgcb.nist.gov/ for information. 
+35. Why must agencies explain their performance metrics in terms of NIST FIPS 
+publication 199 categories? . 
+FISMA directed NIST to develop a standard to categorize all information and information 
+systems based upon the need to provide appropriate levels of information security according to a 
+range of risk levels . FIPS publication 199 defines three levels of potential impact on 
+organizations or individuals in the case of a breach of security (i.e., a loss of confidentiality , 
+integrity , or availability). These impact levels are: low, moderate and high. Agencies must 
+categorize their information and information systems using one of these three categories in order 
+to comply with the minimum security requirements described in FIPS publication 200 and to 
+determine which security controls in NIST SP 800-53 , Revision 3, are required. While NIST 
+guidelines do not apply to national security systems , DoD and ODNI participated in the Joint 
+13 
+
+
+[PDF page 18]
+Task Force Transformation Initiative Interagency Working Group to produce a unified 
+information security framework that DoD and ODNI are implementing. 
+Plan of Action and Milestones (POA&M) 
+36. What is required of agency POA&Ms? 
+As outlined in previous guidance (OMB Memorandum 04-25 , FY 2004 Reporting Instructions 
+for the Federal Information Security Management Act) Agency POA&Ms must: 
+1) Be tied to the agency's budget submission through the Unique Project Identifier10fa 
+system. This links the security costs for a system to the security performance of a system. 
+2) Include all security weaknesses found during any other review done by, for, or on behalf 
+of the agency, including GAO audits, financial system audits, and critical infrastructure 
+vulnerability assessments. These plans should be the authoritative agency-wide management 
+tool, inclusive of all evaluations. 
+3) Be shared with the agency IG to ensure independent verification and validation of 
+identified weaknesses and completed corrective actions. 
+4) Be submitted to OMB upon request. 
+While agencies are no longer required to follow the exact format prescribed in the POA&M 
+examples in OMB Memorandum 04-25, they must still include all ofthe associated data elements 
+in their POA&Ms. To facilitate compliance with POA&M reporting requirements, agencies may 
+choose to utilize the FISMA reporting services of a Shared Service Center as patt of the 
+Information Systems Security Line of Business. Please note that these FISMA reporting services 
+are not mandatory. 
+37. Can a POA&M process be effective even when correcting identified weaknesses is 
+untimely? 
+Yes. The purpose of a POA&M is to identify and track security weaknesses in one location. A 
+POA&M permits agency officials and oversight authorities to identify when documented 
+corrective actions are both timely and untimely. In either circumstance, the POA&M has served 
+its intended purpose. Agency managers can use the POA&M process to focus resources to 
+resolve delays. 
+Contractor Monitoring and Controls 
+38. Must Government contractors abide by FISMA requirements? 
+Yes. Each agency must ensure their contractors are abiding by FISMA requirements. Section 
+3544(a)(1)(A)(ii) describes Federal agency security responsibilities as including "information 
+systems used or operated by an agency or by a contractor of an agency or other organization on 
+behalf of an agency." Section 3544(b) requires each agency to provide information security for 
+1 Beginning with Budget Year (BY) 2013 submissions, the "Unique Project Identifier" (UPI) has been renamed to 
+"Unique Investment Identifier" (UII). For additional information, refer to the Circular A-II guidance for BY 2013 . 
+14 
+
+[PDF page 19]
+the information and "information systems that SUppOlt the operations and assets of the agency , 
+including those provided or managed by another agency, contractor, or other source." This 
+includes services which are either fully or partially provided , including agency hosted , 
+outsourced , and software-as-a-service (SaaS) type solutions. 
+Because FISMA applies to both information and information systems used by the agency, 
+contractors, and other organizations and sources, it has somewhat broader applicability than prior 
+security law. That is , agency information security programs apply to all organizations (sources) 
+which possess or use Federal information - or which operate , use, or have access to Federal 
+information systems (whether automated or manual) - on behalf of a Federal agency. Other 
+organizations may include contractors, grantees, State and Local Governments , industry partners , 
+providers of software subscription services, etc. FISMA, therefore , underscores longstanding 
+OMB policy concerning sharing Government information and interconnecting systems. 
+Therefore, Federal security requirements continue to apply and the agency is responsible for 
+ensuring appropriate security controls (see OMB Circular A-130, Appendix III). Agencies must 
+develop policies for information security oversight of contractors and other users with privileg ed 
+access to Federal data. Agencies must also review the security of other users with privileged 
+access to Federal data and systems. 
+Finally, because FISMA applies to Federal information and information systems, in certain 
+limited circumstances its requirements also apply to a specific class of information technology 
+that the Clinger-Cohen Act of 1996 (40 U.S.C. § 1401(3» did not include , i.e., "equipment that is 
+acquired by a Federal contractor incidental to a Federal contract. " Therefore , when Federal 
+information is used within incidentally acquired equipment, the agency continues to be 
+responsible and accountable for ensuring FISMA requirements are met. 
+39. Could you provide examples of "incidental" contractor equipment which is not subject 
+to FISMA? 
+In considering the answer to this question, it is essential to remember FISMA requires agencies to 
+provide security protections" ...commensurate with the risk and magnitude of harm resulting from 
+unauthorized access , use, disclosure , disruption, modification , or destruction of information 
+collected or maintained by or on behalf of the agency; and information systems used or operated 
+by an agency or other organization on behalf of an agency." This includes services which are 
+either fully or partially provided by another source, including agency hosted , outsourced, and 
+SaaS type solutions. 
+A corporate human resource or financial management system acquired solely to assist managin g 
+corporate resources assigned to a government contract could be incidental provided the system 
+does not use agency information or interconnect with an agency system. 
+40. Could you provide examples of agency security responsibilities concerning contractors 
+and other sources? 
+FISMA requires agencies to provide security protections" ...commensurate with the risk and 
+magnitude of harm resulting from unauthorized access, use, disclosure , disruption , modification , 
+or destruction of information collected or maintained by or on behalf of the agency; and 
+15 
+
+
+[PDF page 20]
+information systems used or operated by an agency or other organization on behalf of an 
+agency." This includes full or partial operations. 
+While we cannot anticipate all possible combinations and permutations , there are five primary 
+categories of contractors as they relate to securing systems and information : 1) service providers; 
+2) contractor support ; 3) Government Owned, Contractor Operated facilities (GOCO) ; 4) 
+laboratories and research centers; and 5) management and operating contracts. 
+1) Service providers -- this encompasses typical outsourcing of system or network 
+operations , telecommunications services , or other managed services (including those 
+provided by another agency and subscribing to software services). 
+Agencies are fully responsible and accountable for ensuring all FISMA and related policy 
+requirements are implemented and reviewed and such must be included in the terms of the 
+contract. Agencies must ensure identical , not "equivalent ," security procedures. For example, 
+annual reviews , risk assessments , security plans, control testing , contingency planning, and 
+security authorization must , at a minimum , explicitly meet NIST guidelines . Additionally , 
+IGs shall include some contractor systems in their "representative subset of agency systems," 
+and not doing so presents an incomplete independent evaluation. 
+Agencies and IGs should , to the maximum extent practicable , consult with other agencies 
+using the same service provider , share security review results , and avoid the unnecessary 
+burden on the service provider and the agencies resulting from duplicative reviews and re­
+reviews . Additionally , provided they meet FISMA and policy requirements, agencies and IGs 
+should accept all or part of the results of industry-specific security reviews performed by an 
+independent auditor on the commercial service provider. 
+In the case of agency service providers , they must work with their customer agencies to 
+develop suitable arrangements for meeting all of FISMA ' s requirements , including any 
+special requirements for one or more particular customer agencies . Any arrangements should 
+also provide for an annual evaluation by the IG of one agency. Thereafter , the results of that 
+IG evaluation would be shared with all customer agencies and their respective IGs. 
+2) Contractor support -- this encompasses on- or off-site contractor technical or other suppOli 
+staff. 
+Agencies are fully responsible and accountable for ensuring all FISMA and related policy 
+requirements are implemented and reviewed and such must be included in the terms of the 
+contract. Agencies must ensure identical , not "equivalent ," security procedures. Specifically , 
+the agency is responsible for ensuring the contractor personnel receive appropriate training 
+(i.e. , user awareness training and training on agency policy and procedures). 
+3) Government Owned , Contractor Operated (GO CO) -- For the purposes ofFISMA , GOCO 
+facilities are agency components and their security requirements are identical to those of the 
+managing Federal agency in all respects. Security requirements must be included in the terms 
+of the contract. 
+16 
+
+[PDF page 21]
+4) Laboratories and research facilities -- For the purposes of FISMA , laboratories and 
+research facilities are agency components and their security requirements are identical to 
+those of the managing Federal agency in all respects . Security requirements must be included 
+in the terms of the contract or other similar agreement. 
+5) Management and Operating Contracts - For the purposes of FISMA , management and 
+operating contracts include contracts for the operation , maintenance, or support of a 
+government-owned or -controlled research, development , special production , or testing 
+establishment. 
+41. Should agencies include FISMA requirements in grants and contracts? 
+Yes. As with the Government Information Security Reform Act of 2000, agency contracts 
+including but not limited to those for IT services must reflect FISMA requirements. 
+The Federal Acquisition Regulation , Part 7, Acquisition Planning, Subpart 7.1 , Acquisition Plans, 
+requires heads of agencies to ensure agency planners on information technology acquisitions 
+comply with the information technology security requirements in the Federal Information 
+Security Management Act, OMB ' s implementing policies including Appendix III ofOMB 
+Circular A-130, and NIST standards and guidelines . 
+When applicable , agencies must also include FISMA ' s security requirements in the terms and 
+conditions of grants . 
+42. How deeply into contractor, state, or grantee systems must a FISMA review reach? To 
+the application, to the interface between the application and their network, or into the 
+corporate network/infrastructure? 
+This question has a two-part answer. First, FISMA 's requirements follow agency information 
+into any system which uses it or processes it on behalf of the agency. Second, with respect to 
+system interconnections, as a general rule, OMB assumes agency responsibility and 
+accountability extends to the interface between government systems (or contractor systems 
+performing functions on behalf of the agency) and corporate systems and networks. For example , 
+a corporate network , human resource , or financial management system would not be covered by 
+FISMA requirements , provided the agency has confirmed appropriate security of the interface 
+between them and any system using government information or those operating on behalf of the 
+agency. See also the discussions concerning interconnection agreements and security 
+authorization boundaries. 
+43. Are all information systems operated by a contractor on behalf of an agency subject to 
+the same type of security authorization process? 
+Yes. They must be addressed in the same way. As with agency-operated systems, the level of 
+effort required for security authorization depends on the impact level of the information 
+contained on each system. Security authorization of a system with an impact level of low will be 
+less rigorous and costly than a system with a higher impact level. More information on system 
+17 
+
+
+[PDF page 22]
+security categorization is available in NIST FIPS publication 199 and NIST Special Publication 
+(SP) 800-60, Guide for Mapping Types ofInformation and Information Systems to Security 
+Categories. 
+FISMA is unambiguous regarding the extent to which security authorizations and annual IT 
+security assessments apply. To the extent that contractor, state, or grantee systems process , store, 
+or house Federal Government information (for which the agency continues to be responsible for 
+maintaining control), their security controls must be assessed against the same NIST criteria and 
+standards as if they were a government-owned or -operated system. The security authorization 
+boundary for these systems must be carefully mapped to ensure that Federal information: (a) is 
+adequately protected, (b) is segregated from the contractor, state or grantee corporate 
+infrastructure , and ( c) there is an interconnection security agreement in place to address 
+connections from the contractor, state or grantee system containing the agency information to 
+systems external to the security authorization boundary . 
+44. Who is responsible for the POA&M process for contractor systems owned by the 
+contractor? 
+The agency is responsible for ensuring the contractor corrects weaknesses discovered through 
+self-assessments and independent assessments. Any weaknesses are to be reflected in the 
+agency's POA&M . 
+Training 
+45. Do employees who never access electronic information systems need annual security and 
+privacy awareness training? 
+Yes. FISMA and OMB policy require all employees to receive annual security and privacy 
+awareness training , and they must be included as part of your agency's training totals. When 
+administering your security and privacy awareness training programs , it is important to 
+remember: (i) all employees collect, process , access and/or maintain government information , in 
+some form or format , to successfully perform their duties and support the agency's mission ; and 
+(ii) information is processed in various forms and formats, including paper and electronic, and 
+information systems are defined as a discrete set of information resources organized for the 
+collection, processing , maintenance , transmission , and dissemination of information , in 
+accordance with defined procedures , whether automated or manual. 
+OMB Memorandum 07-16, Safeguarding Against and Responding to the Breach ofP ersonally 
+Identifiable Information, requires that agencies must initially train employees (including 
+managers) on their privacy and security responsibilities before permitting access to agency 
+information and information systems. Thereafter , agencies must provide at least annual refresher 
+training to ensure employees continue to understand their responsibilities. Additional or 
+advanced training should also be provided commensurate with increased responsibilities or 
+change in duties. 
+Both initial and refresher training must include acceptable rules of behavior and the 
+consequences when the rules are not followed. For agencies implementing telework and other 
+authorized remote access programs , training must also include the rules of such programs. 
+18 
+
+
+[PDF page 23]
+46.0MB asks agencies whether they have provided information security training and 
+awareness to all employees, including contractors. Is it the agency's responsibility to ensure 
+contractors have security training if they are hired to perform IT security functions? 
+Wouldn't they already be trained by their companies to perform this work? 
+Per FISMA , each agency shall develop, document and implement an agency-wide information 
+security program that includes security awareness training to inform personnel, including 
+contractors and other users of information systems that support the operations and assets of the 
+agency, of: (a) information security risks associated with their activities; and (b) their 
+responsibilities in complying with agency policies and procedures designed to reduce these risks. 
+Agencies should include in its contracts the requirements for level of skill and experience; 
+however, contractors must be trained on agency-specific security policies and procedures, 
+including rules of behavior. 
+47. What resources are available to assist agencies in providing annual information security 
+and privacy training to their employees? 
+The DHS Information System Security Line of Business (ISSLOB) has been working with 
+agencies to develop a standardized curriculum, and, to select information security Shared Service 
+Centers (SSC). The ISSLOB SSC's provide an efficient and cost-effective solution for agencies 
+to procure general information security training for emp loyees and contractors. For more 
+information on this program, contact the ISSLOB program management office at 
+isslob@ dhs.gov. 
+Privacy Reporting 
+48. Which agency official should complete the privacy questions in this FISMA report? 
+These questions shall be completed or supervised by the Senior Agency Official for Privacy 
+(SAOP). Since privacy management may fall into areas of responsibility likely held by several 
+program officials, e.g., the CIO , the Privacy Act Officer, etc., the SAOP shall consult with these 
+officials when responding to these questions, and to those who contributed andlor reviewed the 
+responses to the questions. 
+49. Must agencies publish a SORN for all systems? 
+No. As required by the Privacy Act (5 U.S.c. § 552a), agencies must publish a SORN for 
+systems with records about individuals maintained in a system of records covered by the Privacy 
+Act. 
+50. Are agencies required to conduct a privacy impact assessment (PIA) for IT systems that 
+contain or administer information in identifiable form strictly about Federal employees 
+(including contractors)? 
+The legal and policy requirements addressing Federal agency computer security apply equally to 
+Federal IT systems containing identifiable information about members of the public and to 
+systems containing identifiable information solely about agency employees (or contractors). That 
+is, as a practical matter, all systems containing information in identifiable form fall subject to the 
+same technical, administrative and operational security controls. Although neither Section 208 of 
+the E-Government Act, nor OMB's implementing guidance mandate agencies conduct PIAs on 
+19 
+
+
+[PDF page 24]
+electronic systems containing information about Federal employees (including contractors) , 
+OMB encourages agencies to scrutinize their internal business processes and the handling of 
+identifiable information about employees to the same extent they scrutinize processes and 
+information handling procedures involving information collected from or about members of the 
+public (OMB Memorandum 03-22 , Section II.B.3.a.). 
+51. Ifan agency chooses to conduct a PIA on systems which only contain information about 
+Federal employees (including contractors), should these be included in the total number of 
+systems reported? 
+No. Agencies should count only those systems which require a PIA under the E-Government Act. 
+OMB recognizes some agencies choose to conduct a PIA on systems containing information 
+about Federal employees (including contractors), or conduct a "threshold analysis " to determine 
+whether a formal PIA is required for the system. While OMB applauds this level of dedication to 
+privacy awareness and encourages agencies to continue pursuing these effolis , including these 
+additional assessments inhibits meaningful evaluation of agency compliance with Section 208 of 
+the E-Government Act of 2002. 
+Electronic Authentication 
+52. What is Electronic Authentication (e-authentication)? 
+In December 2003 , OMB issued Memorandum M-04-04 , E-Authentication Guidance for Federal 
+Agencies, which requires agencies to review new and existing electronic transactions to ensure 
+the authentication processes provide the appropriate level of assurance. It establishes and 
+describes four levels of identity assurance for electronic transactions requiring authentication. 
+Specifically, agencies are to determine assurance levels using the following steps: 
+1. 	 Conduct an e-authentication risk assessment of the e-government system. 
+2. 	 Map identified risks to the appropriate assurance level. 
+3. 	 Select technology based on e-authentication technical guidance. 
+4. 	 Validate that the implemented system has achieved the required assurance level. 
+5. 	 Periodically reassess the system to determine technology refresh requirements . 
+An e-authentication application is an application that meets the following criteria: 
+1. 	 Is web-based; 
+2. 	 Requires authentication ; and 
+3. 	 Extends beyond the borders of your enterprise (e.g. multi-agency, government-wide , or 
+public facing) 
+For additional e-authentication requirements , please refer to NIST SP800 -63, Electronic 
+A uthentication Guidance, at http: //csrc.nist.gov /publications . 
+20 
+
+
+[PDF page 25]
+Homeland Security Presidential Directive 12 (HSPD-12) 
+53. When reporting how many Personal Identity Verification (PIV) credentials are being 
+used for authentication to systems, does my agency include only those implementations 
+where the PIV authentication (PIVAUTH) certificate is being used for authentication? 
+When reporting how many PIV credentials are being used for logical access to systems , agencies 
+should include the following implementations: 
+• 	 Remote or networked logical access system implementations are PIV -enabled when the 
+Public Key Infrastructure (PKI) certificate presented at authentication is validated (i.e., 
+found to be legitimately issued , unexpired , and unrevoked) under Federal Common 
+Policy as a PIV Authentication Certificate and the corresponding "PIV Authentication 
+Key" on the card correctly responds to the cryptographic challenge in the authentication 
+protocol to gain access. Certificate validation may be performed by an intermediary 
+service such as a Server -based Certificate Validation Protocol (SCVP) server. Revocation 
+checking may be accomplished by ' caching ' revocation information from the credential 
+issuer provided the cache is refreshed at least once every 18 hours. 
+• 	 Local workstation logical access system implementations are PIV -enabled when the 
+CHUID , BIO, BIO-A , or PIV Authentication credentials and authentication protocols are 
+in conformance with authentication mechanisms defined in FIPS 201 and NIST SP 800­
+73, digital signatures on data objects used are verified , and certificates used are validated. 
+• 	 System implementations protected by an Identity and Access Management solution that 
+adheres to the principles above are also considered PIV -enabled. 
+For additional information , refer to FIPS 201 and NIST SP 800-73 at csrc.nist.gov and Federal 
+PKI Policy and FICAM Roadmap and Implementation Guidance at www.idmanagement.gov. 
+54. What guidance does my agency follow when implementing the use of the PIV 
+credentials for physical access control? 
+NIST Special Publication (SP) 800-116, "A Recommendation for the Use ofP IV Credentials in 
+Physical Access Control Systems (PACS) ," provides guidance concerning the use of the PIV 
+credential for physical access. Agencies should not include in the count of PIV -enabled physical 
+access control any situations where the PIV credential is being used to support legacy systems , 
+including but not limited to situations where physical access control systems use PIV credential 
+modifications (such as additional legacy antennas, MAG Stripe, 3D Barcode , 2D Barcode , etc.) 
+Nor should agencies count manual physical access control (i.e. using the PIV credential as a 
+"flash-pass") . In all situations , at a minimum , the digital credential (content -signer) used to sign 
+the PIV containers must be validated before accepting a card holder unique identifier (CHUID) 
+or biometric assertion. 
+21 
+
+
+[PDF page 26]
+55. For the purposes of HSPD-12 implementation, what is meant by "federal facilities" or 
+"systems?" 
+You may refer to Page 3 of OMB Memorandum 05-24, "Implementation ofHomeland Security 
+Presidential Directive (HSPD) 12 - Policy for a Common Identification Standard for Federal 
+Employees and Contractors," for a definition of federally controlled facilities and information 
+systems. Each agency is expected to have identified all of its facilities and is to report on whether 
+. all the physical access control systems and card readers controlling access to these facilities have 
+been upgraded to be HSPD-12 compliant in accordance with NIST and General Services 
+Administration (GSA) guidance . When reporting the number of FISMA systems enabled to use 
+PIV credentials , it is expected that all applications included as part of the FISMA system use the 
+PIV credential as the means to gain access . Additionally , physical access control systems which 
+include servers, databases , workstations and appliances in either shared or isolated networks are 
+to be included in the count of reported systems. 
+For additional information regarding HSPD-12 , please visit http://www.idmanagement.gov . 
+22 
+
+
+[PDF page 27]
+Definitions 
+Adequate Security (defined in OMB Circular A-130 , Appendix III, (A)(2)(a)) 
+Security is commensurate with the risk and magnitude of the harm resulting from the loss, 
+misuse, or unauthorized access to or modification of information. This includes assuring that 
+systems and applications used by the agency operate effectively and provide appropriate 
+confidentiality , integrity, and availability , through the use of cost-effective management , 
+personnel , operational , and technical controls . 
+Capital Planning and Investment Control Process (as defined in OMB Circu lar A-130, (6)(c)) 
+A management process for ongoing identification , selection , control , and evaluation of 
+investments in information resources. The process links budget formulation and execution , and is 
+focused on agency missions and achieving specific program outcomes. 
+Information Security (defined by FISMA, section 3542(b)(1)(A-C)) 
+Protecting information and information systems from unauthorized access , use, disclosure , 
+disruption , modification, or destruction in order to provide: (A) integrity , which means guarding 
+against improper information modification or destruction, and includes ensuring information non­
+repudiation and authenticity; (B) confidentiality, which means preserving authorized restrictions 
+on access and disclosure , including means for protecting personal privacy and proprietary 
+information; and (C) availability , which means ensuring timely and reliable access to and use of 
+information. 
+Information System (defined in OMB Circular A-130, (6)(q)) 
+The term "information system" means a discrete set of information resources organized for the 
+collection, processing, maintenance , transmission , and dissemination of information , in 
+accordance with defined procedures , whether automated or manual. 
+Information Technology (defined by the Clinger-Cohen Act of 1996, sections 5002, 5141 and 
+5142) 
+Any equipment or interconnected system or subsystem of equipment that is used in the automatic 
+acquisition , storage, manipulation, management , movement, control , display , switching , 
+interchange, transmission , or reception of data or information. For purposes of this definition , 
+equipment is used by an agency whether the agency uses the equipment directly or it is used by a 
+contractor under a contract with the agency which (1) requires the use of such equipment or (2) 
+requires the use, to a significant extent , of such equipment in the performance of a service or the 
+furnishing of a product. Information technology includes computers , ancillary equipment , 
+software , firmware and similar procedures , services (including support services) , and related 
+resources . It does not include any equipment that is acquired by a Federal contractor incidental to 
+a Federal contract. 
+Major Acquisition/Investment (defined in OMB Circular A-II , section 300) 
+Major acquisition/investment means a system or project requiring special management attention 
+because of its importance to the mission or function of the agency , a component of the agenc y or 
+another organization; is for financial management and obligates more than $500,000 annually ; 
+has significant program or policy implications ; has high executive visibility ; has high 
+23 
+
+[PDF page 28]
+development , operating or maintenance costs or is defined as major by the agency ' s capital 
+planning and investment control process. 
+National Security System (defined in FISMA , section 3542 (b)(2)(A-B)) 
+(A) The term "national security system" means any information system (including any 
+telecommunications system) used or operated by an agency or by a contractor of an agency, or 
+other organization on behalf of an agency-­
+(i) the function, operation , or use ofwhich-­
+(I) involves intelligence activities; 
+(II) involves cryptologic activities related to national security ; 
+(III) involves command and control of military forces; 
+(IV) involves equipment that is an integral part of a weapon or weapons system; or 
+(V) subject to subparagraph (B), is critical to the direct fulfillment of military or 
+intelligence missions; or 
+(ii) is protected at all times by procedures established for information that have been 
+specifically authorized under criteria established by an Executive order or an Act of 
+Congress to be kept classified in the interest of national defense or foreign policy. 
+(B) Subparagraph (A)(i)(V) does not include a system that is to be used for routine administrative 
+and business applications (including payroll , finance, logistics , and personnel management 
+applications) . 
+Plan of Action and Milestone (POA&M) (defined in OMB Memorandum M-02-01) 
+A POA&M, also referred to as a corrective action plan, is a tool that identifies tasks that need to 
+be accomplished. It details resources required to accomplish the elements of the plan, any 
+milestones in meeting the task, and scheduled completion dates for the milestones. The purpose 
+of the POA&M is to assist agencies in identifying, assessing, prioritizing , and monitoring the 
+progress of corrective efforts for security weaknesses found in programs and systems. 
+Privacy Impact Assessment (PIA) (See OMB Memorandum 03-22) 
+A process for examining the risks and ramifications of using information technology to collect, 
+maintain and disseminate information in identifiable form from or about members of the public, 
+and for identifying and evaluating protections and alternative processes to mitigate the impact to 
+privacy of collecting such information. 
+Security Controls (defined in NIST FIPS publication 199) 
+Security controls are defined as the management , operational , and technical controls (i.e., 
+safeguards or countermeasures) prescribed for an information system to protect the 
+confidentiality , integrity , and availability of the system and its information. 
+Security Program (defined by FISMA , Section 3544(b)(1-8) ) 
+Each agency shall develop , document , and implement an agency wide information security 
+program, approved by the Director under section 3543(a)(5) , to provide information security for 
+the information and information systems that support the operations and assets of the agency, 
+including those provided or managed by another agency , contractor , or other source. 
+24 
+
+[PDF page 29]
+Significant Deficiency 
+A significant deficiency is a weakness in an agency ' s overall information systems security 
+program or management control structure , or within one or more information systems , that 
+significantly restricts the capability of the agency to carry out its mission or compromises the 
+security of its information , information systems, personnel , or other resources , operations , or 
+assets. In this context , the risk is great enough that the agency head and outside agencies must be 
+notified and immediate or near-immediate corrective action must be taken. 
+As required in FISMA (section 3544(c)(3» , agencies are to report any significant deficiency in 
+policy, procedure, or practice as a material weakness in reporting under FMFIA and if relating to 
+financial management systems , as an instance of a lack of substantial compliance under FFMIA. 
+System Assessment 
+A comprehensive assessment of the management and operational and technical security controls 
+in an information system , made in suppOli of security accreditation , to determine the extent to 
+which the controls are implemented correctly , operating as intended , and producing the desired 
+outcome with respect to meeting the security requirements of the system . 
+25 

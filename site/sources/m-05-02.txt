@@ -1,0 +1,96 @@
+
+[PDF page 1]
+M-05-02, Financial Management Systems 
+December 1, 2004 
+M-05-02 
+Circular No. A -127--Revised 
+Transmittal Memorandum No. 3 
+TO THE HEADS OF EXECUTIVE DEPARTMENTS AND ESTABLISHMENTS 
+SUBJECT: Financial Management Systems  
+OMB is revising Circular A -127, Financial Management Systems, to improve coordination among the 
+operators of agency financial management systems, vendors of financial management software, E -Gov 
+shared services, and the Department of Treasury. The revisions incorporate the transfer of 
+responsibilities from the Joint Financial Management Improvement Program to the Chief Financial 
+Officers Council and the Office of Federal Financial Management. These updates are effective 
+immediately.  
+A revised version of the entire Circular will be made available on the OMB web site. All questions or 
+inquiries concerning OMB Circular A -127 should be addressed to the Office of Federal Financial 
+Management, Federal Financial Systems Branch, telephone number 202/395- 3993. 
+Joshua B. Bolten  
+Director 
+Attachment 
+ 
+Transmittal Memorandum No. 3 Revisions to   
+OMB Circular A -127 
+This Transmittal Memorandum replaces and rescinds Circular A -127 Transmittal Memorandum No. 2, 
+dated June 10, 1999, which revised Circular A -127, "Financial Management Systems" dated July 23, 
+1993. Transmittal Memorandum No. 2 revised Sections 8d and 9b of A -127 and added new Sections 
+9a(3) and 9c. This Transmittal Memorandum revises Sections 7g, 7i, 8d, 9b, and 9c. It deletes Section 
+9a(3) and adds new Sections 8g and 9d.  
+
+[PDF page 2]
+The changes to Circular  A-127 are as follows:  
+• Section 7g: "Joint Financial Management Improvement Program (JFMIP)" is replaced by "Office of 
+Federal Financial Management (OFFM)." 
+  
+• Section 7i: "JFMIP" is replaced by "OFFM." 
+  
+• Section 8d is deleted in its entirety and replaced with the following: 
+ 
+8d(1)Use of "Off-the-Shelf" Software. Agencies replacing software to meet core financial system 
+requirements must use "off-the-shelf" software that has been tested and certified through the Chief 
+Financial Officers Council (CFOC) software certification process as meeting OFFM core financial system 
+requirements. Agencies may purchase this software or contract for a service that operates this software 
+using the strategy and procurement vehicle they believe will best enable them to meet thei r needs in a 
+timely and effective manner following the competition requirements associated with the procurement 
+vehicle being used to conduct the acquisition. 
+ 
+OMB policy pertaining to using "off-the-shelf" software is contained in OMB Circular A-130 and must be 
+followed when replacing financial management systems. 
+ 
+8d(2) Software Certification Testing. "Off-the-shelf" software will be tested to ensure that it meets core 
+financial system requirements as defined in the Core Financial System Requirements document 
+published by OFFM. The CFOC will coordinate the testing process and issue software certifications. 
+Information on the details of the certification testing process and its results will be available to any 
+interested Federal agency for any certified software package.  
+  
+• A new Section 8g is added and reads as follows: 
+ 
+8g. Interface Requirements Management. Agencies operating or establishing contracts for financial 
+reporting, transaction processing, or other services that are or will be interfaced to mult iple agencies’ 
+financial systems must coordinate with OFFM the deployment of these services and changes to them. 
+OFFM will establish interface requirements for these services and incorporate them into the Core 
+Financial System Requirements or other requirement documents, as appropriate. OFFM will manage the 
+deployment of new interface requirements for efficiency and will rely generally on the core financial 
+system vendors to develop modifications to operational systems. 
+  
+
+[PDF page 3]
+• Section 9a(3) is deleted, section 9a(4) is renumbered accordingly. 
+ 
+Section 9b is revised to read as follows: 
+ 
+9b. GSA Responsibilities. GSA also will make procurement vehicles available to agencies for acquiring 
+software that has been certified according to the processes in Section 8d(2).  
+  
+• Section 9c is revised to read as follows: 
+ 
+9c. CFOC Responsibilities. The CFOC will establish processes for testing "off-the-shelf" software 
+supporting core financial system requirements that include:  
+o developing and administering the certification test, 
+o notifying GSA when a software package successfully completes the certification test,  
+o providing interested parties with information on the core financial system requirements and their related 
+testing scenarios, and 
+o Providing interested parties with details on the results of the certification tests for certified software 
+packages. 
+  
+• A new Section 9d is added and reads as follows: 
+ 
+9d. Transition. All software certifications previously issued by the Joint Financial Management 
+Improvement Program (JFMIP) shall be deemed to have been issued by the CFOC. 
+ 
+All financial management system requirements documents and other guidance issued by the JFMIP are 
+transferred to OFFM and remains in effect until modified. OFFM will issue guidance memoranda as 
+needed to clarify any transition issues. OFFM will issue guidance memoranda as needed to implement 
+the requirements of this Circular. 
+ 

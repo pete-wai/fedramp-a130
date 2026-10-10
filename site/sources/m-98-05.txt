@@ -1,0 +1,45 @@
+Guidance on the Government Information Locator Service February 6, 1998 M-98-05 MEMORANDUM FOR THE HEADS OF EXECUTIVE AGENCIES FROM:             Franklin D. Raines SUBJECT:       Guidance on the Government Information Locator Service The Paperwork Reduction Act of 1995 (44 U.S.C. 3511) directs the establishment of the
+
+Government Information Locator Service (GILS) to help the public and agencies locate and
+
+access information throughout the Federal Government.  GILS can also assist agencies in
+
+complying with aspects of the Federal Records Act (44 U.S.C. 3301) and the Freedom of
+
+Information Act as amended in 1996 (5 U.S.C. 552).  Policies such as OMB Circular No. A-130,
+
+"Management of Federal Information Resources" (61 F.R. 6428, February 20, 1996) also describe
+
+agency responsibilities to help the public locate government information and to ensure
+
+management and accountability of agency programs. OMB Bulletin 95-1, "Establishment of Government Information Locator Service," which guided
+
+the initial startup of GILS, has expired; nonetheless the agency responsibilities outlined above
+
+continue.  Agencies such as the Department of Defense, the Department of Treasury, the
+
+Environmental Protection Agency, and the Government Printing Office have already
+
+demonstrated outstanding initiative and leadership.  All agencies will now be describing GILS
+
+progress in their annual reporting under the Paperwork Reduction Act of 1995.  (See OMB
+
+Bulletin No. 98-03, November 18, 1997).  Agencies should also routinely solicit feedback on their
+
+GILS performance, results, and plans from significant public stakeholders and user communities.
+
+Agencies should implement their parts of GILS on the Internet as described in FIPS 192-1, and
+
+should link their GILS records to the underlying information resources to the extent that they are
+
+accessible on the Internet and its World Wide Web. The Chief Information Officers (CIO) Council has an important role in the development and
+
+implementation of GILS policy.  I ask that the CIO Council work with the Government
+
+Information Technology Services Board to focus on training agencies in GILS best practices;
+
+further developing the U.S. Federal GILS guidelines, search standards and subject keywords;
+
+coordinating "one stop" access to multi-agency government services; and coordinating with
+
+intergovernmental and other related initiatives. | OMB Home Page | Budget Information | Legislative Information | Management Reform/GPRA | | Grants Management | Financial Management | Procurement Policy | | Information & Regulatory Policy | Special Topics |

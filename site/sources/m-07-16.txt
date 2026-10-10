@@ -1,0 +1,1030 @@
+
+[PDF page 1]
+ EXECUTIVE OFFICE OF THE PRESIDENT EXECUTIVE OFFICE OF THE PRESIDENT 
+   OFFICE OF MANA GEMENT AND BUDGET 
+  WASHINGTON, D.C. 20503 
+   OFFICE OF MANA GEMENT AND BUDGET 
+  WASHINGTON, D.C. 20503 
+  
+  
+  DEPUTY DIRECTOR 
+  FOR MANAGEMENT 
+  DEPUTY DIRECTOR 
+  FOR MANAGEMENT 
+May 22, 2007 May 22, 2007 
+M-07-16 M-07-16 
+  
+MEMORANDUM FOR THE HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES MEMORANDUM FOR THE HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES 
+  
+FROM: Clay Johnson III FROM: Clay Johnson III 
+  Deputy Director for Management   Deputy Director for Management 
+  
+SUBJECT: Safeguarding Against and Responding to  the Breach of Personally Identifiable 
+Information  
+SUBJECT: Safeguarding Against and Responding to  the Breach of Personally Identifiable 
+Information  
+  
+Safeguarding personally identifiable information1 in the possession of the government and 
+preventing its breach are essential to ensure the government retains the trust of the American 
+public.  This is a responsibility shared by officials accountable for administering operational and 
+privacy and security programs, legal counsel, Agencies’ Inspectors General and other law 
+enforcement, and public and legislative affairs. It is also a function of applicable laws, such as 
+the Federal Information Security Management Act of 2002 (FISMA)2 and the Privacy Act of 
+1974.3   
+Safeguarding personally identifiable information
+  
+1 in the possession of the government and 
+preventing its breach are essential to ensure the government retains the trust of the American 
+public.  This is a responsibility shared by officials accountable for administering operational and 
+privacy and security programs, legal counsel, Agencies’ Inspectors General and other law 
+enforcement, and public and legislative affairs. It is also a function of applicable laws, such as 
+the Federal Information Security Management Act of 2002 (FISMA)2 and the Privacy Act of 
+1974.3   
+As part of the work of the Identity Theft Task Force,4 this memorandum requires agencies to 
+develop and implement a breach5 notification policy6 within 120 days
+As part of the work of the Identity Theft Task Force,  this memorandum requires agencies to 
+develop and implement a breach  notification policy  
+4
+5 6 within 120 days. The attachments to this 
+memorandum outline the framework within which agencies must develop this breach notification 
+policy  while ensuring proper safeguards are in place to protect the information. Agencies should  7
+                                                 
+1 The term “personally identifiable information” refers to information which can be used to distinguish or trace an 
+individual's identity, such as their name, social security number, biometric records, etc. alone, or when combined 
+with other personal or identifying information which is linked or linkable to a specific individual, such as date and 
+place of birth, mother’s maiden name, etc. 
+2 Title III of the E-Government Act of 2002, Pub. L. No. 107-347. 
+3 5 U.S.C. § 552a. 
+4 Executive Order 13402 charged the Identity Theft Task Force with developing a comprehensive strategic plan for 
+steps the federal government can take to combat identity theft, and recommending actions which can be taken by the 
+public and private sectors. On April 23, 2007 the Task Force submitted its report to the President, titled “Combating 
+Identity Theft: A Strategic Plan.” This report is available at www.idtheft.gov. 
+5 For the purposes of this policy, the term “breach” is used to include the loss of control, compromise, unauthorized 
+disclosure, unauthorized acquisition, unauthorized access, or any similar term referring to situations where persons 
+other than authorized users and for an other than authorized purpose have access or potential access to personally 
+identifiable information, whether physical or electronic.  
+6 Agencies should use a best judgment standard to develop and implement a breach notification policy. Using a best 
+judgment standard, the sensitivity of certain terms, such as personally identifiable information, can be determined in 
+context. For example, an office rolodex contains personally identifiable information (name, phone number, etc.). In 
+this context the information probably would not be considered sensitive; however, the same information in a 
+database of patients at a clinic which treats contagious disease probably would be considered sensitive information. 
+Similarly, using a best judgment standard, discarding a document with the author’s name on the front (and no other 
+personally identifiable information) into an office trashcan likely would not warrant notification to US-CERT.   
+7 Terms not specifically defined within this Memorandum (e.g., sensitive) should be considered to reflect the 
+definition found in a commonly accepted dictionary. 
+
+[PDF page 2]
+   
+ 
+ 
+ 
+ 
+2
+                                                
+ 
+ 
+note the privacy and security requirements addressed in this Memorandum apply to all Federal 
+information and information systems.8 Breaches subject to notification requirements include 
+both electronic systems as well as paper documents. In short, agencies are required to report on 
+the security of information systems in any formant (e.g., paper, electronic, etc.). 9
+ 
+In formulating a breach notification policy, agencies must review their existing requirements 
+with respect to Privacy and Security (see Attachment 1). The policy must include existing and 
+new requirements for Incident Reporting and Handling (see Attachment 2) as well as External 
+Breach Notification (see Attachment 3). Finally, this document requires agencies to develop 
+policies concerning the responsibilities of individuals authorized to access personally identifiable 
+information (see Attachment 4). 
+ 
+Within the framework set forth in the attachments, agencies may implement more stringent 
+policies and procedures reflecting the mission of the agency. While this framework identifies a 
+number of steps to greatly reduce the risks related to a data breach of personally identifiable 
+information, it is important to emphasize that a few simple and cost-effective steps may well 
+deliver the greatest benefit, such as:  
+ 
+o reducing the volume of collected and retained information to the minimum necessary; 
+o limiting access10 to only those individuals who must have such access; and  
+o using encryption, strong authentication procedures, and other security controls to make 
+information unusable by unauthorized individuals.    
+ 
+This Memorandum should receive the widest possible distribution within your agency and each 
+affected organization and individual should understand their specific responsibilities for 
+implementing the procedures and requirements.  Materials created in response to this 
+Memorandum and attachments should be made available to the public through means determined 
+by the agency, e.g., posted on the agency web site, by request, etc.  
+ 
+Consistent with longstanding policy requiring agencies to incorporate the costs for securing their 
+information systems, all costs of implementing this memorandum, including development,  
+ 
+ 
+8 FISMA security requirements apply to Federal information and information systems, including both paper and 
+electronic format. 
+9 A plan to review the controls for information systems not previously included in other security reviews must be 
+addressed in the agency's breach notification policy (e.g., timeframe for completion of review, etc.); however, 
+completion of the review for those systems is not required to be finished within the 120-day timeframe for 
+development of the policy.  
+10 In this policy, “access” means the ability or opportunity to gain knowledge of personally identifiable information. 
+
+[PDF page 3]
+   
+ 
+ 
+ 
+ 
+3
+                                                
+ 
+implementation, notification to affected individuals, and any remediation activities, will be 
+addressed through existing agency resources of the agency experiencing the breach. 
+ 
+Because of the many alternate ways to implement a risk-based program within the framework 
+provided, this Memorandum, or its attachments, should not be read to mean an agency’s failure 
+to implement one or more of the many security provisions discussed within
+11 would constitute 
+less than adequate protections required by the Privacy Act. These new requirements do not create 
+any rights or benefits, substantive or procedural, which are enforceable at law against the 
+government. 
+ 
+Questions about this Memorandum should be directed to Hillary Jaffe of my staff at 
+hjaffe@omb.eop.gov.  
+ 
+Attachments  
+ 
+ 
+11 For example, FISMA or associated standards, policies, or guidance issued by OMB or the National Institute of 
+Standards and Technology (NIST). 
+
+[PDF page 4]
+   
+ 
+ 
+ 
+ 
+4
+ 
+Attachment 1:  Safeguarding Against the Breach of Personally Identifiable Information 
+ 
+This Attachment reemphasizes the responsibilities under existing law, executive orders, 
+regulations, and policy to appropriately safeguard personally identifiable information and train 
+employees on responsibilities in this area (Section A).12  It also establishes two new privacy 
+requirements and discusses five security requirements as described below (Sections B and C).  
+ 
+A.  Current Requirements   
+ 
+1.  Privacy Act Requirements.  In particular, the Privacy Act of 1974 (Privacy Act)13 requires 
+each agency to:  
+ 
+a.   Establish Rules of Conduct.  Agencies are required to establish “rules of conduct for 
+persons involved in the design, development, operation, or maintenance of any system of 
+records, or in maintaining any record, and instruct each such person with respect to such rules 
+and the requirements of [the Privacy Act], including any other rules and procedures adopted 
+pursuant to [the Privacy Act] and the penalties for noncompliance.” (5 U.S.C. § 552a(e)(9)) 
+ 
+b.   Establish Safeguards.  Agencies are also required to “establish appropriate administrative, 
+technical, and physical safeguards to insure the security and confidentiality of records and to 
+protect against any anticipated threats or hazards to their security or integrity which could result 
+in substantial harm, embarrassment, inconvenience or unfairness to any individual on whom 
+information is maintained.” 
+14  
+ 
+c.   Maintain accurate, relevant, timely and complete information.  The Privacy Act also 
+requires personally identifiable information within a system of records to be maintained in a 
+manner that is accurate, relevant, timely, and complete including through the use of notices to the 
+public.
+15  It is important for agencies to fulfill their responsibilities with respect to identifying 
+systems of records and developing and publishing notices as required by the Privacy Act and 
+                                                 
+12 This Memorandum, or its attachments, should not be read to mean an agency’s failure to implement one or more 
+of the many provisions of FISMA or associated standards, policies, or guidance issued by OMB or the National 
+Institute of Standards and Technology (NIST) would constitute less than adequate protections required by the 
+Privacy Act of 1974. 
+13 5 U.S.C. § 552a. 
+14 5 U.S.C. § 552a (e)(10). 
+15 The Privacy Act requires agencies to “maintain all records which are used by the agency in making any 
+determination about any individual with such accuracy, relevance, timeliness, and completeness as is reasonably 
+necessary to assure fairness to the individual in the determination” in their systems of records.  5 U.S.C. § 
+552a(e)(5). 
+
+[PDF page 5]
+   
+ 
+ 
+ 
+ 
+5
+OMB’s implementing policies.16  By collecting only the information necessary and managing it 
+properly, agencies can often reduce the volume of information they possess, the risk to the 
+information, and the burden of safeguarding it.   
+ 
+2. Security Requirements.   
+ 
+Below are four particularly important existing security requirements agencies already should 
+be implementing:  
+ 
+a. Assign an impact level to all information and information systems.  Agencies must follow 
+the processes outlined in Federal Information Processing Standard (FIPS) 199, Standards for 
+Security Categorization of Federal Information and Information Systems, to categorize all 
+information and information systems according to the standard’s three levels of impact (i.e., low, 
+moderate, or high).  Agencies should generally consider categorizing sensitive personally 
+identifiable information (and information systems within which such information resides) as 
+moderate or high impact.   
+ 
+b. Implement minimum security requirements and controls.  For each of the impact levels 
+identified above, agencies must implement the minimum security requirements and minimum 
+(baseline) security controls set forth in FIPS 200, Minimum Security Requirements for Federal 
+Information and Information Systems, and NIST Special Publication 800-53, Recommended 
+Security Controls for Federal Information Systems, respectively.  
+ 
+c. Certify and accredit information systems.  Agencies must certify and accredit (C&A) all 
+information systems supporting the operations and assets of the agency, including those provided 
+or managed by another agency, contractor, or other source.17  The specific procedures for 
+conducting C&A are set out in NIST Special Publication 800-37, Guide for the Security 
+Certification and Accreditation of Federal Information Systems, and include guidance for 
+continuous monitoring of certain security controls. Agencies’ continuous monitoring should 
+assess a subset of the management, operational, and technical controls used to safeguard such 
+information (e.g., Privacy Impact Assessments).  
+ 
+d. Train employees.  Agencies must initially train employees (including managers) on their 
+privacy and security responsibilities before permitting access to agency information and 
+information systems.  Thereafter, agencies must provide at least annual refresher training to 
+                                                 
+14 The Privacy Act requires agencies to publish a notice of any new or intended use of information maintained in a 
+system of records in the Federal Register to provide an opportunity for the public to submit comments. 5 U.S.C. § 
+552a(e)(4). Agencies are also required to publish notice of any subsequent substantive revisions to the use of 
+information maintained in the system of records. 5 U.S.C. § 552a(e)(11).  OMB Circular A-130 (“Management of 
+Federal Information Resources”) offers additional guidance on this issue. OMB Circular A-130, App. I, sec. 4.c. 
+17 44 U.S.C. 3544(b). 
+
+[PDF page 6]
+   
+ 
+ 
+ 
+ 
+6
+ensure employees continue to understand their responsibilities.18  Additional or advanced 
+training should also be provided commensurate with increased responsibilities or change in 
+duties. 
+ 
+Both initial and refresher training must include acceptable rules of behavior and the 
+consequences when the rules are not followed. For agencies implementing tele-work and other 
+authorized remote access programs, training must also include the rules of such programs.19    
+ 
+B.  Privacy Requirements
+ 
+1.  Review and Reduce the Volume of Personally Identifiable Information.   
+ 
+a. Review Current Holdings.  Agencies must now also review their current holdings of all 
+personally identifiable information and ensure, to the maximum extent practicable, such holdings 
+are accurate, relevant, timely, and complete, and reduce them to the minimum necessary for the 
+proper performance of a documented agency function.
+20 Agency-specific implementation plans 
+and progress updates regarding this review will be incorporated as requirements in agencies’ 
+annual report under FISMA. 
+ 
+Following this initial review, agencies must develop and make public a schedule by which they 
+will periodically update the review of their holdings.  This schedule may be part of an agency’s 
+annual review and any consolidated publication of minor changes of Privacy Act systems of 
+records notices.   
+ 
+To help safeguard personally identifiable information, agencies are reminded they must meet the 
+requirements of FISMA and associated policies and guidance from the OMB and NIST.21  
+FISMA requires each agency to implement a comprehensive security program to protect the 
+agency’s information and information systems; agency Inspectors General must independently 
+evaluate the agency’s program; and agencies must report annually to OMB and Congress on the 
+effectiveness of their program.  
+                                                 
+18 Agencies may schedule training to coincide with existing activities, such as ethics training.  Communications and 
+training related to privacy and security must be job-specific and commensurate with the employee’s responsibilities. 
+The Department of Defense, the Office of Personnel Management, and the Department of State offer agencies a 
+minimum baseline of security awareness training as part of the Information Systems Security Line of Business. 
+19 Agencies should also consider augmenting their training by using creative methods to promote daily awareness of 
+employees’ privacy and security responsibilities, such as weekly tips, mouse pads imprinted with key security 
+reminders, privacy screens for public use of laptops, and incentives for reporting security risks. 
+20 To the extent agencies are substantively performing these reviews, agencies should leverage these efforts to meet 
+the new privacy requirements. This provision does not apply to apply to the accessioned holdings (archival records) 
+held by the National Archives and Records Administration (NARA). 
+21 The Department of Defense and Intelligence Community establish their own policy and guidance for the security 
+of their information systems. 44 U.S.C. 3543(c). 
+
+[PDF page 7]
+   
+ 
+ 
+ 
+ 
+7
+ 
+Within the above framework, agencies may implement more stringent procedures governed by 
+specific laws, regulations, and agency procedures to protect certain information, for example, 
+taxpayer data, census information, and other information. 
+ 
+2.     Reduce the Use of Social Security Numbers.   
+ 
+a. Eliminate Unnecessary Use. Agencies must now also review their use of social security 
+numbers in agency systems and programs to identify instances in which collection or use of the 
+social security number is superfluous. Within 120 days from the date of this memo, agencies 
+must establish a plan in which the agency will eliminate the unnecessary collection and use of 
+social security numbers within eighteen months.22  
+ 
+b. Explore Alternatives.  Agencies must participate in government-wide efforts to explore 
+alternatives to agency use of Social Security Numbers as a personal identifier for both Federal 
+employees and in Federal programs (e.g., surveys, data calls, etc.). 
+ 
+C.   Security Requirements
+ 
+While agencies continue to be responsible for implementing all requirements of law and policy, 
+below are five requirements23 agencies must implement which derive from existing security 
+policy and NIST guidance. These requirements are applicable to all Federal information, e.g., 
+law enforcement information, etc. 
+  
+• Encryption.  Encrypt, using only NIST certified cryptographic modules, 24 all data on 
+mobile computers/devices carrying agency data unless the data is determined not to be 
+sensitive, in writing, by your Deputy Secretary25 or a senior-level individual he/she may 
+designate in writing; 
+• Control Remote Access.  Allow remote access only with two-factor authentication where 
+one of the factors is provided by a device separate from the computer gaining access;  
+• Time-Out Function.  Use a “time-out” function for remote access and mobile devices 
+requiring user re-authentication after thirty minutes of inactivity;  
+• Log and Verify.  Log all computer-readable data extracts from databases holding 
+sensitive information and verify each extract, including whether sensitive data has been 
+erased within 90 days or its use is still required; and 
+                                                 
+22 Agencies with questions addressing this assignment regarding the Paperwork Reduction Act of 1995 (44 U.S.C. 
+3501 et seq.) should contact their respective desk officer at the Office of Management and Budget. 
+23 See OMB Memo 06-16 “Protection of Sensitive Agency Information” 
+(www.whitehouse.gov/omb/memoranda/fy2006/m06-16.pdf). 
+24 See NIST’s website at http://csrc.nist.gov/cryptval/ for a discussion of the certified encryption products. 
+25 Non cabinet agencies should consult the equivalent of a Deputy Secretary.  
+
+[PDF page 8]
+   
+ 
+ 
+ 
+ 
+8
+• Ensure Understanding of Responsibilities.  Ensure all individuals with authorized access 
+to personally identifiable information and their supervisors sign at least annually a 
+document clearly describing their responsibilities.   
+ 
+Agencies should also contemplate and incorporate best practices to prevent data breaches. 
+Examples of such practices might include using privacy screens when working outside the office 
+or requiring employees to include laptop computers in carry-on luggage rather than checked 
+baggage.
+
+[PDF page 9]
+   
+ 
+ 
+ 
+ 
+9
+Attachment 2:   Incident Reporting and Handling Requirements 
+ 
+This Attachment applies to security incidents involving the breach of personally identifiable 
+information whether in electronic or paper format.  For the purposes of reporting, agencies must 
+continue to follow existing requirements, as modified and described below.  
+ 
+A.  Existing Requirements
+ 
+1.  FISMA Requirements.  FISMA requires each agency to:  
+ 
+• implement procedures for detecting, reporting and responding to security incidents, 
+including mitigating risks associated with such incidents before substantial damage is 
+done  
+• notify and consult with: 
+o the Federal information security incident center  
+o law enforcement agencies and Inspectors General 
+o an office designated by the President for any incident involving a national security 
+system 
+o any other agency or office in accordance with law or as directed by the 
+President.
+26 
+• implement NIST guidance and standards27     
+ 
+Federal Information Processing Standards Publication 200 (FIPS 200) and NIST Special 
+Publication 800-53 provide a framework for categorizing information and information systems, 
+and provide minimum security requirements and minimum (baseline) security controls for 
+incident handling and reporting.  The procedures agencies must already use to implement the 
+above FISMA requirements are found in two primary guidance documents: NIST Special 
+Publication 800-61, Computer Security Incident Handling Guide
+28; and the concept of operations 
+for the Federal security incident handling center located within the Department of Homeland 
+Security, i.e., United States Computer Emergency Readiness Team (US-CERT).29
+ 
+ 
+                                                 
+26 44 U.S.C. § 3544(b)(7). 
+27 For additional information on NIST guidance and standards, see www.nist.gov. 
+28 See “Computer Security Incident Handling Guide: Recommendations of the National Institute of Standards and 
+Technology” (http://csrc.nist.gov/publications/nistpubs/800-61/sp800-61.pdf). 
+29 The responsibilities of US-CERT are outlined in 44 U.S.C. § 3546.  Its complete set of operating procedures may 
+be found on the US-CERT website (www.us-cert.gov/federal/reportingRequirements.html).  Separate procedures are 
+in place for the Department of Defense as identified in Directive O-8530-1 and all components report incidents to 
+the Joint Task Force Global Network Operations (JTF-GNO), which, in turn, coordinates directly with the US-
+CERT.   
+
+[PDF page 10]
+   
+ 
+ 
+ 
+ 
+10
+2.   Incident Handling and Response Mechanisms.  When faced with a security incident, an 
+agency must be able to respond in a manner protecting both its own information and helping to 
+protect the information of others who might be affected by the incident.  To address this need, 
+agencies must establish formal incident response mechanisms.  To be fully effective, incident 
+handling and response must also include sharing information concerning common vulnerabilities 
+and threats with those operating other systems and in other agencies.  In addition to training 
+employees on how to prevent incidents, all employees must also be instructed in their roles and 
+responsibilities regarding responding to incidents should they occur. 
+ 
+B.  Modified Agency Reporting Requirements
+ 
+1.  US-CERT Modification.  Agencies must report all incidents involving personally 
+identifiable information to US-CERT. This reporting requirement does not distinguish between 
+potential and confirmed breaches.  The US-CERT concept of operations for reporting Category 1 
+incidents is modified as follows: 
+ 
+Category 1.  Unauthorized Access or Any Incident Involving Personally Identifiable 
+Information.  In this category agencies must report when: 1) an individual gains logical or 
+physical access without permission to a federal agency network, system, application, data, or 
+other resource; or 2) there is a suspected or confirmed breach of personally identifiable 
+information regardless of the manner in which it might have occurred.  Reporting to US-
+CERT is required within one hour of discovery/detection. 
+• For incidents involving personally identifiable information, agencies must: 
+o Continue to follow internal agency procedures for notifying agency officials 
+including your agency privacy official and Inspector General; 
+o Notify the issuing bank if the breach involves government-authorized credit 
+cards; and 
+o Notify US-CERT within one hour.  Although only limited information about 
+the breach may be available, US-CERT must be advised so it can assist in 
+coordinating communications with the other agencies. Updates should be 
+provided as further information is obtained. 
+• Under specific procedures established for these purposes, after notification by an 
+agency, US-CERT will notify the appropriate officials.      
+• Monthly, US-CERT will distribute to designated officials in the agencies and 
+elsewhere, a report identifying the number of confirmed breaches of personally 
+identifiable information and will also make available a public version of the report. 
+ 
+2.  Develop and Publish a Routine Use.   
+ 
+a. Effective Response.  A federal agency’s ability to respond quickly and effectively in the 
+event of a breach of federal data is critical to its efforts to prevent or minimize any consequent 
+
+[PDF page 11]
+   
+ 
+ 
+ 
+ 
+11
+harm.30 An effective response necessitates disclosure of information regarding the breach to 
+those individuals affected by it, as well as to persons and entities in a position to cooperate, 
+either by assisting in notification to affected individuals or playing a role in preventing or 
+minimizing harms from the breach.  
+ 
+b. Disclosure of Information.  Often, the information to be disclosed to such persons and 
+entities is maintained by federal agencies and is subject to the Privacy Act (5 U.S.C. § 552a).  
+The Privacy Act prohibits the disclosure of any record in a system of records by any means of 
+communication to any person or agency absent the written consent of the subject individual, 
+unless the disclosure falls within one of twelve statutory exceptions.31 In order to ensure an 
+agency is in the best position to respond in a timely and effective manner, in accordance with 5 
+U.S.C. § 552a(b)(3) of the Privacy Act, agencies should publish a routine use for appropriate 
+systems specifically applying to the disclosure of information in connection with response and 
+remedial efforts in the event of a data breach as follows: 
+ 
+To appropriate agencies, entities, and persons when (1) [the agency] suspects or 
+has confirmed that the security or confidentiality of information in the system of 
+records has been compromised; (2) the Department has determined that as a result 
+of the suspected or confirmed compromise there is a risk of harm to economic or 
+property interests, identity theft or fraud, or harm to the security or integrity of 
+this system or other systems or programs (whether maintained by the Department 
+or another agency or entity) that rely upon the compromised information; and (3) 
+the disclosure made to such agencies, entities, and persons is reasonably 
+necessary to assist in connection with the Department’s efforts to respond to the 
+suspected or confirmed compromise and prevent, minimize, or remedy such 
+harm.
+32
+ 
+As described in the President’s Identity Theft Task Force’s Strategic Plan, all agencies should 
+publish a routine use for their systems of records allowing for the disclosure of information in the 
+course of responding to a breach of federal data.33  Such a routine use will serve to protect the 
+interests of the individuals whose information is at issue by allowing agencies to take appropriate 
+steps to facilitate a timely and effective response, thereby improving their ability to prevent, 
+minimize, or remedy any harm resulting from a compromise of data maintained in their systems 
+of records. 
+                                                 
+30 Here, “harm” means damage, fiscal damage, or loss or misuse of information which adversely affects one or more 
+individuals or undermines the integrity of a system or program. 
+31 5 U.S.C. §§ 552a(b)(1)-(12). 
+32 See Appendix B of the Identity Theft Task Force report (www.identitytheft.gov/reports/StrategicPlan.pdf). 
+33 Id.  
+
+[PDF page 12]
+   
+ 
+ 
+ 
+ 
+12
+Attachment 3:  External Breach Notification 
+ 
+To ensure consistency across government, this Attachment identifies the questions and factors 
+each agency should consider in determining when notification outside the agency should be 
+given and the nature of the notification.34  This Attachment does not attempt to set a specific 
+threshold for external notification since breaches are specific and context dependant and 
+notification is not always necessary or desired.  The costs of any notifications must be borne by 
+the agency experiencing the breach from within existing resources.  
+ 
+A.  Background   
+ 
+1.  Harm.  Breaches can implicate a broad range of harms to individuals, including the potential 
+for identity theft; however, this Section does not discuss actions to address possible identity theft 
+or fraud.  Agencies are referred to the ID Theft Task Force’s Strategic Plan for guidance.   
+ 
+2.  Requirement.  Agencies must implement the one specific new requirement discussed below; 
+i.e., develop a breach notification policy and plan (see Section B. below).     
+ 
+3.  Threshold questions.  Both the decision to provide external notification on the occasion of a 
+breach and the nature of the notification will require agencies to resolve a number of threshold 
+questions.35  The likely risk of harm and the level of impact will determine when, what, how and 
+to whom notification should be given.36   
+ 
+Notification of those affected and/or the public allows those individuals the opportunity to take 
+steps to help protect themselves from the consequences of the breach.  Such notification is also 
+consistent with the “openness principle” of the Privacy Act that calls for agencies to inform 
+individuals about how their information is being accessed and used, and may help individuals 
+mitigate the potential harms resulting from a breach.   
+ 
+4.  Chilling Effects of Notices.  A number of experts have raised concerns about unnecessary 
+notification and the chilling effect this may have on the public.37  In addition, agencies should 
+                                                 
+34 These factors do not apply to an agency’s notification to US-CERT. Agencies must report all incidents – potential 
+and confirmed – involving personally identifiable information to US-CERT.   
+35 Notice may not be necessary if, for example, the information is properly encrypted because the information would 
+be unusable. 
+36 See OMB’s September 20, 2006 memorandum titled “Recommendations for Identity Theft Related Data Breach 
+Notification” for information and recommendations for planning and responding to data breaches which could result 
+in identity theft (www.whitehouse.gov/omb/memoranda/fy2006/task_force_theft_memo.pdf).  
+37 Federal Trade Commission, Prepared Statement of the Federal Trade Commission Before the Committee on 
+Commerce, Science, and Transportation, U.S. Senate, on Data Breaches and Identity Theft (Washington, D.C.: June 
+16, 2005), p. 10.  In this testimony, the Federal Trade Commission raised concerns about the threshold for which 
+consumers should be notified of a breach, cautioning that too strict a standard could have several negative effects.  
+
+[PDF page 13]
+   
+ 
+ 
+ 
+ 
+13
+consider the costs to individuals and businesses of responding to notices where the risk of harm 
+may be low.  Agencies should exercise care to evaluate the benefit of notifying the public of low 
+impact incidents.    
+ 
+B.  New Requirement
+ 
+Each agency should develop a breach notification policy and plan comprising the elements 
+discussed in this Attachment.  In implementing the policy and plan, the Agency Head will make 
+final decisions regarding breach notification.    
+ 
+Six elements should be addressed in the policy and plan and when considering external 
+notification:  
+ 
+• whether breach notification is required 
+• timeliness of the notification 
+• source of the notification 
+• contents of the notification 
+• means of providing the notification 
+• who receives notification: public outreach in response to a breach 
+ 
+To ensure adequate coverage and implementation of the plan, each agency should establish an 
+agency response team including the Program Manager of the program experiencing the breach, 
+Chief Information Officer, Chief Privacy Officer or Senior Official for Privacy, Communications 
+Office, Legislative Affairs Office, General Counsel and the Management Office which includes 
+Budget and Procurement functions.38  A more detailed description of these elements is set forth 
+below: 
+ 
+1. Whether Breach Notification is Required 
+ 
+To determine whether notification of a breach is required, the agency should first assess the 
+likely risk of harm caused by the breach and then assess the level of risk. Agencies should 
+consider a wide range of harms, such as harm to reputation and the potential for harassment or 
+prejudice, particularly when health or financial benefits information is involved in the breach.39 
+Agencies should bear in mind that notification when there is little or no risk of harm might create 
+                                                 
+38 Non-Cabinet-level agencies should include their functional equivalent.  
+39 For reference, the express language of the Privacy Act requires agencies to consider a wide range of harms: 
+agencies shall “establish appropriate administrative, technical and physical safeguards to insure the security and 
+confidentiality of records and to protect against any anticipated threats or hazards to their security or integrity which 
+could result in substantial harm, embarrassment, inconvenience, or unfairness to any individual on whom 
+information is maintained.” 5 U.S.C. § 552a (e)(10). 
+
+[PDF page 14]
+   
+ 
+ 
+ 
+ 
+14
+unnecessary concern and confusion.40 Additionally, under circumstances where notification 
+could increase a risk of harm, the prudent course of action may be to delay notification while 
+appropriate safeguards are put in place.  
+ 
+Five factors should be considered to assess the likely risk of harm:  
+ 
+a. Nature of the Data Elements Breached. The nature of the data elements compromised is a 
+key factor to consider in determining when and how notification should be provided to affected 
+individuals.41 It is difficult to characterize data elements as creating a low, moderate, or high risk 
+simply based on the type of data because the sensitivity of the data element is contextual.  A 
+name in one context may be less sensitive than in another context.
+42 In assessing the levels of 
+risk and harm, consider the data element(s) in light of their context and the broad range of 
+potential harms flowing from their disclosure to unauthorized individuals.   
+ 
+b. Number of Individuals Affected. The magnitude of the number of affected individuals 
+may dictate the method(s) you choose for providing notification, but should not be the 
+determining factor for whether an agency should provide notification.   
+ 
+c. Likelihood the Information is Accessible and Usable. Upon learning of a breach, agencies 
+should assess the likelihood personally identifiable information will be or has been used by 
+unauthorized individuals.  An increased risk that the information will be used by unauthorized 
+individuals should influence the agency’s decision to provide notification.  
+ 
+The fact the information has been lost or stolen does not necessarily mean it has been or can be 
+accessed by unauthorized individuals, however, depending upon a number of physical, 
+technological, and procedural safeguards employed by the agency.  (See Attachment 1 above.) If 
+the information is properly protected by encryption, for example, the risk of compromise may be 
+low to non-existent.43    
+ 
+Agencies will first need to assess whether the personally identifiable information is at a low, 
+moderate, or high risk of being compromised.  The assessment should be guided by NIST 
+                                                 
+40 Another consideration is a surfeit of notices, resulting from notification criteria which are too strict, could render 
+all such notices less effective, because consumers could become numb to them and fail to act when risks are truly 
+significant. 
+41 For example, theft of a database containing individuals’ names in conjunction with Social Security numbers, 
+and/or dates of birth may pose a high level of risk of harm, while a theft of a database containing only the names of 
+individuals may pose a lower risk, depending on its context. 
+42 For example, breach of a database of names of individuals receiving treatment for contagious disease may pose a 
+higher risk of harm, whereas a database of names of subscribers to agency media alerts may pose a lower risk of 
+harm. 
+43 In this context, proper protection means encryption has been validated by NIST.     
+
+[PDF page 15]
+   
+ 
+ 
+ 
+ 
+15
+security standards and guidance.  Other considerations may include the likelihood any 
+unauthorized individual will know the value of the information and either use the information or 
+sell it to others. 
+ 
+d. Likelihood the Breach May Lead to Harm  
+ 
+1.  Broad Reach of Potential Harm.  The Privacy Act requires agencies to protect against 
+any anticipated threats or hazards to the security or integrity of records which could result in 
+“substantial harm, embarrassment, inconvenience, or unfairness to any individual on whom 
+information is maintained.”44 Additionally, agencies should consider a number of possible harms 
+associated with the loss or compromise of information. Such harms may include the effect of a 
+breach of confidentiality or fiduciary responsibility, the potential for blackmail, the disclosure of 
+private facts, mental pain and emotional distress, the disclosure of address information for 
+victims of abuse, the potential for secondary uses of the information which could result in fear or 
+uncertainty, or the unwarranted exposure leading to humiliation or loss of self-esteem.      
+ 
+2.  Likelihood Harm Will Occur.  The likelihood a breach may result in harm will depend 
+on the manner of the actual or suspected breach and the type(s) of data involved in the incident.  
+Social Security numbers and account information are useful to committing identity theft, as are 
+date of birth, passwords, and mother’s maiden name.  If the information involved, however, is a 
+name and address or other personally identifying information, the loss may also pose a 
+significant risk of harm if, for example, it appears on a list of recipients patients at a clinic for 
+treatment of a contagious disease. 
+ 
+In considering whether the loss of information could result in identity theft or fraud, agencies 
+should consult guidance from the Identity Theft Task Force.45     
+ 
+e. Ability of the Agency to Mitigate the Risk of Harm. Within an information system, the 
+risk of harm will depend on how the agency is able to mitigate further compromise of the 
+system(s) affected by a breach.  In addition to containing the breach, appropriate 
+countermeasures, such as monitoring system(s) for misuse of the personal information and 
+patterns of suspicious behavior, should be taken.46 Such mitigation may not prevent the use of 
+the personal information for identity theft, but it can limit the associated harm.  Some harm may 
+be more difficult to mitigate than others, particularly where the potential injury is more 
+individualized and may be difficult to determine. 
+ 
+                                                 
+44 5 U.S.C. § 552a(e)(10). 
+45 See “Recommendations for Identity Theft Related Data Breach Notification” 
+(www.whitehouse.gov/omb/memoranda/fy2006/task_force_theft_memo.pdf).  
+46 For example, if the information relates to disability beneficiaries, monitoring a beneficiary database for requests 
+for change of address may signal fraudulent activity. 
+
+[PDF page 16]
+   
+ 
+ 
+ 
+ 
+16
+ 
+2. Timeliness of the Notification 
+ 
+Agencies should provide notification without unreasonable delay following the discovery of a 
+breach, consistent with the needs of law enforcement and national security and any measures 
+necessary for your agency to determine the scope of the breach and, if applicable, to restore the 
+reasonable integrity of the computerized data system compromised.  
+ 
+Decisions to delay notification should be made by the Agency Head or a senior-level individual 
+he/she may designate in writing. In some circumstances, law enforcement or national security 
+considerations may require a delay if it would seriously impede the investigation of the breach or 
+the affected individual. However, any delay should not exacerbate risk or harm to any affected 
+individual(s).   
+ 
+3. Source of the Notification 
+ 
+In general, notification to individuals affected by the breach should be issued by the Agency 
+Head, or senior-level individual he/she may designate in writing, or, in those instances where the 
+breach involves a publicly known component of an agency, such as the Food and Drug 
+Administration or the Transportation Security Administration, the Component Head. This 
+demonstrates it has the attention of the chief executive of the organization.  Notification 
+involving only a limited number of individuals (e.g., under 50) may also be issued jointly under 
+the auspices of the Chief Information Officer and the Chief Privacy Officer or Senior Agency 
+Official for Privacy.  This approach signals the agency recognizes both the security and privacy 
+concerns raised by the breach. 
+ 
+When the breach involves a Federal contractor or a public-private partnership operating a system 
+of records on behalf of the agency, the agency is responsible for ensuring any notification and 
+corrective actions are taken.  The roles, responsibilities, and relationships with contractors or 
+partners should be reflected in your breach notification policy and plan, your system certification 
+and accreditation documentation, and contracts and other documents.  
+ 
+4. Contents of the Notification 
+ 
+The notification should be provided in writing and should be concise, conspicuous, plain 
+language.  The notice should include the following elements: 
+ 
+• A brief description of what happened, including the date(s) of the breach and of its 
+discovery; 
+
+[PDF page 17]
+   
+ 
+ 
+ 
+ 
+17
+• To the extent possible, a description of the types of personal information involved in the 
+breach (e.g., full name, Social Security number, date of birth, home address, account 
+number, disability code, etc.); 
+• A statement whether the information was encrypted or protected by other means, when 
+determined such information would be beneficial and would not compromise the security 
+of the system; 
+• What steps individuals should take to protect themselves from potential harm, if any;  
+• What the agency is doing, if anything, to investigate the breach, to mitigate losses, and to 
+protect against any further breaches; and  
+• Who affected individuals should contact at the agency for more information, including a 
+toll-free telephone number, e-mail address, and postal address.  
+ 
+Given the amount of information required above, you may want to consider layering the 
+information as suggested in Section 5 below, providing the most important information up front, 
+with the additional details in a Frequently Asked Questions (FAQ) format or on your web site.  If 
+you have knowledge the affected individuals are not English speaking, notice should also be 
+provided in the appropriate language(s).  You may seek additional guidance on how to draft the 
+notice from the Federal Trade Commission, a leader in providing clear and understandable 
+notices to consumers, as well as from communication experts who may assist you in designing 
+model notices.47  A standard notice should be part of your approved breach plan. 
+ 
+5. Means of Providing Notification 
+ 
+The best means for providing notification will depend on the number of individuals affected and 
+what contact information is available about the affected individuals.  Notice provided to 
+individuals affected by a breach should be commensurate with the number of people affected and 
+the urgency with which they need to receive notice. The following examples are types of notice 
+which may be considered. 
+ 
+a. Telephone.  Telephone notification may be appropriate in those cases where urgency may 
+dictate immediate and personalized notification and/or when a limited number of individuals are 
+affected.  Telephone notification, however, should be contemporaneous with written notification 
+by first-class mail. 
+ 
+                                                 
+47 Additional guidance on how to draft a notice is available in the FTC publication titled “Dealing with a Data 
+Breach” (www.ftc.gov/bcp/edu/microsites/idtheft/business/data-breach.html). Although the brochure is designed for 
+private sector entities that have experienced a breach, it contains sample notice letters that could also serve as a 
+model for federal agencies.  You may also seek guidance from communications experts who may assist you in 
+designing model notices. 
+
+[PDF page 18]
+   
+ 
+ 
+ 
+ 
+18
+b. First-Class Mail.  First-class mail notification to the last known mailing address of the 
+individual in your agency’s records should be the primary means notification is provided.  Where 
+you have reason to believe the address is no longer current, you should take reasonable steps to 
+update the address by consulting with other agencies such as the US Postal Service. The notice 
+should be sent separately from any other mailing so that it is conspicuous to the recipient.  If the 
+agency which experienced the breach uses another agency to facilitate mailing (for example, if 
+the agency which suffered the loss consults the Internal Revenue Service for current mailing 
+addresses of affected individuals), care should be taken to ensure the agency which suffered the 
+loss is identified as the sender, and not the facilitating agency. The front of the envelope should 
+be labeled to alert the recipient to the importance of its contents, e.g., “Data Breach Information 
+Enclosed” and should be marked with the name of your agency as the sender to reduce the 
+likelihood the recipient thinks it is advertising mail. 
+ 
+c. E-Mail.  E-mail notification is problematic, because individuals change their e-mail 
+addresses and often do not notify third parties of the change. Notification by postal mail is 
+preferable. However, where an individual has provided an e-mail address to you and has 
+expressly given consent to e-mail as the primary means of communication with your agency, and 
+no known mailing address is available, notification by e-mail may be appropriate.  E-mail 
+notification may also be employed in conjunction with postal mail if the circumstances of the 
+breach warrant this approach. E-mail notification may include links to the agency and 
+www.USA.gov48 web sites, where the notice may be “layered” so the most important summary 
+facts are up front with additional information provided under link headings.   
+ 
+d. Existing Government Wide Services.  Agencies should use Government wide services 
+already in place to provide support services needed, such as USA Services, including toll free 
+number of 1-800-FedInfo and www.USA.gov. 
+ 
+e. Newspapers or other Public Media Outlets.  Additionally, you may supplement individual 
+notification with placing notifications in newspapers or other public media outlets.  You should 
+also set up toll-free call centers staffed by trained personnel to handle inquiries from the affected 
+individuals and the public. 
+ 
+f. Substitute Notice.  Substitute notice in those instances where your agency does not have 
+sufficient contact information to provide notification.  Substitute notice should consist of a 
+conspicuous posting of the notice on the home page of your agency’s web site and notification to 
+major print and broadcast media, including major media in areas where the affected individuals 
+reside.  The notice to media should include a toll-free phone number where an individual can 
+learn whether or not his or her personal information is included in the breach. 
+                                                 
+48 The current domain name for the Federal Internet portal required by section 204 of the E-Government Act of 2002 
+is www.usa.gov. 
+
+[PDF page 19]
+   
+ 
+ 
+ 
+ 
+19
+ 
+g. Accommodations.  Special consideration to providing notice to individuals who are 
+visually or hearing impaired consistent with Section 508 of the Rehabilitation Act of 1973 should 
+be given.   Accommodations may include establishing a Telecommunications Device for the 
+Deaf (TDD) or posting a large type notice on the agency web site.  
+ 
+6. Who Receives Notification: Public Outreach in Response to a Breach 
+ 
+a. Notification of Individuals.  The final consideration in the notification process when 
+providing notice is to whom you should provide notification: the affected individuals, the public 
+media, and/or other third parties affected by the breach or the notification.  Unless notification to 
+individuals is delayed or barred for law enforcement or national security reasons, once it has 
+been determined to provide notice regarding the breach, affected individuals should receive 
+prompt notification.   
+ 
+b. Notification of Third Parties including the Media.  If communicating with third parties 
+regarding a breach, agencies should consider the following.   
+ 
+1.  Careful Planning.  An agency’s decision to notify the public media will require 
+careful planning and execution so that it does not unnecessarily alarm the public.  When 
+appropriate, public media should be notified as soon as possible after the discovery of a breach 
+and the response plan, including the notification, has been developed.  Notification should focus 
+on providing information, including links to resources, to aid the public in its response to the 
+breach.  Notification may be delayed upon the request of law enforcement or national security 
+agencies as described above in Section 2.  To the extent possible, when necessary prompt public 
+media disclosure is generally preferable because delayed notification may erode public trust. 
+ 
+2.  Web Posting.  Agencies should post information about the breach and notification in a 
+clearly identifiable location on the home page of your agency web site as soon as possible after 
+the discovery of a breach and the decision to provide notification to the affected individuals.  The 
+posting should include a link to Frequently Asked Questions (FAQ) and other talking points to 
+assist the public’s understanding of the breach and the notification process.49  The information 
+should also appear on the www.USA.gov web site.  You may also consult with GSA’s USA 
+Services regarding using their call center.   
+ 
+3.  Notification of other Public and Private Sector Agencies.  Other public and private 
+sector agencies may need to be notified on a need to know basis, particularly those that may be 
+                                                 
+49 See the FAQ posted by the Department of Veterans Affairs in response to the May 2006 incident for examples of 
+links to identity theft resources and a sample FAQ (www.usa.gov/veteransinfo.shtml). 
+
+[PDF page 20]
+   
+ 
+ 
+ 
+ 
+20
+affected by the breach or may play a role in mitigating the potential harms stemming from the 
+breach.50  
+ 
+4.  Congressional Inquiries.  Agencies should be prepared to respond to inquires from 
+other governmental agencies such as the Government Accountability Office and Congress.  
+ 
+c. Reassess the Level of Impact Assigned to the Information.  After evaluating each of these 
+factors, you should review and reassess the level of impact you have already assigned to the 
+information using the impact levels defined by the NIST.51  The impact levels – low, moderate, 
+and high, describe the (worst case) potential impact on an organization or individual if a breach 
+of security occurs.52   
+ 
+• Low: the loss of confidentiality, integrity, or availability is expected to have a limited 
+adverse effect on organizational operations, organizational assets or individuals  
+• Moderate: the loss of confidentiality, integrity, or availability is expected to have a 
+serious adverse effect on organizational operations, organizational assets or individuals. 
+• High: the loss of confidentiality, integrity, or availability is expected to have a severe or 
+catastrophic adverse effect on organizational operations, organizational assets or 
+individuals. 
+ 
+The impact levels will help determine when and how notification should be provided. Where 
+there is a range of risk levels attributed to the factors, the decision to provide notification should 
+give greater weight to the likelihood the information is accessible and usable and whether the 
+breach may lead to harm.  If agencies appropriately apply the five risk factors discussed in 
+section 1 of this attachment within the fact-specific context, it is likely notification will only be 
+given in those instances where there is a reasonable risk of harm and will not lead to the overuse 
+of notification.  
+                                                 
+50 For example, a breach involving medical information may warrant notification of the breach to health care 
+providers and insurers through the public or specialized health media, and a breach of financial information may 
+warrant notification to financial institutions through the federal banking agencies. 
+51 See FIPS 199 and Attachment 1 of this memorandum.  Reassessment is suggested as the context of any breach 
+may alter your original designation. 
+52 The determination of the potential impact of loss of information is made by the agency during an information 
+system’s certification and accreditation process.   
+
+[PDF page 21]
+   
+ 
+ 
+ 
+ 
+21
+                                                
+Attachment 4:  Rules and Consequences 
+ 
+A.  New Requirement: Rules and Consequences Policy.  
+ 
+Fairness requires that managers, supervisors and employees be informed and trained regarding 
+their respective responsibilities relative to safeguarding personally identifiable information and 
+the consequences and accountability for violation of these responsibilities. Therefore, it is the 
+responsibility of each agency head to develop and implement an appropriate policy outlining the 
+rules of behavior and identifying consequences and corrective actions available for failure to 
+follow these rules. Consequences should be commensurate with level of responsibility and type 
+of personally identifiable information involved. Supervisors also must be reminded of their 
+responsibility to instruct, train and supervise employees on safeguarding personally identifiable 
+information. Agencies should develop and implement these policies in accordance with the 
+agency's respective existing authorities. 
+ 
+As with any disciplinary action, the particular facts and circumstances, including whether the 
+breach was intentional, will be considered in taking appropriate action.  Supervisors also should 
+be reminded that any action taken must be consistent with law, regulation, applicable case law, 
+and any relevant collective bargaining agreement.  Supervisors should understand they may be 
+subject to disciplinary action for failure to take appropriate action upon discovering the breach or 
+failure to take required steps to prevent a breach from occurring.   
+ 
+Agencies having questions regarding development of a rules and consequences policy may 
+contact OPM’s Center for Workforce Relations and Accountability Policy at (202) 606-2930. 
+ 
+1. Affected Individuals.  At a minimum, each agency should have a documented policy in place 
+which applies to employees of the agency (including managers), and its contractors, licensees, 
+certificate holders, and grantees.   
+ 
+2. Affected Actions.  The agency’s policy should describe the terms and conditions affected 
+individuals shall be subject to and identify available corrective actions. Rules of behavior and 
+corrective actions should address the following:  
+ 
+• Failure to implement and maintain security controls, for which an employee is 
+responsible and aware, for personally identifiable information regardless of whether such 
+action results in the loss of control53 or unauthorized disclosure of personally identifiable 
+information; 
+ 
+53 Here, “control” means the authority of the government agency that originates information, or its successor in 
+function, to regulate access to the information. Having control is a condition or state and not an event.  Loss of 
+control is also a condition or state which may or may not lead to an event, i.e., a breach. 
+
+[PDF page 22]
+   
+ 
+ 
+ 
+ 
+22
+• Exceeding authorized access to, or disclosure to unauthorized persons of, personally 
+identifiable information; 
+• Failure to report any known or suspected loss of control or unauthorized disclosure of 
+personally identifiable information; and 
+• For managers, failure to adequately instruct, train, or supervise employees in their 
+responsibilities. 
+ 
+3. Consequences.  Applicable consequences may include reprimand, suspension, removal, or 
+other actions in accordance with applicable law and agency policy.  The minimum consequence 
+agencies should consider is prompt removal of authority to access information or systems from 
+individuals who demonstrates egregious disregard or a pattern of error in safeguarding personally 
+identifiable information. 
+ 

@@ -1,0 +1,551 @@
+Appendix IV to OMB Circular No. A-130 Skip Main Navigation OMB Home White House Website Search: About OMB Director Jim Nussle Dep. Director Stephen McMillin Dep. Director Clay Johnson Organization Chart OMB News Releases Contact Us RSS Feeds President's Budget FY 2009 Budget Supplementals, 
+        Budget Amendments, and Releases Management President's Management Agenda Results.gov & Scorecards Program Performance E-gov Fed. Financial Management Fed. Procurement Policy Information & Regulatory Affairs Regulatory Matters OIRA Administrator Paperwork Requirements Statistical Prog. & Standards Information Policy, E-gov & IT Legislative Information Statements of Admin. Policy Testimony Reports to Congress Agency Information Circulars Memoranda Bulletins Privacy Guidance Grants Management Reports Appendix IV to OMB Circular No. A-130 Analysis of Key Sections 1. Purpose The purpose of this Appendix is to provide a general context and explanation for the contents of the key Sections of the
+Circular. 2. Background The Clinger-Cohen Act (also known as "Information Technology Management Reform Act of 1996" (Pub. L. 104-106,
+Division E, codified at 40 U.S.C. Chapter 25) grants to the Director of the Office of Management and Budget (OMB)
+various authorities for overseeing the acquisition, use, and disposal of information technology by the Federal government,
+so as to improve the productivity, efficiency, and effectiveness of Federal programs.  It supplements the information
+resources management (IRM) policies contained in the Paperwork Reduction Act (PRA) (44 U.S.C. Chapter 35). The Paperwork Reduction Act (PRA) of 1980, Public Law 96-511, as amended by the Paperwork Reduction Act of 1995,
+Public Law 104-13, codified at Chapter 35 of Title 44 of the United States Code, establishes a broad mandate for agencies
+to perform their information activities in an efficient, effective, and economical manner. Section 3504 authorizes the
+Director of OMB to develop and implement uniform and consistent information resources management policies; oversee
+the development and promote the use of information management principles, standards, and guidelines; evaluate agency
+information management practices in order to determine their adequacy and efficiency; and determine compliance of such
+practices with the policies, principles, standards, and guidelines promulgated by the Director. The Circular implements OMB authority under the PRA with respect to Section 3504(b), general information resources
+management policy, Section 3504(d), information dissemination, Section 3504(f), records management, Section 3504(g),
+privacy and security, and Section 3504(h), information technology. The Circular also implements certain provisions of the
+Privacy Act of 1974 (5 U.S.C. 552a); the Government Paperwork Elimination Act. (Pub. L. 105-277, Title XVII); the Chief
+Financial Officers Act (31 U.S.C. 3512 et seq.); Sections 111 and 206 of the Federal Property and Administrative Services
+Act of 1949, as amended (40 U.S.C. 759 and 487, respectively); the Computer Security Act (40 U.S.C. 759 note); the
+Budget and Accounting Act of 1921 (31 U.S.C. 1 et seq.); and Executive Order No. 12046 of March 27, 1978, and
+Executive Order No. 12472 of April 3, 1984, Assignment of National Security and Emergency Telecommunications
+Functions. The Circular complements 5 CFR Part 1320, Controlling Paperwork Burden on the Public, which implements
+other Sections of the PRA dealing with controlling the reporting and recordkeeping burden placed on the public. 3. Analysis Section 6, Definitions. Access and Dissemination. The original Circular No. A-130 distinguished between the terms
+"access to information" and "dissemination of information" in order to separate statutory requirements from policy
+considerations. The first term means giving members of the public, at their request, information to which they are entitled
+by a law such as the FOIA. The latter means actively distributing information to the public at the initiative of the agency.
+The distinction appeared useful at the time Circular No. A-130 was written, because it allowed OMB to focus discussion on
+Federal agencies' responsibilities for actively distributing information. However, popular usage and evolving technology
+have blurred differences between the terms "access" and "dissemination" and readers of the Circular were confused by the
+distinction. For example, if an agency "disseminates" information via an on-line computer system, one speaks of permitting
+users to "access" the information, and on-line "access" becomes a form of "dissemination." Thus, the revision defines only the term "dissemination." Special considerations based on access statutes such as the
+Privacy Act and the FOIA are explained in context. Government Information. The definition of "government information" includes information created, collected, processed,
+disseminated, or disposed of both by and for the Federal Government. This recognizes the increasingly distributed nature of
+information in electronic environments. Many agencies, in addition to collecting information for government use and for
+dissemination to the public, require members of the public to maintain information or to disclose it to the public. Sound
+information resources management dictates that agencies consider the costs and benefits of a full range of alternatives to
+meet government objectives. In some cases, there is no need for the government actually to collect the information itself,
+only to assure that it is made publicly available. For example, banks insured by the FDIC must provide statements of
+financial condition to bank customers on request. Particularly when information is available in electronic form, networks
+make the physical location of information increasingly irrelevant. The inclusion of information created, collected, processed, disseminated, or disposed of for the Federal Government in the
+definition of "government information" does not imply that responsibility for implementing the provisions of the Circular
+itself extends beyond the executive agencies to other entities. Such an interpretation would be inconsistent with Section 4,
+Applicability, and with existing law. For example, the courts have held that requests to Federal agencies for release of
+information under the FOIA do not always extend to those performing information activities under grant or contract to a
+Federal agency. Similarly, grantees may copyright information where the government may not. Thus the information
+responsibilities of grantees and contractors are not identical to those of Federal agencies except to the extent that the
+agencies make them so in the underlying grants or contracts. Similarly, agency information resources management
+responsibilities do not extend to other entities. Information Dissemination Product. This notice defines the term "information dissemination product" to include all
+information that is disseminated by Federal agencies. While the provision of access to on-line databases and search
+software included on compact disk, read-only memory (CD-ROM) are often called information services rather than
+products, there is no clear distinction and, moreover, no real difference for policy purposes between the two. Thus, the term
+"information dissemination product" applies to both products and services, and makes no distinction based on how the
+information is delivered. Section 8a(1). Information Management Planning. Parallel to new Section 7, Basic Considerations and Assumptions,
+Section 8a begins with information resources management planning. Planning is the process of establishing a course of
+action to achieve desired results with available resources. Planners translate organizational missions into specific goals and,
+in turn, into measurable objectives. The PRA introduced the concept of information resources management and the principle of information as an institutional
+resource which has both value and associated costs. Information resources management is a tool that managers use to
+achieve agency objectives. Information resources management is successful if it enables managers to achieve agency
+objectives efficiently and effectively. Information resources management planning is an integral part of overall mission planning. Agencies need to plan from the
+outset for the steps in the information life cycle. When creating or collecting information, agencies must plan how they will
+process and transmit the information, how they will use it, how they will protect its integrity, what provisions they will
+make for access to it, whether and how they will disseminate it, how they will store and retrieve it, and finally, how the
+information will ultimately be disposed of. They must also plan for the effects their actions and programs will have on the
+public and State and local governments. The Role of State and Local Governments. OMB made additions at Sections 7a, 7e, and 7j, Basic Considerations and
+Assumptions, concerning State and local governments, and also in policy statements at Sections 8a(1)(c), (3)(f), (5)(d)(iii),
+and (8)(e). State and local governments, and tribal governments, cooperate as major partners with the Federal Government in the
+collection, processing, and dissemination of information. For example, State governments are the principal collectors
+and/or producers of information in the areas of health, welfare, education, labor markets, transportation, the environment,
+and criminal justice. The States supply the Federal Government with data on aid to families with dependent children;
+medicare; school enrollments, staffing, and financing; statistics on births, deaths, and infectious diseases; population related
+data that form the basis for national estimates; employment and labor market data; and data used for census geography.
+National information resources are greatly enhanced through these major cooperating efforts. Federal agencies need to be sensitive to the role of State and local governments, and tribal governments, in managing
+information and in managing information technology. When planning, designing, and carrying out information collections,
+agencies should systematically consider what effect their activities will have on cities, counties, and States, and take steps
+to involve these governments as appropriate. Agencies should ensure that their information collections impose the
+minimum burden and do not duplicate or conflict with local efforts or other Federal agency requirements or mandates. The
+goal is that Federal agencies routinely integrate State and local government concerns into Federal information resources
+management practices. This goal is consistent with standards for State and local government review of Federal policies and
+programs. Training. Training is particularly important in view of the changing nature of information resources management.
+Decentralization of information technology has placed the management of automated information and information
+technology directly in the hands of nearly all agency personnel rather than in the hands of a few employees at centralized
+facilities. Agencies must plan for incorporating policies and procedures regarding computer security, records management,
+protection of privacy, and other safeguards into the training of every employee and contractor. Section 8a(2). Information Collection. The PRA requires that the creation or collection of information be carried out in an
+efficient, effective, and economical manner. When Federal agencies create or collect information -- just as when they
+perform any other program functions -- they consume scarce resources. Such activities must be continually evaluated for
+their relevance to agency missions. Agencies must justify the creation or collection of information based on their statutory functions. Policy statement 8a(2)
+uses the justification standard -- "necessary for the proper performance of the functions of the agency" -- established by the
+PRA (44 U.S.C. 3508). Furthermore, the policy statement includes the requirement that the information have practical
+utility, as defined in the PRA (44 U.S.C. 3502(11)) and elaborated in 5 CFR Part 1320. Practical utility includes such
+qualities of information as accuracy, adequacy, and reliability. In the case of general purpose statistics or recordkeeping,
+practical utility means that actual uses can be demonstrated (5 CFR 1320.3(l)). It should be noted that OMB's intent in
+placing emphasis on reducing unjustified burden in collecting information, an emphasis consistent with the Act, is not to
+diminish the importance of collecting information whenever agencies have legitimate program reasons for doing so. Rather,
+the concern is that the burdens imposed should not exceed the benefits to be derived from the information. Moreover, if the
+same benefit can be obtained by alternative means that impose a lesser burden, that alternative should be adopted. Section 8a(3). Electronic Information Collection. Section 7l articulates a basic assumption of the Circular that modern
+information technology can help the government provide better service to the public through improved management of
+government programs. One potentially useful application of information technology is in the government's collection of
+information. While some information collections may not be good candidates for electronic techniques, many are. Agencies
+with major electronic information collection programs have found that automated information collections allow them to
+meet program objectives more efficiently and effectively. Electronic data interchange (EDI) and related standards for the
+electronic exchange of information will ease transmission and processing of routine business transaction information such
+as invoices, purchase orders, price information, bills of lading, health insurance claims, and other common commercial
+documents. EDI holds similar promise for the routine filing of regulatory information such as tariffs, customs declarations,
+license applications, tax information, and environmental reports. Benefits to the public and agencies from electronic information collection appear substantial. Electronic methods of
+collection reduce paperwork burden, reduce errors, facilitate validation, and provide increased convenience and more
+timely receipt of benefits. The policy in Section 8a(3) encourages agencies to explore the use of automated techniques for collection of information,
+and sets forth conditions conducive to the use of those techniques. Section 8a(4). Records Management. Section 8a(4) begins with the fundamental requirement for Federal records
+management, namely, that agencies create and keep adequate and proper documentation of their activities. Federal agencies
+cannot carry out their missions in a responsible and responsive manner without adequate recordkeeping. Section 7h
+articulates the basic considerations concerning records management. Policy statements concerning records management are
+also interwoven throughout Section 8a, particularly in subsections on planning (8a(1)(j)), information dissemination
+(8a(6)), and safeguards (8a(9)). Records support the immediate needs of government -- administrative, legal, fiscal -- and ensure its continuity. Records are
+essential for protecting the rights and interests of the public, and for monitoring the work of public servants. The
+government needs records to ensure accountability to the public which includes making the information available to the
+public. Each stage of the information life cycle carries with it records management responsibilities. Agencies need to record their
+plans, carefully document the content and procedures of information collection, ensure proper documentation as a feature
+of every information system, keep records of dissemination programs, and, finally, ensure that records of permanent value
+are preserved. Preserving records for future generations is the archival mission. Advances in technology affect the amount of information
+that can be created and saved, and the ways this information can be made available. Technological advances can ease the
+task of records management; however, the rapid pace of change in modern technology makes decisions about the
+appropriate application of technology critical to records management. Increasingly the records manager must be concerned
+with preserving valuable electronic records in the context of a constantly changing technological environment. Records schedules are essential for the appropriate maintenance and disposition of records. Records schedules must be
+prepared in a timely fashion, implement the General Records Schedules issued by the National Archives and Records
+Administration, be approved by the Archivist of the United States, and be kept accurate and current. (See 44 U.S.C. 3301 et
+seq.) The National Archives and Records Administration and the General Services Administration provide guidance and
+assistance to agencies in implementing records management responsibilities. They also evaluate agencies' records
+management programs to determine the extent to which they are appropriately implementing their records management
+responsibilities. Sections 8a(5) and 8a(6). Information Dissemination Policy. Sections 8a(5) and 8a(6). Information Dissemination Policy. Section 8a(5). As described in Section 11 of the "Electronic Freedom of Information Act Amendments of 1996" (Pub. L.
+104-231), 5 U.S.C. 552(g), an agency must place its index and description of major information and record locator systems
+in its reference material or guide. We expect that this index and description would include an agency's Government
+Information Locator Service (GILS) presence as well as any other major information and record locator systems the agency
+has identified. In addition, each agency should prepare a handbook that describes in one place the various ways by which a person can
+obtain public information from the agency, as well as the types and categories of information available. In preparing the
+handbook, each agency should review the dissemination policies contained in this Circular.  The handbook should be in
+plain English and user-friendly. Where applicable, it should indicate that the public is encouraged to access information
+electronically via the agency's home page or to search in its reading room, and that the public may also submit a request to
+the agency under the Freedom of Information Act. "Types and categories" of available information will vary from agency to
+agency, and agencies should describe their information resources in whatever manner seems most appropriate. Although the law does not require that the handbook be available on-line, OMB encourages agencies to do so as a matter of
+policy. The handbook should include the following elements: The location of reading rooms within the agency and within its major field offices, as well as a brief description of the
+types and categories of information available. The location of the agency's World Wide Web home page. A reference to the agency's FOIA regulations and how to get a copy. A reference to the agency's FOIA annual report and how to get a copy. The location of the agency's GILS page. A brief description of the types and categories of information generally available from the agency. In addition, if there is an on-line version, it should have electronic links to these elements wherever they exist. Every agency has a responsibility to inform the public within the context of its mission. This responsibility requires that
+agencies distribute information at the agency's initiative, rather than merely responding when the public requests
+information. Section 8a(5). Every agency has a responsibility to inform the public within the context of its mission. This responsibility
+requires that agencies distribute information at the agency's initiative, rather than merely responding when the public
+requests information. The FOIA requires each agency to publish in the Federal Register current descriptions of agency organization, where and
+how the public may obtain information, the general methods and procedural requirements by which agency functions are
+determined, rules of procedure, descriptions of forms and how to obtain them, substantive regulations, statements of
+general policy, and revisions to all the foregoing (5 U.S.C. 552(a)(1)). The Privacy Act also requires publication of
+information concerning "systems of records" which are records retrieved by individual identifier such as name, Social
+Security Number, or fingerprint. The Government in the Sunshine Act requires agencies to publish meeting announcements
+(5 U.S.C. 552b (e)(1)). The PRA (44 U.S.C. 3507(a)(2)) and its implementing regulations (5 CFR Part 1320) require
+agencies to publish notices when they submit information collection requests for OMB approval. The public's right of
+access to government information under these statutes is balanced against other concerns, such as an individual's right to
+privacy and protection of the government's deliberative process. As agencies satisfy these requirements, they provide the public basic information about government activities. Other
+statutes direct specific agencies to issue specific information dissemination products or to conduct information
+dissemination programs. Beyond generic and specific statutory requirements, agencies have responsibilities to disseminate
+information as a necessary part of performing their functions. For some agencies the responsibility is made explicit and
+sweeping; for example, the Agriculture Department is directed to "...diffuse among people of the United States, useful
+information on subjects connected with agriculture...." (7 U.S.C. 2201) For other agencies, the responsibility may be much
+more narrowly drawn. Information dissemination is also a consequence of other agency activities. Agency programs normally include an
+organized effort to inform the public about the program. Most agencies carry out programs that create or collect
+information with the explicit or implicit intent that the information will be made public. Disseminating information is in
+many cases the logical extension of information creation or collection. In other cases, agencies may have information that is not meant for public dissemination but which may be the subject of
+requests from the public. When the agency establishes that there is public demand for the information and that it is in the
+public interest to disseminate the information, the agency may decide to disseminate it automatically. The policy in Section 8a(5)(d) sets forth several factors for agencies to take into account in conducting their information
+dissemination programs. First, agencies must balance two goals: maximizing the usefulness of the information to the
+government and the public, and minimizing the cost to both. Deriving from the basic purposes of the PRA (44 U.S.C.
+3501), the two goals are frequently in tension because increasing usefulness usually costs more. Second, Section
+8a(5)(d)(ii) requires agencies to conduct information dissemination programs equitably and in a timely manner. The word
+"equal" was removed from this Section since there may be instances where, for example, an agency determines that its
+mission includes disseminating information to certain specific groups or members of the public, and the agency determines
+that user charges will constitute a significant barrier to carrying out this responsibility. Section 8a(5)(d)(iii), requiring agencies to take advantage of all dissemination channels, recognizes that information
+reaches the public in many ways. Few persons may read a Federal Register notice describing an agency action, but those
+few may be major secondary disseminators of the information. They may be affiliated with publishers of newspapers,
+newsletters, periodicals, or books; affiliated with on-line database providers; or specialists in certain information fields.
+While millions of information users in the public may be affected by the agency's action, only a handful may have direct
+contact with the agency's own information dissemination products. As a deliberate strategy, therefore, agencies should
+cooperate with the information's original creators, as well as with secondary disseminators, in order to further information
+dissemination goals and foster a diversity of information sources. An adjunct responsibility to this strategy is reflected in
+Section 8a(5)(d)(iv), which directs agencies to assist the public in finding government information. Agencies may
+accomplish this, for example, by specifying and disseminating "locator" information, including information about content,
+format, uses and limitations, location, and means of access. Section 8a(6). Information Dissemination Management System. This Section requires agencies to maintain an information
+dissemination management system which can ensure the routine performance of certain functions, including the essential
+functions previously required by Circular No. A-3. Smaller agencies need not establish elaborate formal systems, so long as
+the heads of the agencies can ensure that the functions are being performed. Subsection (6)(a) carries over a requirement from OMB Circular No. A-3 that agencies' information dissemination products
+are to be, in the words of 44 U.S.C. 1108, "necessary in the transaction of the public business required by law of the
+agency." (Circular No. A-130 uses the expression "necessary for the proper performance of agency functions," which OMB
+considers to be equivalent to the expression in 44 U.S.C. 1108.) The point is that agencies should determine systematically
+the need for each information dissemination product. Section 8a(6)(b) recognizes that to carry out effective information dissemination programs, agencies need knowledge of the
+marketplace in which their information dissemination products are placed. They need to know what other information
+dissemination products users have available in order to design the best agency product. As agencies are constrained by
+finite budgets, when there are several alternatives from which to choose, they should not expend public resources filling
+needs which have already been met by others in the public or private sector. Agencies have a responsibility not to
+undermine the existing diversity of information sources. At the same time, an agency's responsibility to inform the public may be independent of the availability or potential
+availability of a similar information dissemination product. That is, even when another governmental or private entity has
+offered an information dissemination product identical or similar to what the agency would produce, the agency may
+conclude that it nonetheless has a responsibility to disseminate its own product. Agencies should minimize such instances
+of duplication but could reach such a conclusion because legal considerations require an official government information
+dissemination product. Section 8a(6)(c) makes the Circular consistent with current practice (See OMB Bulletins 88-15, 89-15, 90-09, and 91-16),
+by requiring agencies to establish and maintain inventories of information dissemination products. (These bulletins
+eliminated annual reporting to OMB of title-by-title listings of publications and the requirement for agencies to obtain
+OMB approval for each new periodical. Publications are now reviewed as necessary during the normal budget review
+process.) Inventories help other agencies and the public identify information which is available. This serves both to increase
+the efficiency of the dissemination function and to avoid unnecessary burdens of duplicative information collections. A
+corollary, enunciated in Section 8a(6)(d), is that agencies can better serve public information needs by developing finding
+aids for locating information produced by the agencies. Finally, Section 8a(6)(f) recognizes that there will be situations
+where agencies may have to take appropriate steps to ensure that members of the public with disabilities whom the agency
+has a responsibility to inform have a reasonable ability to access the information dissemination products. Depository Library Program. Sections 8a(6)(g) and (h) pertain to the Federal Depository Library Program. Agencies are to
+establish procedures to ensure compliance with 44 U.S.C. 1902, which requires that government publications (defined in 44
+U.S.C. 1901 and repeated in Section 6 of the Circular) be made available to depository libraries through the Government
+Printing Office (GPO). Depository libraries are major partners with the Federal Government in the dissemination of information and contribute
+significantly to the diversity of information sources available to the public. They provide a mechanism for wide distribution
+of government information that guarantees basic availability to the public. Executive branch agencies support the
+depository library program both as a matter of law and on its merits as a means of informing the public about the
+government. On the other hand, the law places the administration of depository libraries with GPO. Agency responsibility
+for the depository libraries is limited to supplying government publications through GPO. Agencies can improve their performance in providing government publications as well as electronic information
+dissemination products to the depository library program. For example, the proliferation of "desktop publishing"
+technology in recent years has afforded the opportunity for many agencies to produce their own printed documents. Many
+such documents may properly belong in the depository libraries but are not sent because they are not printed at GPO. The
+policy requires agencies to establish management controls to ensure that the appropriate documents reach the GPO for
+inclusion in the depository library program. At present, few agencies provide electronic information dissemination products to the depository libraries. At the same
+time, a small but growing number of information dissemination products are disseminated only in electronic format. OMB believes that, as a matter of policy, electronic information dissemination products generally should be provided to the
+depository libraries. Given that production and supply of information dissemination products to the depository libraries is
+primarily the responsibility of GPO, agencies should provide appropriate electronic information dissemination products to
+GPO for inclusion in the depository library program. While cost may be a consideration, agencies should not conclude without investigation that it would be prohibitively
+expensive to place their electronic information dissemination products in the depository libraries. For electronic
+information dissemination products other than on-line services, agencies may have the option of having GPO produce the
+information dissemination product for them, in which case GPO would pay for depository library costs. Agencies should
+consider this option if it would be a cost effective alternative to the agency making its own arrangements for production of
+the information dissemination product. Using GPO's services in this manner is voluntary and at the agency's discretion.
+Agencies could also consider negotiating other terms, such as inviting GPO to participate in agency procurement orders in
+order to distribute the necessary copies for the depository libraries. With adequate advance planning, agencies should be
+able to provide electronic information dissemination products to the depository libraries at nominal cost. In a particular case, substantial cost may be a legitimate reason for not providing an electronic information dissemination
+product to the depository library program. For example, for an agency with a substantial number of existing titles of
+electronic information dissemination products, furnishing copies of each to the depository libraries could be prohibitively
+expensive. In that situation, the agency should endeavor to make available those titles with the greatest general interest,
+value, and utility to the public. Substantial cost could also be an impediment in the case of some on-line information
+services where the costs associated with operating centralized databases would make provision of unlimited direct access to
+numerous users prohibitively expensive. In both cases, agencies should consult with the GPO, in order to identify those
+information dissemination products with the greatest public interest and utility for dissemination. In all cases, however,
+where an agency discontinues publication of an information dissemination product in paper format in favor of electronic
+formats, the agency should work with the GPO to ensure availability of the information dissemination product to depository
+libraries. Notice to the Public. Sections 8a(6)(i) and (j) present new practices for agencies to observe in communicating with the
+public about information dissemination. Among agencies' responsibilities for dissemination is an active knowledge of, and
+regular consultation with, the users of their information dissemination products. A primary reason for communication with
+users is to gain their contribution to improving the quality and relevance of government information -- how it is created,
+collected, and disseminated. Consultations with users might include participation at conferences and workshops, careful
+attention to correspondence and telephone communications (e.g., logging and analyzing inquiries), or formalized user
+surveys. A key part of communicating with the public is providing adequate notice of agency information dissemination plans.
+Because agencies' information dissemination actions affect other agencies as well as the public, agencies must forewarn
+other agencies of significant actions. The decision to initiate, terminate, or substantially modify the content, form,
+frequency, or availability of significant products should also trigger appropriate advance public notice. Where appropriate,
+the Government Printing Office should be notified directly. Information dissemination products deemed not to be
+significant require no advance notice. Examples of significant products (or changes to them) might be those that: (a) are required by law; e.g., a statutorily mandated report to Congress; (b) involve expenditure of substantial funds; (c) by reason of the nature of the information, are matters of continuing public interest; e.g., a key economic
+indicator; (d) by reason of the time value of the information, command public interest; e.g., monthly crop reports on the day of
+their release; (e)will be disseminated in a new format or medium; e.g., disseminating a printed product in electronic medium, or
+disseminating a machine-readable data file via on-line access. Where members of the public might consider a proposed new agency product unnecessary or duplicative, the agency should
+solicit and evaluate public comments. Where users of an agency information dissemination product may be seriously
+affected by the introduction of a change in medium or format, the agency should notify users and consider their views
+before instituting the change. Where members of the public consider an existing agency product important and necessary,
+the agency should consider these views before deciding to terminate the product. In all cases, however, determination of
+what is a significant information dissemination product and what constitutes adequate notice are matters of agency
+judgment. Achieving Compliance with the Circular's Requirements. Section 8a(6)(k) requires that the agency information
+dissemination management system ensure that, to the extent existing information dissemination policies or practices are
+inconsistent with the requirements of this Circular, an orderly transition to compliance with the requirements of this
+Circular is made. For example, some agency information dissemination products may be priced at a level which exceeds
+the cost of dissemination, or the agency may be engaged in practices which are otherwise unduly restrictive. In these
+instances, agencies must plan for an orderly transition to the substantive policy requirements of the Circular. The
+information dissemination management system must be capable of identifying these situations and planning for a
+reasonably prompt transition. Instances of existing agency practices which cannot immediately be brought into
+conformance with the requirements of the Circular are to be addressed through the waiver procedures of Section 10(b). Section 8a(7). Avoiding Improperly Restrictive Practices. Federal agencies are often the sole suppliers of the information
+they hold. The agencies have either created or collected the information using public funds, usually in furtherance of unique
+governmental functions, and no one else has it. Hence agencies need to take care that their behavior does not
+inappropriately constrain public access to government information. When agencies use private contractors to accomplish dissemination, they must take care that they do not permit contractors
+to impose restrictions that undercut the agencies' discharge of their information dissemination responsibilities. The
+contractual terms should assure that, with respect to dissemination, the contractor behaves as though the contractor were the
+agency. For example, an agency practice of selling, through a contractor, on-line access to a database but refusing to sell
+copies of the database itself may be improperly restrictive because it precludes the possibility of another firm making the
+same service available to the public at a lower price. If an agency is willing to provide public access to a database, the
+agency should be willing to sell copies of the database itself. By the same reasoning, agencies should behave in an even-handed manner in handling information dissemination products.
+If an agency is willing to sell a database or database services to some members of the public, the agency should sell the
+same products under similar terms to other members of the public, unless prohibited by statute. When an agency decides it
+has public policy reasons for offering different terms of sale to different groups in the public, the agency should provide a
+clear statement of the policy and its basis. Agencies should not attempt to exert control over the secondary uses of their information dissemination products. In
+particular, agencies should not establish exclusive, restricted, or other distribution arrangements which interfere with timely
+and equitable availability of information dissemination products, and should not charge fees or royalties for the resale or
+redissemination of government information. These principles follow from the fact that the law prohibits the Federal
+Government from exercising copyright. Agencies should inform the public as to the limitations inherent in the information dissemination product (e.g., possibility
+of errors, degree of reliability, and validity) so that users are fully aware of the quality and integrity of the information. If
+circumstances warrant, an agency may wish to establish a procedure by which disseminators of the agency's information
+may at their option have the data and/or value-added processing checked for accuracy and certified by the agency. Using
+this method, redisseminators of the data would be able to respond to the demand for integrity from purchasers and users.
+This approach could be enhanced by the agency using its authority to trademark its information dissemination product, and
+requiring that redisseminators who wish to use the trademark agree to appropriate integrity procedures. These methods have
+the possibility of promoting diversity, user responsiveness, and efficiency as well as integrity. However, an agency's
+responsibility to protect against misuse of a government information dissemination product does not extend to restricting or
+regulating how the public actually uses the information. The Lanham Trademark Act of 1946, 15 U.S.C. 1055, 1125, 1127, provides an efficient method to address legitimate
+agency concerns regarding public safety. Specifically, the Act permits a trademark owner to license the mark, and to
+demand that the user maintain appropriate quality controls over products reaching consumers under the mark. See
+generally, McCarthy on Trademarks, Sec. 18.13. When a trademark owner licenses the trademark to another, it may retain
+the right to control the quality of goods sold under the trademark by the licensee. Furthermore, if a licensee sells goods
+under the licensed trademark in breach of the licensor's quality specifications, the licensee may be liable for breach of
+contract as well as for trademark infringement. This technique is increasingly being used to assure the integrity of digital
+information dissemination products. For example, the Census Bureau has trademarked its topologically integrated
+geographic encoding and referencing data product ("TIGER/Line"), which is used as official source data for legislative
+districting and other sensitive applications. Whenever a need for special quality control procedures is identified, agencies should adopt the least burdensome methods
+and ensure that the methods chosen do not establish an exclusive, restricted, or other distribution arrangement that
+interferes with timely and equitable availability of public information to the public. Agencies should not attempt to
+condition the resale or redissemination of its information dissemination products by members of the public. User charges. Title 5 of the Independent Offices Appropriations Act of 1952 (31 U.S.C. 9701) establishes Federal policy
+regarding fees assessed for government services, and for sale or use of government property or resources. OMB Circular
+No. A-25, User Charges, implements the statute. It provides for charges for government goods and services that convey
+special benefits to recipients beyond those accruing to the general public. It also establishes that user charges should be set
+at a level sufficient to recover the full cost of providing the service, resource, or property. Since Circular No. A-25 is silent
+as to the extent of its application to government information dissemination products, full cost recovery for information
+dissemination products might be interpreted to include the cost of collecting and processing information rather than just the
+cost of dissemination. The policy in Section 8a(7)(c) clarifies the policy of Circular No. A-25 as it applies to information
+dissemination products. This policy was codified by the Paperwork Reduction Act of 1995 at 35 U.S.C. Section
+3506(d)(4)(D). Statutes such as FOIA and the Government in the Sunshine Act establish a broad and general obligation on the part of
+Federal agencies to make government information available to the public and to avoid erecting barriers that impede public
+access. User charges higher than the cost of dissemination may be a barrier to public access. The economic benefit to
+society is maximized when government information is publicly disseminated at the cost of dissemination. Absent statutory
+requirements to the contrary, the general standard for user charges for government information dissemination products
+should be to recover no more than the cost of dissemination. It should be noted in this connection that the government has
+already incurred the costs of creating and processing the information for governmental purposes in order to carry out its
+mission. Underpinning this standard is the FOIA fee structure which establishes limits on what agencies can charge for access to
+Federal records. That Act permits agencies to charge only the direct reasonable cost of search, reproduction and, in certain
+cases, review of requested records. In the case of FOIA requests for information dissemination products, charges would be
+limited to reasonable direct reproduction costs alone. No search would be needed to find the product, thus no search fees
+would be charged. Neither would the record need to be reviewed to determine if it could be withheld under one of the Act's
+exemptions since the agency has already decided to release it. Thus, FOIA provides an information "safety net" for the
+public. While OMB does not intend to prescribe procedures for pricing government information dissemination products, the cost of
+dissemination may generally be thought of as the sum of all costs specifically associated with preparing a product for
+dissemination and actually disseminating it to the public. When an agency prepares an information product for its own
+internal use, costs associated with such production would not generally be recoverable as user charges on subsequent
+dissemination. When the agency prepares the product for public dissemination, and disseminates it, costs associated with
+preparation and actual dissemination would be recoverable as user charges. In the case of government databases which are made available to the public on-line, the costs associated with initial
+database development, including the costs of the necessary hardware and software, would not be included in the cost of
+dissemination. Once a decision is made to disseminate the data, additional costs logically associated with dissemination can
+be included in the user fee. These may include costs associated with modification of the database to make it suitable for
+dissemination, any hardware or software enhancements necessary for dissemination, and costs associated with providing
+customer service or telecommunications capacity. In the case of information disseminated via cd-rom, the costs associated with initial database development would likewise
+not be included in the cost of dissemination. However, a portion of the costs associated with formatting the data for cd-rom
+dissemination and the costs of mastering the cd-rom, could logically be included as part of the dissemination cost, as would
+the cost associated with licensing appropriate search software. Determining the appropriate user fee is the responsibility of each agency, and involves the exercise of judgment and
+reliance on reasonable estimates. Agencies should be able to explain how they arrive at user fees which represent average
+prices and which, given the likely demand for the product, can be expected to recover the costs associated with
+dissemination. When agencies provide custom tailored information services to specific individuals or groups, full cost recovery, including
+the cost of collection and processing, is appropriate. For example, if an agency prepares special tabulations or similar
+services from its databases in answer to a specific request from the public, all costs associated with fulfilling the request
+would be charged, and the requester should be so informed before work is begun. In a few cases, agencies engaging in information collection activities augment the information collection at the request of,
+and with funds provided by, private sector groups. Since the 1920's, the Bureau of the Census has carried out, on request,
+surveys of certain industries at greater frequency or at a greater level of detail than Federal funding would permit, because
+gathering the additional information is consistent with Federal purposes and industry groups have paid the additional
+information collection and processing costs. While the results of these surveys are disseminated to the public at the cost of
+dissemination, the existence and availability of the additional government data are special benefits to certain recipients
+beyond those accruing to the public. It is appropriate that those recipients should bear the full costs of information
+collection and processing, in addition to the normal costs of dissemination. Agencies must balance the requirement to establish user charges and the level of fees charged against other policies,
+specifically, the proper performance of agency functions and the need to ensure that information dissemination products
+reach the public for whom they are intended. If an agency mission includes disseminating information to certain specific
+groups or members of the public and the agency determines that user charges will constitute a significant barrier to carrying
+out this responsibility, the agency may have grounds for reducing or eliminating its user charges for the information
+dissemination product, or for exempting some recipients from the charge. Such reductions or eliminations should be the
+subject of agency determinations on a case by case basis and justified in terms of agency policies. Section 8a(8). Electronic Information Dissemination. Advances in information technology have changed government
+information dissemination. Agencies now have available new media and formats for dissemination, including CD-ROM,
+electronic bulletin boards, and public networks. The growing public acceptance of electronic data interchange (EDI) and
+similar standards enhances their attractiveness as methods for government information dissemination. For example,
+experiments with the use of electronic bulletin boards to advertise Federal contracting opportunities and to receive vendor
+quotes have achieved wider dissemination of information about business opportunities with the Federal Government than
+has been the case with traditional notices and advertisements. Improved information dissemination has increased the
+number of firms expressing interest in participating in the government market and decreased prices to the government due
+to expanded competition. In addition, the development of public electronic information networks, such as the Internet,
+provides an additional way for agencies to increase the diversity of information sources available to the public. Emerging
+applications such as Wide Area Information Servers and the World-wide Web (using the NISO Z39.50 standard) will be
+used increasingly to facilitate dissemination of government information such as environmental data, international trade
+information, and economic statistics in a networked environment. A basic purpose of the PRA is to "provide for the dissemination of public information on a timely basis, on equitable terms,
+and in a manner that promotes the utility of the information to the public and makes effective use of information
+technology." (44 U.S.C. 3501(7)) Agencies can frequently enhance the value, practical utility, and timeliness of government
+information as a national resource by disseminating information in electronic media. Electronic collection and
+dissemination may substantially increase the usefulness of government information dissemination products for three
+reasons. First, information disseminated electronically is likely to be more timely and accurate because it does not require
+data re-entry. Second, electronic records often contain more complete and current information because, unlike paper, it is
+relatively easy to make frequent changes. Finally, because electronic information is more easily manipulated by the user
+and can be tailored to a wide variety of needs, electronic information dissemination products are more useful to the
+recipients. As stated at Section 8a(1)(h), agencies should use voluntary standards and Federal Information Processing Standards to the
+extent appropriate in order to ensure the most cost effective and widespread dissemination of information in electronic
+formats. Agencies can frequently make government information more accessible to the public and enhance the utility of government
+information as a national resource by disseminating information in electronic media. Agencies generally do not utilize data
+in raw form, but edit, refine, and organize the data in order to make it more accessible and useful for their own purposes.
+Information is made more accessible to users by aggregating data into logical groupings, tagging data with descriptive and
+other identifiers, and developing indexing and retrieval systems to facilitate access to particular data within a larger file. As
+a general matter, and subject to budgetary, security or legal constraints, agencies should make available such features
+developed for internal agency use as part of their information dissemination products. There will also be situations where the agency determines that its mission will be furthered by providing enhancements
+beyond those needed for its own use, particularly those that will improve the public availability of government information
+over the long term. In these instances, the agency should evaluate the expected usefulness of the enhanced information in
+light of its mission, and where appropriate construct partnerships with the private sector to add these elements of value.
+This approach may be particularly appropriate as part of a strategy to utilize new technology enhancements, such as graphic
+images, as part of a particular dissemination program. Section 8a(9). Information Safeguards. The basic premise of this Section is that agencies should provide an appropriate
+level of protection to government information, given an assessment of the risks associated with its maintenance and use.
+Among the factors to be considered include meeting the specific requirements of the Privacy Act of 1974 and the Computer
+Security Act of 1987. In particular, agencies are to ensure that they meet the requirements of the Privacy Act regarding information retrievable by
+individual identifier. Such information is to be collected, maintained, and protected so as to preclude intrusion into the
+privacy of individuals and the unwarranted disclosure of personal information. Individuals must be accorded access and
+amendment rights to records, as provided in the Privacy Act. To the extent that agencies share information which they have
+a continuing obligation to protect, agencies should see that appropriate safeguards are instituted. Appendix I prescribes
+agency procedures for the maintenance of records about individuals, reporting requirements to OMB and Congress, and
+other special requirements of specific agencies, in accordance with the Privacy Act. This Section also incorporates the requirement of the Computer Security Act of 1987 that agencies plan to secure their
+systems commensurate with the risk and magnitude of loss or harm that could result from the loss, misuse, or unauthorized
+access to information contained in those systems. It includes assuring the integrity, availability, and appropriate
+confidentiality of information. It also involves protection against the harm that could occur to individuals or entities outside
+of the Federal Government as well as the harm to the Federal Government. Appendix III prescribes a minimum set of
+controls to be included in Federal automated information resources security programs and assigns Federal agency
+responsibilities for the security of automated information resources. The Section also includes limits on collection and
+sharing of information and procedures to assure the integrity of information as well as requirements to adequately secure
+the information. Incorporation of Circular No. A-114. OMB Circular No. A-114, Management of Federal Audiovisual Activities, last
+revised on March 20, 1985, prescribed policies and procedures to improve Federal audiovisual management. Although
+OMB has rescinded Circular No. A-114, its essential policies and procedures continue. This revision provides information
+resources management policies and principles independent of medium, including paper, electronic, or audiovisual. By
+including the term "audiovisual" in the definition of "information," audiovisual materials are incorporated into all policies
+of this Circular. The requirement in Circular No. A-114 that the head of each agency designate an office with responsibility for the
+management oversight of an agency's audiovisual productions and that an appropriate program for the management of
+audiovisual productions in conformance with 36 CFR 1232.4 is incorporated into this Circular at Section 9a(10). The
+requirement that audiovisual activities be obtained consistent with OMB Circular No. A-76 is covered by Sections 8a(1)(d),
+8a(5)(d)(i) and 8a(6)(b). The National Archives and Records Administration will continue to prescribe the records management and archiving
+practices of agencies with respect to audiovisual productions at 36 CFR 1232.4, "Audiovisual Records Management." Section 8b. Information Systems and Information Technology Management Section 8b(1). Capital planning and investment control. What is the capital planning and investment control process? The capital planning and investment control process is a systematic approach to managing the risks and returns of IT
+investments.  The process has three phases: select, control and evaluate.  The process covers all stages of capital
+programming, including planning, budgeting and procurement. For additional information describing capital planning,
+please consult Circular A - 11. What will happen if I don't maintain an IT Capital Plan? The IT Capital Plan is the document that demonstrates to the agency Investment Review Board and to OMB officials, that a
+project deserves Federal funds.  If the agency does not provide this information, merits of the project can not be
+determined. As part of the agency IT Capital Plan, do I need to report on both development, modernization and enhancement
+(DME) as well as Steady State investments? Yes. Additional information is provided in Part 3 of OMB Circular No. A-11, "Planning, Budgeting, and Acquisition of
+Capital Assets." As part of the portfolio view of the agency IT Capital Plan, do I only need to report on major investments? In accordance with the Clinger-Cohen Act and Circular A-11, agencies are required to manage all investments.  They must
+also provide OMB with individual IT Capital Plans for major projects, as well as significant projects at the request of
+OMB. Where can I get more information about return on investment (ROI)? Agencies that would like to learn more about compiling and demonstrating projected return on investments (ROI) are
+encouraged to consult the Federal CIO Council document "ROI and the Value Puzzle".  This document may be obtained at
+the CIO Councils' web page (http://cio.gov). Why do agencies need to conduct a Benefit-Cost Analysis? Benefit-cost analyses provide vital management information on the most efficient allocation of human, financial, and
+information resources to support agency missions. Agencies should conduct a benefit-cost analysis for each information
+system to support management decision making to ensure: (a) alignment of the planned information system with the
+agency's mission needs; (b) acceptability of information system implementation to users inside the Government; (c)
+accessibility to clientele outside the Government; and (d) realization of projected benefits. When preparing benefit-cost
+analyses to support investments in information technology, agencies should seek to quantify the improvements in agency
+performance results through the measurement of program outputs. The requirement to conduct a benefit-cost analysis need not become a burdensome activity for agencies. The level of detail
+necessary for such analyses varies greatly and depends on the nature of the proposed investment. Proposed investments in
+"major information systems" as defined in this Circular require detailed and rigorous analysis. This analysis should not
+merely serve as budget justification material, but should be part of the ongoing management oversight process to ensure
+prudent allocation of scarce resources. Proposed investments for information systems that are not considered "major
+information systems" can be analyzed more informally. While it is not necessary to create a new benefit-cost analysis at each stage of the information system life cycle, it is useful
+to refresh these analyses with up-to-date information to ensure the continued viability of an information system prior to and
+during implementation. Reasons for updating a benefit-cost analysis may include such factors as significant changes in
+projected costs and benefits, significant changes in information technology capabilities, major changes in requirements
+(including legislative or regulatory changes), or empirical data based on performance measurement gained through
+prototype results or pilot experience. How will portfolio management aid in the selection of investments? Agencies must also weigh the relative benefits of proposed investments in information technology across the agency. Given
+the fiscal constraints facing the Federal government, agencies should fund a portfolio of investments across the agency that
+maximizes return on investment for the agency as a whole. Agencies should also emphasize those proposed investments
+that show the greatest probability (i.e., display the lowest financial and operational risk) of achieving anticipated benefits
+for the organization. Is there a preferred model for information life cycles? The policy statements in this Circular describe an information system life cycle. It does not, however, make a definitive
+statement that there must be, for example, four versus five phases of a life cycle because the life cycle varies by the nature
+of the information system. Only two phases are common to all information systems - a beginning and an end. While each phase of an information system life cycle may have unique characteristics, the dividing line between the phases
+may not always be distinct. For instance, both planning and evaluation must continue throughout the information system
+life cycle. In fact, during any phase, it may be necessary to revisit the previous stages based on new information or changes
+in the environment in which the system is being developed. Why are post-implementation reviews necessary? Agencies will complete a retrospective evaluation of information systems once operational to validate projected savings,
+changes in practices, and effectiveness in serving stakeholders. These post-implementation reviews may also serve as the
+basis for agency-wide learning about effective management practices. Section 8b(2). Enterprise Architectures. How will the EA guide the agency? An EA should guide the agency's management of information resources for agency-wide information and information
+technology needs consistent with Section 8b(2) of this Circular.  The EA will help the agency cope with technology and
+business change by serving as a reference for updates to existing and new information systems. The EA will also assure
+interoperability of business processes, data, applications and technology as agencies integrate proposed information systems
+projects with one another and with existing legacy systems. Where can I get more information describing the EA? Agencies that require additional information on developing or maintaining
+  an EA are encouraged to consult the Federal CIO Council document entitled, "The
+  Federal Enterprise Architecture (FEA) Framework," which is available on the
+  CIO Council's web site (http://cio.gov).  The Architecture Plus web
+  site (http://www.itpolicy.gsa.gov/mke/archplus/archhome.htm) also has a number
+  of useful documents. What is an open systems environment? An open system should be based on an architecture with published or documented interface specifications that have been
+adopted by a standards settings body. What Enterprise Architecture issues must an agency consider that have government-wide  or multiple agency
+implications? The CIO Council has begun to address this issue in its "Federal Enterprise Architecture Framework (FEAF),  Version 1.0,"
+and subsequent versions.  The FEAF was created to promote shared development for common Federal processes,
+interoperability, and sharing of information among the agencies of the Federal government and other governmental entities,
+as required by the Clinger-Cohen Act.  The FEAF is recommend for use in (1) Federal government-wide efforts, (2) multi-Federal agency (2 or more agencies) efforts and, (3) whenever Federal business-areas and substantial Federal investment
+are involved with international, state, or local governments.  The Federal Enterprise Architecture Framework, Version 1.0,
+which is a conceptual model, begins the process of defining a better documented and coordinated structure for cross-cutting
+businesses and technology developments in the government. Collaboration among agencies who share a common business
+function promotes information sharing and is a prerequisite for the creation of a responsive electronic government. Where can I get more information on Federal EA efforts? Some other examples of ongoing Federal government efforts in this arena are Treasury Enterprise Architecture Framework
+(TEAF) and Command, Control, Communications, Intelligence, Surveillance, and Reconnaissance (C4ISR). Section 8b(3) Securing Agency Information Systems How should agencies incorporate security into management of information resources? Effective security is an essential element of all information systems.  A process assuring adequate security must be
+integrated into the agency's management of information resources.  This process should be a component of the both capital
+planning process and the EA.  A system's security requirements must be supported by the agency EA in order for it to be
+considered during the select phase of the capital planning process.  Agencies will use the control and evaluate phases of
+capital planning to ensure these security requirements are met throughout the system's life cycle.  For more information on
+computer security please read Appendix III of this Circular. Ultimately, who determines the acceptable level of security for a system? Each agency program official must understand the risk to systems under their control.  They are also responsible for
+determining the acceptable level of risk, ensuring adequate security is maintained to support and assist the programs under
+their control, ensuring that security controls comport with program needs and appropriately accommodate operational
+necessities.  In addition, program officials should work in conjunction with Chief Information Officers and other
+appropriate agency officials so that security measures support agency information architectures. Section 8b(4) Acquiring Information Technology What should agencies consider before acquiring a COTS solution? Commercial-off-the-shelf (COTS) products can provide agencies a cost effective and efficient solution.  However, often
+COTS products require customization for seamless use.  Therefore agencies must still thoroughly examine the impact of a
+COTS product selection.  A lessons-learned guide describing the risks of COTS products has been published by the
+Information Technology Resources Board (ITRB).  The guide, entitled "Assessing the Risks of Commercial-Off-The-Shelf
+(COTS) Applications," is available on the ITRB web site (http://www.itrb.gov). Section 9a(3). Chief Information Officer (CIO). To whom does the CIO report? Each agency must appoint a Chief Information Officer, as required by 44 U.S.C. 3506(a), who will report directly to the
+agency's head to carry out the responsibilities of the agency under the PRA. What is the CIO's role in the capital planning process? The CIO will ensure that a capital planning process is established and rigorously used to define and validate all information
+resource investments. Through this process, the CIO will monitor and evaluate the performance of the information
+technology portfolio of the agency and advise the agency head on key budget, program, and implementation issues
+concerning information technology. Additionally, the CIO will help establish a board composed of senior level managers, including the Chief Financial Officer
+and Chief Procurement Executive, who will have the responsibility of making key business recommendations on
+information resource investments, and who will be continuously involved.  Many agencies will institute a second board,
+composed of program or project level managers, with more detailed business and information resource knowledge.  They
+will be able to provide technical support to the senior level board in proposing, evaluating, and recommending information
+resource investments. What is the CIO's role in the annual budget process? The CIO will be an active participant during all agency annual budget processes and strategic planning activities, including
+the development, implementation, and maintenance of agency strategic plans. The CIO's role is to provide leadership and a
+strategic vision for using information technology to transform the agency. CIO's must also ensure that all information
+resource investments deliver a substantial mission benefit to the agency and/or a substantial return on investment (ROI) to
+the taxpayer. Additionally, the CIO will ensure integration of information resource planning processes and documentation with the
+agency's strategic, performance and budget process, in coordination with the CFO and Procurement Executive. Section 9a(4). Why is the CIO considered an Ombudsman? The CIO designated by the head of each agency under 44 U.S.C. 3506(a) is charged with carrying out the responsibilities of
+the agency under the PRA.  Agency CIOs are responsible for ensuring that their agency practices are in compliance with
+OMB policies. It is envisioned that the CIO will work as an ombudsman to investigate alleged instances of agency failures
+to adhere to the policies set forth in the Circular and to recommend or take corrective action as appropriate. Agency heads
+should continue to use existing mechanisms to ensure compliance with laws and policies. Section 9b. International Relationships. The information policies contained in the PRA and Circular A-130 are based on the
+premise that government information is a valuable national resource, and that the economic benefits to society are
+maximized when government information is available in a timely and equitable manner to all. Maximizing the benefits of
+government information to society depends, in turn, on fostering diversity among the entities involved in disseminating it.
+These include for-profit and not-for-profit entities, such as information vendors and libraries, as well as State, local and
+tribal governments. The policies on charging the cost of dissemination and against restrictive practices contained in the
+PRA and Circular A-130 are aimed at achieving this goal. Other nations do not necessarily share these values. Although an increasing number are embracing the concept of equitable
+and unrestricted access to public information -- particularly scientific, environmental, and geographic information of great
+public benefit -- other nations are treating their information as a commodity to be "commercialized". Whereas the
+Copyright Act, 17 U.S.C. 105, has long provided that "[c]opyright protection under this title is not available for any work
+of the United States Government," some other nations take advantage of their domestic copyright laws that do permit
+government copyright and assert a monopoly on certain categories of information in order to maximize revenues. Such
+arrangements tend to preclude other entities from developing markets for the information or otherwise disseminating the
+information in the public interest. Thus, Federal agencies involved in international data exchanges are sometimes faced with problems in disseminating data
+stemming from differing national treatment of government copyright. For example, one country may attempt to condition
+the sharing of data with a Federal agency on an agreement that the agency will withhold release of the information or
+otherwise restrict its availability to the public. Since the Freedom of Information Act does not provide a categorical
+exemption for copyrighted information, and Federal agencies have neither the authority nor capability to enforce
+restrictions on behalf of other nations, agencies faced with such restrictive conditions lack clear guidance as to how to
+respond. The results of the July 1995 Congress of the World Meteorological Organization, which sought to strike a balance of
+interests in this area, are instructive. Faced with a resolution which would have essentially required member nations to
+enforce restrictions on certain categories of information for the commercial benefit of other nations, the United States
+proposed a compromise which was ultimately accepted. The compromise explicitly affirmed the general principle that
+government meteorological information -- like all other scientific, technical and environmental information -- should be
+shared globally without restriction; but recognized that individual nations may in particular cases apply their own domestic
+copyright and similar laws to prevent what they deem to be unfair or inappropriate competition within their own territories.
+This compromise leaves open the door for further consultation as to whether the future of government information policy in
+a global information infrastructure should follow the "open and unrestricted access" model embraced by the United States
+and a number of other nations, or if it should follow the "government commercialization" model of others. Accordingly, since the PRA and Circular A-130 are silent as to how agencies should respond to similar situations, we are
+providing the following suggestions. They are intended to foster globally the open and unrestricted information policy
+embraced by the United States and like minded nations, while permitting agencies to have access to data provided by
+foreign governments with restrictive conditions. Release by a Federal agency of copyrighted information, whether under a FOIA request or otherwise, does not affect any
+rights the copyright holder might otherwise possess. Accordingly, agencies should inform any concerned foreign
+governments that their copyright claims may be enforceable under United States law, but that the agency is not authorized
+to prosecute any such claim on behalf of the foreign government. Whenever an agency seeks to negotiate an international agreement in which a foreign party seeks to impose restrictive
+practices on information to be exchanged, the agency should first coordinate with the State Department. The State
+Department will work with the agency to develop the least restrictive terms consistent with United States policy, and ensure
+that those terms receive full interagency clearance through the established process for granting agencies authority to
+negotiate and conclude international agreements. Finally, whenever an agency is attending meetings of international or multilateral organizations where restrictive practices
+are being proposed as binding on member states, the agency should coordinate with the State Department, the Office of
+Management and Budget, the Office of Science and Technology Policy, or the U.S. Trade Representative, as appropriate,
+before expressing a position on behalf of the United States. Return to Top Return to A-130 Federal Register | Jobs at OMB | FOIA | No FEAR | OMB Locator | USA.gov | Accessibility | Privacy Policy | Site Search | Help

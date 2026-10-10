@@ -1,0 +1,416 @@
+
+[PDF page 1]
+ EXECUTIVE OFFICE OF THE PRESIDENT 
+   OFFICE OF MANAGEMENT AND BUDGET 
+  WASHINGTON, D.C. 20503 
+ 
+ 
+   THE DIRECTOR 
+June 12, 1997 
+ 
+M-97-15 
+ 
+MEMORANDUM FOR HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES 
+ 
+FROM:   Franklin D. Raines 
+ 
+SUBJECT:   Local Telecommunications Services Policy 
+ 
+ 
+This memorandum adopts a consensus policy governing the acquisition of telecommunications 
+services by Federal agencies to serve their locations throughout the nation.  This policy was 
+developed by an interagency group of telecommunications managers (the General Services 
+Administration-sponsored Interagency Management Council) and approved by the Chief 
+Information Officers Council on February 19, 1997.  OMB is adopting this policy pursuant to 
+the Information Technology Management Reform Act, P.L. 104-106.  The policy is effective 
+immediately and will be reviewed in two years.     
+ 
+The goal of this local telecommunications services policy is to provide agencies the flexibility 
+and responsibility to acquire, operate, manage, and maintain telecommunications resources 
+while taking advantage of the economies of scale and management efficiencies that aggregation 
+of service and acquisitions can produce.  Careful analysis and coordination prior to individual 
+agency action can ensure that Federal organizations meet their telecommunications services 
+needs in the most cost-effective manner possible.  The policy relies upon existing internal 
+agency decision processes, but recognizes that the special characteristics of  “Shared Resource 
+Communities” -- locations where two or more agencies’ telecommunications needs are served 
+by a lead agency provider -- require a collective management approach.   
+ 
+The Interagency Management Council has agreed to establish and support a Local 
+Telecommunications Advisory Council (LTAC) to provide leadership in implementing this 
+policy.  The LTAC will facilitate agency aggregation of requirements, allow sharing of 
+telecommunications expertise, improve knowledge of service pricing and competition in 
+different geographic areas, and otherwise assist Federal organizations in making better 
+decisions on using their individual and collective telecommunications resources. 
+ 
+For further information regarding this guidance, please contact the Office of Information and 
+Regulatory Affairs at (202) 395-3785.  If you need information regarding the LTAC or other 
+local telecommunications service issues, please contact Margaret Binns of the General Services 
+Administration’s Federal Telecommunications Service at (202) 606-9000. 
+ 
+Attachment 
+ 
+
+[PDF page 2]
+-LOCAL TELECOMMUNICATIONS SERVICES POLICY- 
+ 
+ 
+1.   BACKGROUND 
+ 
+Public Law 104-106, the Information Technology Management Reform Act (ITMRA) effective 
+February 10, 1996, repeals the 1965 Brooks Act.  Consequently, regulatory control of 
+telecommunications and the General Services Administration's (GSA's) mandatory oversight role 
+ends August 8, 1996. 
+ 
+2.   PURPOSE 
+ 
+Experience has proven that aggregation of service and acquisitions can produce economies of 
+scale and management efficiencies.  Therefore, the local telecommunications services policy 
+goal is to foster an environment that gives agencies the latitude, flexibility, and responsibility to 
+acquire, operate, manage, and maintain telecommunications resources through collaborative 
+efforts within and among those agencies. 
+ 
+3.   POLICY 
+ 
+Consistent with the Information Technology Management Reform Act of 1996, Executive Order 
+13011, “Federal Information Technology,” requires Federal agencies to evaluate how they 
+perform their functions before investing in information technology.  Agencies should make 
+decisions regarding employment of information resources, including providing 
+telecommunications services to their locations throughout the nation, following an integrated 
+planning, budgeting, and evaluation process.  In keeping with this requirement, and in support of 
+a unified Federal Telecommunications Program, Federal organizations should acquire 
+telecommunications services in a manner that is most cost effective for the government.  There is 
+a rebuttable presumption that shared telecommunications are more efficient to the government as 
+a whole than services acquired by individual agencies for their own use.  Each organization’s 
+decision process should be documented in accordance with internal agency procedures.  This 
+policy applies to locations where existing telecommunications services are changing or new 
+telecommunications services are required. 
+ 
+3.1. SCOPE 
+ 
+Local Telecommunications includes any access services which provide, for a recurring fee, 
+electronic connectivity to the public switched network and those support services which provide 
+for the acquisition, operation, and management of attached systems.  Access
+
+[PDF page 3]
+services include local voice and data communications, videoconferencing, cellular and paging 
+services, and those services necessary for efficient operation and management of a 
+telecommunications system.  Agency private networks which use or aggregate local access to the 
+public switched network are likewise included. 
+ 
+3.2. EFFECTIVE DATE  
+ 
+This policy will be effective on the date of issuance.  At a minimum, it will be reviewed every 2 
+years. 
+ 
+4.   IMPLEMENTATION 
+ 
+The Interagency Management Council (IMC) shall charter and establish the Local 
+Telecommunications Advisory Council (LTAC) to provide leadership of the local 
+telecommunications services policy implementation as promulgated by the Office of 
+Management and Budget (OMB).  The LTAC will provide communications channels for 
+agencies to discuss the aggregation of requirements, foster the sharing of telecommunications 
+expertise, realize economies of scale through competition in the local area, and make better 
+decisions on using their individual and collective telecommunications resources. 
+ 
+4.1  LOCAL TELECOMMUNICATIONS ADVISORY COUNCIL (LTAC) 
+ 
+The LTAC will provide guidance and support, and facilitate the implementation of the local 
+telecommunications services policy.  In this role, the LTAC may establish local area working 
+groups or subcommittees.  Also, the LTAC can be a centralized repository for shared access to 
+telecommunications resources (e.g., on-line directory of telecommunications systems profiles, a 
+Federal governmentwide equipment/services contracts database, sample contracts and 
+Memoranda of Agreement (MOAs)).  The LTAC shall consist of not less than five members, 
+including GSA, who serve at the discretion of the IMC.  The IMC will arrange funding for any 
+additional staff or contractor support. 
+ 
+4.2  SHARED LOCAL TELECOMMUNICATIONS SERVICES 
+ 
+Federal agencies receiving local telecommunications services from another Federal agency, e.g., 
+a GSA consolidated switch, have a common responsibility to that community of agencies in 
+exchange for those services.  Such a community shall be considered a telecommunications 
+"Shared Resource Community." 
+
+[PDF page 4]
+The agency primarily responsible for provisioning telecommunications service(s) to members of 
+this community shall be the "Lead Agency."  Lead agencies must acknowledge their 
+responsibility(s) to provide services until an alternative arrangement has been coordinated with 
+the community and the LTAC.  Different agencies may take the lead in providing different 
+services.  MOAs will identify responsibilities and cost-recovery mechanisms.  GSA nor the 
+LTAC can mandate an agencies initial or continued participation in a shared resource 
+community. 
+ 
+4.3   TERMINATION OF SERVICES 
+ 
+If an agency, either the Lead Agency or a user agency, must or chooses to relinquish its role or if 
+sufficient agencies depart the shared resource community, a written "Notice of Intent to 
+Terminate Services" must be provided to the Shared Resource Community and to the LTAC 
+(180 calendar days for the Lead Agency; 90 calendar days for other agencies, or as soon as 
+notified of special circumstances such as a forced move.) before the projected termination date.  
+Departure from the shared resource community requires resolution of financial and operational 
+impacts with the remaining agencies.  All efforts shall be made to settle disputes at the local 
+level before bringing them to the LTAC.  Agencies can appeal LTAC decisions to the full IMC.  
+Any issues that cannot be resolved can be raised to the CIO Council by agency heads, before 
+presentation to OMB. 
+ 
+4.4  AGENCY RESPONSIBILITIES 
+ 
+Agencies are responsible for taking all actions necessary to implement this policy.  This includes 
+identification of appropriate levels of agency contacts; participation in working groups, 
+subcommittees, or users’ groups established by the LTAC; and cooperation and support of the 
+LTAC as requested. 
+ 
+4.5  REPORTING 
+ 
+The LTAC will brief the IMC on the status of issues at least quarterly.  Issues that cannot be 
+resolved by the LTAC may be elevated to the IMC. 
+ 
+4.6  IMPLEMENTATION STRATEGY AND CRITERIA 
+ 
+The implementation strategy and criteria section serves as a guide for the execution of the Local 
+Telecommunications Service Policy.  Inter-agency sharing/partnering is the baseline objective of 
+the Policy and this section.  Specifically, this section details items to consider when planning 
+local telecommunications service acquisitions, activities that should be performed in support of 
+the acquisition, and a sample process. 
+ 
+
+[PDF page 5]
+4.6.1  STRATEGY 
+ 
+The implementation strategy is based on the formation of the shared resource community(ies) 
+among Federal Agencies, the analysis of service alternatives, and the creation of a cost 
+recovery/responsibility/planning document(s). 
+ 
+The formation of the shared resource community (gathering together the agencies involved) can 
+be accomplished by the agency interested in making a telecommunications service change.  Or, 
+if solicited, the GSA regional infrastructure could function as a facilitator for inter-agency 
+collaboration (forming the shared resource community) for acquiring local telecommunications 
+services.  
+ 
+Once the shared resource community is established, the criteria in section 4.6.2 is to be 
+supported.  Also, a uniform cost analysis methodology (template/modeling tool) is to be applied, 
+to enhance the decision making process for acquiring local telecommunications services.  The 
+methodology should address the entire telecommunication system's lifecycle cost e.g. planning, 
+acquisition, management (operation & maintenance), and disposal.  Life cycle cost saving 
+thresholds and cost differential (change vs. status quo) thresholds should be a part of the cost 
+analysis.  An analysis methodology tool can be obtained from the LTAC. 
+ 
+The telecommunications service cost recovery approach should be documented within a 
+Memorandum of Agreement (MOA), and executed among the members of the shared resource 
+community.  Once established, the MOA should be reviewed/renewed (at an agency option) on a 
+fiscal year basis.  The MOA should detail site specific parameters, e.g. major milestone dates, 
+unique technical requirements, demarcation definition, termination procedures, and resource 
+sharing.  In addition, the MOA should establish performance measures for the shared resource 
+community.  The performance measures can assess the efficiency/effectiveness of utilizing 
+shared resources, record lessons learned as the shared resource community performs day-to-day 
+functions, and identify areas where emerging technologies can be applied to the community.  
+Sample MOAs are available from the LTAC.  
+ 
+Planning documentation should reflect the overall approach and the principles guiding the 
+decision making process.  At a minimum, documentation should consider the items listed in the 
+attached check list. 
+ 
+4.6.2  CRITERIA 
+ 
+Federal agencies should apply shared/collaborative (internally and with other federal agencies) 
+solutions for local telecommunications service acquisitions and management to reduce the 
+duplication of acquisition efforts.  The solutions should aggregate the service 
+
+[PDF page 6]
+requirements of as many federal agencies as possible (where appropriate), taking advantage of 
+economies of scale.  Any solution should comply with intra- and inter-agency physical access, 
+software and network security requirements, that maintain system integrity.  As in the case of all 
+IT investments, telecommunications investments should be in compliance with the ITMRA, 
+Executive Order number 13011, and associated implementing policies.  
+ 
+When telecommunications service for multiple agencies is involved, networks and/or common 
+equipment should be configured for multi-federal agency access to eliminate the excessive cost 
+of separate service deliveries.  The configurations can be established in a 'landlord' providing 
+service to 'tenant(s)' type environment.  
+ 
+The multi-federal agency approach supports sharing experienced telecommunications 
+management and operations resources, to augment existing staff, to reduce cost and to minimize 
+training impact.  The lead agency, contractors, and tenant agencies are all potential sources for 
+experienced telecommunications resources. 
+ 
+The agency primarily responsible for provisioning telecommunications service(s) to members of 
+the shared resource community shall be the "Lead Agency".  Also, the lead agency serves as the 
+primary liaison for the shared resource community. 
+ 
+4.6.3  PROCESS (Sample) 
+ 
+An overall sample process is illustrated in the following flow chart and described below as: 
+ 
+EXAMPLE: 
+ 
+A federal agency that we shall call "an Agency" requires a change to its telecommunications 
+service at a location.  This could be as a result of a modification or complete change to their 
+existing system, or they may just be looking for a better cost alternative to their existing service. 
+ 
+First, an Agency gives consideration to their own location’s specific requirements for 
+telecommunications services, within their own organization.  Next, to determine how to 
+provision the services they need to meet those requirements, they should investigate the 
+possibility of aggregation of services with other co-located agencies.  Then, an Agency should 
+determine if there is a shared resource community for telecommunications at their location, from 
+information provided by the LTAC/GSA.  If such a community is in existence, an Agency 
+should request membership with that community and task their representative to propose, 
+inform, and exchange information on new and existing techniques that are being applied in that 
+location and, as necessary, to provide their own alternative proposal(s) and/or to request 
+telecommunications assistance and support from the community. 
+ 
+
+[PDF page 7]
+Should an Agency learn that there is no such community available to them, they have the option 
+of proceeding on their own , or they may investigate the possibility of setting up a community 
+themselves, with possible assistance from GSA.  Such a community would then provide an 
+Agency with a common ground upon which to entertain new ideas about the provisioning of 
+telecommunications services in their area, and provide a venue for learning how other agencies 
+are meeting their own telecommunications requirements.  
+ 
+4.7  REFERENCE MATERIAL/INFORMATION 
+ 
+The following listing is some of the reference materials that will be available from the LTAC.  In 
+addition, your local GSA Regional contact is a source to access these types of reference 
+materials: 
+ 
+*  CIO Council documentation (available on the Internet at www.cio.fed.gov) 
+*  OMB policy documentation on IT investments.  
+*  Existing federal governmentwide or local equipment/services contracts. 
+*  Directory of telecommunications system profiles. 
+*  Automated cost analysis tool(s). 
+*  Directory of existing shared resource communities. 
+*  Documented lessons learned from the shared resource community or 
+      equipment/services.  
+*  Sample MOAs.  
+*  Sample Request for Proposals (RFP). 
+*  Sample contracts. 
+*  Sample performance measures. 
+ 
+The LTAC is available as a source for telecommunications information sharing and can be called 
+upon for advice/counsel.  In this role, the LTAC can identify alternatives that the shared resource 
+community (SRC) may consider. 
+ 
+The GSA FTS Office of Regional Service will serve as the initial point of contact, until the 
+LTAC is established and staffed. 
+ 
+5.0 JUDICIAL REVIEW 
+ 
+This memorandum is intended only to improve the internal management of the Federal 
+government and does not create any right or benefit, substantive or procedural, enforceable at 
+law or equity by a party against the United States, its agencies or instrumentalities, its officers or 
+employees, or any other person. 
+ 
+
+[PDF page 8]
+-CHECK LIST- 
+ 
+* Intra- and inter-federal agency installation locations. 
+   - Aggregation of local and long distance services. 
+   - Shared line/trunking configurations. 
+   - Shared technical (personnel) resources. 
+   - Number portability. 
+ 
+* Acquisition cost. 
+   - Solicitation preparation (RFP). 
+   - Technical evaluation. 
+   - Contract administration. 
+ 
+* Equipment costs. 
+   - Common. 
+   - Station sets. 
+   - Cable and wire. 
+   - Technology enhancements. 
+   - Depreciation. 
+  
+* Site preparation cost.  
+   - Telecommunications room. 
+   - Wire closets. 
+   - Support conduit. 
+   - Building infrastructure. 
+ 
+* Technology advancement cost. 
+   - System upgrades. 
+   - Technology upgrades.  
+ 
+* Maintenance cost. 
+   - Moves/Adds/Changes. 
+   - On site. 
+   - On call. 
+   - Preventative. 
+ 
+* System Management cost. 
+   - System administration. 
+   - Billing arrangements. 
+   - Infrastructure management. 
+   - Technical support. 
+ 
+* End of system lifecycle cost. 
+   - System disposal.  
+
+[PDF page 9]
+St ar t
+A n Agency 
+*  R equi r em ent :  
+N ew / C hange t o Local  
+T e l e c o mm S e r v i c e  
+*  C onsi der :  
+I nt r a- agency aggr egat i on 
+& r esour ce shar i ng
+W ill in te ra g e n c y  
+Shar ed R esour ce 
+C om m uni t y ( SR C )  be 
+u tiliz e d ?
+I s t her e an exi st i ng 
+SRC?
+W i l l  An Agenc y  
+fa c ilita te  th e  fo rm a tio n  
+of  t he SR C ?
+A n Agency obt ai ns 
+SR C  cont act  
+in fo rm a tio n  fro m  
+G SA R egi onal  
+cont act  or  t he 
+LTAC .  
+A n Agency 
+cont act s ot her  
+Feder al  Agenci es.
+G S A  to  fa c ilita te  
+cont act  w i t h ot her  
+Feder al  
+A genci es.
+M eet i ng w i t h SR C  
+est abl i shed.  
+Lead Agency & 
+ser vi ce opt i ons 
+i dent i f i ed.  
+C ost  anal ysi s 
+per f or m ed 
+M O A( s)  cr eat ed.
+A cqui r e t el ecom m  
+syst em / ser vi ces.  
+Begi n oper at i on & 
+m ai nt enance.
+W as an SR C  
+u tiliz e d ?
+Lead Agency 
+l i ai son act i vi t i es 
+e. g.  LTAC  
+i nt er f ace and 
+capt ur e l essons 
+l ear ned.  
+L o c a l T e le c o m m  
+S yst em / S er vi ce 
+l i f ecycl e com pl et e.
+End
+YES
+NO
+NO
+YES
+NO
+YES
+NO
+YES
+See Pol i cy Sect i on 4. 3 f or  
+Ter m i nat i on of  Ser vi ces 
+r esponsi bi l i t y
+ 
+ 

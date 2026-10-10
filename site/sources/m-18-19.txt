@@ -1,0 +1,2425 @@
+
+[PDF page 1]
+EXECUTIVE OFFICE OF THE PRESIDENT 
+OFFICE OF MANAGEMENT AND BUDGET 
+WASHINGTON , D.C. 20503 
+June 25, 2018 
+THE DIRECTOR 
+M-18-19 
+MEMORANDUM FOR HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES 
+FROM: 	 Mick Mulvaney ,/~-
+Director ~ 
+SUBJECT: 	 Improving the Management of Federal Programs and Projects through 
+Implementing the Program Management Improvement Accountability Act 
+(PMIAA) 
+On December 14, 2016, the Program Management Improvement Accountability Act (the Act or 
+the PMIAA), Pub. L. No. 114-264 , was signed into law. The Act aims to improve program and 
+project management (P/PM) practices within the Federal Government, requires Government­
+wide standards and policies for program management, and establishes a new interagency council 
+to improve P/PM practices among agencies. The Act establishes a new role, the Program 
+Management Improvement Officer (PMIO). The responsibility of PMIOs is to implement 
+program management policies established by their respective agencies and develop strategies to 
+enhance the role of program management and managers within their departments. Additionally, 
+the PMIAA requires that agencies conduct annual portfolio reviews of programs in coordination 
+with the Office of Management and Budget (OMB) to ensure major programs are being managed 
+effectively, and that OMB conduct reviews of areas identified by the Government Accountability 
+Office (GAO) as "high risk." 
+The Act complements implementation of the President's Management Agenda and the broader 
+Administration goal of ensuring taxpayer dollars are providing critical Federal services to 
+citizens efficiently and cost-effectively. This Memorandum establishes initial implementation 
+guidance to begin a coordinated and Government-wide approach to strengthen P/PM practices in 
+Federal agencies and improve Government performance. 
+Improving P /PM practices across the Federal Government will require sustained and focused 
+efforts by agency leadership. OMB will issue updated guidance as agency and Federal manager 
+competencies in P/PM continue to develop. This guidance will also be incorporated into future 
+revisions of OMB Circular A-11, Part 6, to reinforce the importance of P/PM practices as part of 
+a broader complement of enterprise-wide management-related competencies that agency Chief 
+Operating Officers (COOs) must prioritize to enable improved program outcomes and 
+performance of the Federal Government. 1 
+1 Applicable provisions of this guidance will also be incorporated into the OMB Information Technology Capital 
+Planning guidance to ensure effective P/PM for major information technology (IT) investments. 
+
+
+[PDF page 2]
+ 
+ 
+ 
+   
+ 
+    
+    
+   
+    
+ 
+ 
+    
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+   
+   
+ 
+ 
+   
+  
+ 
+ 
+  
+  
+  
+  
+      
+ 
+   
+      
+ 
+  
+   
+  
+  
+   
+ 
+    
+   
+      
+  
+	 
+
+ 
+
+ 
+
+	 
+	 
+	 
+	 
+5-Year Strategic Outline for Improving P/PM (Executive Summary) 
+Federal program and project managers have an important obligation to ensure programs and 
+projects deliver critical services to the American public efficiently and effectively. To 
+accomplish this, OMB and Federal agencies will leverage three key strategies as part of a 5-year 
+strategic plan for implementing the PMIAA. Outlined below, these strategies focus on clarifying 
+key roles and responsibilities, identifying principles-based standards, holding managers 
+accountable for results, and building a capable program management workforce. 
+1.	 Strategy 1 – Coordinated Governance: Leverage a coordinated approach and 
+governance structure that clarifies key roles and responsibilities for senior leader
+ 
+engagement in strengthening P/PM, and establishes broadly applicable program
+ 
+management principles and standards. 
+Improving program management will require leadership from each agency COO and 
+agency PMIO, with close collaboration across all agency mission and mission-support 
+functions. 
+•	 Agency COOs will provide organizational leadership to improve program 
+performance by ensuring organizational and staff expertise across a range of 
+management skills and disciplines, including but not limited to P/PM. 
+•	 Agency PMIOs, reporting directly to the COO (or other equivalent senior agency 
+official responsible for agency program performance), will lead efforts to enhance 
+the role and practice of program management. 
+•	 The Program Management Policy Council (the Council or PMPC), 
+comprising OMB and agency officials, will oversee implementation of the Act’s 
+major provisions and strengthen agency program management by developing 
+capacity, facilitating cross-agency learning, improving cooperation, and sharing 
+best practices identified by agencies and the private sector. 
+To facilitate common understanding and implementation across agencies, key terms 
+related to P/PM are also described in Appendix 7 to this guidance. 
+The PMIAA also requires the establishment of Government-wide P/PM standards, 
+policies, and guidelines for P/PM for agencies. A set of common, principle-based 
+Government-wide program management standards provide foundational resources that 
+agencies can leverage to ensure they produce their desired outcomes and effectively 
+contribute towards the achievement of agency mission and strategic goals and objectives.  
+2.	 Strategy 2 – Regular OMB/Agency Engagement and Reviews: Hold managers 
+accountable for results through annual program portfolio reviews. These reviews will 
+assess performance and identify opportunities for improvement as well as point out 
+barriers to achieving program outcomes. These portfolio reviews will be conducted in 
+2 
+
+[PDF page 3]
+ 
+ 
+   
+  
+   
+ 
+ 
+   
+  
+ 
+   
+ 
+    
+   
+  
+ 
+ 
+  
+     
+     
+    
+      
+ 
+     
+     
+ 
+ 
+     
+      
+  
+  
+   
+     
+     
+  
+ 
+ 
+ 
+ 
+         
+     
+ 
+  
+  
+       
+ 
+	 
+	 
+coordination with the agency internal review processes supporting the analyses generated 
+for the agency’s annual Strategic Review meeting with OMB. Portfolio reviews will 
+incorporate a set of broadly applicable program management principles, practices and 
+standards associated with successful program outcomes, in addition to more specific 
+standards based on the type of program being reviewed. Agency managers will be held 
+accountable for addressing areas identified for improvement during the review. OMB will 
+also coordinate reviews of programs identified by the GAO as most “at risk” for fraud, 
+waste, abuse, and mismanagement, or most in need of transformation to address 
+economic, efficiency, or effectiveness challenges. 
+3.	 Strategy 3 – Strengthening Program Management Capacity to Build a Capable PM 
+Workforce: Utilize a new or updated job series, or a job identifier, to better track the 
+P/PM workforce and investment in building program management capacity and 
+capability over time through increased training opportunities, career pathways, and 
+mentorship opportunities. 
+Improving the management of Government programs will require agencies to 
+professionalize this critical workforce on an increasing basis, encouraging the application 
+of education, training, and experience to inform critical thinking and expert analysis that 
+will support decision-making and overcome challenges to program implementation and 
+execution. Agencies will develop program and project managers via a career path that 
+provides experience and mentorship opportunities designed to teach these skillsets. 
+Implementation Phases: The complexity and diversity of Federal programs will require 
+sustained and long-term focus to improve P/PM. As such, implementation across these three 
+strategies will proceed in a phased approach, with learning from the initial years of 
+implementation informing future phases. The initial focus will be placed on non-information 
+technology (IT) major acquisition programs, with additional program areas being added in future 
+phases. Agencies should immediately begin implementing the governance, standards and talent 
+management initiatives contained in this guidance. Agencies also should inform OMB of their 
+approaches through a PMIAA implementation plan (see Appendix 6 to this guidance), which 
+they should review and update periodically to reflect progress towards agency implementation. 
+Focus areas of each implementation phase as part of the broader 5-year approach are summarized 
+below. Additional detail including key milestones are provided in Appendix 1 and available on 
+the MAX Community page established for PMIAA implementation. OMB will be an active 
+partner with agencies, monitoring progress, convening PMPC meetings and setting meeting 
+agendas, and incorporating lessons learned to develop future P/PM guidance as agency program 
+management capabilities improve. 
+•	 Phase I will focus on agency appointments of the various PMIOs; OMB establishment of 
+the PMPC; publication of an initial framework that outlines general program 
+management standards applicable to all program types; establishing portfolio reviews for 
+major acquisition programs that, for major IT acquisitions, build on the portfolio reviews 
+conducted pursuant to the Federal Information Technology Acquisition Reform Act 
+(FITARA); and the establishment of a job series and/or job identifier by OPM. 
+3 
+
+[PDF page 4]
+ 
+ 
+       
+   
+ 
+  
+   
+  
+  
+ 
+    
+     
+    
+  
+  
+ 
+ 
+  
+  
+  
+   
+  
+ 
+ 
+    
+    
+ 
+  
+ 
+    
+ 
+  
+   
+  
+    
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+    
+    
+	 
+	 
+ 
+•	 Phase II will focus on expanding portfolio reviews of programs to include grants. OMB 
+will coordinate this interagency process. 
+•	 Phase III will focus on the issuance of a revised 5-year strategic plan with updated 
+strategies, identification of additional programmatic areas for portfolio reviews, and 
+continued refinement of P/PM standards for additional program types. OMB will 
+incorporate lessons learned while working with individual agencies to implement the Act. 
+Agency Applicability: This guidance is generally applicable to the 24 Federal agencies covered 
+by the Chief Financial Officers (CFO) Act of 1990 (31 U.S.C. § 901(b)) unless otherwise 
+specified. The PMIAA exempts the Department of Defense (DOD) where program management 
+guidance would significantly overlap or duplicate (1) the provisions of chapter 87 of title 10, or 
+(2) policy, guidance, or instruction of the Department related to program management. 
+Implementing Strategy 1, Coordinated Governance: Overview of Organizational Changes. 
+The PMIAA establishes a new governance structure and function at agencies for advancing the 
+practice of P/PM across the Federal Government. This section provides guidance to agencies by 
+describing how agency COOs should integrate P/PM as a component of the agencies’ broader 
+management capabilities, providing the role and responsibilities of the PMIO, and defining the 
+functions and composition of the PMPC. 
+A. 	Chief Operating Officer: As envisioned by the Government Performance and Results 
+Act (GPRA) Modernization Act of 2010 (GPRAMA), the agency COO is responsible for 
+providing overall organization management to improve and achieve the mission and 
+goals of the agency. COOs provide organizational leadership to improve performance of 
+both mission and management functions. They bring together other leaders and staff 
+within the agency, including component managers, program and project managers, 
+research and evaluation experts, and other leaders of key management functions such as 
+the Chief Information Officer (CIO), the Chief Financial Officer (CFO), the Chief 
+Human Capital Officer (CHCO), the Chief Acquisition Officer (CAO), and the 
+Performance Improvement Officer (PIO). With leadership from the COO, these and other 
+agency leaders collectively solve problems and pursue opportunities that help the agency 
+operate more effectively and efficiently. COOs empower these senior accountable 
+officials to lead within their area of expertise, drive results, and ensure these officials 
+have the tools and authority needed to manage both within and across organizational 
+boundaries to improve results. COOs also ensure that senior officials and supporting staff 
+offices are organized to leverage agency expertise in a range of management activities 
+and functions, and develop these skills where needed within various levels of the 
+organization. 
+To achieve success, COOs require organizational expertise across a range of management 
+skills and fields, including P/PM, and should ensure these skills are leveraged effectively 
+to support agency needs at various levels of organizational complexity (e.g., departmental 
+headquarters, bureau or component level, implementation of a program at the field office 
+level). COOs must ensure that agency officials work collaboratively to provide analysis 
+4 
+
+[PDF page 5]
+ 
+ 
+ 
+  
+     
+ 
+ 
+ 
+ 
+ 
+    
+ 
+     
+   
+ 
+   
+   
+     
+ 
+ 
+ 
+    
+ 
+  
+  
+ 
+  
+  
+that informs the decision-making of senior leaders, and aids in identifying improvements 
+to achieve greater efficiencies or effectiveness in the delivery of agency programs and 
+services. Figure 1 provides an overview of the relationship of management competencies 
+across various levels of the organization. 
+B. Program Management Improvement Officer: 
+Designation and Role: No later than July 27, 2018, the heads of each CFO-Act agency 
+shall designate a senior executive of the agency to serve as the agency’s PMIO, if 
+different than the submission initially provided to OMB in May 2018 per OMB 
+Memorandum M-18-15. The name of the agency PMIO and any updates to that 
+designation shall be provided to OMB’s Office of Performance and Personnel 
+Management via email at Performance@omb.eop.gov. 
+PMIOs will focus on professionalizing agency program and project managers and 
+enhancing the utilization of P/PM practices to build greater capability at agencies over 
+time. PMIOs will be designated based on the agency’s organizational structure and 
+management processes, and will report directly to the agency COO, Deputy Secretary, or 
+other equivalent senior agency official responsible for agency performance and 
+management. When designating the PMIO, agency heads should consider lines of 
+accountability and coordination needed to ensure the PMIO is aligned and partnered with 
+supporting management offices and CXO functions such as the CFO, CHCO, CAO, and 
+CIO to effectively perform their roles and responsibilities. Agency heads should also 
+ensure that the PMIO has program management expertise. Agencies may either establish 
+the PMIO as a separate position, or assign the responsibilities to a senior official already 
+5 
+
+[PDF page 6]
+ 
+ 
+  
+   
+  
+  
+ 
+  
+ 
+  
+ 
+ 
+    
+ 
+  
+   
+     
+    
+    
+   
+   
+  
+  
+ 
+    
+    
+ 
+  
+  
+  
+ 
+  
+    
+   
+ 
+  
+ 
+  
+   
+  
+  
+                                                           
+      
+    
+    
+        
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+performing related functions (e.g., the PIO, CAO, etc.), where the agency has determined 
+the designation to be effective in carrying out PMIO responsibilities. The Act gives 
+specific direction to the designation of the PMIO at DOD. More detailed roles and 
+functions of the PMIO are provided in Appendix 2 to this guidance. 
+C. Program Management Policy Council: 
+Establishment: The PMIAA established the PMPC to serve as the principal interagency 
+forum for improving agency practices related to P/PM across the Federal Government. 
+Council Composition: OMB’s Deputy Director for Management, or his or her designee, 
+will hold the title of Chairperson and will chair the Council. The Chairperson is 
+responsible for presiding at meetings, determining the agenda of the Council, and 
+directing its work to enhance program management within the Federal Government. 
+Council members include: 
+• OMB’s Administrator of the Office of E-Government and Information Technology; 
+• OMB’s Administrator of Federal Procurement Policy; 
+• OMB’s Controller of the Office of Federal Financial Management; 
+• OMB’s Associate Director of the Office of Performance and Personnel Management; 
+• Rotating Program Associate Director from an OMB Resource Management Office; 
+• PMIOs from the 24 CFO-Act agencies; and 
+• Chair of the Federal Program and Project Management Community of Practice.
+2 
+Purpose, Functions, and Meeting Frequency: The Council will oversee 
+implementation of the Act and adoption of P/PM practices among agencies to drive 
+improvements in program performance and efficiency. The Council will at a minimum 
+convene at least twice annually and focus on sharing best practices and lessons learned 
+across the Federal Government. Additionally, joint meetings may also be held with other 
+interagency groups that share a similar focus on driving shared solutions to Government-
+wide management improvement initiatives (e.g., the President’s Management Council, 
+the Chief Acquisition Officers Council, etc.), and where policy areas overlap. The 
+Council will also engage the Federal Program and Project Management Community of 
+Practice, in addition to other stakeholder groups as appropriate, to work collaboratively 
+and leverage their ability to connect Federal employees to a wide array of resources and 
+networking opportunities. More detailed roles and functions of the PMPC are provided in 
+Appendix 3 to this guidance. 
+D. Government-wide Standards and Principles for Managing Programs. The PMIAA 
+requires the establishment of Government-wide P/PM standards, policies, and guidelines 
+for P/PM for agencies. Identified below are a set of principle-based Government-wide 
+program management standards that agencies can leverage to ensure they produce their 
+2 The Federal Program and Project Management Community of Practice (FedPM CoP) seeks to improve project 
+execution on a Government-wide scale by connecting employees and serving as a source of information and best 
+practices for program and project managers. The FedPM CoP facilitates collaboration and discussion across 
+Government, as well as develops and recognizes excellence in the profession of P/PM. To learn more about the 
+FedPM CoP, visit its MAX Community page. 
+6 
+
+[PDF page 7]
+ 
+ 
+  
+    
+  
+  
+ 
+ 
+ 
+ 
+   
+ 
+   
+   
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+    
+  
+  
+ 
+  
+  
+  
+ 
+ 
+      
+  
+    
+  
+   
+    
+   
+  
+ 
+  
+ 
+ 
+   
+  
+                                                           
+       
+	 
+desired outcomes and effectively contribute towards the achievement of agency mission 
+and strategic goals and objectives. These principle-based standards have been developed 
+with consideration given to the variation among programs implemented by agencies. 
+Published on a provisional basis, they will continue to be developed and refined over 
+time by the PMPC in collaboration with private industry and stakeholders with expertise 
+in P/PM. 
+Agency managers should apply these standards to internal management processes for 
+planning, implementing, and reviewing the performance of programs and activities. 
+Adoption and application of these principles should be incorporated or aligned with 
+existing agency-specific program management policies and practices. They also should 
+be tailored to reflect the size, scope, structure, organizational placement, and 
+characteristics that affect delivery of the program. Standards and descriptions of each 
+Area identified in Table 1 are available in the Appendices to this guidance. 
+Table 1. Areas for Program Management Standards and Principles
+3 
+Area 
+Change Management Performance Management 
+Communications Planning, Stakeholder 
+Engagement, and Coalition Building 
+Portfolio Management 
+Contracting and Acquisition Management Process Improvement 
+Customer Service Project Management 
+Evaluation Requirements Development and 
+Management 
+Financial Management Risk Management 
+Human Capital Management Strategic Planning 
+Information Management 
+1.	 Use of Standards Developed by External Consensus Standards Bodies or 
+Internally Developed Agency-Specific Policies, Procedures, and Standards for 
+Program Management: Many Federal agencies have established policies, 
+procedures, and standards for managing programs currently in place, which reflect the 
+specific organizational and programmatic characteristics of the agency. Agencies may 
+continue to utilize existing standards developed internally by the agency for 
+managing agency programs, but they must generally align and be equivalent to or 
+encompassed by the management practices and principles outlined in Table 1 above. 
+Agencies may also use program management standards that have been developed and 
+endorsed by external voluntary consensus standards bodies. Agency PMIOs will 
+determine whether adopting the program management standards of external voluntary 
+consensus standards bodies are most effective for managing agency specific programs 
+and activities. 
+3 Standards for each area are detailed in Appendix 4 to this guidance and available on the MAX Community page. 
+7 
+
+[PDF page 8]
+ 
+ 
+    
+ 
+     
+  
+  
+ 
+   
+   
+   
+    
+  
+ 
+ 
+   
+   
+   
+    
+   
+ 
+     
+  
+    
+ 
+ 
+       
+  
+       
+    
+ 
+   
+  
+   
+    
+ 
+    
+   
+   
+    
+ 
+   
+ 
+                                                           
+       
+     
+    
+ 
+    
+	 
+As part of the agency’s PMIAA implementation plan, agency PMIOs will identify 
+instances in which agency-specific program management policies do not align to the 
+management standard listed in Table 1, or where they are using an external consensus 
+standards body’s framework. These discussions will help inform ongoing work by the 
+PMPC to refine the Government-wide P/PM standards as needed. 
+2.	 Additional Resources and Performance Aids: Agencies, GAO, and other 
+organizations have published several program-specific assessment guides for 
+implementing and managing programs. The PMPC will leverage such efforts, and 
+will establish a centralized location to make these additional resources available for 
+agencies to use in developing agency-specific program management policies. 
+Implementing Strategy 2, Regular OMB/Agency Engagement and Reviews. The PMIAA 
+requires that two types of program reviews be conducted to assess the effectiveness of an agency 
+program’s management and performance. Guidance is provided below for implementing annual 
+agency portfolio reviews of programs in coordination with the annual Strategic Reviews 
+established by the GPRAMA, and reviews of items identified by GAO on its “High Risk List.” 
+A. Program Portfolio Reviews
+4: Required by the PMIAA, agencies and OMB will 
+regularly review portfolios of programs to identify opportunities for improvement. These 
+reviews will be conducted in coordination with the agency’s strategic review – an 
+agency’s management process or set of processes that synthesizes available performance 
+information and other evidence, including evaluations, to assess progress on the agency’s 
+strategic objectives. Findings and analyses from the agency’s strategic review will be 
+shared with OMB during Strategic Review meetings each spring. Agencies will integrate 
+to the extent practical program portfolio reviews required by the Act as part of their 
+internal strategic review processes for discussion with OMB during the spring meeting. 
+Most Federal agencies will require multiple years to fully implement the program 
+portfolio reviews requirements of the PMIAA. OMB will initially focus on 
+implementation of program portfolio reviews in the area of non-IT major acquisition 
+programs, and conduct a pilot with select agencies beginning with the 2018 Strategic 
+Review engagements. The purpose of the pilot is to determine how well agency program 
+portfolios of non-IT major acquisition programs are performing throughout the lifecycle 
+of the investment using a set of standards and practices, and refine the process for 
+coordinating program portfolio reviews as a component of the OMB/agency Strategic 
+Reviews required by the GPRAMA. Detailed information for conducting these reviews 
+including program management standards and policies specific to non-IT major 
+acquisitions programs is outlined in Appendix 5 accompanying this guidance. 
+4 Relationship of FITARA to the PMIAA: Pursuant to 40 U.S.C. § 11319, agency CIOs, in conjunction with COOs 
+and Deputy Secretaries, are required to conduct an annual review of the IT portfolio of the covered agency with 
+OMB. To the extent practical, the annual IT portfolio reviews required by FITARA will be coordinated with the 
+portfolio review requirements of the PMIAA and integrated into the agency’s internal review processes in preparing 
+materials for the annual Strategic Review meeting with OMB each spring. 
+8 
+
+[PDF page 9]
+ 
+ 
+    
+  
+  
+   
+   
+    
+ 
+      
+ 
+   
+  
+ 
+  
+ 
+ 
+   
+  
+  
+     
+ 
+    
+ 
+    
+ 
+   
+  
+   
+    
+ 
+    
+  
+ 
+  
+     
+      
+   
+ 
+      
+ 
+  
+     
+ 
+   
+ 
+ 
+ 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+B. GAO High Risk Areas: Since 1990, GAO has released a biennial report (in alignment 
+with the start of each Congress) on Federal programs and operations deemed “high risk” 
+due to their vulnerabilities to waste, fraud, abuse, and mismanagement, or those most in 
+need of transformative change to address economic, efficiency, or effectiveness 
+challenges. OMB will conduct portfolio reviews of the most at-risk agency programs 
+designated as high risk by GAO in its February 2017 report (see GAO-17-317) and will 
+follow an annual cadence for conducting future portfolio reviews. As revised “high risk 
+list” reports are published by GAO, new areas may be added to the annual review process 
+for engagement with OMB. Since the first GAO high risk report, more than one-third of 
+the areas designated as high risk have successfully resolved concerns and have been 
+subsequently removed from the list. However, many issues are longstanding; six of the 
+areas identified in the original 1990 report remain on the high-risk list today. This and 
+other factors will be taken into consideration as OMB reviews the high-risk list and 
+prioritizes areas for initial implementation. 
+1.	 High Risk Criteria: Portfolio reviews of GAO high-risk programs will focus on 
+reducing each portfolio’s vulnerability to waste, fraud, abuse, and mismanagement. 
+The focus of high-risk program portfolio reviews by OMB and agencies will be 
+aligned with the criteria used by GAO in evaluating each high-risk issue, examining 
+progress, and proposing improvements in the following areas. 
+•	 Leadership Commitment – Demonstrated strong commitment and top 
+leadership support. 
+•	 Capacity – Agency has the capacity (i.e., people and resources) to resolve the 
+risk(s). 
+•	 Action Plan – A corrective action plan exists that defines the root cause, 
+recommends solutions, and provides for substantially completing corrective 
+measures, including steps necessary to implement recommended solutions. 
+•	 Monitoring – A program has been instituted to monitor and independently 
+validate the effectiveness and sustainability of corrective measures. 
+•	 Demonstrated Progress – Ability to demonstrate progress in implementing 
+corrective measures and resolving the high-risk area. 
+2.	 Update to OMB: As part of the 2018 Strategic Review, each agency with an action 
+identified on GAO’s High Risk list shall provide OMB with an update that addresses 
+specific items related to the ”high risk” area or segment of areas. See OMB 
+Memorandum M-18-15 for additional information. 
+3.	 Follow-up Meetings on Priority High Risk Areas: After reviewing agencies’ May 
+2018 submissions, OMB will arrange meetings focused on areas where additional 
+management attention could be beneficial. These reviews will be cross-cutting in 
+nature and will generally occur as tri-lateral engagements among senior management 
+officials within OMB, applicable agencies, and GAO. OMB’s Deputy Director for 
+Management will coordinate and lead engagements during the review process and 
+will convene GAO high risk meetings to review status updates and provide direction 
+to address identified risks and challenges. 
+9 
+
+[PDF page 10]
+ 
+ 
+   
+ 
+   
+ 
+  
+  
+  
+   
+ 
+ 
+ 
+ 
+ 
+    
+  
+ 
+  
+  
+  
+   
+  
+ 
+ 
+ 
+    
+ 
+     
+   
+ 
+    
+   
+  
+ 
+ 
+  
+  
+ 
+       
+ 
+  
+   
+  
+ 
+  
+    
+	 
+	 
+	 
+4.	 Application to IT Programs: Agencies will conduct TechStats as outlined by 
+FITARA implementation guidance for IT programs that are listed on the GAO High 
+Risk list. 
+Implementing Strategy 3, Talent Management and Training. Effective program management 
+requires a trained and competent workforce equipped with program management experience, 
+knowledge, and expertise, including the use of critical thinking that supports decision-making to 
+solve program management challenges. This section provides guidance to agencies for 
+developing strategies to improve the competencies of their P/PM workforce across all areas and 
+identifying and tracking program managers throughout the agency to match their skillsets to 
+better meet agency program management requirements. It also provides additional guidance 
+targeted to acquisition-specific program and project managers. 
+A. Program Management Job Series / Identifier: OPM, working in consultation with 
+OMB and the PMPC, will identify the key skills and competencies needed for agency 
+P/PM work and establish a new series or update and improve an existing occupational 
+series for program and project management. As part of this work, OPM will review its 
+current policy guidance on program and project management work performed across 
+established occupational series, to include a review of 0340, the existing Program 
+Management Series. Additionally, following the completion of their review of the 
+existing Program Management job series, OPM will also review the appropriateness of a 
+program management job identifier which, when combined with an existing occupational 
+series, will identify and code Federal positions with program management functions. 
+Utilization of the job identifier would allow the Federal Government to pinpoint these 
+critical positions throughout the agency workforce.  
+B. Training and Development: OPM will conduct a competency assessment of program 
+and project managers throughout the Government to identify competency gaps. Working 
+in consultation with OMB, CHCOs, CLOs, and the PMPC, OPM will leverage these 
+communities as well as the expertise of applicable Government-wide Councils (e.g., 
+CHCO Council, CAO Council, PIC, etc.) to lead a review of existing Government-wide 
+training and recommend training and development options to the PMIOs. PMIOs will 
+review OPM recommendations and existing agency-specific training to determine gaps in 
+the training and development of program and project managers. In collaboration with 
+agency CHCOs and CLOs, PMIOs will identify strategies to close competency gaps, 
+develop program managers to their fullest potential, and ensure agencies have personnel 
+who can readily assume senior program management positions. 
+C. Career Paths: Career paths are a critical success factor for establishing an effective job 
+progression process, enabling capable and competent program managers to successfully 
+manage Federal programs of all sizes and levels of complexity. In addition to improving 
+performance, established career paths also facilitate program manager recruitment and 
+retention. OPM will build upon the model used during previous work with IT program 
+managers to: 
+•	 Identify key skills and competencies. 
+•	 Establish a career path to develop capable and competent program managers. 
+10 
+
+[PDF page 11]
+ 
+ 
+ 
+    
+   
+  
+  
+ 
+  
+ 
+  
+ 
+   
+   
+  
+  
+  
+    
+  
+   
+    
+    
+ 
+ 
+    
+   
+ 
+ 
+  
+   
+    
+ 
+   
+ 
+ 
+  
+ 
+ 
+   
+  
+   
+   
+ 
+                                                           
+     
+ 
+	 
+	 
+	 
+D. Mentoring Programs: PMIOs will work with agency CHCOs to develop and implement 
+a mentoring strategy for agency program and project managers, leveraging existing 
+programs within the agency where applicable. Mentoring programs will pair program and 
+project managers at various levels of experience to share institutional knowledge and 
+allow senior leaders to offer junior and mid-level colleagues their insights and guidance. 
+Agency mentoring strategies should be included as a component of the PMIAA 
+implementation plan detailed above. 
+E. Policies Specific to Acquisition Project and Program Managers:
+5 
+1.	 Identification of Project and Program Managers: OPM is required to identify 
+Federal program managers by establishing a new job series or updating and 
+improving an existing job series. Additionally, OPM’s creation of a job identifier 
+would provide another means of identifying program managers in the Federal 
+Government. Agency HR systems, OPM’s Enterprise Human Resources Integration 
+(EHRI) system and the Federal Acquisition Institute’s Federal Acquisition Institute 
+Training Application System (FAITAS) shall be updated to reflect the job series 
+and/or identifier, once established, allowing agencies and OMB to track acquisition 
+project and program managers. Agencies will verify the information in the FAITAS 
+annually and certify that they have completed the review in the agency’s Acquisition 
+Human Capital Plan. 
+2.	 Competency Review: Competencies are the foundation of training and developing 
+project and program managers. Regularly reviewing and assessing competencies will 
+help determine where gaps exist and need to be addressed. While both DOD and the 
+Office of Federal Procurement Policy (OFPP) have independently developed 
+acquisition project and program manager competencies, civilian agencies may benefit 
+by more closely aligning to DOD’s model and leveraging their work in this 
+management area. To advance this effort, the FAI and the PM Functional Advisory 
+Board (FAB), will conduct a study comparing civilian agency PM competencies and 
+training against the DOD PM competencies. This study, to be completed by fall of 
+2019, will include a recommendation to OFPP whether civilian agency competencies 
+and training should align more closely to the DOD PM competencies. Moving 
+forward, the PM FAB will review competencies every two years and recommend 
+changes to OFPP as necessary. 
+3.	 Cross-Functional Training: Collaboration between contracting officers, contracting 
+officer’s representatives (CORs) and acquisition project and program managers, is 
+key to developing requirements, obtaining the best solutions through contracts, and 
+achieving program goals. By December 2018, FAI will pilot a cross-functional class 
+based on input from the contracting officer, contracting officer’s representative and 
+PM Functional Advisory Boards (FABs). 
+5 These policies and efforts will be aligned to accommodate, where applicable, agency-specific requirements related 
+to P/PM enacted in other legislation (e.g., the annual National Defense Authorization Act). 
+11 
+
+[PDF page 12]
+ 
+ 
+   
+ 
+ 
+      
+  
+ 
+   
+ 
+   
+    
+  
+  
+   
+   
+ 
+   
+ 
+   
+    
+ 
+  
+ 
+   
+ 
+ 
+ 
+   
+ 
+	 
+	 
+	 
+	 
+	 
+4.
+	 Acquisition Human Capital Plan: OFPP will track certification rates of acquisition 
+project and program managers through the FAITAS and the Acquisition Human 
+Capital Plans. OFPP will add a section to the annual Acquisition Human Capital 
+Plans to ascertain how agencies are strengthening their acquisition project and 
+program managers.  
+5.	 Federal Employee Viewpoint Survey (FEVS): After acquisition program managers 
+have been identified, OFPP will obtain the results of the FEVS for project and 
+program managers and will share the results with agency PMIOs. Agency PMIOs 
+should use this information and analysis to update any strategies that will improve 
+and enhance acquisition project and program management within their agencies. 
+6.	 Toolkit: FAI, in conjunction with the Federal Program and Project Management 
+Community of Practice and PM Functional Advisory Board, will scan the Federal 
+landscape for P/M tools, and develop a one-stop toolkit with leading program 
+management resources and practices for civilian agency project and program 
+managers on its website. The toolkit will be a centralized knowledge sharing asset 
+with embedded performance support to help agencies improve program outcomes. 
+7.	 Centralized Agency Repository and Communication Portal: Acquisition project 
+and program managers should have the ability to leverage existing tools and resources 
+that other agency project and program managers have found effective. Agency 
+PMIOs will establish centralized repository and communication portals to facilitate 
+access to agency-specific tools and resources that will aid program and project 
+managers in accomplishing their duties. 
+8.	 Recognition of Performance: The recognition of superior performance is an 
+important factor in improving the professionalism of acquisition program managers 
+and sharing case studies and best practices. Beginning in 2018, the Chief Acquisition 
+Officers Council will establish an annual award to recognize award-worthy efforts of 
+excellence in program management as part of its Acquisition Excellence Awards 
+Program. 
+12 
+
+[PDF page 13]
+ 
+  
+ 
+ 
+ 
+     
+  
+    
+   
+    
+   
+  
+ 
+ 
+  
+ 
+ 
+  
+   
+  
+     
+  
+   
+  
+   
+  
+   
+ 
+ 
+      
+ 
+  
+  
+  
+   
+  
+ 
+ 
+   
+ 
+  
+ 
+ 
+   
+  
+ 
+   
+ 
+ 
+APPENDIX 1:	 PHASED APPROACH FOR PMIAA IMPLEMENTATION AND 
+TIMELINE
+ 
+The complexity and diversity of Federal programs will require sustained focus over the course of 
+many years to improve program and project management (P/PM). As such, implementation 
+across the three strategies outlined in this memorandum will proceed in a phased approach, with 
+learning from the initial years of implementation informing future phases. Initial focus will be 
+placed on non-IT major acquisition programs, with additional program areas being added in 
+future phases. Agencies will immediately begin implementing the governance and talent 
+management initiatives, with key milestones summarized below. 
+Phase I: Coordinated Governance, Talent Management, and Pilot of Non-IT Major 
+Acquisitions
+ 
+Phase I will focus on: 
+•	 Establishing the PMIOs and PMPC. 
+•	 Outlining high-level program management standards applicable to all program types. 
+•	 Establishing portfolio reviews for major acquisition programs that are integrated with 
+program reviews throughout the entire lifecycle of the program and that, for major IT 
+acquisitions, build on the IT acquisition portfolio reviews conducted pursuant to the 
+Federal Information Technology Acquisition Reform Act (FITARA). 
+•	 Assessing the program management capabilities at the COO level, as part of a broader 
+review of agency enterprise organizational management capabilities. 
+•	 Establishing a job series and/or job identifier. 
+During this initial phase: 
+•	 All CFO Act agencies will appoint a senior executive to serve as the agency’s PMIO 
+and develop a 5-year implementation plan. 
+•	 OMB will begin convening the PMPC on a semi-annual basis (starting in the 3rd 
+quarter of 2018), conduct annual Strategic Review meetings with agencies (in 
+Summer 2018), and update talent management guidance. 
+•	 OMB’s Office of Federal Procurement Policy (OFPP) will initiate with agencies 
+acquisition portfolio reviews (beginning in Winter 2019), after conducting a pilot in 
+which select agencies meet with OFPP to share cost and schedule data for identified 
+programs of non-IT major acquisitions. A focus of these meetings will be to 
+understand how agencies are using cost and schedule data to inform decision-making. 
+Date Action 
+FY 2018 
+Q3 
+• Outline of PMIAA Implementation Plan: In coordination with agency 
+materials submitted for the 2018 Strategic Review, agencies submit 
+preliminary outline of PMIAA implementation plan to OMB. 
+Implementation Plan outlines will include: 
+1 
+
+[PDF page 14]
+ 
+ 
+  
+   
+    
+ 
+ 
+     
+ 
+   
+  
+ 
+ 
+ 
+      
+  
+  
+  
+     
+  
+   
+  
+ 
+        
+    
+  
+ 
+ 
+ 
+        
+    
+ 
+     
+ 
+     
+  
+  
+  
+ 
+    
+   
+ 
+  
+ 
+ 
+     
+  
+ 
+   
+ 
+ 
+1) PMIO designation 
+2) A preliminary organizational governance chart showing the 
+relationship of the agency’s PMIO, Acquisition Program 
+Management function, IRB, agency CXOs, portfolio managers, 
+and program managers. 
+3) Identification of portfolios, and a short description of how they 
+tie to agency strategic objectives. 
+4) A discussion of the agency’s proposed methodology for 
+determining non-IT major acquisition programs to be reviewed as 
+part of the PMIAA’s Portfolio Reviews beginning with the 2019 
+Strategic Review meetings with OMB. 
+• Acquisition Portfolio Review Pilot for Non-IT Major Acquisitions: 
+Select pilot agencies meet with OFPP to share and discuss cost, schedule 
+and performance data for identified programs of non-IT major 
+acquisitions. A focus of these meetings will be to understand how 
+agencies are using cost and schedule data to inform decision-making. For 
+non-IT programs that have an IT component, program managers shall be 
+expected to collaborate with the CIO for implementation of systems. The 
+portfolio review pilot continues through FY 2019, Q2. 
+• 2018 Strategic Review: OMB conducts Strategic Review meetings with 
+CFO Act agencies (see OMB Memorandum M-18-15). 
+FY 2018 
+Q4 
+• PMIO Appointment: The head of each CFO Act agency designates a 
+senior executive to serve as the agency’s PMIO (July 27, 2018). 
+• PMPC Meeting: OMB convenes the Council. 
+• Talent Management: 
+1) OPM issues regulations and guidance on PM job series. 
+2) OPM issues regulations, guidance, and policy on P rogram 
+Manager career path. 
+• Acquisition Portfolio Review Pilot: Pilot agencies continue working 
+with OFPP to share and discuss their use of cost, schedule and 
+performance data to inform decision-making. 
+FY 2019 
+Q1 
+• Agency PMIAA Implementation Plan: Agencies submit 5-year 
+PMIAA implementation plans. 
+• OMB Report: OMB releases report on agency strategies for 
+implementing PMIAA and enhancing the role of PMs. 
+2 
+
+[PDF page 15]
+ 
+ 
+  
+  
+ 
+ 
+     
+   
+  
+  
+    
+ 
+   
+  
+ 
+ 
+ 
+      
+   
+ 
+       
+   
+    
+ 
+ 
+  
+     
+    
+     
+   
+    
+ 
+ 
+ 
+     
+   
+ 
+ 
+ 
+    
+   
+  
+ 
+• OMB Guidance for 2019 Strategic Review: OMB issues guidance for 
+2019 Strategic Review meetings. 
+• Talent Management: OMB reviews and updates, where appropriate, 
+PM talent management policy and guidance. Federal Acquisition 
+Institute (FAI) and PM Functional Advisory Board reviews acquisition 
+program manager competencies (including IT) and their alignment to 
+Department of Defense (DOD) PM competencies 
+• Acquisition Portfolio Review Pilot: Pilot agencies continue working 
+with OFPP to share and discuss their use of cost, schedule and 
+performance data to inform decision making. 
+FY 2019 
+Q2 
+• PMPC Meeting: OMB convenes the Council in advance of upcoming 
+OMB/agency Strategic Review meetings. 
+• Tracking of Non-IT Major Acquisitions: All CFO Act agencies begin 
+working with OFPP to share and discuss their use of cost, schedule and 
+performance data to inform decision-making on non-IT major 
+acquisitions identified in their implementation plans. 
+• 2019 Acquisition Portfolio Review: OFPP conducts acquisition 
+portfolio reviews with CFO Act agencies, with focus on: 
+1) G overnance and talent management activities. 
+2) U se of cost and schedule data to support decision making. 
+3) I dentification of acquisition issues, if any, for discussion as part of 
+OMB Strategic Review meetings. 
+FY 2019 
+Q3 
+• 2019 Strategic Review: OMB conducts 2019 Strategic Review meetings 
+with CFO Act agencies. 
+FY 2019 
+Q4 
+• PMPC Meeting: OMB convenes the Council to review findings and 
+outcomes from 2019 Strategic Review meetings; develops standards for 
+conducting portfolio reviews of grants. 
+3 
+
+[PDF page 16]
+ 
+ 
+ 
+ 
+  
+ 
+ 
+    
+    
+ 
+ 
+        
+   
+ 
+    
+ 
+  
+  
+    
+    
+  
+   
+ 
+ 
+ 
+   
+     
+   
+  
+  
+  
+ 
+ 
+    
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+      
+   
+ 
+  
+     
+   
+    
+  
+   
+ 
+ 
+   
+   
+ 
+ 
+Phase II:  Expanding Portfolio Reviews of Programs to Include Grants 
+Date Action 
+FY 2020 
+Q1 
+• OMB Guidance for 2020 Strategic Review: OMB issues guidance for 
+2020 Strategic Review that expands portfolio reviews to include grants. 
+FY 2020 
+Q2 
+• PMPC Meeting: OMB convenes the Council in advance of upcoming 
+OMB/agency Strategic Review meetings. 
+• Talent Management: FAI pilots a cross-functional training class. 
+• Acquisition Portfolio Reviews (Ongoing): OFPP conducts acquisition 
+portfolio review with CFO Act agencies, with focus on: 
+1) G overnance and talent management activities. 
+2) Use of cost and schedule data to support decision-making. 
+3) Identification of acquisition issues, if any, for discussion as part of 
+OMB Strategic Review meetings. 
+FY 2020 • 2020 Strategic Review: OMB conducts 2020 Strategic Review meetings 
+Q3 with CFO Act agencies, by which agencies will develop a methodology 
+and criteria for conducting portfolio reviews of grants while 
+continuing acquisition portfolio reviews with OFPP as part of the 
+agency’s routine management processes. 
+FY 2020 
+Q4 
+• PMPC Meeting: OMB convenes the Council to review findings and 
+outcomes from 2020 Strategic Review meetings; updates P/PM standards 
+based on findings and feedback from the Council. 
+FY 2021 
+Q1 
+• OMB Guidance for 2021 Strategic Review: OMB issues guidance for 
+2021 Strategic Review meetings. 
+FY 2021 
+Q2 
+• PMPC Meeting: OMB convenes the Council in advance of upcoming 
+OMB/agency Strategic Review meetings. 
+• Acquisition Portfolio Reviews (ongoing): OFPP conducts acquisition 
+portfolio reviews with CFO Act agencies, with focus on: 
+1) G overnance and talent management activities. 
+2) Use of cost and schedule data to support decision-making. 
+3) Identification of acquisition issues, if any, for discussion as part of 
+OMB Strategic Review meetings. 
+FY 2021 
+Q3 
+• 2021 Strategic Review: OMB conducts 2021 Strategic Review meetings 
+with CFO Act agencies, discussing findings as appropriate from agency 
+portfolio reviews of non-IT major acquisitions programs and grants. 
+4 
+
+[PDF page 17]
+ 
+ 
+ 
+  
+ 
+ 
+ 
+      
+ 
+  
+ 
+ 
+  
+ 
+ 
+   
+ 
+ 
+ 
+ 
+  
+ 
+   
+   
+FY 2021 
+Q4 
+• PMPC Meeting: OMB convenes the Council to review findings and 
+outcomes from 2021 Strategic Review meetings, and develop revised 
+strategies, initiatives, and priorities to be reflected in an updated 5-year 
+strategic plan for enhancing program management. 
+Phase III:  Updated 5-year Strategic Plan, Expanding Portfolio Reviews 
+Date Action 
+FY 2022 
+• OMB Guidance: OMB, in collaboration with the PMPC, will issue a 
+revised 5-year strategic plan with updated strategies and path for 
+prioritizing development of P/PM standards for additional program 
+types. 
+• PMPC Meeting: The Council will continue to meet bi-annually. 
+• Strategic Review: Portfolio Reviews integrated with and inform 
+Agency/OMB Strategic Review meetings. 
+5 
+
+[PDF page 18]
+ 
+   
+  
+ 
+  
+ 
+    
+  
+ 
+  
+  
+   
+  
+  
+  
+   
+   
+  
+   
+   
+ 
+     
+ 
+   
+   
+ 
+    
+   
+ 
+  
+  
+ 
+ 
+   
+      
+  
+   
+    
+  
+   
+  
+ 
+   
+APPENDIX 2:	 ROLES AND FUNCTIONS OF THE PROGRAM MANAGEMENT 
+IMPROVEMENT OFFICER (PMIO) 
+Improvements in program management should lead to improved program performance and 
+effectiveness that advance progress towards the achievement of agency strategic goals and 
+objectives.  In order to enhance and coordinate the practice and application of program 
+management at agencies, PMIOs will: 
+•	 Coordinate development of agency-specific program management policies and 
+processes (which are aligned to the Government-wide standards and principles for 
+managing programs provided in Appendix 4), and refine to reflect best practices as 
+needed over time. 
+•	 Oversee and ensure implementation of program management policies established 
+by the agency. 
+•	 Coordinate reviews of agency programs and portfolios with agency PIOs as an 
+activity that is integrated into the agency’s annual Strategic Review process. 
+•	 Collaborate and partner with other management functions, bureaus, component 
+program offices, and goal leaders to oversee and improve the execution of program 
+management policies and processes that improve the effectiveness and efficiency of 
+programs where needed. 
+•	 Collaborate with and support CIOs to ensure IT programs and projects have 
+trained and qualified program and project managers with the appropriate 
+qualifications per the approved Federal IT PM Guidance Matrix and to enforce 
+FITARA, OMB Memorandum M-04-19, and OMB Memorandum M-10-27 policy for 
+IT programs. 
+•	 Collaborate and partner with OPM, CHCOs, and Chief Learning Officers to: 
+o	 Develop, refine, or tailor training programs that enhance the practice of 
+program management within the agency. 
+o	 Develop a talent management plan that is appropriately integrated into agency 
+strategic, performance, and human capital and acquisition human capital plans 
+to ensure the agency has an effectively trained and equipped program 
+management workforce. 
+•	 Serve on the PMPC and share agency best practices and lessons learned for the 
+benefit of broader community of Federal program and project managers and staff. 
+•	 Instill and reinforce a culture of professionalism and excellence within agencies 
+for performance and program management to: 
+o	 Empower program and project managers to develop strategies to successfully 
+manage their projects and programs. 
+o	 Hold program and project managers accountable for achieving results, such as 
+action plans, to improve program effectiveness to overcome barriers to 
+program performance. 
+•	 Encourage program and project managers to apply their education, training and 
+experience through critical thinking and expert analysis that supports decision-
+making to solve problems and challenges in implementing and executing programs. 
+6 
+
+[PDF page 19]
+ 
+   
+  
+ 
+ 
+ 
+   
+ 
+     
+   
+ 
+     
+ 
+  
+  
+     
+   
+   
+  
+   
+  
+  
+   
+   
+ 
+ 
+ 
+ 
+APPENDIX 3:	 ROLES AND FUNCTIONS OF THE PROGRAM MANAGEMENT 
+POLICY COUNCIL (PMPC) 
+As the primary interagency forum for improving agency practices related to P/PM, the Council 
+will: 
+•	 Oversee agency adoption and provide a central, coordinating body for 
+implementation of the Act’s major provisions. 
+•	 Share program management best practices and lessons learned (case studies, 
+templates, agency-specific guidelines, technology resources, etc.) for the benefit of 
+Council members, and encourage their adoption where applicable within agencies. 
+•	 Discuss areas of focus and emphasis related to the training and competency of 
+program and project managers. 
+•	 Identify barriers and challenges to P/PM within agencies to foster cross-agency 
+dialogue and shared solutions to common problems. 
+•	 Identify, develop, and refine core P/PM capabilities and expertise associated with 
+successful program outcomes, as needed. 
+•	 Develop tips, tools, training, and other capacity-building mechanisms to 
+strengthen agency P/PM. 
+•	 Facilitate cross-agency learning and cooperation by considering the program 
+management experiences of entities both within and outside the Federal Government. 
+•	 Review and advise on the results of program reviews conducted by OMB, agencies, 
+and GAO on programs identified by GAO as “high risk.” 
+•	 Advise on the development and continued refinement of general and program-
+specific government-wide standards, policies, guidelines, and principles for P/PM for 
+executive agencies. 
+7 
+
+[PDF page 20]
+ 
+   
+  
+ 
+   
+  
+ 
+ 
+ 
+ 
+  
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
+    
+  
+   
+  
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  
+ 
+  
+   
+ 
+   
+ 
+ 
+ 
+  
+  
+   
+APPENDIX 4:	 INITIAL PROGRAM MANAGEMENT STANDARDS AND 
+PRINCIPLES 
+Program Management Standards and Principles: The standards and principles depicted in 
+Table 1 (below) represent an initial listing of general management areas Federal P/PM managers 
+should consider when developing program implementation plans. Agency managers should 
+apply these standards to internal management processes for planning, implementing, and 
+reviewing the performance of programs and activities. Adoption of these principles and 
+application of their practice should be incorporated or aligned with existing agency-specific 
+program management policies and practices, and tailored to reflect the size, scope, structure, 
+organizational placement, and characteristics that effect delivery of the program. 
+Table 1. Initial Program Management Standards and Principles 
+Areas Standard / Principle 
+Change 
+Management 
+Development of methods for recording changes to established baselines 
+and requirements within a program lifecycle on a procedural, 
+operational or organizational level. 
+Communications Building coalitions internally and with other Federal agencies, State and 
+Planning, local governments, or nonprofit and private sector organizations to 
+Stakeholder achieve program goals. Includes aspects of: 
+Engagement, and • Partnering and Team Building – developing networks, building 
+Coalition Building teams and alliances, and collaborating across boundaries to build 
+strategic relationships to achieve program goals. 
+• Understanding Human Factor – Identifying internal and external 
+relationships that may impact the program. 
+• Influencing / Negotiating – Persuading others, building consensus, 
+and gaining cooperation to achieve program goals. 
+Contracting and Development of statements of objectives, statements of work, concept 
+Acquisition of operations, cost, schedule, scope, earned value management, and 
+Management supporting documents to best plan and track the procurement of 
+program requirements and projects. 
+Customer Service Delivering customer satisfaction by employing effective time 
+management skills, clear communication, product/service knowledge 
+and goal-oriented focus in program implementation. 
+Evaluation Systematically assessing how well an entire program, or a specific 
+strategy or an aspect of a program, is working to achieve intended result 
+or outcomes. 
+Financial 
+Management 
+Applying budget, accounting, financial controls and audit principles to 
+ensure the stewardship of taxpayer resources throughout program 
+execution. 
+Human Capital 
+Management 
+Building and managing the program’s workforce requirements based on 
+organizational and program goals, budget considerations, and staffing 
+needs. Includes strategies and actions for ensuring employees are 
+8 
+
+[PDF page 21]
+ 
+   
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+   
+   
+  
+ 
+  
+ 
+ 
+ 
+     
+  
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+  
+  
+  
+   
+  
+  
+ 
+ 
+Areas Standard / Principle 
+appropriately recruited, selected, appraised, and rewarded, and action 
+taken to address performance problems. 
+Information 
+Management 
+Activities related to the planning, budgeting, manipulating, and 
+controlling of information throughout the program’s life cycle, 
+encompassing both information itself and the related resources, such as 
+personnel, equipment, funds, and information technology that support 
+the program. 
+Performance 
+Management 
+Use of goals, measurement, evaluation, analysis, and data-driven 
+reviews to improve program results. 
+Portfolio 
+Management 
+Defining a set of programs, projects, contracts and other work that 
+support strategic goals. 
+Process 
+Improvement 
+Employing a systematic application of disciplined problem solving 
+techniques to impact the operations of systems or programs. Uses 
+Continuous Process Improvement (CPI) models to leverage strategy and 
+performance management data to identify and eliminate waste, reduce 
+variation, and satisfy the needs of customers. 
+Project 
+Management 
+Applying general and specialized knowledge, skills, expertise, and 
+practices to a temporary endeavor with a defined scope, cost and 
+completion date. A project may be part of a larger program or portfolio. 
+Requirements 
+Development and 
+Management 
+Identifying program needs and matching identified needs to the 
+organization’s mission and goals. Developing preliminary and 
+subsequent capital planning, budget formulation, cost/ benefit analysis, 
+and investment decision document for evaluation and justification of 
+program costs. 
+Risk Management Coordinated activities to direct and control challenges or threats to 
+achieving a program’s goals and objectives, and includes developing 
+risk mitigation plans to overcome potential barriers to program 
+performance. 
+Strategic Planning Planning activity to present the long-term objectives the program hopes 
+to accomplish, what actions the agency will take to realize those goals, 
+and how the agency will deal with the challenges likely to arise as 
+barriers to achieving the desired outcomes. 
+9 
+
+[PDF page 22]
+ 
+   
+ 
+  
+ 
+  
+ 
+   
+ 
+   
+  
+  
+ 
+  
+ 
+   
+ 
+    
+    
+   
+   
+    
+   
+ 
+    
+  
+ 
+     
+ 
+ 
+ 
+  
+   
+ 
+ 
+   
+  
+ 
+    
+ 
+     
+ 
+ 
+  
+APPENDIX 5: IMPLEMENTING ACQUISITION PORTFOLIO REVIEWS 
+Acquisition Program Management. Several laws, regulations, and policies have provided 
+direction for acquisition program management, including provisions in the Federal Acquisition 
+Streamlining Act (FASA), the Clinger-Cohen Act, OMB’s Capital Programming Guide, and Part 
+34 of the Federal Acquisition Regulation (FAR). Agencies have developed detailed policies and 
+procedures to implement these requirements, but too often, this guidance has not been reflected 
+adequately in agency governance structures and protocols. In addition, insufficient attention has 
+been given to these capabilities during human capital planning for the acquisition workforce. 
+This general lack of emphasis has limited agencies’ ability to identify and address problems early 
+in the lifecycle. When efforts have been made to address acquisition program management, the 
+focus frequently has been on compliance activities and documentation, rather than effective risk 
+management. Implementation of the PMIAA for major acquisition programs will shift the focus 
+to execution and outcomes. The objective is to strengthen program management by promoting a 
+culture that emphasizes critical thinking. 
+1.	 Organizational Structure and Governance: 
+a.	 Acquisition Program Management Office: An agency’s organizational structure 
+must support its mission, which requires effective management of major investments. 
+Therefore, agencies covered by the CFO Act must have an acquisition program 
+management office or equivalent to provide support and guidance, and to ensure 
+agency policies are implemented. Though the authority and responsibilities of this 
+function may vary between agencies, it should be involved in all phases of a program 
+lifecycle. One of the primary duties of the acquisition program management office (or 
+its equivalent office) shall be to ensure major acquisitions are well planned before 
+financial commitments are made and throughout the investment’s lifecycle. 
+b.	 Roles and Responsibilities: Most agencies have an established IRB. The roles and 
+responsibilities of the IRB, in conjunction with those of the PMIO, shall be reviewed 
+to prevent duplication while also ensuring the appropriate individuals control the 
+allocation of resources and have the authority to continue or terminate projects and 
+programs. As part of the PMIAA implementation plan and the annual acquisition 
+portfolio review, agencies will submit an organizational governance chart to OMB 
+showing the relationship between the PMIO, the acquisition program management 
+function, IRB, agency CXOs, portfolio managers, and program managers. The chart 
+should summarize roles and responsibilities as well as identify the individuals who 
+control the allocation of resources and who have the authority to continue or 
+terminate programs and projects. 
+2.	 Project / Program Management Policy: 
+a.	 Agency P/PM Policies: Agencies covered by the CFO Act must have comprehensive 
+policies and procedures for P/PM. At a minimum, the policies and procedures must 
+address: 
+•	 Programs/projects covered. 
+10 
+
+[PDF page 23]
+ 
+  
+ 
+   
+  
+  
+ 
+ 
+   
+  
+ 
+  
+ 
+ 
+  
+ 
+  
+ 
+   
+ 
+  
+ 
+   
+ 
+ 
+    
+ 
+  
+  
+   
+ 
+  
+ 
+ 
+  
+ 
+  
+  
+     
+ 
+    
+ 
+    
+ 
+ 
+•	 Investment decision process including the phases, decision points, and decision 
+authorities. 
+•	 Reporting and review requirements. 
+•	 Cost, schedule and performance. 
+•	 Roles and responsibilities.  
+Most agencies already have detailed documentation to guide their investment 
+decisions. As such, OMB anticipates only minor adjustments will be needed, and will 
+work with agencies directly in instances where significant burden is anticipated by the 
+agency’s PMIO or Chief Acquisition Officer. 
+b.	 Alignment with Government-wide Standards and the FAR: Agencies have 
+considerable latitude to develop P/PM policies and procedures that meet their unique 
+needs. However, the policies and procedures must be consistent with Federal 
+regulations and guidance. Specifically, agencies must ensure their program/project 
+management policy is consistent with: 
+•	 OMB’s Capital Programming Guide, which establishes fundamental P/PM
+ 
+principles.
+ 
+•	 OMB Circular A-130, Managing Information as a Strategic Resource, which 
+provides standards for information technology management and security. 
+•	 FAR Part 34 (Major System Acquisition) which addresses acquisition strategy, 
+full and open competition, and Earned Value Management. 
+•	 FAR Part 39 (Acquisition of Information Technology) which addresses risk 
+management and modular contracting for information technology. 
+c.	 Mapping Terminology: Federal agencies routinely acquire a wide range of capital 
+assets.  Depending on the agency, different terminology may be utilized to express 
+similar concepts. While agencies may continue to use their own terminology 
+internally, agencies will map their terminology to equivalent terms in the Capital 
+Programming Guide and use the Capital Programming Guide terminology for Federal 
+level reporting with respect to major acquisition programs. A common set of terms 
+will allow aggregation and comparison of the data, similar to the way the Federal 
+financial community uses standard accounting terminology in financial reports. 
+d.	 Cost, Schedule and Performance: During the planning phase of the lifecycle, 
+agencies must establish, approve and document the cost estimate, completion date, 
+and outcomes.  The process should include: 
+•	 Coordination with all stakeholders, both in headquarters and components, so there 
+is a common understanding of the goals and expectations. 
+•	 The program manager will regularly review data for cost growth, schedule delays, 
+and performance shortfalls. 
+•	 The portfolio manager and other appropriate officials will receive status reports at 
+least monthly. 
+•	 The data and reports will be used to support critical thinking, evidence-based 
+decisions and risk management as opposed to driving rigid decision-making or 
+risk avoidance. For example, a number of modern and innovative acquisition 
+11 
+
+[PDF page 24]
+ 
+   
+  
+ 
+ 
+     
+     
+   
+ 
+ 
+ 
+  
+  
+   
+   
+ 
+ 
+   
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+      
+     
+   
+    
+    
+      
+    
+    
+ 
+  
+  
+   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+strategies anticipate and embrace rework and adjustments, especially during 
+development work with the contractor.  The effects of such strategies should be 
+taken into appropriate consideration when data are being analyzed. 
+In addition, high-level policies and procedures typically apply to a wide range of 
+situations. Some requirements may not be relevant for all programs. The program 
+manager should identify the relevant requirements and tailor the concepts to their 
+unique circumstances. 
+Implementing Acquisition Portfolio Reviews: OMB will continuously monitor the progress of 
+major acquisitions throughout their lifecycle, working with agencies to identify portfolios and 
+the major acquisitions within those programs to inform this review. Portfolio reviews will be 
+held annually with OFPP, and in advance of the agency's Strategic Review meeting with OMB, 
+the outcome of which may become an input to the agency’s Strategic Review meeting with 
+OMB. 
+The portfolio reviews will take a practical approach, focusing on fundamentals, and evaluating 
+the performance of programs, projects, or individual contracts. Agencies should be prepared to 
+provide planning documents and performance reports ensuring cost, schedule and performance 
+data for each item in a portfolio is readily available as well as any items required by agency 
+policy. 
+Ongoing Annual Strategic Acquisition Monitoring of Portfolio Review	 Review Meeting Major With OFPP	 w/ OMB Acquisitions 
+Figure 2. Workflow for the Monitoring and Review of Major Acquisitions 
+1.	 Phase 1 Requirements and Pilot: Most Federal agencies will require a number of years 
+to fully implement PMIAA. As a result, select agencies will “Pilot” the portfolio review 
+of non-IT major acquisition programs beginning with the 2018 Strategic Review 
+engagements. The purpose of the pilot is to determine how well agency portfolios of 
+major acquisition programs are performing using a set of standards and practices. 
+While only select agencies will be required to conduct the portfolio reviews in 
+coordination with OMB during the “Pilot,” all CFO Act agencies will be required to 
+provide the PMIAA Implementation Plan outline as part of the 2018 Strategic Review 
+submission to OMB (see Appendix 6). 
+2.	 Identifying Non-IT Major Acquisitions Programs for the Purpose of the Portfolio 
+Reviews: PMIAA portfolio reviews will focus initially on non-IT major acquisition 
+programs. Agencies, in consultation with their Resource Management Office (RMO), 
+have flexibility in their identification of specific non-IT major acquisition programs to be 
+12 
+
+[PDF page 25]
+ 
+  
+    
+ 
+ 
+ 
+    
+   
+  
+  
+   
+ 
+ 
+  
+  
+   
+    
+ 
+ 
+   
+ 
+  
+ 
+   
+  
+ 
+   
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+     
+    
+ 
+ 
+ 
+ 
+   
+   
+                                                           
+       
+     
+reviewed as part of PMIAA portfolio reviews. Agencies shall develop their own 
+methodology for determining non-IT major acquisitions programs to be included in the 
+portfolio reviews and be prepared to discuss their methodology with OMB as part of 
+submitting their materials supporting the 2018 Strategic Review.  When developing their 
+methodology, agencies should consider the following factors to use in identifying non-IT 
+major acquisitions programs: 
+a.	 Program/Project Cost: agencies may develop and utilize a dollar cost threshold for 
+the purposes of identifying non-IT major acquisitions programs.
+1 Note: Given the 
+size, complexity, and differences in scope of agency programs and missions, a 
+minimum amount to be applied Government-wide has not been established. 
+b.	 Significance of the program’s contribution to the agency’s mission, are strategic 
+in nature, and which risk or impact to agency mission in the event of 
+implementation challenges would be high. Agencies may include acquisitions that 
+procure capital assets or services for identifying non-IT major acquisition programs 
+to be covered by the Portfolio Review. 
+c.	 Length or duration of program implementation. 
+d.	 Program is in an area identified by the IG as susceptible to agency management 
+challenges. 
+3.	 Identifying IT Programs vs. Non-IT Programs: Reviews of major acquisitions 
+supporting IT programs shall build on portfolio reviews conducted pursuant to FITARA, 
+44 U.S.C. § 11319. Programs shall be considered IT programs if the investment scope is 
+primarily information technology as defined in FAR Subpart 2.1. Programs with 
+embedded systems or small IT components shall be considered non-IT, but collaboration 
+with CIOs is expected for any significant components of the investment that involve IT. 
+4.	 Portfolio Management Dashboard: To support implementation of portfolio 
+management, OMB will develop and manage a dashboard that displays agency portfolios 
+and summarizes performance information for each item in a portfolio. The dashboard is 
+not intended to be project management software. Agencies should continue to use their 
+current tools to manage their projects. Periodically, summary information will be 
+requested for the dashboard. Initially, access to the dashboard will be restricted to 
+authorized government employees. As the portfolio management process matures, the 
+dashboard may be available to the public, similar to the IT Dashboard 
+(www.itdashboard.gov). 
+5.	 Incentives to Drive Superior Contract Performance: Members of the multi-functional 
+team must also collaborate to develop appropriate incentives to drive superior contract 
+performance in major acquisitions and other acquisitions that support high-priority and 
+high-risk programs. These efforts might include public display of ratings measuring the 
+contractor’s effectiveness in support of the program, and use of industry specific 
+performance evaluation criteria. These steps and related actions to track contractor 
+performance on program management dashboards should help to ensure the CAO, the 
+CIO, portfolio managers and other agency accountable officials are aware of the 
+1 A DOD Major Defense Acquisition Program (MDAP) is equivalent to the term major acquisition as used in the 
+guidance. Reference Paragraph I.2.C on mapping terminology for additional information. 
+13 
+
+[PDF page 26]
+ 
+   
+ 
+ 
+    
+ 
+  
+ 
+ 
+  
+    
+  
+   
+     
+    
+   
+ 
+ 
+   
+  
+  
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+   
+  
+    
+ 
+  
+ 
+ 
+   
+   
+ 
+ 
+                                                           
+   
+   
+ 
+     
+  
+performance successes and challenges of the contractors supporting the agency’s most 
+critical acquisition activities. 
+6.	 Forward-Looking Requirements Development: To ensure major investments are 
+supporting mission goals and are effectively integrated with the programs and projects 
+they support, agencies should take full advantage of strategies and methodologies that 
+emphasize cross-functional and user-driven requirements development. Approaches that 
+have been used with increasing success in recent years include, among others, agile and 
+related iterative methodologies and facilitated requirements development workshops. 
+Agile methodologies are designed to produce workable solutions within required 
+timeframes with heavy collaboration between end-users, product owners and program 
+managers. Facilitated requirements development workshops, known as Service 
+Acquisition Workshops (SAWs), apply performance-based techniques to service 
+acquisitions and result in better defined and refined requirements for a more successful 
+outcome.
+2 Some agencies have leveraged joint venture authority by partnering with 
+private sector consultants to help develop problem statements (e.g., business 
+requirements and critical success factors) before tackling functional and technical 
+requirements.
+3 
+7.	 Timeline. Throughout the pilot, OFPP will work with agency PMIOs refine and mature 
+the review process. To maximize the value of portfolio reviews, OFPP will phase-in key 
+milestones detailed below. 
+Date Action 
+FY 2018, 
+Q3 
+As part of their outline for PMIAA implementation, agencies shall share 
+with OFPP: 
+• An organizational chart showing the relationship between the PMIO, 
+acquisition program management office or equivalent, IRB, agency 
+CXOs, portfolio managers, and program managers. 
+• Their portfolios and a description of how they tie to agency strategic 
+objectives. 
+• A list of major acquisition programs (if any) within each portfolio.  
+FY 2018, 
+Q3 – 
+FY 2019, 
+Q1 
+Select pilot agencies will meet with OFPP quarterly to share and discuss 
+cost, schedule, and performance data for certain non-IT major acquisitions 
+supporting select programs and its use to support critical thinking. 
+2 DOD has proven that this process improves the requirements documents while reducing costs, increasing effective 
+competition and shortening acquisition lead time. DOD guidance addressing the use of SAWs is available online. 
+3 These joint venture activities have been conducted through the Department of Commerce’s National Technical 
+Information Service in accordance with 15 U.S.C. 3704(b). 
+14 
+
+[PDF page 27]
+ 
+ 
+ 
+    
+ 
+  
+  
+ 
+  
+ 
+ 
+ 
+FY 2019, 
+Q2 
+OFPP will conduct the first full acquisition portfolio reviews with all CFO 
+Act agencies in advance of the agency’s Strategic Review meeting. As part 
+of this portfolio review, agencies shall: 
+• Provide an update to their organizational chart. 
+• Provide updates to their list of major acquisitions supporting programs 
+and projects. 
+• Share cost, schedule, and performance information for major 
+acquisitions and discuss how it is being used to support critical 
+thinking. 
+15 
+
+[PDF page 28]
+ 
+  
+ 
+ 
+    
+     
+ 
+  
+ 
+   
+   
+ 
+   
+     
+ 
+ 
+ 
+   
+   
+ 
+   
+  
+ 
+   
+  
+ 
+    
+ 
+  
+   
+  
+  
+ 
+  
+   
+   
+ 
+   
+ 
+ 
+APPENDIX 6: AGENCY PMIAA IMPLEMENTATION PLAN 
+PMIAA Implementation Plan Full Draft: NLT November 30, 2018, agency PMIOs will 
+submit to OMB their PMIAA Implementation Plan that addresses how the agency intends to 
+improve its program management capabilities over time. Strategies reflected in agency draft 
+plans will be used to inform the development of the OMB report issued in Winter 2018. 
+Implementation Plan Elements: Agency PMIAA implementation plans should include 
+elements of the agency’s initial PMIAA implementation outline as well as address the following 
+items for institutionalizing P/PM: 
+•	 Identification of the agency’s PMIO; 
+•	 Governance chart and/or description that illustrates how the work of the PMIO will align 
+with the work of other management functions, including an organizational chart showing 
+the relationship between the PMIO, acquisition program management function, 
+Investment Review Board (IRB), agency CXOs, portfolio managers, and program and 
+project managers; 
+•	 Identification of the agencies major acquisition portfolios, a short description or depiction 
+of how they tie to agency strategic objectives, and methodology used for determining 
+non-IT major acquisition programs to be reviewed as part of the PMIAA’s Portfolio 
+Reviews beginning with the 2019 Strategic Review meetings with OMB; 
+•	 Discussion of the agency’s approach for integrating agency portfolio reviews as an input 
+to their internal strategic review process(es); 
+•	 Strategies and actions for: 
+o	 Enhancing training and educational opportunities for program and project 
+managers. 
+o	 Improving the recruitment and retention of managers with program and project 
+management expertise within the agency. 
+o	 Utilizing career paths to expand opportunities for programs and project managers 
+within the agency and ensure they get the appropriate training and experience to 
+successfully manage increasingly complex programs. 
+o	 Implementing a mentorship program to leverage the experience and expertise of 
+more senior executives and program managers within the agency. 
+•	 Process for the collection and dissemination of agency-specific policies, best practices, 
+lessons learned, templates, tools, etc., that enhance program management at agencies and 
+support improved data gathering for analysis; 
+•	 Plan for assessing current P/PM staffing, skills, and competencies in order to focus on 
+priority training and development areas. 
+16 
+
+[PDF page 29]
+ 
+  
+ 
+  
+  
+ 
+ 
+  
+ 
+     
+ 
+  
+ 
+ 
+ 
+ 
+   
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+APPENDIX 7: KEY TERMINOLOGY 
+This Appendix section outlines common terms related to P/PM. These terms are provided to 
+ensure consistency across agencies in implementing key provisions of the Act, and applicable to 
+PMIAA implementation and guidance only. 
+•	 Investment: The entire lifecycle of a program/project. 
+•	 Portfolio Manager: A senior official, typically at the Assistant Secretary or Bureau 
+Administrator level, responsible for defining the vision and roadmap for a logical, 
+coordinated grouping of programs or systems. The Portfolio Manager principally focuses 
+on the high-level, executive aspects of managing programs throughout the portfolio, and 
+addresses such key strategic areas as long-term financial health and resource 
+requirements, policy considerations and direction, risk management, stakeholder 
+management, and the impact of environmental factors on the portfolio’s effectiveness to 
+achieve the agency’s overall mission and objectives. 
+•	 Program (for PMIAA Implementation):  The exercise of delegated or statutory 
+authority to carry out activities, functions or services constitutes the essential purpose for 
+the establishment and continuing existence of an agency; therefore, a program is 
+described as the mission, functions, projects, activities, laws, rules, and regulations which 
+an agency is authorized and funded by statute to administer and enforce. The focus of a 
+program may be on providing products and services to the public, State and local 
+government, private industry, foreign countries, or Federal agencies. Additionally, a 
+program may be professional, scientific, technical, administrative, or fiscal in nature. 
+Typically, programs involve broad objectives, including national defense; law 
+enforcement; public health, safety, and well-being; collection of revenue; regulation of 
+trade; collection and dissemination of information; and the delivery of benefits or 
+services. However, specialized or staff programs may be considerably narrower in scope 
+(e.g., merit systems protection; nuclear safety; and agency-wide personnel or budget 
+programs). Programs are usually of such magnitude that they must be carried out through 
+a combination of mission and mission-support functions. This description of program is 
+adapted from OPM’s definition of program and provided only to inform agency 
+implementation of PMIAA. 
+•	 Portfolio: A strategically structured, organized grouping of programs, activities, 
+resources, or other efforts whose coordination and coherence in implementation enables 
+the achievement of agency goals and objectives. Agencies will group programs and 
+associated activities into portfolio in a manner that will best enable effective management 
+and oversight of the portfolio. 
+•	 Program Management: The coordinated application of general and specialized 
+knowledge, skills, expertise, and practices to a program for effective implementation. 
+Effective program management requires programs be managed by both individuals and 
+organizations as whole that work in concert to achieve benefits and advance outcomes 
+towards the accomplishment of the agency mission, goals, and objectives. 
+17 
+
+[PDF page 30]
+ 
+ 
+ 
+  
+ 
+ 
+    
+ 
+  
+•	 Project Management:  The coordinated application of general and specialized 
+knowledge, skills, expertise, and practices to a project to achieve its stated goals and 
+outcomes.  
+•	 Project: A temporary endeavor to create a unique product or service with a start date, a 
+completion date, and a defined scope. Projects are executed in a manner to improve the 
+efficient and effective implementation of program. 
+18 

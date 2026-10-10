@@ -1,0 +1,2583 @@
+
+[PDF page 1]
+FIPS PUB 65 Reference 
+N3S* 
+Publi¬ 
+cations 
+FEDERAL INFORMATION 
+PROCESSING STANDARDS PUBLICATION 
+1979 AUGUST 1 
+Guideline 
+FOR 
+AUTOMATIC 
+DATA PROCESSING 
+RISK ANALYSIS 
+DRY: ADP OPERATIONS 
+1979^ TEGORY: COMPUTER SECURITY 
+
+[PDF page 2]
+U.S. DEPARTMENT OF COMMERCE, Juanita M. Kreps, Secretary 
+Luther H. Hodges, Jr., Under Secretary 
+Jordan J. Baruch, Assistant Secretary for Science and Technology 
+NATIONAL BUREAU OF STANDARDS, Ernest Ambler, Director 
+Foreword 
+The Federal Information Processing Standards Publication Series of the National Bureau of Standards 
+is the official publication relating to standards adopted and promulgated under the provisions of Public 
+Law 89-306 (Brooks Act) and under Part 6 of Title 15, Code of Federal Regulations. These legislative and 
+executive mandates have given the Secretary of Commerce important responsibilities for improving the 
+utilization and management of computers and automatic data processing systems in the Federal Govern¬ 
+ment. To carry out the Secretary’s responsibilities, the NBS, through its Institute of Computer Sciences 
+and Technology, provides leadership, technical guidance and coordination of Government efforts in the 
+development of guidelines and standards in these areas. 
+The need for physical, administrative and technological measures to protect Federal agency data and 
+computer installations has become an acknowledged fact. In order to assure the cost effective selection 
+of such safeguards, a risk analysis is required by the Office of Management and Budget Circular A-71, 
+Transmittal Memorandum No. 1. This Guideline for performing a risk analysis is made available by 
+the NBS to assist Federal agencies in implementing the OMB requirements for the security of Federal 
+automated information systems. 
+James H. Burrows, Director 
+Institute for Computer Sciences 
+and Technology 
+Abstract 
+This document presents a technique for conducting a risk analysis of an ADP facility and related assets. Risk 
+analysis produces annual loss exposure values based on estimated costs and potential losses. The annual loss 
+exposure values are fundamental to the cost effective selection of safeguards for the security of the facility. An ADP 
+facility of a hypothetical government agency is used for an example. The characteristics and attributes of a com¬ 
+puter system which must be known in order to perform a risk analysis are described and an example is given of the 
+process of analyzing some of the assets, showing how the risk analysis can be handled. 
+Key words: ADP availability; annual loss exposure; application system vulnerability; computer security; data 
+confidentiality; data integrity; data security; physical security; procedural security; risk analysis; risk assessment; 
+systems security. 
+Nat. Bur. Stand. (U.S.), Fed. Info. Process. Stand. Publ. (FIPS PUB) 65, 27 pages. 
+(1979) 
+CODEN :FIPPAT 
+For sale by the National Technical Information Service, 
+U.S. Department of Commerce, Springfield, Virginia 22161. 
+
+[PDF page 3]
+c 
+^ Ate 
+JK H UV 
+ft* 
+federal Information 
+Processing Standards Publication 65 
+(A) 1979 August 1 
+Announcing the 
+FIPS PUB 65 
+GUIDELINE FOR AUTOMATIC DATA PROCESSING RISK ANALYSIS 
+Federal Information Processing Standards Publications are issued by the National Bureau of Standards pursuant 
+to the Federal Property and Administrative Services Act of 1949, as amended, Public Law 89-306 (79 Stat. 1127), 
+Executive Order 11717 (38 FR 12315, dated May 11, 1973) and Part 6 of Title 15 Code of Federal Regulations (CFR). 
+Name of Guideline. Guideline for Automatic Data Processing Risk Analysis. 
+Category of Guideline. ADP Operations, Computer Security. 
+Explanation. This Guideline explains the reasons for performing a risk analysis, details the man¬ 
+agement involvement necessary and presents procedures and forms to be used for risk analysis and 
+cost effective evaluation of safeguards. 
+Approving Authority. Department of Commerce, National Bureau of Standards (Institute for Com¬ 
+puter Sciences and Technology). 
+Maintenance Agency. Department of Commerce, National Bureau of Standards (Institute for Com¬ 
+puter Sciences and Technology). 
+Cross Index. 
+a. Federal Information Processing Standards Publication (FIPS PUB) 31, Guidelines for 
+Automatic Data Processing Physical Security and Risk Management. 
+b. Federal Information Processing Standards Publication (FIPS PUB) 39, Glossary for 
+Computer Systems Security. 
+c. Federal Information Processing Standards Publication (FIPS PUB) 41, Computer Secu¬ 
+rity Guidelines for Implementing the Privacy Act of 1974. 
+d. Federal Information Processing Standards Publication (FIPS PUB) 46, Data Encryption 
+Standard. 
+e. Federal Information Processing Standards Publication (FIPS PUB) 48, Guidelines on 
+Evaluation of Techniques for Automated Personal Identification. 
+Applicability. This Guideline is applicable to all Federal agencies required to take action under the 
+Office of Management and Budget Circular A-71, Transmittal Memorandum No. 1 of July 27, 1978, 
+to ensure an adequate level of security for agency data. 
+Implementation. This Guideline should be referenced in the formulation of plans by Federal agencies 
+for performing a risk analysis, whether or not the analysis is to be carried out by agency personnel 
+or on contract. 
+Specifications. Federal Information Processing Standard 65 (FIPS PUB 65), Guideline for Auto¬ 
+matic Data Processing Risk Analysis (affixed). 
+1 
+
+[PDF page 4]
+FIPS PUB 65 
+Qualifications. This Guideline has been prepared in order that a technique may be available for 
+Federal agencies desiring to use it. However, it has become apparent that risk analysis technology 
+is still in the evolutionary phase. As such, its further development would be seriously impeded by 
+the establishment of a Federal risk analysis standard which required all agencies to adopt exactly 
+the same methodology. Nevertheless, the needs of the Federal Government can only be met by the 
+performance of risk analyses. Bearing in mind the pressure of both of these thrusts, the National 
+Bureau of Standards is conducting an effort to identify the necessary constituent factors of risk 
+analysis. With these established in a standard, Federal agencies will be able to conduct, or to have 
+conducted for them, risk analyses with high confidence in the reliability of the product. On the 
+other hand, research in the area will not be deterred by the inflexibility of an already prescribed 
+methodology but should be encouraged by the setting of basic criteria and the challenge of develop¬ 
+ing and refining more sophisticated and more easily applied techniques. 
+Where to Obtain Copies of the Guideline. Copies of this publication are for sale by the National 
+Technical Information Service, U.S. Department of Commerce, Springfield, Virginia 22161. When 
+ordering, refer to Federal Information Processing Standards Publication 65 (NBS-FIPS-PUB-65) 
+and title. When microfiche is desired, this should be specified. Payment may be made by check, 
+money order, or deposit account. 
+Acknowledgment 
+The procedure for risk analysis presented here is based on the work of Robert H. Courtney, Jr. 
+of the IBM Corporation, who, while a member of the Federal Information Processing Standards 
+Task Group on Computer Systems Security, gave his kind permission for its adaptation to the 
+needs of the Federal Government. 
+Appreciation is also expressed to those other members of the Task Group who contributed 
+innovative and imaginative ideas to the development of this Guideline. 
+2 
+
+[PDF page 5]
+FIPS PUB 65 
+Federal Information 
+Processing Standards Publication 65 
+1979 August 1 
+Specifications for 
+GUIDELINE FOR AUTOMATIC DATA PROCESSING 
+RISK ANALYSIS 
+CONTENTS 
+Page 
+1. INTRODUCTION. 5 
+2. THE ROLE OF MANAGEMENT . 5 
+2.1 Management. 5 
+2.2 Risk Analysis Team. 6 
+2.3 Allocation of Time. 6 
+2.4 Management Review. 7 
+3. PRELIMINARY SECURITY EXAMINATION. 7 
+3.1 Asset Costs. 7 
+3.2 Threats . 7 
+3.3 Existing Security Measures. 8 
+3.4 Management Review. 8 
+4. RISK ANALYSIS. 8 
+4.1 Elements. 9 
+4.2 Expressions of Impact and Frequency. 9 
+4.3 Annual Loss Exposure. 10 
+4.4 Procedure. 12 
+4.5 Special Advice. 12 
+4.5.1 Human Frailty . 14 
+4.5.2 Physical Security/Inability to Process . 14 
+4.5.3 Estimating Frequency of Occurrence . 14 
+4.6 Sensitivity of Documentation. 15 
+5. AN EXAMPLE. 15 
+5.1 General Environment. 15 
+5.1.1 Central Computer Facility. 15 
+5.1.2 Terminals . 16 
+5.1.3 Backup Facilities . 16 
+5.2 Specific Systems. 16 
+5.2.1 Application 100. 16 
+5.2.2 Application 870 . 19 
+6. SELECTION OF SAFEGUARDS. 21 
+6.1 Alternative Measures. 21 
+6.2 ALE Reduction vs Cost. 21 
+APPENDIX. 22 
+A. APPLICATION SYSTEM VULNERABILITIES . 22 
+REFERENCES AND SUGGESTED READING . 27 
+3 
+
+[PDF page 6]
+. 
+
+[PDF page 7]
+FIPS PUB 65 
+1. INTRODUCTION 
+Hand in hand with the increase in awareness 
+of the need for computer security has come the 
+need for a method of quantifying the impact of 
+potential threats on organizations supported by 
+automatic data processing. Risk analysis is 
+such a method. It looks at an organization’s 
+ability to perform its missions and tasks cor¬ 
+rectly and in a timely manner under conditions 
+which can affect physical environment, person¬ 
+nel, equipment, content of files and processing 
+capability in conjunction with the chances for 
+such conditions taking place. 
+There are any number of techniques for per¬ 
+forming such analyses but two key elements 
+must always be considered: 
+1. The damage which can result from an 
+event of an unfavorable nature. 
+2. The likelihood of such an event occurring. 
+The aim of a risk analysis is to help ADP 
+management strike an economic balance be¬ 
+tween the impact of risks and the cost of pro¬ 
+tective measures. It serves to point out the 
+risks which exist; the required protective meas¬ 
+ures are then selected accordingly. An analysis 
+shows the current security posture of ADP 
+processing in an organization; it then assembles 
+the basic facts necessary for the selection of 
+adequate, cost effective safeguards. A second¬ 
+ary benefit of a risk analysis is the increased 
+security awareness which will be apparent at 
+all organizational levels, from management 
+through operations. 
+A risk analysis provides management with 
+information on which to base decisions, e.g., 
+whether it is best to prevent the occurrence of 
+a situation, to contain the effect it may have, 
+or simply to recognize that a potential for loss 
+exists. Because a risk analysis is the basis for 
+such decisions, its estimates of loss or damage 
+must be presented, where possible, in a quanti¬ 
+tative, comparative fashion. 
+There are a number of other methods of in¬ 
+specting, testing or evaluating the security of 
+computer systems, such as penetration attempts, 
+security audits, checklists and questionnaires. 
+However, none of them can take the place of a 
+risk analysis because their purposes are differ¬ 
+ent and they do not consider the key elements 
+of damage and likelihood of occurrence. 
+Risk analysis is not a task to be accomplished 
+once for all time. It must be performed periodi¬ 
+cally in order to stay abreast of changes in 
+mission, facilities and equipment. And since 
+security measures designed at the inception of 
+a system have generally proved to be more 
+effective than those superimposed later, risk 
+analysis should have a place in the design 
+phase of every system. 
+The major resource required for a risk analy¬ 
+sis is manpower—highly skilled manpower. For 
+this reason the first analysis will be the most 
+expensive, as subsequent ones can be based in 
+part on previous work and the time required 
+will decrease to some extent as expertise is 
+gained. 
+The time allowed to accomplish the risk an¬ 
+alysis should be compatible with its objectives. 
+Large facilities with complex, multi-shift opera¬ 
+tions and many files will require more time to 
+complete than single-shift, limited production 
+facilities. If meaningful results are expected, 
+management must be willing to commit the 
+resources necessary for accomplishing this 
+undertaking. 
+2. THE ROLE OF MANAGEMENT 
+2.1 Management 1. management support of the project ex- 
+The success of risk analysis depends on the pressed to all levels of the organization; 
+role top management takes in the project. 2. management explanation of the purpose 
+There must be and scope of risk analysis; 
+5 
+
+[PDF page 8]
+FIPS PUB 65 
+3. management selection of qualified team 
+and formal delegation of authority and 
+responsibility; and 
+4. management review of the team’s findings. 
+Management should leave no doubt that it 
+intends to rely on the findings of the risk 
+analysis team. The scope of the project should 
+be defined to encompass ADP users (this will 
+probably include all departments and any users 
+outside the organization) as well as the actual 
+ADP facility, equipment and personnel. 
+2.2 Risk Analysis Team 
+The selection of the risk analysis team is 
+critical to the outcome of the project. It is im¬ 
+portant to obtain representation from the or¬ 
+ganizational components responsible for the 
+following: 
+ADP operations management 
+Systems programming (if separate from ADP 
+operations) 
+Internal auditing 
+Physical security 
+Data files under consideration 
+(Very probably, all the applications pro¬ 
+cessed by the facility will not be the re¬ 
+sponsibility of the same organizational 
+component; in that case, a component need 
+only be represented when its own data files 
+are being considered.) 
+Programming support of the files under con¬ 
+sideration. 
+These entities should be represented on the 
+team by people who are well informed both of 
+their own component’s mission and its relation¬ 
+ship to the overall organizational mission. The 
+task team leader should be equally knowledge¬ 
+able and should come from one of the first three 
+components listed above, but should not be that 
+component’s representative. In other words, the 
+team leader should not wear two hats—one as 
+leader and one as representative. None of this 
+should be construed as precluding others from 
+participation on the team and, certainly, de¬ 
+partments such as legal and personnel should 
+at least be consulted. 
+The leader and the team members should be 
+designated in writing; their duties, responsi¬ 
+bilities and any accompanying authority should 
+be outlined. It should also be understood that 
+the job cannot be done adequately if alternates 
+are assigned. There may be a tendency on the 
+part of the team members, in an effort to do a 
+thorough job, to collect more information than 
+is absolutely necessary; they should be cau¬ 
+tioned about this as it can prolong the task. 
+There are reliable commercial firms which 
+perform risk analyses on contract. It may be 
+that management will decide to select one of 
+them in preference to performing the task in¬ 
+ternally. That option should not be chosen in 
+lieu of understanding the purpose and tech¬ 
+niques of risk analysis, but rather in the inter¬ 
+est of efficient resource utilization. The indi¬ 
+viduals who should serve on a risk analysis 
+team are the same ones who will be needed to 
+supply information to the contractor and to 
+make certain that the product is a risk analysis 
+rather than a list of vulnerabilities together 
+with a list of intuitively chosen solutions. Al¬ 
+though organization members could devote 
+somewhat less time to it, especially in an or¬ 
+ganization maintaining a large number of appli¬ 
+cations systems and supporting files, they 
+should still be readily available to the contractor 
+throughout the risk analysis. 
+2.3 Allocation of Time 
+Risk analysis is a time-consuming process 
+and one which cannot be hastened. Previous 
+experience or a previous risk analysis to refer to 
+will help considerably as will having all the 
+necessary information readily available. At 
+best, the consideration of each data set or file 
+in the light of the hazards which beset a sys¬ 
+tem is a tedious business, but one which should 
+only be delegated to subordinates with great 
+deliberation because of the level of knowledge 
+and experience required in the decision process. 
+It can be a very enlightening task, however, and 
+one which may lead to system simplification. 
+The assignment of some individuals to the 
+team may create a hardship for their organi¬ 
+zational components, which will be forced to do 
+without their services, as well as on the team 
+members, who will feel compelled to rush 
+through the risk analysis to get back to their 
+6 
+
+[PDF page 9]
+FIPS PUB 65 
+normally assigned duties. An agreement that 
+the team will meet only half of each day would 
+alleviate some of these burdens. 
+2.4 Management Review 
+Top management should review both the pre¬ 
+liminary findings and the final results of the 
+risk analysis team for reasonableness, policy 
+adherence and organizational unity before a 
+protection plan is formulated. At the very least, 
+the plan will require coordination with fiscal 
+and administrative departments, and will prob¬ 
+ably be included in the organization’s long-range 
+planning. 
+3. PRELIMINARY SECURITY EXAMINATION 
+In order to have a firm basis for conducting a 
+risk analysis, the team should initiate the proj¬ 
+ect by surveying the organization’s existing 
+ADP security, the cost of replacing assets, and 
+the actual threats to which the organization’s 
+ADP processing is vulnerable. They will gain 
+knowledge from the survey which may some¬ 
+what reduce the amount of time required for 
+the risk analysis. The natural inertia of getting 
+started in such a group is easily overcome be¬ 
+cause of the three specific products that are re¬ 
+quired from this preliminary phase—the list of 
+assets replacement costs, the list of threats to 
+which the facility is actually vulnerable, and 
+the list of existing security measures. 
+3.1 Asset Costs 
+One product of the examination should be a 
+list of the replacement costs, or best estimates 
+thereof, of resources and facilities: the com¬ 
+puter (s), related equipment, data, buildings, 
+etc. The total of all should be noted. Better 
+than any other information available at this 
+time, this figure will give an indication of the 
+need for security. If the risk analysis is being 
+done in the system design phase, both the in¬ 
+creased value of data in the completed system 
+and the probable increase in the cost of acquir¬ 
+ing it should be considered. 
+3.2 Threats 
+Another product of the preliminary phase 
+should be a list of the actual threats to which 
+the ADP facility and its resources are exposed. 
+For instance, the occurrence of a tornado is a 
+real possibility in the interior plains; in most 
+coastal regions it is only a very remote possi¬ 
+bility. Identifying the actual threats will give 
+the risk analysis team a feel for the vulnerabil¬ 
+ities, or possibilities for damage, of the facility 
+and the systems they will be analyzing. Again, 
+if the risk analysis is being done in the system 
+design phase, an effort should be made not only 
+to identify existing threats but to predict any 
+future ones which might result from the imple¬ 
+mentation or operation of the system. The 
+areas in the organization which should be sur¬ 
+veyed for this purpose include: 
+• Personnel—hiring and termination proce¬ 
+dures, scope and amount of training, qual¬ 
+ity of supervision at all levels. 
+• Physical Environment—neighborhood, qual¬ 
+ity and reliability of utilities, building de¬ 
+sign, operation and maintenance, physical 
+access controls. 
+• Hardware/Software Systems—operational 
+availability, change controls, software fea¬ 
+tures, documentation. 
+• Data Communications — hardware and 
+transmission circuits, procedures to vali¬ 
+date and control distribution of messages. 
+• ADP Applications—technical design, docu¬ 
+mentation, standards. (Also see Appendix 
+A.) 
+• Operations—standards and procedures for 
+source document protection, information 
+
+[PDF page 10]
+FIPS PUB 65 
+dissemination, I/O control, tape library, 
+forms, computer room processing, user in¬ 
+terface, housekeeping and maintenance, 
+production control, contingency planning. 
+Understanding the factors which contribute 
+to system vulnerability is important in perform¬ 
+ing a risk analysis. These factors are hardly 
+ever discrete and unrelated. Below is a sketchy 
+example of the kind of approach which can be 
+used to ferret out vulnerabilities. 
+• Natural Disasters. What kinds of natural 
+disasters might reasonably be expected to 
+occur? To what extent will the facility, 
+processing availability, data, supplies, util¬ 
+ities, local transportation, etc., be affected? 
+• Environment. What special hazards such 
+as explosives, flammable products, unused 
+or unguarded buildings are nearby? What 
+can be the aftermath of a fire in the vicin¬ 
+ity? What is the proximity of the fire 
+department ? 
+• Facility Housing. Is ADP facility the sole 
+occupant of the building? If not, what 
+others? By whom is the building admin¬ 
+istered ? By whom maintained ? What con¬ 
+struction is it? What warning devices and 
+preventative equipment are installed ? How 
+close is it to heating equipment, cooking 
+equipment, other fire hazards? What kind 
+of floors and ceilings are there? 
+• Access. Is access to processing local or re¬ 
+mote ? Can an intruder gain access to proc¬ 
+essing, to data, to software, to equipment, 
+to storage media, to preprinted forms, to 
+supplies, to documentation, to output, to 
+trash ? Can an employee do the same ? Ac¬ 
+cidentally? Maliciously? For profit? 
+• Work Scene. Is employee/management re¬ 
+lationship satisfactory? How well do su¬ 
+pervisors know personnel? Does manage¬ 
+ment understand problems of personnel on 
+shifts? How well do supervisors relay em¬ 
+ployee problems to management? Are em¬ 
+ployees loyal? 
+• Data Value. How much can an intruder 
+gain by penetrating the system or disclos¬ 
+ing data or disrupting operations? How 
+much can a subject be hurt by unauthor¬ 
+ized disclosure of data or by incorrect data? 
+How much can the organization be hurt by 
+disclosure of data or by basing decisions on 
+incorrect data or by delayed processing 
+availability ? 
+3.3 Existing Security Measures 
+The last product of this phase should be a 
+list of all security safeguards currently in effect, 
+whether or not the original purpose of such 
+features (e.g., storage media logs, control of 
+printout distribution, data entry quality con¬ 
+trols) was to protect. It will in fact be seen that 
+good management practices generally promote 
+security. Specific security measures, such as 
+perimeter fences, guards, entrance badges, etc., 
+may be for the protection of all offices and fa¬ 
+cilities in the building and would be in place 
+even if the ADP facility were located elsewhere. 
+The threats against which each of these in- 
+place measures is specific should also be listed. 
+3.4 Management Review 
+The results of these surveys should be pre¬ 
+sented to management immediately upon com¬ 
+pletion. These results may point to the need 
+for temporary safeguards until a final security 
+plan, based on a complete risk analysis, can be 
+placed in effect. 
+4. RISK ANALYSIS 
+Regardless of the cause, any harm which 
+occurs in automatic data processing manifests 
+itself as a loss to the organization of one, or 
+more, of the following conditions: 
+DATA INTEGRITY—The state that exists 
+when automated data is the same as that in 
+the source documents, or has been correctly 
+computed from source data, and has not been 
+8 
+
+[PDF page 11]
+FIPS PUB 65 
+exposed to accidental alteration or destruc¬ 
+tion. Incomplete data, unauthorized changes 
+or additions to the data, and erroneous source 
+data are all considered violations of data 
+integrity. 
+DATA CONFIDENTIALITY—The state that 
+exists when data is held in confidence and is 
+protected from unauthorized disclosure. Mis¬ 
+use of data by those authorized to use it for 
+limited purposes only is also considered to be 
+a violation of data confidentiality. 
+ADP AVAILABILITY—The state that exists 
+when required ADP services can be performed 
+within an acceptable time period even under 
+adverse circumstances. 
+To prevent the risk analysis from bogging 
+down in detail, the team should concentrate on 
+the potential results of undesirable events, i.e., 
+on the extent of the damage which they can 
+cause, rather than on why they occur since the 
+harmful events to which the organization is 
+vulnerable have already been identified in the 
+preliminary phase. 
+4.1 Elements 
+The essential elements of risk analysis are an 
+assessment of the damage which can be caused 
+by an unfavorable event and an estimate of how 
+often such an event may happen in a period 
+of time. 
+As it will be impossible for the team to know 
+absolutely either the impact or frequency of 
+many events, these must be estimated using a 
+combination of historical data, the team’s knowl¬ 
+edge of the system, and their own experience 
+and judgment. However, estimates within an 
+order of magnitude are sufficiently accurate for 
+the purpose of risk analysis in most cases. 
+Later, at the time of selecting safeguards, if 
+it becomes important to refine specific items, 
+that can be done, but during the analysis gross 
+statements of impact and frequency are all that 
+are required. 
+4.2 Expressions of Impact and Frequency 
+Quantitative means of expressing both po¬ 
+tential impact and estimated frequency of oc¬ 
+currence are necessary to performing a risk 
+analysis. 
+To date no better common denominator has 
+been found for quantifying the impact of an ad¬ 
+verse circumstance—whether the damage is 
+actual or abstract, the victim a person, a piece 
+of equipment or a function—than monetary 
+value. It is the recompense used by the courts 
+to redress both physical damage and mental 
+anguish. Some methodologies advocate the use 
+of abstract symbols of impact. “$” is, in fact, a 
+symbol, yet one which transfers directly to fiscal 
+usage without any intermediate translation. 
+Since impact will be expressed monetarily 
+and fiscal matters are organized on an annual 
+basis in Federal agencies, a year is the most 
+suitable time period to specify in expressing 
+expected frequency of occurrence of threats. 
+Some threats occur only once in a number of 
+years while others happen many times a day. 
+Such frequencies are not always easy to ex¬ 
+press in terms of years: “five times a day,” for 
+instance, converts to “1825 times a year” and 
+“once every five years” converts to “one-fifth of 
+an occurrence per year.” 
+The time needed for the analysis will be con¬ 
+siderably reduced, and its usefulness will not be 
+decreased, if both impact and frequency esti¬ 
+mates are rounded to the factors of ten shown 
+in figure 1. There will be no significant differ¬ 
+ence in the overall exposure whether the damage 
+from a certain event is estimated at $110,000 or 
+$145,000. Assigning value to such things as loss 
+of career caused by disclosure of confidential 
+data or suffering caused by undue delay in the 
+delivery of an annuity check is, in fact, more 
+readily done in orders of magnitude than in 
+actual figures. Here again, there will be no dif¬ 
+ference if the frequency of an event is expected 
+to be twelve times a year or thirty. Using the 
+scales for frequency from figure 1 will avoid the 
+use of unwieldy fractions and maintain the flexi¬ 
+bility to work with high probability events in 
+days and low probability events in years. 
+9 
+
+[PDF page 12]
+FIPS PUB 65 
+IMPACT: 
+$10 
+$100 
+$1000 
+$10,000 
+$100,000 
+$1,000,000 
+$10,000,000 
+$100,000,000 
+FREQUENCY: 
+Once in 300 years 
+Once in 30 years 
+Once in 3 years (1000 days) 
+Once in 100 days 
+Once in 10 days 
+Once per day 
+10 times per day 
+100 times per day 
+Figure 1. Orders of Magnitude of Estimated 
+Impact and Frequency. 
+When i and f are indices to possible orders 
+of impact and frequency, 
+the relationship of i to I is I = 10* and 
+10 <f~3> 
+the relationship of f to F is F = —^— 
+10f 
+Thus the annual loss expectancy can be calcu¬ 
+lated by the formula 
+lO1 
+ALE ==—5-x 10 (f'3), O 
+which reduces to 
+10 <f+i~3> 
+ALE=-3— 
+Using the table shown in figure 3 will be faster 
+than following the formula for ALE but will 
+produce the same result. Find the appropriate 
+row and column for the i and f selected from 
+figure 2; the cell where they intersect will con¬ 
+tain the ALE. 
+If the estimated cost impact of the event is 
+4.3 Annual Loss Exposure 
+If the impact of an event, i.e., the precise 
+amount of damage it could cause, and the fre¬ 
+quency of occurrence of that event, i.e., the 
+exact number of times it could happen, could be 
+specified, the product of the two would be a 
+statement of loss, or 
+Loss = Impact X Frequency of Occurrence. 
+However, because the exact impact and fre¬ 
+quency can usually not be specified, it is only 
+possible to approximate the loss with an annual 
+loss exposure (ALE), which is the product of 
+estimated impact in dollars (I) and estimated 
+frequency of occurrence per year (F). 
+For ease in use, the orders of magnitude for 
+estimated impact and estimated frequency of 
+occurrence can be indexed, as shown in figure 2. 
+$10, let i = 1 
+$100, let i = 2 
+$1000, let i = 3 
+$10,000, let i = 4 
+$100,000, let i = 5 
+$1,000,000, let i = 6 
+$10,000,000, let 1=7 
+$100,000,000, let i = 8 
+If the estimated frequency of occurrence is 
+Once in 300 years, let f = 1 
+Once in 30 years, let f = 2 
+Once in 3 years, let f = 3 
+Once in 100 days, let f = 4 
+Once in 10 days, let f = 5 
+Once per day, let f = 6 
+10 times per day, let f = 7 
+100 times per day, let f = 8 
+Figure 2. Tables for Selecting of Values of 
+i and f. 
+10 
+
+[PDF page 13]
+FIPS PUB 65 
+Values of F 
+1 2 3 4 5 6 7 8 
+1 $300 
+CO 
+€«- 
+$ 30k $300k 
+2 $300 3k 30k 300k 3M 
+3 $300 3k 30k 300k 3M 30M 
+4 $300 3k 30k 300k 3M 30M 300M 
+5 $300 3k 30k 300k 3M 30M 300M 
+6 3k 30k 300k 3M 30M 300M 
+7 30k 300k 3M 30M 300M 
+Values of ALE 
+Figure 3. Table for Determining Values of ALE. 
+The tables from figures 2 and 3 can be combined as shown in figure 4 for greater convenience. 
+CC 02 
+m U1 
+5-i d m m cS 
+in ^ o3 >> 
+O O £ «3 © o o o o >» "S O o >> c$ 
+CO o CO O CO O i—l rH Si 
+S3 O a ® .g G o> T3 U 
+© © • -i © • H ft Si <V 
+U TH O) tH <D rH <U <D o> o> Pa 
+O W O w O ^ o O o ft <3 
+S3 S3 S3 S3 S3 S3 © o 
+o O o O O O t-H rH 
+1 2 3 4 5 6 7 8 
+$10 1 $300 $3,000 $300k 
+$100 2 $300 $3,000 $3 0k $300k $3M 
+$1000 3 $300 $3,000 $30k $300k $3M $30M 
+$10,000 4 $300 $3,000 $30k $300k $3M $30M 
+$100,000 5 $300 $3,000 $30k $300k $3M $30M $300M 
+$1,000,000 6 $3,000 $30k $300k $3M $30M $300M 
+$10,000,000 7 $30k $300k $3M $30M $300M 
+$100,000,000 8 $300k $3M $30M $300M 
+Figure 4. Combined Matrix of i, f and ALE. 
+11 
+
+[PDF page 14]
+FIPS PUB 65 
+4.4 Procedure 
+The team will need an organized way of ap¬ 
+proaching their task and an orderly method of 
+recording their findings. It would probably be 
+impossible for the team to conceive of every 
+event which could have a deleterious effect on 
+data processing. Therefore, the risk analysis 
+task is better approached from the standpoint 
+of the data files, or applications systems, of 
+which there is a finite number. Cataloging each 
+data file or application system on a worksheet 
+on which the results of the analysis can also be 
+noted will give structure to the task. 
+Worksheets may be formatted in any way 
+an agency finds useful, but they should be as 
+simple as possible and should not contain any 
+superfluous data. The worksheet shown in 
+figure 5 can be copied and enlarged to provide 
+more working space, if desired. 
+All of the organization’s application systems, 
+or data files arranged by application, should be 
+listed on the worksheet(s). By tracing the flow 
+of data through a system, the team will be able 
+to pinpoint where in the processing the threats 
+identified in the preliminary study could occur. 
+Because of the preliminary vulnerability study 
+and the team’s collective familiarity with the 
+systems/applications/files, they should be able 
+to assign reasonable estimated frequencies to 
+such events. If a file is used with more than one 
+application system, it should be listed under 
+each, as it can be vulnerable to different hazards 
+under different systems. 
+Organizations with a large number of files 
+will probably want in their initial risk analysis 
+to consider their data on an application basis 
+rather than on a file basis because of the size 
+of the task awaiting them. Such an analysis 
+should be followed by the more detailed file-by- 
+file consideration in any instances where there 
+is an indication that protection requirements 
+differ radically among the files in any one appli¬ 
+cation system. 
+The values of i and f should be filled in at each 
+intersection on the worksheet, as should the 
+value of ALE, or it will be impossible to recon¬ 
+struct the basis for a particular ALE. Keep a 
+running total of the ALEs attributable to each 
+threat on the list of actual threats. (If addi¬ 
+tional threats surface, they should be added to 
+the list.) A note in the “Comments” column 
+linking the ALE to the particular threat, or 
+threats, will be useful at the time of selecting 
+remedial measures. 
+The effect of currently installed protective 
+measures on undesirable events should not be 
+taken into account at this stage. Their consid¬ 
+eration would require efficacy judgments which 
+are properly a part of the subsequent safeguard 
+selection process. 
+Where more than one circumstance can affect 
+data integrity, data confidentiality or process¬ 
+ing availability, the i and f values for these 
+events should be noted separately; this will be 
+an aid in deciding on security measures. Use 
+the “Comments” column to note the steps or 
+functions in a system where problems can occur. 
+When the team is considering data confidential¬ 
+ity, their task can be simplified by first elimi¬ 
+nating the files which are known to contain no 
+personal, proprietary or other information of a 
+nature which would make disclosure a problem. 
+The further division of data integrity into 
+modification and destruction is necessary be¬ 
+cause the two will not always have the same 
+impact, nor occur with the same frequency. 
+The “Comments” column can be used as 
+shown in figures 6 and 7 to indicate the process¬ 
+ing step in which a destructive event can occur. 
+It can also be used to refer to additional notes 
+which may be needed to explain certain situa¬ 
+tions more completely. 
+The time periods in the “Processing Avail¬ 
+ability” column are mission dependent and will 
+have to be determined by each organization for 
+itself. They will be important in the selection 
+of backup facilities and should be subject to 
+review by top management. The destruction of 
+equipment should be considered under “Process¬ 
+ing Availability” because the ultimate effect 
+of destroying equipment will be the inability to 
+process data. The impact will be the cost asso¬ 
+ciated with the inability to process rather than 
+the cost of replacing equipment. Replacement 
+is a possible remedial measure, the cost of which 
+should be subjected to the same analysis as any 
+other measure (as described in Chapter 6). 
+4.5 Special Advice 
+ADP risk analysis is a technique which relies 
+heavily on the intuition, experience and tech¬ 
+nical knowledge of the team members. The 
+12 
+
+[PDF page 15]
+FIPS PUB 65 
+297-362 0 79 2 
+Figure 5. Risk Analysis Worksheet. 
+
+[PDF page 16]
+FIPS PUB 65 
+comments in this section are included for the 
+purpose of putting certain problems in perspec¬ 
+tive and giving the team confidence in its own 
+collective judgment in areas where there often 
+appears to be little or no precedent or guidance 
+on which to base a decision. 
+4.5.1 Human Frailty 
+The team will come upon doubts as they 
+weigh the part personal integrity plays in the 
+security of a system. While every Federal em¬ 
+ployee who works in an ADP environment must 
+have a clearance appropriate to the content or 
+purpose of the systems he deals with, there is 
+no way of knowing at any time what stresses 
+are operating on an individual—what pressures 
+he has at home, what jealousies exist in the 
+work situation, what financial burdens he is 
+under. For these reasons, it is usually best 
+to leave individual personal integrity out as a 
+factor contributing to security in a risk analy¬ 
+sis. The right time for considering personal 
+integrity is during development of the security 
+plan, when various safeguards can be discussed. 
+Several general conclusions seem to be emerg¬ 
+ing from the growing body of statistics on 
+computer crime [10]: 
+• The vast majority of white collar crime is 
+committed by employees defrauding their 
+own employers. 
+• In general, employees who defraud their 
+employers do so using resources to which 
+they have access in the course of their jobs. 
+• The best deterrent to white collar crime has 
+proved to be curtailment of incentive, i.e., 
+limiting the profit potential of dishonest 
+activity to the minimum consistent with 
+the assigned task. If employees can expect 
+no more than minimal gain from unscru¬ 
+pulous acts, they will be less likely to at¬ 
+tempt them. The second-best deterrent is 
+the fear of getting caught. If employees 
+know there is adequate surveillance of ac¬ 
+tivity, they will be less apt to place them¬ 
+selves in jeopardy. 
+4.5.2 Physical Security/Inability to Process 
+Another difficulty the team can encounter is 
+the confusion caused by treating fires, floods and 
+other natural disasters solely as physical secu¬ 
+rity problems. While the initial impact of nat¬ 
+ural disasters usually is physical destruction, 
+there can be other less immediately obvious 
+effects on processing capability, such as loss of 
+utilities, loss of the services of key personnel 
+and damage to data storage media. There can 
+also be loss of services without any damage to 
+a facility. 
+The loss of the physical facility and the loss 
+of processing availability should be treated in¬ 
+dependently of each other, since neither neces¬ 
+sarily causes the other. The total inability to 
+process can be caused by circumstances other 
+than physical destruction. For instance, hard¬ 
+ware malfunctions can hold up all processing for 
+several days; accidental erasure of critical pro¬ 
+grams or data can delay an urgent task for 
+many hours; a fire in another building can de¬ 
+prive the ADP center of utilities; waterlogging 
+of preprinted output forms can halt output 
+until the forms can be replaced, possibly a mat¬ 
+ter of weeks. Flood damage can result not only 
+from overflowing rivers, but also from leaky 
+fixtures, bursting pipes or fire fighting activity 
+nearby. 
+4.5.3. Estimating Frequency of Occurrence 
+At first the team may feel that estimating 
+frequency of events for which there is no his¬ 
+tory of occurrence is impossible. Common sense, 
+however, can help. Consider, for example, a 
+payment system with good automated controls 
+over the number of checks and the sums of the 
+amounts of the checks. Between a hundred and 
+a thousand people may know that it is relatively 
+easy to change a recipient’s address without risk 
+that it will be detected; one of them could easily 
+divert checks to an address where they could be 
+picked up and cashed by someone other than the 
+intended recipient. Such a situation should yield 
+an estimated frequency much higher than once 
+in thirty years and probably much lower than 
+once every ten days, leaving the choice between 
+once every three years and once every hundred 
+days. Selecting the most appropriate of these 
+figures depends on several factors, including the 
+general atmosphere in which the system func¬ 
+tions. If the number of people who know of the 
+vulnerability is one or two hundred, the former 
+is the most likely figure. If the number of 
+people who know is nearer a thousand, or if em¬ 
+ployee dishonesty is accepted by management 
+as long as it stays within established bounds, 
+14 
+
+[PDF page 17]
+FIPS PUB 65 
+then the higher estimated frequency would be 
+more likely. 
+4.6 Sensitivity of Documentation 
+All reports, worksheets and any other docu¬ 
+mentation or notes dealing with the risk analysis 
+should be treated as highly sensitive and should 
+be so marked by whatever method the organi¬ 
+zation uses. 
+5. AN EXAMPLE 
+An example using a hypothetical government 
+agency has been developed to show some of the 
+facets which must be considered in a risk analy¬ 
+sis. Only a small part of the agency’s total ADP 
+applications are considered here. 
+5.1. General Environment 
+5.1.1. Central Computer Facility 
+• The central ADP facility is housed in a 
+separate three-story wing of the agency’s 
+headquarters in central Kansas. 
+• The equipment consists of a large-scale 
+processor with 3 CPUs, 32 tape drives, 10 
+billion characters of disk storage, 3 front- 
+end communications processors capable of 
+handling a total of 175 terminals (125 are 
+presently in the system), a COM unit and 
+a library of 50,000 reels of tape. Trans¬ 
+mission between central facility and ter¬ 
+minals is by private leased line. 
+• Guards check all personnel into and out of 
+the computer area. Badges are required. 
+Areas not monitored by guards are con¬ 
+trolled by an electronic card system. Pro¬ 
+cedures are in effect covering lost, forgot¬ 
+ten, stolen and damaged badges and card 
+passes and the issuance of badges to 
+visitors. 
+• There is a supervised fire detection/sup¬ 
+pression system consisting of products- 
+of-combustion detectors and a dry-pipe 
+sprinkler system. Hand extinguishers are 
+located throughout the facility, the type de¬ 
+termined by the equipment or supplies in 
+their vicinity. Continuing emergency team 
+training is required of all computer opera¬ 
+tions personnel. The training includes ac¬ 
+tual use of the various extinguishers. Fire 
+safety orientation is given to all employees 
+when first hired and annually thereafter. 
+Areas of the building adjacent to the com¬ 
+puter facility do not have fire detection de¬ 
+vices. These areas are under the control of 
+operating units other than data processing. 
+• There is no emergency power or uninter¬ 
+ruptible power supply backup. In the last 
+seven years, the facility has experienced 
+machine failure due to power outages re¬ 
+sulting from thunderstorms, a fire at the 
+utility substation and breaks in the main 
+power feeder caused by a construction proj¬ 
+ect. In recent months (especially summer) 
+local brownouts have caused the failure of 
+certain electronic equipment. These brown¬ 
+outs occur about every three weeks. 
+• The air conditioning unit is five years old 
+and has suffered three breakdowns: one 2 
+years after installation, one 18 months 
+later, and a third after another year. Two 
+100-ton cooling towers are located on the 
+roof of the wing in which the ADP facility 
+is located. 
+• Plastic covers are supplied for all hardware 
+in the facility. The flooring is raised 24 
+inches and there are automatic pumps in 
+case of water entry. The tape library is 
+well protected from water damage. 
+• Emergency power-down switches are pro¬ 
+vided for all computer and air conditioning 
+systems. 
+• Management is aware that, annually, about 
+400 tape and/or disk files are misplaced or 
+destroyed by improper handling or over¬ 
+writing because of incorrect labeling. 
+• Employee morale is notably high. The 
+agency has established good personnel 
+policies and the procedures for dealing with 
+15 
+
+[PDF page 18]
+FIPS PUB 65 
+employee complaints work fairly and to the 
+satisfaction of most. All ADP personnel 
+are aware of management’s continuing in¬ 
+terest in maintaining and enforcing secu¬ 
+rity procedures at both central and remote 
+facilities. 
+• The operating system must be restarted 
+several times a week. Sometimes the prob¬ 
+lem can be traced to a hardware failure, 
+but usually it is not resolved. Systems pro¬ 
+grammers maintain the system with little 
+direct supervision. There is no formal re¬ 
+view before changes are installed. The 
+operators have learned how to keep the 
+system running efficiently, but some of the 
+evening and night supervisors have little 
+understanding of what the operators do. 
+5.1.2 Terminals 
+• The remote job entry terminals are all lo¬ 
+cated in GSA leased spaces, one at each 
+field office. They are locked when unat¬ 
+tended ; however, they are used by several 
+branches of the agency for a number of 
+systems. Magnetic tapes are secured in 
+locked cabinets located in terminal rooms. 
+Data tapes are retained for one month 
+only. Source documents on microfilm are 
+stored in secure areas other than in the 
+terminal room. Data are not protected dur¬ 
+ing transmission from terminals to central 
+facility. 
+5.1.3 Backup Facilities 
+• No plans have been made for emergency 
+backup of automatic data processing. 
+5.2 Specific Systems 
+5.2.1 Application 100 
+This application supports a mission stem¬ 
+ming from an Executive Order requiring a 
+report to be produced and published on the 
+third Thursday of each month. It has been 
+automated for ten years. A master file con¬ 
+taining the most recent report must be updated 
+monthly with new data transmitted from 30 
+field offices to the central facility. When the 
+new data are merged, a new report is produced 
+and distributed through controlled official 
+channels. 
+The following set of circumstances is assumed 
+for this application: 
+• The data are necessary to the Federal com¬ 
+munity. Their output can have an economic 
+impact on the private sector if released 
+early. 
+• At the field offices, the source documents 
+are microfilmed after data have been trans¬ 
+lated into machine readable format (mag¬ 
+netic tape). Seven of the offices have their 
+own microfilming equipment; twenty-three 
+have it done on contract. 
+• Data transmission to central facility is ac¬ 
+complished during third shift operation 
+(0001 to 0800) every Tuesday. 
+• If communications network is down, data 
+tapes are flown to the central facility. 
+Communications failure occurs an average 
+of three times a year. 
+• Only ADP personnel with appropriate clear¬ 
+ances are authorized to handle the data 
+throughout the entire process. 
+• To date, there have been no known inci¬ 
+dents of unauthorized access to or early 
+release of the data. 
+• Copies of updated reports are stored at the 
+central facility in a special locked cabinet 
+and backup copies are stored at a GSA 
+Records Center. The backup copies are 
+maintained for three (3) cycles—current, 
+plus two most recent months. 
+• A part of the final report, Section A, is 
+created from some preliminary data. It 
+must be available two days before the final 
+data are transmitted so that analysis can 
+be started. Updating the previous month’s 
+report requires preparation of the master 
+tape. Certain other tape files must be used 
+in this process; these include personnel 
+assignment data, regional projects data 
+and budget status data. 
+• Each of the elements is considered critical 
+to the final product. At the conclusion of 
+each stage, checks are made for errors 
+which might have been introduced. No 
+major errors have ever been detected. 
+Errors which have been found are restricted 
+primarily to the new data tapes created by 
+field offices. 
+• If the system were to be violated, or if the 
+report were to be late, some adverse impact 
+would be felt in the stock markets. There 
+would be embarrassment to the Govern- 
+16 
+
+[PDF page 19]
+FIPS PUB 65 
+ment on both national and international 
+scenes. 
+• The data are of such importance to “out¬ 
+side” individuals that relatively senior 
+personnel could be tempted to obtain pre¬ 
+release information or cause the final 
+report to miss the established publication 
+date. 
+• All personnel involved are continuously 
+observed by their managers for any signs 
+of attitude change, deterioration in per¬ 
+formance, or other indications of situations 
+that could result in breaches to the security 
+of this project. 
+• All corrections, updates, or modifications 
+to the software systems are closely moni¬ 
+tored and tested before final approval and 
+subsequent incorporation into the master 
+system. 
+The system consists of the six stages shown below: 
+INPUT PROCESS 
+Stage 1—Data preparation 
+Source data key to tape 
+verify 
+duplicate 
+microfilm 
+destroy 
+source documents 
+Stage 2—Data transmission 
+Source data tape 
+Stage 3—File maintenance 
+Master tape (current) 
+Change data tape 
+Stage 4—Section A creation 
+Master tape 
+Personnel assignment data 
+Regional project data 
+Budget status data 
+Stage 5—Final report creation 
+Master tape 
+Personnel assignment data 
+Regional projects data 
+Budget status data 
+Stage 6—Querying 
+Master tape 
+Personnel assignment data 
+Regional projects data 
+transmit 
+verify 
+update 
+verify 
+duplicate tape 
+calculate 
+format 
+same as St. 4 
+search 
+read 
+The worksheet for this application is shown in figure 6. 
+OUTPUT 
+Source data tape 
++ 1 copy 
+microfilm 
+Change data tape 
+Master tape 
+(new -)- 1 cy) 
+Sect A report 
+Final report 
+video display 
+17 
+
+[PDF page 20]
+FIPS PUB 65 
+05 05 tH 
+V v3 05 (M fa . 
+fa fa *4 4-5 4-> a 
+in fa fa fa fa co Xfl Tf o 
+Eh fa fa p fl 
+rH 4^ fa fa fa 
+£ 
+w 
+§ 
+4-5 
+co 
+CD 
+4-5 
+co 
+CD 
+tH 
+4-5 
+co 
+<N 
+4-5 
+CO 
+.2 
+*P 
+as 
+$h 
+o • rH 
+4^> 
+oS 
+>3 
+fa 
+fa 
+a 
+PS 
+Vi fl 
+Vi S <D ^ 
+7 co 
+ts 
+rjT 
+. CO 
+4^ <N 4-5 
+CO 
+CO 
+<N 
+£ 
+o 
+o 
+Oh 
+as 
+O 
+Oh 
+a3 
+-H> 
+O 
+44> 
+£ 
+o 
+Vi 
+4-T 
+S 
+co 
+P) Tt1 
+a pH 
+O . 
+<D P 
+V fa 
+o ^ 
+V fa 
+<& 
+4-5 
+CO 
++3 o P |^3 
+V -e 
+g ^ 
+o?S 
+v 
+3 fa 
+^ HH 
+p fa 
+oT 44) 
+p£3 
+3 
+oT 
+rH 
+5h 
+pJC3 
+>» a 0 
+c3 fa fa •-^ fa 73 
+c3 Is w « fa « fa o fa 
+a> <D cj ?H P PI 0) O G$ c3 c3 
+fa fa P 4-> o> <D V Ph a O o 
+c3 aj 3 3 3 fa o T3* c3 c3 d 
+co 
+£« 
+fa fa i 1 i i i i i 1 
+o fa 
+fa 
+<M 
+O 
+(i) 
+(A 1—1 
+HH 
+24 hrs 
+y—s 03 
+Xfl 
+in 
+W 
+O 
+O 
+HH 
+PQ 
+<3 
+fa 
+HH 
+<1 
+> 
+<3 
+wfa 
+fa 
+•3- 
+i 1 i 
+CO 
+CD 
+$300k 
+i i 1 
+& 
+Ph co £ S' 
+•£iro 
+* ^ § 
+o3 
+CO ^ 
+c3 
+co ^ 
+03 
+CO fa 
+fa 
+(i) 
+(AL 
+i 1 i I 
+t- 
+o 
+CO 
+GO- 
+o 
+CO 
+fa ^ 
+o 
+CO 
+fa ««■ fa 
+o 
+CO 
+GO- 
+fa 
+C3 c3 c3 03 
+a 
+.a c3 
+<4H <M CO CO a r}< rH (M rH 
+Eh 
+faH 
+fa 
+<3 
+< 
+faH 
+Eh fa fa fa 
+fa 
+O § o o 
+fa £ j fa o o O o o o 
+fa 
+Q 
+CO CO CO CO CO CO CO 
+Q 
+<1 GO- GO- GO- GO- GO- GO- GO- 
+faH 
+fa 
+£ 
+o 
+fa • pH IP ia fa fa o fa 
+o3 fa 
+p SH rH <M co “ CO rH rH rH 
+O 
+fa •rH 44> 
+f-H o fa o fa o 
+fa—1 3 fa o o o 
+Ph 
+o 
+$H 4-5 co 
+a> 
+< 
+1 CO 
+GO- 
+CO 
+GO- 
+CO 
+GO- 
+w Q CO CO fa fa CO CO 
+fa 
+£ p c3 03 c3 
+fa-1 o 4h rH rlH CO CO tH rH 
+<3 
+4^ 
+c3 fa fa o fa o o 
+"3 
+o 
+fa O o o o o 
+<3 
+Q 
+< CO 
+GO- 
+1 CO 
+GO- 
+CO 
+GO- 
+CO 
+GO- 
+CO 
+GO- 
+s •rH co fa fa CO co 
+£ 
+O faH 
+fa 
+4-5 
+p (V 
+5 
+4-5 
+03 
+<3 O fa o3 
+o i—i 
+fa 
+co 
+0) 
+o 
+rH 
+■+J 
+p 
+a> 
+<u 
+& 
+<D 
+a c3 
+V 
+P 
+_&p 
+xfl 44) 
+o o> 
+a 
+d 
+fa 
+P-i 
+P-. 
+«3 
+i 
+H 
+fe 
+a3 4-> 
+c3 
+Q 
+£ 
+o faH 
+fa 
+<3 
+fa faH 
+6 P O 
+o 
+Q 
+CD 
+CD 
+Vi 
+<3 4-> 
+c3 4-> 
+c3 
+<D O $H 
+S- 
+fa 
+o Vi 
+44> 
+c3 4-> 
+05 
+73 
+0) 
+5^ 
+PJ 
+o> 
+a c3 H-> 
+V 
+CD -v> 
+m w 
+c3 
+'o; 
+P 
+P ci 
+° M Ctf 
+•PS o 
+V 
+a pH 
+c3 
+P _o 
+CO 
+13 44) 
+03 44) CO 
+44) 
+<D 
+bo 
+Eh 
+C/2 
+fa 
+fa fa 
+fa 
+P 
+O 
+in. 
+3 
+O 
+in 
+o 
+§ 
+cS 
+fa O 
+as Vi iT3 (U 
+Ph 
+bfi 
+<D 
+Ph 
+fa 
+p 
+M 
+in <3 
+18 
+Figure 6. Risk Analysis Worksheet for Application 100. 
+
+[PDF page 21]
+FIPS PUB 65 
+5.2.2 Application 870 
+This system is used to maintain and control 
+the agency’s plans and gross budgetary infor¬ 
+mation for the most recent five years, the cur¬ 
+rent year and the next five: ProgHist, CurrProg 
+and AgPlans. The software consists of an 
+agency developed program, PFiles, and a com¬ 
+mercial proprietary program, WWWMod, which 
+does the modeling required to choose the 
+optimum course for future plans. 
+There are six video graphics terminals 
+equipped with hard copy printers located in the 
+offices of top management and a small control 
+center with a large video screen in the office 
+of the head of the agency to be used for dis¬ 
+playing the results of on-line modeling at staff 
+meetings. All files are mounted on-line during 
+normal working hours. They are updated after 
+every working day at 1:00 a.m. with the pre¬ 
+vious day’s transactions—an average of ten, 
+except during February and August when 
+processing time jumps from 1.8 hours a month 
+to 4 hours a month. 
+The system consists of the three stages shown below: 
+INPUT PROCESS OUTPUT 
+Stage 1—Daily file maintenance 
+CurrProg 
+PFiles 
+(1 am, 1.8 hrs/mo, except Feb and Aug 4 hrs/mo) 
+update files CurrProg 
+verify 
+duplicate 
+Stage 2—Querying & modeling 
+AgPlans 
+CurrProg 
+WWWMod 
+(8 am to 5 pm daily) 
+search files 
+read files 
+calculate 
+video display 
+printout 
+Stage 3—Semiannual report creation 
+AgPlans 
+CurrProg 
+ProgHist 
+WWWMod 
+PFiles 
+(during working hours, Feb and Aug) 
+calculate 
+verify 
+format 
+update AgPlans 
+update ProgHist 
+verify 
+MBOfuture rpt 
+(2cc only) 
+AgPlans 
+ProgHist 
+video display 
+The worksheet for this application is shown in figure 7. 
+19 
+
+[PDF page 22]
+FIPS PUB 65 
+HI H 
+£ 
+m 
+o u 
+55 3 HH 1—1 
+HI £ 
+1/2 PQ 
+W <5 
+O J 
+O 3 
+« 5 Qli ?*■ 
+aj Ph 
+X 
+(M 
+t> 
+h 
+- <j 
+03 
+Ph 
+k=3 
+CM 
+^ w 
+c < 
+H 
+■J 
+<1 
+5* 
+H hH 
+<5 i—i H 
+£ 
+W 
+Q t—i 
+Pk 
+£ 
+O 
+u 
+'Sf co co <N 
+H 
+<5 
+o CO 
+eo- 
+o o co 60- 
+p*j 
+CO 
+60- 
+O 
+O 
+CO 
+60- 
+6£> ■'tf 
+>H 
+H t—i 
+Ph 
+o 
+w 
+Eh 
+55 i—< 
+<J 
+Eh 
+<5 
+Q 
+w 
+<N 
+O 
+o CO 
+60- 
+<N 
+O 
+O 
+CO 
+60- 
+<M 
+O 
+O 
+CO 
+60- 
+(M 
+O 
+o CO 
+60- 
+C 
+_o 
++3 
+o 
+s "3 
+o 
+H 
+<5 
+co 
+60 
+o o CO 
+60- 
+co 
+lO 
+rW 
+o CO 
+60- 
+<N 
+O 
+o CO 
+60- 
+co 
+CO 
+60- 
+O 
+o CO 
+60- 
+55 
+O h-( 
+Eh 
+U « 
+3 « t—1 3 Ph 
+^■8 
+SQ 
+H 
+Eh in 
+>H 
+in 
+o t- 
+00 
+55 
+O >—I 
+<1 
+Q HH 
+Ph 
+Ph 
+<5 
+bo 4-P O 
+CO 
+c 
+o 
+Ph 22 
+s 
+Pk Ph 
+Ph 
+3 
+£ bo o 
+Ph 
+£ 
+£ 
+CO 
+• rH 
+Pk 
+<5 o Pk £ Pk 
+20 
+Figure 7. Ris/c Analysis Worksheet for Application 870. 
+
+[PDF page 23]
+FIPS PUB G5 
+6. SELECTION OF SAFEGUARDS 
+6.1 Alternative Measures 
+In the process of deciding which protective 
+measures will provide the best overall security, 
+management should look first to procedural 
+and physical safeguards. Procedural controls, 
+especially when used in combination with phys¬ 
+ical barriers, produce the highest degree of 
+security for the lowest cost of all forms of 
+protection. They satisfy the requirements of 
+the Privacy Act of 1974 as well as many other 
+demands either dictated by prudence or man¬ 
+dated by regulations. Procedural measures 
+range from screening of all applicants before 
+employment to off-site storage of backup data 
+to standards for program development to prep¬ 
+aration and testing of contingency plans. 
+Procedural measures are essential for filling 
+the gaps between manual and automated pro¬ 
+cessing, between human beings and systems 
+hardware and software. They are very effec¬ 
+tive against accidents resulting from human 
+negligence and against amateur thievery. They 
+promote an atmosphere of managerial concern 
+for data and processing security that tends to 
+discourage all but the most determined felons. 
+Most measures are effective against more 
+than one threat. Maintaining facility access 
+logs is a method of controlling who goes into a 
+facility, of knowing who is in a facility at a 
+given time, and of preventing unauthorized 
+removal of material from a facility. Encryption 
+protects data both during transmission and 
+while in storage. Audit trails furnish informa¬ 
+tion for backup and recovery and also provide 
+a basis for variance detection. 
+Returning to the examples in section 5: it 
+was found in Application 870 that though the 
+files were very seldom used, they were on line 
+throughout working hours, which greatly in¬ 
+creased their vulnerability. The protection 
+needs could be greatly reduced if the files were 
+only available to an application running on a 
+dedicated processor. This could be handled on 
+a scheduled basis or on a given amount of notice. 
+A several million dollar exposure could be 
+circumvented in this way for only the cost of 
+reviewing the system requirements. In Appli¬ 
+cation 100 the losses that could occur at the 
+field offices were found to be minor and appeared 
+upon examination to be of a nature which could 
+be averted by implementing procedural mea¬ 
+sures. The largest losses that could occur in 
+the system were related directly to the data on 
+the master tape and to the availability of 
+processing to convert the data on the master 
+tape into the required report. It was obvious 
+that safeguards for protecting these two areas 
+would also have an advantageous effect on many 
+of the smaller concerns that were noted. 
+System security measures should be con¬ 
+templated only after it has been established 
+that physical and procedural safeguards are 
+insufficient to meet the organization’s protec¬ 
+tive requirements. If an organization’s needs 
+dictate the use of software or hardware protec¬ 
+tion for some systems, then those measures can 
+also be incorporated in the protection plan for 
+systems with lesser requirements, provided the 
+operating costs of those systems are not thereby 
+inordinately increased. 
+6.2 ALE Reduction vs Cost 
+The cost of each measure should be consid¬ 
+ered in three different ways: first, vis-a-vis the 
+ALE reduction it brings about, then the total 
+cost of the combined measures should be con¬ 
+sidered in relation to the net ALE reduction, 
+and finally the additional ALE reduction by 
+each measure should be compared to its share 
+of the total cost. The selection of security 
+measures is also discussed in FIPS PUB 31 [6], 
+FIPS PUB 41 [1] and NBS Special Publication 
+500-33[2]. 
+By constructing a matrix such as shown in 
+figure 8, the threats and the protective measures 
+which could affect one or more of them can be 
+displayed. The threats should be arranged in 
+order of ALEs attributable to them (highest to 
+lowest). Each intersection in the matrix should 
+contain three pieces of information: (a) the 
+estimated ALE reduction, (b) the annual cost 
+of the measure, and (c) the resultant annual 
+saving. Great precision is not necessary in 
+arriving at these three figures. The annual cost 
+of a measure is listed opposite the most serious 
+threat which it affects; opposite any other 
+threat which is affected only the increase in 
+cost to cover that threat is noted. 
+21 
+
+[PDF page 24]
+FIPS PUB 65 
+W 
+H 
+P3 
+P m 
+<3 
+W 
+THREATS g A B C D 
+(a) *$20,000 $20,000 $18,000 
+(b) 9,000 15,000 8,000 
+1 (c) 11,000 5,000 10,000 
+(a) 10,000 12,000 — 
+(b) — — 
+2 (c) 10,000 12,000 
+(a) 4,000 6,000 — 
+(b) 1,000 — 
+3 (c) 3,000 6,000 
+(a) 2,000 4,000 — 
+(b) 5,000 2,000 
+4 (c) -3,000 2,000 
+*See paragraph above. 
+Figure 8. Array of Remedial Measures vs 
+Threats. 
+Now is the correct time to evaluate the use¬ 
+fulness of existing security measures to the 
+overall security of the facility. They should all 
+be included in the matrix but only the annual 
+maintenance costs need be considered, not the 
+initial installation costs since those have already 
+been expended. The cost of those which are not 
+solely for the purpose of computer security 
+should be prorated if possible. It is also the 
+correct time to consider replacement costs. Re¬ 
+placement of equipment should be treated the 
+same as any other remedial measure. It may 
+develop that the cost of replacing equipment is 
+less, in some cases, than protecting it. 
+Comparing all the measures which remedy 
+the same threat (or lesser included threats) 
+will show which one is the most cost effective 
+in the given circumstances. In the matrix above, 
+protective measure A, costing $10,000, pro¬ 
+vides a $24,000 saving against threats 1, 2 and 
+3 while measure B, costing $17,000, provides a 
+$25,000 summed saving against threats 1, 2, 3 
+and 4. The two measures together, at a cost of 
+$27,000, provide an ALE reduction of $31,000. 
+However, the final comparison reveals that the 
+$10,000 expenditure for measure A only pro¬ 
+duces an additional saving of $6,000 over that 
+obtained by the $17,000 expenditure. In some 
+circumstances it may be determined that the 
+additional reduction is necessary; in other less 
+sensitive situations, the cost saving will be 
+adopted instead. In addition, care should be 
+taken to insure that the measures chosen to 
+counter certain threats do not increase the esti¬ 
+mated frequency of other threats. 
+With all of the ALE reduction and cost 
+figures arrayed, various combinations of safe¬ 
+guards can be considered tentatively until a 
+satisfactory aggregation of security measures 
+is achieved. The matrix will be useful in ex¬ 
+plaining to management why particular safe¬ 
+guards should be selected. 
+The matrix and all other material associated 
+with the risk analysis should be treated as 
+highly sensitive. Copies of all letters, papers, 
+worksheets and reports prepared by the risk 
+analysis team should be preserved for the infor¬ 
+mation of those performing subsequent risk 
+analyses. 
+APPENDIX 
+A. APPLICATION SYSTEM 
+VULNERABILITIES 
+It will be useful to the team, as they consider 
+applications systems and data files, to be aware 
+of the many undesirable events which can have 
+serious consequences. A number of situations 
+to which applications systems are vulnerable 
+are listed here, grouped according to common 
+system organizational structures. The list is 
+not intended to be all-inclusive but only to 
+22 
+
+[PDF page 25]
+FIPS PUB 65 
+suggest the various kinds of vulnerabilities that 
+may exist in each system. 
+1. ERRONEOUS OR FALSIFIED DATA IN¬ 
+PUT. Erroneous or falsified input data is the 
+simplest and most common cause of undesirable 
+performance by an applications system. Vulner¬ 
+abilities occur wherever data is collected, man¬ 
+ually processed, or prepared for entry to the 
+computer. 
+• Unreasonable or inconsistent source data 
+values may not be detected. 
+• Keying errors during transcription may 
+not be detected. 
+• Incomplete or poorly formatted data rec¬ 
+ords may be accepted and treated as if they 
+were complete records. 
+• Records in one format may be interpreted 
+according to a different format. 
+• An employee may fraudulently add, delete, 
+or modify data (e.g., payment vouchers, 
+claims) to obtain benefits (e.g., checks, 
+negotiable coupons) for himself. 
+• Lack of document counts and other controls 
+over source data or input transactions may 
+allow some of the data or transactions to 
+be lost without detection—or allow extra 
+records to be added. 
+• Records about the data-entry personnel 
+(e.g., a record of a personnel action) may 
+be modified during data entry. 
+• Data which arrives at the last minute (or 
+under some other special or emergency 
+condition) may not be verified prior to 
+processing. 
+• Records in which errors have been detected 
+may be corrected without verification of 
+the full record. 
+2. MISUSE BY AUTHORIZED END USERS. 
+End users are the people who are served by the 
+ADP system. The system is designed for their 
+use, but they can also misuse it for undesirable 
+purposes. It is often very difficult to determine 
+whether their use of the system is in accordance 
+with the legitimate performance of their job. 
+• An employee may convert Government 
+information to an unauthorized use; for 
+example, he may sell privileged data about 
+an individual to a prospective employer, 
+credit agency, insurance company, or com¬ 
+petitor; or he may use Government statis¬ 
+tics for stock market transactions before 
+their public release. 
+• A user whose job requires access to indi¬ 
+vidual records in a file may manage to 
+compile a complete listing of the file and 
+then make unauthorized use of it (e.g., sell 
+a listing of employees’ home addresses as 
+a mailing list). 
+• Unauthorized altering of information may 
+be accomplished for an unauthorized end 
+user (e.g., altering of personnel records). 
+• An authorized user may use the system for 
+personal benefit (e.g., theft of services). 
+• A supervisor may manage to approve and 
+enter a fraudulent transaction. 
+• A disgruntled or terminated employee may 
+destroy or modify records—possibly in 
+such a way that backup records are also 
+corrupted and useless. 
+• An authorized user may accept a bribe to 
+modify or obtain information. 
+3. UNCONTROLLED SYSTEM ACCESS. Or¬ 
+ganizations expose themselves to unnecessary 
+risk if they fail to establish controls over who 
+can enter the ADP area, who can use the ADP 
+system, and who can access the information 
+contained in the system. 
+• Data or programs may be stolen from the 
+computer room or other storage areas. 
+• ADP facilities may be destroyed or dam¬ 
+aged by either intruders or employees. 
+• Individuals may not be adequately identi¬ 
+fied before they are allowed to enter ADP 
+area. 
+• Remote terminals may not be adequately 
+protected from use by unauthorized per¬ 
+sons. 
+• An unauthorized user may gain access to 
+the system via a dial-in line and an author¬ 
+ized user’s password. 
+• Passwords may be inadvertently revealed 
+to unauthorized individuals. A user may 
+write his password in some convenient 
+place, or the password may be obtained 
+from card decks, discarded printouts, or 
+by observing the user as he types it. 
+• A user may leave a logged-in terminal 
+unattended, allowing an unauthorized per¬ 
+son to use it. 
+• A terminated employee may retain access 
+to ADP system because his name and pass- 
+23 
+
+[PDF page 26]
+FIPS PUB 65 
+word are not immediately deleted from 
+authorization tables and control lists. 
+• An unauthorized individual may gain ac¬ 
+cess to the system for his own purposes 
+(e.g., theft of computer services or data 
+or programs, modification of data, altera¬ 
+tion of programs, sabotage, denial of ser¬ 
+vices) . 
+• Repeated attempts by the same user or 
+terminal to gain unauthorized access to the 
+system or to a file may go undetected. 
+4. INEFFECTIVE SECURITY PRACTICES 
+FOR THE APPLICATION. Inadequate man¬ 
+ual checks and controls to insure correct 
+processing by the ADP system or negligence 
+by those responsible for carrying out these 
+checks result in many vulnerabilities. 
+• Poorly defined criteria for authorized ac¬ 
+cess may result in employees not knowing 
+what information they, or others, are per¬ 
+mitted to access. 
+• The person responsible for security may 
+fail to restrict user access to only those 
+processes and data which are needed to 
+accomplish assigned tasks. 
+• Large funds disbursements, unusual price 
+changes, and unanticipated inventory usage 
+may not be reviewed for correctness. 
+• Repeated payments to the same party may 
+go unnoticed because there is no review. 
+• Sensitive data may be carelessly handled 
+by the application staff, by the mail ser¬ 
+vice, or by other personnel within the 
+organization. 
+• Post-processing reports analyzing system 
+operations may not be reviewed to detect 
+security violations. 
+• Inadvertent modification or destruction of 
+files may occur when trainees are allowed 
+to work on live data. 
+• Appropriate action may not be pursued 
+when a security variance is reported to 
+the system security officer or to the per¬ 
+petrating individual’s supervisor; in fact, 
+procedures covering such occurrences may 
+not exist. 
+5. PROCEDURAL ERRORS WITHIN THE 
+ADP FACILITY. Both errors and intentional 
+acts committed by the ADP operations staff 
+may result in improper operational procedures, 
+lapsed controls, and losses in storage media and 
+output. 
+Procedures and Controls: 
+• Files may be destroyed during data base 
+reorganization or during release of disk 
+space. 
+• Operators may ignore operational proce¬ 
+dures; for example, by allowing program¬ 
+mers to operate computer equipment. 
+• Job control language parameters may be 
+erroneous. 
+• An installation manager may circumvent 
+operational controls to obtain information. 
+• Careless or incorrect restarting after shut¬ 
+down may cause the state of a transaction 
+update to be unknown. 
+• An operator may enter erroneous informa¬ 
+tion at CPU console (e.g., control switch 
+in wrong position, terminal user allowed 
+full system access, operator cancels wrong 
+job from queue). 
+• Hardware maintenance may be performed 
+while production data is on-line and the 
+equipment undergoing maintenance is not 
+isolated. 
+• An operator may perform unauthorized 
+acts for personal gain (e.g., make extra 
+copies of competitive bidding reports, print 
+copies of unemployment checks, delete a 
+record from journal file). 
+• Operations staff may sabotage the com¬ 
+puter (e.g., drop pieces of metal into a 
+terminal). 
+• The wrong version of a program may be 
+executed. 
+• A program may be executed using wrong 
+data or may be executed twice using the 
+same transactions. 
+• An operator may bypass required safety 
+controls (e.g., write rings for tape reels). 
+• Supervision of operations personnel may 
+not be adequate during non-working hour 
+shifts. 
+• Due to incorrectly learned procedures, an 
+operator may alter or erase the master files. 
+• A console operator may override a label 
+check without recording the action in the 
+security log. 
+Storage Media Handling: 
+• Critical tape files may be mounted without 
+being write protected. 
+24 
+
+[PDF page 27]
+FIPS PUB 65 
+• Inadvertently or intentionally mislabeled 
+storage media are erased. In a case where 
+they contain backup files, the erasure may 
+not be noticed until it is needed. 
+• Internal labels on storage media may not 
+be checked for correctness. 
+• Files with missing or mislabeled expiration 
+dates may be erased. 
+• Incorrect processing of data or erroneous 
+updating of files may occur when card 
+decks have been dropped, partial input 
+decks are used, write rings mistakenly are 
+placed in tapes, paper tape is incorrectly 
+mounted, or wrong tape is mounted. 
+• Scratch tapes used for jobs processing sen¬ 
+sitive data may not be adequately erased 
+after use. 
+• Temporary files written during a job step 
+for use in subsequent steps may be errone¬ 
+ously released or modified through inade¬ 
+quate protection of the files or because of an 
+abnormal termination. 
+• Storage media containing sensitive infor¬ 
+mation may not get adequate protection 
+because operations staff is not advised of 
+the nature of the information content. 
+• Tape management procedures may not ade¬ 
+quately account for the current status of 
+all tapes. 
+• Magnetic storage media that have con¬ 
+tained very sensitive information may not 
+be degaussed before being released. 
+• Output may be sent to the wrong individual 
+or terminal. 
+• Improperly operating output or post¬ 
+processing units (e.g., bursters, decollators 
+or multipart forms) may result in loss of 
+output. 
+• Surplus output material (e.g., duplicates of 
+output data, used carbon paper) may not 
+be disposed of properly. 
+• Tapes and programs that label output for 
+distribution may be erroneous or not pro¬ 
+tected from tampering. 
+6. PROGRAM ERRORS. Applications pro¬ 
+grams should be developed in an environment 
+that requires and supports complete, correct, 
+and consistent program design, good program¬ 
+ming practices, adequate testing, review, and 
+documentation, and proper maintenance proce¬ 
+dures. Although programs developed in such 
+an environment will still contain undetected 
+errors, programs not developed in this manner 
+will probably be rife with errors. Additionally, 
+programmers can deliberately modify programs 
+to produce undesirable side effects or they can 
+misuse the programs they are in charge of. 
+• Records may be deleted from sensitive files 
+without a guarantee that the deleted rec¬ 
+ords can be reconstructed. 
+• Programmers may insert special provisions 
+in programs that manipulate data concern¬ 
+ing themselves (e.g., payroll programmer 
+may alter his own payroll records). 
+• Data may not be stored separately from 
+code with the result that program modifi¬ 
+cations are more difficult and must be 
+made more frequently. 
+• Program changes may not be tested ade¬ 
+quately before being used in a production 
+run. 
+• Changes to a program may result in new 
+errors because of unanticipated interac¬ 
+tions between program modules. 
+• Program acceptance tests may fail to detect 
+errors that only occur for unusual combina¬ 
+tions of input (e.g., a program that is 
+supposed to reject all except a specified 
+range of values actually accepts an addi¬ 
+tional value). 
+• Programs, the contents of which should be 
+safeguarded, may not be identified and 
+protected. 
+• Code, test data with its associated output, 
+and documentation for certified programs 
+may not be filed and retained for reference. 
+• Documentation for vital programs may not 
+be safeguarded. 
+• Programmers may fail to keep a change 
+log, to maintain back copies, or to formalize 
+recordkeeping activities. 
+• An employee may steal programs he is 
+maintaining and use them for personal 
+gain (e.g., sale to a commercial organiza¬ 
+tion, hold another organization for extor¬ 
+tion) . 
+• Poor program design may result in a criti¬ 
+cal data value being initialized twice. An 
+error may occur when the program is 
+modified to change the data value—but 
+only changes it in one place. 
+• Production data may be disclosed or 
+25 
+
+[PDF page 28]
+FIPS PUB 65 
+destroyed when it is used during testing. 
+• Errors may result when the programmer 
+misunderstands requests for changes to the 
+program. 
+• Errors may be introduced by a program¬ 
+mer who makes changes directly to machine 
+code. 
+• Programs may contain routines not com¬ 
+patible with their intended purpose, which 
+can disable or bypass security protection 
+mechanisms. For example, a programmer 
+who anticipates being fired inserts code 
+into a program which will cause vital sys¬ 
+tem files to be deleted as soon as his name 
+no longer appears in the payroll file. 
+• Inadequate documentation or labeling may 
+result in wrong version of program being 
+modified. 
+7. OPERATING SYSTEM FLAWS. Design 
+and implementation errors, system generation 
+and maintenance problems, and deliberate pene¬ 
+trations resulting in modifications to the operat¬ 
+ing system can produce undesirable effects in 
+the application system. Flaws in the operating 
+system are often difficult to prevent and detect. 
+• User jobs may be permitted to read or 
+write outside assigned storage area. 
+• Inconsistencies may be introduced into data 
+because of simultaneous processing of the 
+same file by two jobs. 
+• An operating system design or implemen¬ 
+tation error may allow a user to disable 
+audit controls or to access all system infor¬ 
+mation. 
+• The operating system may not protect a 
+copy of information as thoroughly as it 
+protects the original. 
+• Unauthorized modification to the operating 
+system may allow a data entry clerk to 
+enter programs and thus subvert the sys¬ 
+tem. 
+• An operating system crash may expose 
+valuable information such as password lists 
+or authorization tables. 
+• Maintenance personnel may bypass security 
+controls while performing maintenance 
+work. At such times the system is vulner¬ 
+able to errors or intentional acts of the 
+maintenance personnel, or anyone else who 
+might also be on the system and discover 
+the opening (e.g., microcoded sections of 
+the operating system may be tampered 
+with or sensitive information from on-line 
+files may be disclosed). 
+• An operating system may fail to record 
+that multiple copies of output have been 
+made from spooled storage devices. 
+• An operating system may fail to maintain 
+an unbroken audit trail. 
+• When restarting after a system crash, the 
+operating system may fail to ascertain that 
+all terminal locations which were previ¬ 
+ously occupied are still occupied by the 
+same individuals. 
+• A user may be able to get into monitor or 
+supervisory mode. 
+• The operating system may fail to erase all 
+scratch space assigned to a job after the 
+normal or abnormal termination of the job. 
+• Files may be allowed to be read or written 
+without having been opened. 
+8. COMMUNICATIONS SYSTEM FAILURE. 
+Information being routed from one location to 
+another over communication lines is vulnerable 
+to accidental failures and to intentional inter¬ 
+ception and modification by unauthorized 
+parties. 
+Accidental Failures: 
+• Undetected communications errors may 
+result in incorrect or modified data. 
+• Information may be accidentally misdi¬ 
+rected to the wrong terminal. 
+• Communication nodes may leave unpro¬ 
+tected fragments of messages in memory 
+during unanticipated interruptions in 
+processing. 
+• Communication protocol may fail to posi¬ 
+tively identify the transmitter or receiver 
+of a message. 
+Intentional Acts: 
+• Communications lines may be monitored 
+by unauthorized individuals. 
+• Data or programs may be stolen via tele¬ 
+phone circuits from a remote job entry 
+terminal. 
+• Programs in the network switching com¬ 
+puters may be modified to compromise 
+security. 
+• Data may be deliberately changed by indi¬ 
+viduals tapping the line (requires some 
+26 
+
+[PDF page 29]
+FIPS PUB 65 
+sophistication, but is applicable to financial 
+data). 
+• An unauthorized user may “take over” a 
+computer communication port as an au¬ 
+thorized user disconnects from it. Many 
+systems cannot detect the change. This is 
+particularly true in much of the currently 
+available communication equipment and in 
+many communication protocols. 
+• If encryption is used, keys may be stolen. 
+• A terminal user may be “spoofed” into 
+providing sensitive data. 
+• False messages may be inserted into the 
+system. 
+• True messages may be deleted from the 
+system. 
+• Messages may be recorded and replayed 
+into the system (“Deposit $100” messages). 
+REFERENCES AND SUGGESTED READING 
+1. Computer Security Guidelines for Imple¬ 
+menting the Privacy Act of 1974, National 
+Bureau of Standards (U.S.), Federal Infor¬ 
+mation Processing Standards Publication 
+(FIPS PUB) 41, National Technical Infor¬ 
+mation Service, Springfield, VA (1975). 
+2. Courtney, Robert H., Jr. and Orceyre, 
+Michael J., Considerations in the Selection 
+of Security Measures. National Bureau of 
+Standards (U.S.) Special Publication 500- 
+33, Government Printing Office, Washington, 
+DC (1978). 
+3. Data Security Controls and Procedures—A 
+Philosophy for DP Installations, G320- 
+5649-00, IBM Corporation, White Plains, 
+NY (1976). 
+4. Disaster Preparedness, Office of Emergency 
+Preparedness Report to Congress, Stock 
+Number 4102-0006, Government Printing 
+Office, Washington, DC (1972). 
+5. Glossary for Computer Systems Security, 
+National Bureau of Standards (U.S.), Fed¬ 
+eral Information Processing Standards 
+Publication (FIPS PUB) 39, National 
+Technical Information Service, Springfield, 
+VA (1976). 
+6. Guidelines for ADP Physical Security and 
+Risk Management, National Bureau of 
+Standards (U.S.), Federal Information 
+Processing Standards Publication (FIPS 
+PUB) 31, National Technical Information 
+Service, Springfield, VA (1974). 
+7. Hoyt, Douglas B., Ed., Computer Security 
+Handbook, McMillan Information, New York 
+(1973). 
+8. Martin, James, Security, Accuracy and Pri¬ 
+vacy in Computer Systems, Prentice-Hall, 
+Inc., Englewood Cliffs, NJ (1973). 
+9. Nielson, N. R., Ruder, B., Madden, J. D. and 
+Wong, P. J., Computer System Integrity, 
+SRI International, Menlo Park, CA (1978). 
+10. Parker, Donn B., Crime by Computer, 
+Charles Scribner’s Sons, New York (1976). 
+11. Wong, K. K., Computer Security Risk Anal¬ 
+ysis and Control, Hayden Book Company 
+Inc., Rochelle Park, NJ (1977). 
+27 
+U.S. GOVERNMENT PRINTING OFFICE : 1979 0 297-362 
+
+[PDF page 30]
+I 
+
+[PDF page 31]
+NBS TECHNICAL PUBLICATIONS 
+PERIODICALS 
+JOURNAL OF RESEARCH—The Journal of Research 
+of the National Bureau of Standards reports NBS research 
+and development in those disciplines of the physical and 
+engineering sciences in which the Bureau is active. These 
+include physics, chemistry, engineering, mathematics, and 
+computer sciences. Papers cover a broad range of subjects, 
+with major emphasis on measurement methodology, and 
+the basic technology underlying standardization. Also in¬ 
+cluded from time to time are survey articles on topics closely 
+related to the Bureau’s technical and scientific programs. As 
+a special service to subscribers each issue contains complete 
+citations to all recent NBS publications in NBS and non- 
+NBS media. Issued six times a year. Annual subscription: 
+domestic $17.00; foreign $21.25. Single copy, $3.00 domestic; 
+$3.75 foreign. 
+Note: The Journal was formerly published in two sections: 
+Section A “Physics and Chemistry” and Section B “Mathe¬ 
+matical Sciences.” 
+DIMENSIONS/NBS 
+This monthly magazine is published to inform scientists, 
+engineers, businessmen, industry, teachers, students, and 
+consumers of the latest advances in science and technology, 
+with primary emphasis on the work at NBS. The magazine 
+highlights and reviews such issues as energy research, fire 
+protection, building technology, metric conversion, pollution 
+abatement, health and safety, and consumer product per¬ 
+formance. In addition, it reports the results of Bureau pro¬ 
+grams in measurement standards and techniques, properties 
+of matter and materials, engineering standards and services, 
+instrumentation, and automatic data processing. 
+Annual subscription: Domestic, $11.00; Foreign $13.75 
+NONPERIODICALS 
+Monographs—Major contributions to the technical liter¬ 
+ature on various subjects related to the Bureau’s scientific 
+and technical activities. 
+Handbooks—Recommended codes of engineering and indus¬ 
+trial practice (including safety codes) developed in coopera¬ 
+tion with interested industries, professional organizations, 
+and regulatory bodies. 
+Special Publications—Include proceedings of conferences 
+sponsored by NBS, NBS annual reports, and other special 
+publications appropriate to this grouping such as wall charts, 
+pocket cards, and bibliographies. 
+Applied Mathematics Series—Mathematical tables, man¬ 
+uals, and studies of special interest to physicists, engineers, 
+chemists, biologists, mathematicians, computer programmers, 
+and others engaged in scientific and technical work. 
+National Standard Reference Data Series—Provides quanti¬ 
+tative data on the physical and chemical properties of 
+materials, compiled from the world’s literature and critically 
+evaluated. Developed under a world-wide program co¬ 
+ordinated by NBS. Program under authority of National 
+Standard Data Act (Public Law 90-396). 
+NOTE: At present the principal publication outlet for these 
+data is the Journal of Physical and Chemical Reference 
+Data (JPCRD) published quarterly for NBS by the Ameri¬ 
+can Chemical Society (ACS) and the American Institute of 
+Physics (AIP). Subscriptions, reprints, and supplements 
+available from ACS, 1155 Sixteenth St. N.W., Wash., D.C. 
+20056. 
+Building Science Series—Disseminates technical information 
+developed at the Bureau on building materials, components, 
+systems, and whole structures. The series presents research 
+results, test methods, and performance criteria related to the 
+structural and environmental functions and the durability 
+and safety characteristics of building elements and systems. 
+Technical Notes—Studies or reports which are complete in 
+themselves but restrictive in their treatment of a subject 
+Analogous to monographs but not so comprehensive in 
+scope or definitive in treatment of the subject area. Often 
+serve as a vehicle for final reports of work performed at 
+NBS under the sponsorship of other government agencies. 
+Voluntary Product Standards—Developed under procedures 
+published by the Department of Commerce in Part 10, 
+Title 15, of the Code of Federal Regulations. The purpose 
+of the standards is to establish nationally recognized require¬ 
+ments for products, and to provide all concerned interests 
+with a basis for common understanding of the characteristics 
+of the products. NBS administers this program as a supple¬ 
+ment to the activities of the private sector standardizing 
+organizations. 
+Consumer Information Series—Practical information, based 
+on NBS research and experience, covering areas of interest 
+to the consumer. Easily understandable language and 
+illustrations provide useful background knowledge for shop¬ 
+ping in today’s technological marketplace. 
+Order above NBS publications from: Superintendent of 
+Documents, Government Printing Office, Washington, D.C. 
+20402. 
+Order following NBS publications—NBSIR’s and FIPS from 
+the National Technical Information Services, Springfield, 
+Va. 22161. 
+Federal Information Processing Standards Publications 
+(FIPS PUB)—Publications in this series collectively consti¬ 
+tute the Federal Information Processing Standards Register. 
+Register serves as the official source of information in the 
+Federal Government regarding standards issued by NBS 
+pursuant to the Federal Property and Administrative Serv¬ 
+ices Act of 1949 as amended, Public Law 89-306 (79 Stat 
+1127), and as implemented by Executive Order 11717 
+(38 FR 12315, dated May 11, 1973) and Part 6 of Title 15 
+CFR (Code of Federal Regulations). 
+NBS Interagency Reports (NBSIR)—A special series of 
+interim or final reports on work performed by NBS for 
+outside sponsors (both government and non-government). 
+In general, initial distribution is handled by the sponsor; 
+public distribution is by the National Technical Information 
+Services (Springfield, Va. 22161) in paper copy or microfiche 
+form. 
+BIBLIOGRAPHIC SUBSCRIPTION SERVICES 
+The following current-awareness and literature-survey bibli¬ 
+ographies are issued periodically by the Bureau: 
+Cryogenic Data Center Current Awareness Service. A litera¬ 
+ture survey issued biweekly. Annual subscription: Domes¬ 
+tic, $25.00; Foreign, $30.00. 
+Liquefied Natural Gas. A literature survey issued quarterly. 
+Annual subscription: $20.00. 
+Superconducting Devices and Materials. A literature survey 
+issued quarterly. Annual subscription: $30.00. Send subscrip¬ 
+tion orders and remittances for the preceding bibliographic 
+services to National Bureau of Standards, Cryogenic Data 
+Center (736.00) Boulder, Colorado 80303. 
+
+[PDF page 32]
+U.S. DEPARTMENT OF COMMERCE 
+National Technical Information Service 
+5285 Port Royal Road 
+Springfield, Virginia 22161 
+POSTAGE AND FEES PAID 
+U.S. DEPARTMENT DF COMMERCE 
+COM-211 
+OFFICIAL BUSINESS 3rd Class Bulk Rate 

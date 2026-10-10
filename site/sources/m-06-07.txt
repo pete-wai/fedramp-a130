@@ -1,0 +1,103 @@
+
+[PDF page 1]
+ EXECUTIVE OFFICE OF THE PRESIDENT 
+   OFFICE OF MANAGEMENT AND BUDGET 
+  WASHINGTON, D.C. 20503 
+ 
+ 
+March 3, 2006 
+ 
+M-06-07 
+ 
+MEMORANDUM FOR HEADS OF SELECTED EXECUTIVE DEPARTMENTS AND 
+AGENCIES 
+ 
+FROM:  Clay Johnson III  
+   Deputy Director for Management 
+ 
+SUBJECT:  Designation of a Senior Agen cy Official for Geospatial Information 
+ 
+To assist agencies and ensure consistency across the government, OMB is asking 
+selected executive departments and agencies (see Attachment A for selected departments and 
+agencies) to designate a senior agency official who has agency-wide responsibility, 
+accountability, and authority for geospatial information issues.  Over the past several years, 
+Federal agencies have better coordinated the government’s geospatial investments across 
+agencies and with State, local, and tribal governments.  However, much work remains to identify 
+and optimize Federal government investments.  Through further coordination, we will maximize 
+our buying and maintaining of geospatial investments instead of independently investing in 
+potentially duplicative and costly data and capabilities.   
+ 
+Geospatial information (information associated with a specific geographic location) 
+supports many missions including national security, law enforcement, health care, the 
+environment, and natural resources conservation.  Examples of geospatial information include 
+maps, satellite imagery, and census and housing data as well as information identified by a 
+region or jurisdiction an agency may make available to other agencies, the public, or Congress.   
+ 
+The Office of Management and Budget (OMB) has issued several policies relating to 
+geospatial data, standards, and investments, including OMB Circulars A-11, A-16, A-119, and 
+A-130.  In addition, Executive Order 12906 and the E-Government Act of 2002, section 216 
+(Common Protocols for Geographic Information Systems), contain geospatial-related 
+requirements.  Some agencies have successfully implemented these policies by designating one 
+agency official to be responsible and accountable for geospatial activities and investments.  The 
+Chief Information Officer may already perform this role in your agency.  Alternatively, you may 
+designate another senior official (at the Assistant Secretary or equivalent level) for this role. 
+ 
+The senior agency official will oversee, coordinate, and facilitate the agency’s 
+implementation of the geospatial-related requirements, policies, and activities noted above.  
+While these activities may be undertaken by various components of an agency, OMB will look 
+to the senior agency official for information regarding the agency’s coordination of these 
+activities.   
+
+[PDF page 2]
+Agencies responsible for spatial data themes are already required to be members of the 
+Federal Geographic Data Committee (FGDC) pursuant to OMB Circular A-16.1  As a result of 
+the senior agency official’s responsibility for internal coordination and implementation of 
+geospatial-related initiatives and activities, the senior agency official will also serve as the 
+policy-level official to represent each selected agency on the FGDC Steering Committee.   
+ 
+Please send your designations for the senior agency official within 45 days of the date of 
+this memorandum to Stacie Boyd, Government-to-Government Portfolio Manager, Office of 
+E-Government and Information Technology, at Stacie_Boyd@omb.eop.gov or (202) 395-0342 
+(fax).  Please provide the official’s name, title, and contact information (phone number and email 
+address).  Ms. Boyd can also answer any questions your agency may have about this 
+memorandum at (202) 395-0346. 
+ 
+Attachment 
+                                                 
+1Data themes are defined in OMB Circular A-16, Coordination of Geographic Information and Related Spatial Data 
+Activities, as electronic records and coordinates for a topic or subject.  Examples of data themes include cultural and 
+demographic statistics, housing, and transportation. 
+
+[PDF page 3]
+Attachment A – Selected Executive Departments and Agencies that Produce, Maintain, or 
+Use Geospatial Information 
+ 
+Department of Agriculture 
+Department of Commerce 
+Department of Defense 
+Department of Education 
+Department of Energy 
+Department of Health and Human Services 
+Department of Homeland Security 
+Department of Housing and Urban Development 
+Department of the Interior 
+Department of Justice 
+Department of Labor 
+Department of State 
+Department of Transportation 
+Department of Treasury 
+Department of Veterans Affairs 
+Environmental Protection Agency 
+National Aeronautics and Space Administration 
+Social Security Administration 
+Agency for International Development 
+General Services Administration 
+National Archives and Records Administration 
+National Science Foundation 
+Nuclear Regulatory Commission 
+Office of Personnel Management 
+Small Business Administration 
+Smithsonian Institution 
+Tennessee Valley Authority 
+ 
+ 

@@ -1,0 +1,407 @@
+
+[PDF page 1]
+1 
+ 
+ EXECUTIVE OFFICE OF THE PRESIDENT  
+   OFFICE OF MANAGEMENT AND BUDGET  
+  WASHINGTON, D.C. 20503  
+ 
+   THE DIRECTOR 
+December 8, 2009 
+M-10-06 
+ 
+MEMORANDUM FOR THE HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES 
+ 
+FROM:  Peter R. Orszag 
+   Director 
+ 
+SUBJECT:  Open Government Directive 
+ 
+ In the Memorandum on Transparency and Open Government, issued on January 21, 
+2009, the President instructed the Director of the Office of Management and Budget (OMB) to 
+issue an Open Government Directive.  Responding to that instruction, this memorandum is 
+intended to direct executive departments and agencies to take specific actions to implement the 
+principles of transparency, participation, and collaboration set forth in the President’s 
+Memorandum.  This Directive was informed by recommendations from the Federal Chief 
+Technology Officer, who solicited public comment through the White House Open Government 
+Initiative. 
+ The three principles of transparency, participation, and collaboration form the 
+cornerstone of an open government.  Transparency promotes accountability by providing the 
+public with information about what the Government is doing.  Participation allows members of 
+the public to contribute ideas and expertise so that their government can make policies with the 
+benefit of information that is widely dispersed in society.  Collaboration improves the 
+effectiveness of Government by encouraging partnerships and cooperation within the Federal 
+Government, across levels of government, and between the Government and private institutions. 
+ This Open Government Directive establishes deadlines for action.  But because of the 
+presumption of openness that the President has endorsed, agencies are encouraged to advance 
+their open government initiatives well ahead of those deadlines.  In addition to the steps 
+delineated in this memorandum, Attorney General Eric Holder earlier this year issued new 
+guidelines
+1
+                                                           
+1 
+ for agencies with regard to the Freedom of Information Act (FOIA).  With those 
+guidelines, the Attorney General reinforced the principle that openness is the Federal 
+Government’s default position for FOIA issues.    
+http://www.usdoj.gov/ag/foia-memo-march2009.pdf 
+
+[PDF page 2]
+2 
+ 
+ This memorandum requires executive departments and agencies to take the following 
+steps toward the goal of creating a more open government: 
+1. Publish Government Information Online 
+To increase accountability, promote informed participation by the public, and create 
+economic opportunity, each agency shall take prompt steps to expand access to 
+information by making it available online in open formats.2
+a. Agencies shall respect the presumption of openness by publishing information 
+online (in addition to any other planned or mandated publication methods) and by 
+preserving and maintaining electronic information, consistent with the Federal 
+Records Act and other applicable law and policy.   Timely publication of 
+information is an essential component of transparency.   Delays should not be 
+viewed as an inevitable and insurmountable consequence of high demand. 
+  With respect to information, 
+the presumption shall be in favor of openness (to the extent permitted by law and subject 
+to valid privacy, confidentiality, security, or other restrictions).    
+b. To the extent practicable and subject to valid restrictions, agencies should publish 
+information online in an open format that can be retrieved, downloaded, indexed, 
+and searched by commonly used web search applications.  An open format is one 
+that is platform independent, machine readable, and made available to the public 
+without restrictions that would impede the re-use of that information. 
+c. To the extent practical and subject to valid restrictions, agencies should 
+proactively use modern technology to disseminate useful information, rather than 
+waiting for specific requests under FOIA. 
+d. Within 45 days, each agency shall identify and publish online in an open format at 
+least three high-value data sets (see attachment section 3.a.i) and register those 
+data sets via Data.gov.  These must be data sets not previously available online or 
+in a downloadable format.    
+e. Within 60 days, each agency shall create an Open Government Webpage located 
+at http://www.[agency].gov/open to serve as the gateway for agency activities 
+related to the Open Government Directive and shall maintain and update that 
+webpage in a timely fashion. 
+                                                           
+2 The Federal Government has defined information in OMB Circular A-130, “Management of Federal Information 
+Resources,” as any communication or representation of knowledge such as facts, data, or opinions presented in any 
+medium or format.   
+
+[PDF page 3]
+3 
+ 
+f. Each Open Government Webpage shall incorporate a mechanism for the public 
+to: 
+ 
+i. Give feedback on and assessment of the quality of published information; 
+ 
+ii. Provide input about which information to prioritize for publication; and  
+ 
+iii. Provide input on the agency’s Open Government Plan (see 3.a.).    
+ 
+g. Each agency shall respond to public input received on its Open Government 
+Webpage on a regular basis. 
+ 
+h. Each agency shall publish its annual Freedom of Information Act Report in an 
+open format on its Open Government Webpage in addition to any other planned 
+dissemination methods.    
+i. Each agency with a significant pending backlog of outstanding Freedom of 
+Information requests shall take steps to reduce any such backlog by ten percent 
+each year. 
+j. Each agency shall comply with guidance on implementing specific Presidential 
+open government initiatives, such as Data.gov, eRulemaking, IT Dashboard, 
+Recovery.gov, and USAspending.gov. 
+2. Improve the Quality of Government Information 
+To improve the quality of government information available to the public, senior leaders 
+should make certain that the information conforms to OMB guidance on information 
+quality
+3
+a. Within 45 days, each agency, in consultation with OMB, shall designate a high-
+level senior official to be accountable for the quality and objectivity
+  and that adequate systems and processes are in place within the agencies to 
+promote such conformity. 
+4
+                                                           
+3 Information Quality Act, Pub.  L.  No.  106-554, section 515; see also, “Guidelines for Ensuring and Maximizing 
+the Quality, Objectivity, Utility, and Integrity of Information Disseminated by Federal Agencies” (67 FR 8452 ) and 
+your agency’s Information Quality Act guidelines. 
+4 The Federal Government has defined quality and objectivity in, “Guidelines for Ensuring and Maximizing the 
+Quality, Objectivity, Utility, and Integrity of Information Disseminated by Federal Agencies” (67 FR 8452).  
+Quality is “…the encompassing term, of which ‘ utility,’ ‘objectivity,’ and ‘integrity’ are the constituents.”  
+“‘Objectivity’ focuses on whether the disseminated information is being presented in an accurate, clear, complete, 
+and unbiased manner, and as a matter of substance, is accurate, reliable, and unbiased.” 
+ of, and 
+internal controls over, the Federal spending information publicly disseminated 
+
+[PDF page 4]
+4 
+ 
+through such public venues as USAspending.gov or other similar websites.  The 
+official shall participate in the agency’s Senior Management Council, or similar 
+governance structure, for the agency-wide internal control assessment pursuant to 
+the Federal Managers’ Financial Integrity Act.5
+b. Within 60 days, the Deputy Director for Management at OMB will issue, through 
+separate guidance or as part of any planned comprehensive management 
+guidance, a framework for the quality of Federal spending information publicly 
+disseminated through such public venues as USAspending.gov or other similar 
+websites.  The framework shall require agencies to submit plans with details of 
+the internal controls implemented over information quality, including system and 
+process changes, and the integration of these controls within the agency’s existing 
+infrastructure. An assessment will later be made as to whether additional guidance 
+on implementing OMB guidance on information quality is necessary to cover 
+other types of government information disseminated to the public. 
+  
+c. Within 120 days, the Deputy Director for Management at OMB will issue, 
+through separate guidance or as part of any planned comprehensive management 
+guidance, a longer-term comprehensive strategy for Federal spending 
+transparency, including the Federal Funding Accountability Transparency Act and 
+the American Reinvestment and Recovery Act.  This guidance will identify the 
+method for agencies to report quarterly on their progress toward improving their 
+information quality. 
+3. Create and Institutionalize a Culture of Open Government 
+ To create an unprecedented and sustained level of openness and accountability in every 
+ agency, senior leaders should strive to incorporate the values of transparency, 
+ participation, and collaboration into the ongoing work of their agency.  Achieving a more 
+ open government will require the various professional disciplines within the Government 
+ – such as policy, legal, procurement, finance, and technology operations – to work 
+ together to define and to develop open government solutions.  Integration of various 
+ disciplines facilitates organization-wide and lasting change in the way that Government 
+ works.      
+a. Within 120 days, each agency shall develop and publish on its Open Government 
+Webpage an Open Government Plan that will describe how it will improve 
+transparency and integrate public participation and collaboration into its activities.    
+                                                           
+5 The implementing guidance for the Federal Managers’ Financial Integrity Act can be found in OMB Circular A-
+123, “Management’s Responsibility for Internal Control.” 
+
+[PDF page 5]
+5 
+ 
+Additional details on the required content of this plan are attached.  Each agency’s 
+plan shall be updated every two years. 
+b. Within 60 days, the Federal Chief Information Officer and the Federal Chief 
+Technology Officer shall create an Open Government Dashboard on 
+www.whitehouse.gov/open.  The Open Government Dashboard will make 
+available each agency’s Open Government Plan, together with aggregate statistics 
+and visualizations designed to provide an assessment of the state of open 
+government in the Executive Branch and progress over time toward meeting the 
+deadlines for action outlined in this Directive.    
+c. Within 45 days, the Deputy Director for Management at OMB, the Federal Chief 
+Information Officer, and the Federal Chief Technology Officer will establish a 
+working group that focuses on transparency, accountability, participation, and 
+collaboration within the Federal Government.  This group, with senior level 
+representation from program and management offices throughout the 
+Government, will serve several critical functions, including: 
+i. Providing a forum to share best practices on innovative ideas to promote 
+transparency, including system and process solutions for information 
+collection, aggregation, validation, and dissemination;   
+ 
+ii. Coordinating efforts to implement existing mandates for Federal spending 
+transparency, including the Federal Funding Accountability Transparency 
+Act and the American Reinvestment and Recovery Act; and  
+ 
+iii. Providing a forum to share best practices on innovative ideas to promote 
+participation and collaboration, including how to experiment with new 
+technologies, take advantage of the expertise and insight of people both 
+inside and outside the Federal Government, and form high-impact 
+collaborations with researchers, the private sector, and civil society. 
+ 
+d. Within 90 days, the Deputy Director for Management at OMB will issue, through 
+separate guidance or as part of any planned comprehensive management 
+guidance, a framework for how agencies can use challenges, prizes, and other 
+incentive-backed strategies to find innovative or cost-effective solutions to 
+improving open government. 
+4. Create an Enabling Policy Framework for Open Government 
+Emerging technologies open new forms of communication between a government and the 
+people.  It is important that policies evolve to realize the potential of technology for open 
+government.   
+
+[PDF page 6]
+6 
+ 
+a. Within 120 days, the Administrator of the Office of Information and Regulatory 
+Affairs (OIRA), in consultation with the Federal Chief Information Officer and 
+the Federal Chief Technology Officer, will review existing OMB policies, such as 
+Paperwork Reduction Act guidance and privacy guidance, to identify 
+impediments to open government and to the use of new technologies and, where 
+necessary, issue clarifying guidance and/or propose revisions to such policies, to 
+promote greater openness in government.   
+ Nothing in this Directive shall be construed to supersede existing requirements for review 
+and clearance of pre-decisional information by the Director of the Office of Management and 
+Budget relating to legislative, budgetary, administrative, and regulatory materials.  Moreover, 
+nothing in this Directive shall be construed to suggest that the presumption of openness 
+precludes the legitimate protection of information whose release would threaten national 
+security, invade personal privacy, breach confidentiality, or damage other genuinely compelling 
+interests. 
+ If you have any questions regarding this memorandum, please direct them to 
+opengov@omb.eop.gov or call Nicholas Fraser, Information Policy Branch, Office of 
+Information and Regulatory Affairs, Office of Management and Budget at (202) 395-3785. 
+ 
+
+[PDF page 7]
+7 
+ 
+Attachment  
+Open Government Plan 
+1. Formulating the Plan:  Your agency’s Open Government Plan is the public roadmap 
+that details how your agency will incorporate the principles of the President’s January 
+21, 2009, Memorandum on Transparency and Open Government into the core 
+mission objectives of your agency.  The Plan should reflect the input of (a) senior 
+policy, legal, and technology leadership in your agency and (b) the general public and 
+open government experts.  It should detail the specific actions that your agency will 
+undertake and the timeline on which it will do so.   
+2. Publishing the Plan:  Consistent with the deadlines set forth in this Directive, the 
+Plan should be published online on the agency’s Open Government Webpage in an 
+open format that enables the public to download, analyze, and visualize any 
+information and data in the Plan. 
+3. Components of the Plan: 
+a. Transparency:  Your agency’s Open Government Plan should explain in 
+detail how your agency will improve transparency.  It should describe steps 
+the agency will take to conduct its work more openly and publish its 
+information online, including any proposed changes to internal management 
+and administrative policies to improve transparency.  Specifically, as part of 
+your Plan to enhance information dissemination, your agency should describe 
+how it is currently meeting its legal information dissemination obligations,
+6
+i. A strategic action plan for transparency that (1) inventories agency 
+high-value information currently available for download; (2) fosters 
+the public’s use of this information to increase public knowledge and 
+promote public scrutiny of agency services; and (3) identifies high 
+value information not yet available and establishes a reasonable 
+timeline for publication online in open formats with specific target 
+dates.  High-value information is information that can be used to 
+increase agency accountability and responsiveness; improve public 
+knowledge of the agency and its operations; further the core mission of 
+ 
+and how it plans to improve its existing information dissemination practices 
+by providing: 
+                                                           
+6 Paperwork Reduction Act, Pub L.  No.  104-13, section 3506(d). 
+
+[PDF page 8]
+8 
+ 
+the agency; create economic opportunity; or respond to need and 
+demand as identified through public consultation. 
+ii. In cases where the agency provides public information maintained in 
+electronic format, a plan for timely publication of the underlying data.   
+This underlying data should be in an open format and as granular as 
+possible, consistent with statutory responsibilities and subject to valid 
+privacy, confidentiality, security, or other restrictions.  Your agency 
+should also identify key audiences for its information and their needs, 
+and endeavor to publish high-value information for each of those 
+audiences in the most accessible forms and formats.  In particular, 
+information created or commissioned by the Government for 
+educational use by teachers or students and made available online 
+should clearly demarcate the public’s right to use, modify, and 
+distribute the information.    
+iii. Details as to how your agency is complying with transparency 
+initiative guidance such as Data.gov, eRulemaking, IT Dashboard, 
+Recovery.gov, and USAspending.gov.   Where gaps exist, the agency 
+should detail the steps the agency is taking and the timing to meet the 
+requirements for each initiative. 
+iv. Details of proposed actions to be taken, with clear milestones, to 
+inform the public of significant actions and business of your agency, 
+such as through agency public meetings, briefings, press conferences 
+on the Internet, and periodic national town hall meetings. 
+v. A link to a publicly available website that shows how your agency is 
+meeting its existing records management requirements.
+7  These 
+requirements serve as the foundation for your agency’s records 
+management program, which includes such activities as identifying 
+and scheduling all electronic records,
+8
+vi. A link to a website that includes (1) a description of your staffing, 
+organizational structure, and process for analyzing and responding to 
+FOIA requests; (2)  an assessment of your agency’s capacity to 
+analyze, coordinate, and respond to such requests in a timely manner, 
+ and ensuring the timely transfer 
+of all permanently valuable records to the National Archives.       
+                                                           
+7 36 CFR Subchapter B – Records Management. 
+8 E-Government Act of 2002, Pub L.  No.  107-347, section 207(e). 
+
+[PDF page 9]
+9 
+ 
+together with proposed changes,  technological resources, or reforms 
+that your agency determines are needed to strengthen your response 
+processes; and (3) if your agency has a significant backlog, milestones 
+that detail how your agency will reduce its pending backlog of 
+outstanding FOIA requests by at least ten percent each year.   
+Providing prompt responses to FOIA requests keeps the public 
+apprised of specific informational matters they seek. 
+vii. A description or link to a webpage that describes your staffing, 
+organizational structure, and process for analyzing and responding to 
+Congressional requests for information. 
+viii. A link to a publicly available webpage where the public can learn 
+about your agency’s declassification programs, learn how to access 
+declassified materials, and provide input about what types of 
+information should be prioritized for declassification, as appropriate.  
+Declassification of government information that no longer needs 
+protection, in accordance with established procedures, is essential to 
+the free flow of information.
+9
+b. Participation:  To create more informed and effective policies, the Federal 
+Government should promote opportunities for the public to participate 
+throughout the decision-making process.  Your agency’s Open Government 
+Plan should explain in detail how your agency will improve participation, 
+including steps your agency will take to revise its current practices to increase 
+opportunities for public participation in and feedback on the agency’s core 
+mission activities.  The specific details should include proposed changes to 
+internal management and administrative policies to improve participation.   
+  
+i. The Plan should include descriptions of and links to appropriate 
+websites where the public can engage in existing participatory 
+processes of your agency. 
+ii. The Plan should include proposals for new feedback mechanisms, 
+including innovative tools and practices that create new and easier 
+methods for public engagement.   
+c. Collaboration:  Your agency’s Open Government Plan should explain in 
+detail how your agency will improve collaboration, including steps the agency 
+                                                           
+ 9Executive Order 12958, Classified National Security Information. 
+
+[PDF page 10]
+10 
+ 
+will take to revise its current practices to further cooperation with other 
+Federal and non-Federal governmental agencies, the public, and non-profit 
+and private entities in fulfilling the agency’s core mission activities.  The 
+specific details should include proposed changes to internal management and 
+administrative policies to improve collaboration. 
+i. The Plan should include proposals to use technology platforms to 
+improve collaboration among people within and outside your agency. 
+ii. The Plan should include descriptions of and links to appropriate 
+websites where the public can learn about existing collaboration 
+efforts of your agency. 
+iii. The Plan should include innovative methods, such as prizes and 
+competitions, to obtain ideas from and to increase collaboration with 
+those in the private sector, non-profit, and academic communities.      
+d. Flagship Initiative:  Each agency’s Open Government Plan should describe 
+at least one specific, new transparency, participation, or collaboration 
+initiative that your agency is currently implementing (or that will be 
+implemented before the next update of the Open Government Plan).  That 
+description should include: 
+i. An overview of the initiative, how it addresses one or more of the 
+three openness principles, and how it aims to improve agency 
+operations;  
+ii. An explanation of how your agency engages or plans to engage the 
+public and maintain dialogue with interested parties who could 
+contribute innovative ideas to the initiative;  
+iii. If appropriate, identification of any partners external to your agency 
+with whom you directly collaborate on the initiative; 
+iv. An account of how your agency plans to measure improved 
+transparency, participation, and/or collaboration through this initiative; 
+and  
+v. An explanation of the steps your agency is taking to make the initiative 
+sustainable and allow for continued improvement. 
+e. Public and Agency Involvement:  Your agency’s Open Government Plan 
+should include, but not be limited to, the requirements set forth in this 
+
+[PDF page 11]
+11 
+ 
+attachment.  Extensive public and employee engagement should take place 
+during the formation of this plan, which should lead to the incorporation of 
+relevant and useful ideas developed in that dialogue.  Public engagement 
+should continue to be part of your agency’s periodic review and modification 
+of its plan.  Your agency should respond to public feedback on a regular basis. 
+ 

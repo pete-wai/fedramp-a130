@@ -1,0 +1,310 @@
+
+[PDF page 1]
+EXECUTIVE OFFICE OF THE PRESIDENT 
+OFFICE OF MANAGEMENT AND BUDGET 
+WASHINGTON, D.C. 20503 
+June 4, 2019 
+M-19-18 
+MEMORANDUM FOR THE HEADS OF E
+1
+:ECUTIVE DEPARTMENTS AND AGENCIES 
+FROM: Russell T. Vought \._\_) 
+Acting Director 
+SUBJECT: Federal Data Strategy - A Framework for Consistency 
+New tools, technologies, and norms are creating opportunity to use data to bolster the Federal 
+Government's mission delivery, service design, and tax-dollar stewardship for the public. In 
+order to leverage these opportunities, the Government must address consistency in skills, 
+interoperability, and best practices in how agencies use and manage data. 
+This memorandum establishes a Federal Data Strategy (Strategy) as a framework of operational 
+principles and best practices that help agencies deliver on the promise of data in the 21 st century. 
+Through consistent data infrastructure and practices, the Strategy will enable Government to 
+fully leverage data as a strategic asset by supporting strong data governance and providing the 
+protection and security that the American people, businesses, and partners deserve. 
+Purpose & Overview 
+This Strategy enables agencies-and Government as an enterprise-to use and manage Federal 
+data to serve the American people, including the critical twin goals of getting optimal value 
+from our data assets and of protecting security, privacy, and confidentiality. It provides a 
+common set of data principles and best practices in implementing data innovations that drive 
+more value for the public.1 The Strategy complements statutory requirements2 and 0MB 
+information policy and guidance, 3 and incorporates relevant changes proposed by agency and 
+public comments received in response to M-19-01: Request for Agency Feedback on the Federal 
+Data Strategy. 
+1 Federal data drives the U.S. economy and civic engagement and there is virtually no policy or program decision facing a federal agency that 
+would not benefit from the use of data. This Strategy will enable the government and the public to harness the value of federal and federally­
+sponsored data by increasing accessibility and use to support public and private decision-making, accountability, commercialization, innovation, 
+and public use. 
+2 Including the Paperwork Reduction Act, the E-Government Act of 2002, the Privacy Act of 1974, the Federal Information Security 
+Modernization Act of 2014 (FISMA), the Confidential Information Protection and Statistical Efficiency Act of 2002 (CIPSEA), the Freedom of 
+Information Act, the Information Quality Act, the Federal Records Act, and the Foundations for Evidence-Based Policymaking Act of 2018, 
+among others. 
+3 lncludin~ 0MB Circular A-130 Managing Information as a Strategic Resource, among others. 
+
+
+[PDF page 2]
+The Strategy is comprised ofthree components to guide Federal data management and use: 
+• Mission Statement: The mission statement articulates the intent and core purpose ofthe 
+Strategy. 
+• Principles: The principles serve as motivational guidelines in the areas of Ethical 
+Governance, Conscious Design, and Learning Culture. They include concepts from 
+existing frameworks, such as protecting personally identifiable information, managing 
+information as an asset, carrying out fundamental responsibilities of a Federal statistical 
+agency, and building Federal evidence. 
+• Practices: The practices guide agencies in leveraging the value of data by Building a 
+Culture that Values Data and Promotes Public Use; Governing, Managing, and 
+Protecting Data; and Promoting Efficient and Appropriate Data Use. 
+Mission Statement 
+The mission of the Federal Data Strategy is to leverage the full value of Federal data for mission, 
+service, and the public good by guiding the Federal Government in practicing ethical 
+govern8:nce, conscious design, and a learning culture. 
+Principles 
+The principles are organized in three categories that reflect core concepts carried throughout the 
+Strategy and should inform agencies in developing and executing all aspects ofthe data lifecycle. 
+The following principles are intended to guide federal and federally-sponsored data management 
+activities, be they programmatic, statistical, or mission-support. 
+Etltical Governance 
+1. Uphold .Ethics: Monitor and assess the implications of federal data practices for the 
+public. Design checks and balances to protect and serve the public good. 
+2. Exercise Responsibility: Practice effective data stewardship and governance. Employ 
+sound data security practices, protect individual privacy, maintain promised 
+confidentiality, and ensure appropriate access and use. 
+3. Promote Transparency: Articulate the purposes and uses offederal data to engender 
+public trust. Comprehensively document processes and products to inform data providers 
+and users. 
+Conscious Design 
+4. Ensure. Relevance: Protect the quality and integrity ofthe data. Validate that data are 
+appropriate, accurate, objective, accessible, useful, understandable, and timely. 
+5. Harness Existing Data: Identify data needs to inform priority research and policy 
+questions; reuse data if possible and acquire additional data ifneeded. 
+6. Anticipate Future Uses: Create data framework thoughtfully, considering fitness for use 
+by others; plan for reuse and build in interoperability from the start. 
+2 
+
+[PDF page 3]
+7. Demonstrate Responsiveness: Improve data collection, analysis, and dissemination with 
+ongoing input from users and stakeholders. The feedback proces~ is cyclical; establish a 
+baseline, gain support, collaborate, and refine continuously . 
+. Learning Culture 
+8. Invest in Learning: Promote a culture of continuous and collaborative learning with and 
+about data through ongoing investment in data infrastructure and human resources .. 
+9. Develop Data Leaders: Cultivate data leadership at all levels ofthe federal workforce by 
+investing in training and development about the value of data for mission, service, and 
+the public good. 
+10. Practice Accountability: Assign responsibility, audit data practices, document and learn 
+from results, and make needed changes. 
+Practices 
+The practices are organized in three categories that reflect the importance of aligning data 
+management with data usage in order to answer critical Federal Government questions and meet 
+stakeholder needs. By prioritizing data uses, the Federal Government can derive more.value from 
+otherwise unanticipated or secondary uses of data assets, and more strategically execute data 
+management improvements. Specifically, the practice categories are: . 
+• Building a Culture that Values Data and Promotes Public Use (practices 1-10) 
+• Governing, Managing, and Protecting Data (practices 11-26) 
+• Promoting Efficient and Appropriate Data Use (practices 27-39) 
+The importance ofprotecting individual privacy is integrated and emphasized throughout the 
+Strategy. While the Strategy establishes an overarching framework for data, the practices reflect 
+further consideration ofthe Fair Information Practice Principles (FIPPs).4 The FIPPs are a 
+collection ofwidely accepted principles that agencies should use when evaluating information 
+systems, processes, programs, and activities that affect individual privacy. The FIPPs are not 
+requirements; rather, they are principles that should be applied by each agency according to the 
+agency's particular mission and privacy program requirements. The precise expression ofthe 
+FIPPs has varied over time and in different contexts. However, the FIPPs retain a consistent set 
+of core principles that are broadly relevant to agencies' information management practices, and 
+hence their concepts have been integrated throughout the practices. 
+Building a Culture that Values Data and Promotes Public Use 
+Practices 1-10 derive value by articulating data uses for agency decision-making and 
+accountability and supporting commercialization, innovation, and public use. To improve data 
+4 Privacy Act of 1974, 5 U.S.C. § 552a, as amended. The FIPPs are a set of eight principles that are rooted in the tenets ofthe Privacy Act of 1974. 
+3 
+
+
+[PDF page 4]
+management, agencies should consider potential uses of data and the benefits ofthose uses for 
+answering key agency questions and meeting stakeholder needs. To derive value from these 
+potential uses, agencies need leadership champions, management buy-in, and staff capacity to 
+conduct the data driven decision-making cycle that prioritizes the informative value of data. 
+When using data to answer key questions and address stakeholder needs, agencies should use 
+data sources that are the most fit for the particular purpose. When allocating resources, agencies 
+should prioritize data that identifies problems, informs solutions, and provides transparency for 
+results delivered. Agencies shall: 
+1. Identify Data Needs to Answer Key Agency Questions: Use the learning agenda5 
+process to identify and prioritize the agency's key questions and the data needed to 
+answer them. 
+2. Assess and Balance the Needs of Stakeholders: Identify and engage stakeholders 
+throughout the data lifecycle to identify stakeholder needs and to incorporate stakeholder 
+feedback into government priorities to maximize entrepreneurship, innovation, scientific 
+dis_covery, economic growth, and the public good. 
+3. Champion Data Use: Leaders set an example, incorporating data in decision-making and 
+targeting resources to maximize the value of data for decision-making, accountability, 
+and the public good. 
+4. Use Data to Guide Decision-Making: Effectively, routinely, transparently, and 
+appropriately use data in policy, planning, and operations to guide decision-making; 
+share the data and analyses behind those decisions. 
+5. Prepare to Share: Assess and proactively address the procedural, regulatory, legal, and 
+cultural barriers to sharing data within and across federal agencies, as well as with 
+external partners. 
+6. Convey Insights from Data: Use a range of communication tools and techniques to 
+effectively present insights from data to a broad set of audiences. 
+7. Use Data to Increase Accountability: Align operational and regulatory data inputs with 
+performance measures and other outputs to help the public to understand the results of 
+federal investments and to support informed decision-making and rule-making. 
+8. Monitor and Address Public Perceptions: Regularly assess and address public 
+confidence in the value, accuracy, objectivity, and privacy protection offederal data to 
+make strategic improvements, advance agency missions, and improve public messages 
+about planned and potential uses offederal data. 
+9. Connect Data Functions Across Agencies: Establish communities ofpractice for 
+common agency data Junctions (e.g. data management, access, analytics, informatics, and 
+user support) to promote efficiency, collaboration, and coordination. 
+10. Provide Resources Explicitly to Leverage Data Assets: Ensure that sufficient human 
+and financial resources are available to support data driven agency decision-making, 
+accountability and the ability to spur commercialization, innovation, and public use. 
+5 Also known as evidence-building plans, such as in the Foundations for Evidence-based Policymaking Act of 2018. 
+4 
+
+
+[PDF page 5]
+Governing, Managing, and Protecting Data 
+Practices 11-26 derive value from data by bringing leaders with diverse perspectives and 
+expertise together to plan for using the data appropriately and responsibly. A data governance 
+structure helps agencies use data to answer important questions while meeting legal and ethical 
+requirements essential to maintaining public trust, including protecting privacy and ensuring 
+confidentiality. Agency questions and user needs should drive specific governance, management, 
+and data protection priorities. Data governance and management also allow agencies to assess 
+data quality and the agency's capacity to acquire, ·manage, protect and use data to address 
+mission priorities, as well as to prioritize data investments. A broad spectrum of leaders and skill 
+sets within and across agencies will be key to successful implementation of these practices, and 
+inter-agency collaboration will be essential for consistency across the government. Agencies 
+shall: 
+11. Prioritize Data Governance: Ensure there are sufficient authorities, roles, 
+organizational structures, policies, and resources in place to transparently support the 
+management, maintenance; and use of strategic data assets. 
+12. Govern Data to Protect Confidentiality and Privacy: Ensure there are sufficient 
+authorities, roles, organizational structures, policies, and resources in place to provide 
+appropriate access to confidential data and to maintain public trust and safeguard privacy. 
+13. Protect Data Integrity: Emphasize state-of-the-art data security as part of Information 
+Technology security practices for every system that is refreshed, architected, or replaced 
+to address current and emerging threats; foster innovation and leverage new technologies 
+to maintain protection. 
+14. Convey Data Authenticity: Disseminate data sets such that their authenticity is 
+discoverable and verifiable by users throughout the information lifecycle, consistent with 
+open data practices, and encourage appropriate attribution from users. 
+15. Assess Maturity: Evaluate the maturity of all aspects of agency data capabilities to 
+inform priorities for strategic resource investment. 
+16. Inventory Data Assets: Maintain an inventory of data assets with sufficient 
+completeness, quality, and metadata to facilitate discovery and collaboration in support of 
+answering key agency questions and meeting stakeholder needs. 
+17. Recognize the Value of Data Assets: Assign value to data assets based on maturity, key 
+agency questions, stakeholder feedback, and applicable law and regulation to 
+appropriately prioritize and document resource decisions. 
+18. Manage with a Long View: Include data investments in annual capital planning 
+processes and associated guidance to ensure appropriated funds are being used efficiently 
+to leverage data as a strategic long-term asset. 
+19. Maintain Data Documentation: Store up-to-date and comprehensive data 
+documentation in accessible repositories to facilitate use and document quality, utility, 
+and provenance in support of informing key agency questions and meeting stakeholder 
+needs. 
+20. Leverage Data Standards: Adopt or adapt, cre·ate as needed, and implement data 
+standards within relevant communities of interest to maximize data quality and facilitate 
+use, access, sharing, and interoperability. 
+5 
+
+[PDF page 6]
+21. Align Agreements with Data Management Requirements: Establish terms and 
+conditions for contracts, grants, cooperative agreements, and other agreements that meet 
+data management requirements for processing, storage, access, transmission, and 
+disposition. 
+22. Identify Opportunities to Overcome Resource Obstacles: Coordinate with 
+stakeholders to identify mutually-acceptable cost recovery, shared service, or partnership 
+opportunities to enable data access while conserving available resources to meet user 
+· needs. 
+23. Allow Amendment: Establish clear.procedures to allow members of the public to access 
+and amend federal data about themselves, as appropriate and in accordance with federal 
+laws, regulations and policies, in order to safeguard privacy, reduce potential harm from 
+inaccurate data, and promote transparency. 
+24. Enhance Data Preservation: Preserve federal data in accordance with applicable law, 
+regulation, policy, approved schedules, arid mission relevance. 
+25. Coordinate Federal Data Assets: Coordinate and share data assets across federal 
+agencies to advance progress on shared and similar objectives, fulfill broader federal 
+information needs; and reduce collection burden. 
+26. Share Data Between State, Local, and Tribal Governments and Federal Agencies: 
+Facilitate data sharing between state, local, and tribal governments and the Federal 
+Government, where.relevant and appropriate and with proper protections, particularly for 
+programs that are federally funded and locally administered, to enable richer analyses for 
+more informed decision-making. 
+Promoting Efficient and Appropriate Data Use 
+Practices 27-40 derive value from data by providing access to data resources, promoting 
+appropriate use of data resources, and providing guidance on approaches• for data augmentation. 
+Access to data resources includes practices related to sharing data assets, including open data and 
+tiered access to protected data, disclosure review, and interoperability of federal data. Use of data 
+resources includes practices related to data documentation, emerging technologies for protecting 
+confidential data, and federal data expertise. Data augmentation includes practices related to data 
+quality, metadata standards, and secure data linkage. Agency leadership and practitioners within 
+programs will be key to these activities, many of which involve working across agencies and 
+with experts across industry. Agencies shall: 
+27. Increase Capacity for Data Management and Analysis: Educate and empower the 
+federal workforce by investing in training, tools, communities, and other opportunities to 
+expand capacity for critical data-related activities such as. analysis and evaluation, data· 
+management, and privacy protection. 
+28. Align Quality with Intended Use: Data likely to inform important public policy or 
+private sector decisions must be of appropriate utility, integrity, and objectivity. 
+29. Design Data for Use and Re-Use: Design new data collections with the end uses and 
+users in mind to ensure that data are necessary and of high enough quality to meet 
+planned and future agency and stakeholder needs. 
+30. Communicate Planned and Potential Uses of Data: Review data collection procedures 
+to update and improve how planned and future uses of data are communicated, promoting 
+· public trust through transparency. 
+6 
+
+[PDF page 7]
+31. Explicitly Communicate Allowable Use: Regularly employ descriptive metadata that 
+provides clarity about access and use restrictions for federal data, explicitly recognizes 
+and safeguards applicable intellectual property rights, conveys attribution as needed, and 
+optimizes potential. value to stakeholders to maximize appropriate legal use. 
+32. Harness Safe Data Linkage: Test, review, and deploy data linkage and analysis tools 
+that use secure and privacy-protective technologies to address key agency questions and 
+meet stakeholder needs while protecting privacy. · 
+33. Promote Wide Access: Promote equitable and appropriate access to data in open, 
+machine-readable form and through multiple mechanisms, including through both federal 
+and non-federal providers, to meet stakeholder needs while protecting privacy, 
+confidentiality, and proprietary interests. 
+34. Diversify Data Access Methods: Invest in the creation and usability of multiple tiers of 
+access to make data as accessible as possible while minimizing privacy risk and · 
+protecting confidentiality. 
+35. Review Data Releases for Disclosure Risk: Review federal data releases to the public to 
+assess and minimize the risk ofre-identification, consistent with applicable laws and 
+policies, and publish reviews to promote transparency and public trust. 
+36. Leverage Partnerships: Create and sustain partnerships that facilitate innovation with 
+commercial, academic, and other partners to advance agency mission and maximize 
+economic opportunities, intellectual value, and the public good. 
+37. Leverage Buying Power: Monitor needs and systematically leverage buying power for 
+private-sector data assets, services, and infrastructure to promote efficiency and reduce 
+federal costs. 
+38. Leverage Collaborative Computing Platforms: Periodically review and optimize the 
+use ofmodern collaborative computing platforms to minimize costs, improve 
+performance, and increase use. 
+39. Support Federal Stakeholders: Engage with relevant agencies to share expert 
+· knowledge of data assets, promote wider use, improve usability and quality, and meet 
+mission goals. 
+40. Support Non-Federal Stakeholders: Engage with industry, academic, and other non­
+federal users of data to share expert knowledge of data assets, promote wider use, 
+improve usability and quality, and advance innovation and commercialization. 
+Agency Requirements, Resources, and Points of Contact 
+Agencies shall implement the Strategy by adhering to the requirements of annual government­
+wide Action Plans (hereinafter "Action Plans"). Action Plans will identify and prioritize 
+practice-related steps for a given year, along with target timeframes and responsible entities. This 
+approach allows for continuous innovation with focused, measured progress, along with 
+opportunities to improve and adapt plans for future actions. In addition to Action Plans, 0MB 
+· may assess agency progress in implementing the Strategy through any of its existing ove_rsight 
+and coordination mechanisms.6 
+6 Including, but not limited to: Capital Planning Guidance, the President's Management Agenda Cross-Agency Priority Goals and Strategic 
+.Reviews, the President's Budget development process, review ofinformation collection requests under the Paperwork Reduction Act, and review 
+ofSystems of Records Notices under the Privacy Act. 
+7 
+
+
+[PDF page 8]
+Strategy.data.gov will be the hub for Federal Data Strategy implementation guidance and will 
+include updates, action steps, and living resources for agencies to implement the Federal Data 
+Strat~gy. It will also serve as the platform for continued stakeholder feedback on the Federal 
+Data Strategy. 0MB requests agency comment on the draft 2019-2020 Federal Data Strategy 
+Action Plan available at Strategy.data.gov by July 5, 2019. Questions should be directed to 
+8 

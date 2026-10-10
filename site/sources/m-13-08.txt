@@ -1,0 +1,192 @@
+
+[PDF page 1]
+EXECUTIVE OFFICE OF THE PRESIDENT 
+OFFICE OF MANAGEMENT AND BUDGET 
+WASHINGTON, D.C. 20503 
+March 25, 2013 
+M-13-08 
+XECUTIVE DEPARTMENTS AND AGENCIES 
+FROM: 	 Danny Werfi 
+Controller 
+SUBJECT: 	 Improving Financial Systems Through Shared Services 
+The traditional approach to agency-specific, large-scale financial systems modernization 
+projects in the Federal Government has often led to poor results in terms of cost, quality, 
+performance, and reporting. In many cases, these projects-designed to meet agency-specific 
+business processes and system requirements-have resulted in substantial cost overruns, systems 
+that are so large and complex that they cannot be easily updated and lengthy delays in planned 
+deployments or needed improvements. In addition, the highly fragmented nature of financial 
+management systems across Federal agencies has contributed to inconsistencies in fmancial data, 
+making it challenging to provide transparency into Federal fmances. 
+Building on existing policies including OMB's Memorandum M-10-26, Immediate 
+Review ofFinancial Systems IT Projects, the Shared Services Strategy of May 2, 2012 ("Shared 
+First"), and Circular A-130, Management ofFederal Information Resources, this memorandum: 
+• 	 directs all executive agencies to use, with limited exceptions, a shared service 
+solution for future modernizations of core accounting or mixed systems; 
+• 	 describes the process through which OMB and the Department of the Treasury 
+will conduct an assessment of the capabilities and gaps ofthe existing Federal 
+Shared Service Providers ("FSSPs"); 
+• 	 initiates the process under which the Treasury Department's Office of Financial 
+Innovation and Transformation ("FIT") will evaluate new agency proposals for 
+alignment with this guidance and provide feedback to agencies and 
+recommendations to OMB; and 
+• 	 outlines the manner in which FIT will work with OMB, FSSPs, and the broader 
+Federal financial management community to design and implement improvements 
+to the current FSSP framework, including expansion ofFSSPs' capabilities and an 
+enhanced governance model to ensure FSSP accountability. 
+1 
+
+[PDF page 2]
+A Shared Services Approach 
+Traditional approaches to financial systems implementations have left agencies exposed 
+to significant risks in cost, quality and performance. Large-scale modernization efforts have 
+frequently resulted in cost over-runs, poor return on investment, underperforming systems, and 
+required upgrades that add little value. These system weaknesses can also lead to broader 
+challenges in the overall financial operations at agencies. New approaches are needed that will 
+allow the government to lower the costs of new systems and realize more value :from each 
+implementation. 
+The cost, quality, and performance of Federal financial systems can be improved by 
+focusing government resources on fewer, more standardized solutions that are implemented and 
+operated by more experienced staff. This can be achieved through the Federal Government 
+making wider use of shared services for common system and transaction processing needs. Use 
+of shared services, with standardized financial systems, will: 
+• 	 better enable the Government to strategically source software providers, hosting, 
+and (potentially) transaction processing, 
+• 	 reduce system implementation risks and timelines, and 
+• 	 improve data quality and provide greater transparency into Federal finances, 
+including through the production of auditable fmancial statements at the 
+government-wide level. 
+Finally, use of shared services will also allow agencies to focus on their core missions. 1 
+Therefore, to leverage existing investments and infrastructure at FSSPs, agencies must consider, 
+as part of their alternatives analysis, the use of a FSSP with respect to all new agency proposals 2 
+for core accounting 3 and mixed system4 upgrades. Analysis should not be limited only to an 
+evaluation of commercial SSPs. Instead, the preferred approach is for an agency to evaluate 
+solutions offered by both FSSPs and commercial SSPs as part of a robust market research 
+process. As part of their market research, agencies may find that FSSPs have a good track record 
+1 
+GAO-l 0-808: Experience with Prior Migration and Modernization Efforts Provides Lessons Learned for New 
+Approach, September 8, 2010. 
+2 Proposals that began implementation in FY12 or earlier, or were specifically approved by the Financial System 
+Advisory Board (FSAB) as part of the M-10-26 process, should continue with their current plans but ensure that 
+their solution can be transitioned to an SSP in the future. OMB will work with agencies to provide oversight and 
+review of these on-going projects to ensure that these systems continue to provide the best value for the 
+Government. 
+3 "Core accounting" includes the basic functions needed to account for, track, and control budgetary funds in the 
+Federal Government. It includes the business processes related to the general ledger, funds management, cost 
+management, accounts payable, and accounts receivable. 
+4 A mixed system is an information system that can support both the financial and non-financial functions of the 
+Federal government or components thereof. The following are examples of mixed systems: payment and invoice 
+systems, procurement systems, receivable systems, loan systems, grants systems, payroll systems, budget 
+formulation systems, billing systems, property management systems, travel systems, or other mission operational 
+systems that impact a financial system. 
+2 
+
+[PDF page 3]
+of successfully servicing Federal agencies and can provide many of the advantages of 
+commercial SPPs through their existing partnerships with private vendors. To determine the best 
+value source, each agency is expected to develop an appropriately detailed alternatives analysis 
+of SSP solutions based on their needs, risk performance and cost. 
+OMB's guiding principle will be to support plans that offer the best value for the Federal 
+Government. OMB will consider funding the use of commercial SSPs as an appropriate solution 
+if, after reviewing the available Federal SSP and commercial SSP solutions and using standard 
+requirements, the agency's business case demonstrates that a commercial SSP can provide a 
+better value for the Federal Government. In addition, agency-specific approaches are 
+discouraged and will be considered for funding only in the rare situation in which an agency 
+demonstrates, through its alternatives analysis, that exceptional circumstances exist (e.g., 
+legitimately unique agency requirements or adequate scale within the organization) that make the 
+agency-specific approach clearly preferable to an SSP solution with respect to what is the best 
+value for the Federal Government. Agencies approved for agency-specific solutions must still 
+participate in government-wide benchmarking and governance. 
+OMB will work with agency Chief Financial Officers (CFOs), Chieflnformation Officers 
+(CIOs) and FSSPs to ensure use of common standards and requirements, to the maximum extent 
+practicable, so that agencies retain the flexibility to migrate to another SSP in the future. In 
+order to leverage the Government's buying power, reduce administrative burden, and achieve the 
+best value for the Federal Government, OMB's Office of Federal Financial Management and 
+Office of Federal Procurement Policy will also work with agencies to ensure that management 
+and acquisition strategies promote the Federal Government's "Cloud First" policy 5 and the 
+strategic sourcing principles outlined in OMB Memorandum M-13-02, Improving Acquisition 
+through Strategic Sourcing. 
+Laying the Groundwork (or Success(ul Shared Services 
+Ensuring that the FSSPs are capable of meeting the needs of all agency customers will 
+take several years. OMB and Treasury will help ensure each agency's future financial system 
+needs are met by supporting the expansion ofFSSP offerings and capabilities. We recognize 
+that, to be able to meet agency needs, the FSSPs will need to enhance service offerings, expand 
+technology and transaction processing capabilities, and have a strong governance structure. 
+Furthermore, in order to fully realize the benefits of using a FSSP, it will be necessary for 
+agencies to adjust and. adopt standardized processes. To promote those changes, OMB and 
+Treasury will: 
+• 	 Analyze the landscape of existing SSPs to identify capability gaps; 
+• 	 Evaluate agencies' current financial and related mixed system needs; 
+• 	 Identify the need and interest in additional FSSPs; and 
+• 	 Develop a blueprint for a strategy to address gaps and identify a limited number 
+of approved FSSPs that are capable of meeting agency needs. 
+5 See the 25 Point Implementation Plan to Reform Federal Information Technology Management (December 9, 
+2010). 
+3 
+
+
+[PDF page 4]
+Each designated FSSP will offer at least one core financial management system that will 
+fully interf~ce with subsidiary systems-such as payroll, travel, and procurement systems-as 
+well as Treasury's payment, collection, and central reporting systems. The FSSP will offer these 
+subsidiary systems either directly or through a sub-contract with other SSPs or agency systems. 
+In certain limited cases, if a common solution is not available, FSSPs may propose to create new 
+interfaces with existing agency solutions. FSSPs must also have the ability to provide reporting 
+capabilities on core accounting data that is sufficient for each agency to manage its funds. 
+As FSSPs begin to support the needs of larger Federal agencies, it is essential to have a strong 
+governance mechanism in place to ensure that agency interests are reflected in key decisions 
+affecting FSSPs services and operations. OMB and Treasury will work with agencies in the 
+coming months to develop a new FSSP governance model. 
+Treasury's Office o{Financial Innovation and Transformation (FIT) 
+In Spring 2010, OMB announced the closure ofthe Financial Systems Integration Office 
+(FSI0) 6 and the creation of Treasury's Office ofFinancial Innovation and Transformation 
+("FIT") to help set a new course for federal financial management. FIT supports that mission by 
+incubating new automated solutions, reducing duplicate work at multiple agencies, and assisting 
+OMB in ensuring consistency with a long-term financial management systems strategy. FIT will 
+provide oversight in four key areas: 
+1. 	 Evaluating any new agency systems modernization plans and requirements, in 
+conjunction with OMB, to ensure that each agency is positioned to adopt a shared 
+service approach; · 
+2. 	 Establishing a strategy and framework for agency migrations to a shared service 
+model for financial systems across the Federal Government; 
+3. 	 Maintaining core government-wide financial management requirements while 
+limiting expansion and impact on financial system requirements; and 
+4. 	 Identifying and facilitating the implementation of government-wide operational 
+capabilities (e.g., invoice processing and centralized receivables management) 
+that help reduce cost and improve performance. 
+FIT will play a significant role in evaluating agency financial system modernization 
+investments when they are proposed and will provide recommendations to OMB on whether 
+agency systems strategies and modernization requests align with the government-wide shared 
+service approach. These recommendations will help guide OMB's funding determinations. 
+Planning (or Agency Financial System Modernizations 
+It remains in the Government's best interest to sustain existing functions and operations 
+until it is necessary for an agency to replace its existing financial system or when a significant 
+upgrade is required. Accordingly, OMB will continue to support limited investments in existing 
+6 OMB Memorandum of March 16, 2010, Update on the Financial Systems Integration Office. 
+4 
+
+
+[PDF page 5]
+financial management systems within an agency when the agency provides an adequate business 
+justification and the proposal costs less than a shared services alternative. The requested 
+investments must be a targeted enhancement or modular improvement that resolves critical 
+issues and extends the life of an agency's existing financial system. OMB and FIT will evaluate 
+these requests based on their individual merits, as well as the broader framework for financial 
+system modernization investments outlined in prior memoranda and clarified in this 
+memorandum. 
+In addition to funding some small-scale, modular enhancements going forward, OMB 
+will work with agencies to prioritize funding for modernization proposals that are consistent with 
+a shared services approach. New investments will be needed for both FSSPs to improve their 
+ability to support new and more complex agencies and for agencies planning migrations to SSPs. 
+Next Steps 
+In the coming months, OMB will issue new guidance on both technology and business 
+requirements for financial systems currently contained in OMB Circular No. A-127 that is 
+consistent with this memo. FIT will work with OMB to review and evaluate proposals for new 
+systems projects. In addition, agencies with near-term financial systems modernization needs 
+should begin planning to adopt a shared-services approach, consistent with this guidance, that 
+will provide the agency with future fmancial systems infrastructure, application, or transactional 
+processing services. OMB and Treasury will begin working with these agencies immediately to 
+develop plans consistent with this guidance. 
+If you have any q~estions regarding this memorandum, please contact Mike Wetklow, 
+Chief Accountability, Performance, and Reporting Branch within OMB's Office ofFederal 
+Financial Management (mwetklow@omb.eop.gov). 
+5 

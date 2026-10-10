@@ -1,0 +1,36 @@
+[
+  {
+    "width": 1440,
+    "tests": [
+      "load",
+      "no overflow",
+      "empty search",
+      "combined filters",
+      "sort",
+      "reset",
+      "timeline selection",
+      "print style",
+      "no JS exceptions"
+    ],
+    "passed": true
+  },
+  {
+    "width": 390,
+    "tests": [
+      "load",
+      "no overflow",
+      "empty search",
+      "combined filters",
+      "sort",
+      "reset",
+      "timeline selection",
+      "print style",
+      "no JS exceptions"
+    ],
+    "passed": true
+  },
+  {
+    "test": "file:// without JavaScript",
+    "passed": true
+  }
+]

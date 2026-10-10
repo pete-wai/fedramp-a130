@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://www.whitehouse.gov/omb/information-for-agencies/memoranda/",
+    "candidates": 46,
+    "status": "searched"
+  },
+  {
+    "url": "https://bidenwhitehouse.archives.gov/omb/information-for-agencies/memoranda/",
+    "candidates": 768,
+    "status": "searched"
+  },
+  {
+    "url": "https://trumpwhitehouse.archives.gov/omb/information-for-agencies/memoranda/",
+    "candidates": 654,
+    "status": "searched"
+  },
+  {
+    "url": "https://obamawhitehouse.archives.gov/omb/memoranda_default",
+    "candidates": 15,
+    "status": "searched"
+  },
+  {
+    "url": "https://georgewbush-whitehouse.archives.gov/omb/memoranda/",
+    "candidates": 6,
+    "status": "searched"
+  },
+  {
+    "url": "https://clintonwhitehouse3.archives.gov/OMB/memoranda/index.html",
+    "candidates": 45,
+    "status": "searched"
+  }
+]
