@@ -22,7 +22,7 @@
     "url": "https://www.govinfo.gov/content/pkg/STATUTE-79/pdf/STATUTE-79-Pg1127.pdf",
     "locator": "\u00a7111, especially (f)",
     "relation": "Explicit statutory mandate",
-    "note": "",
+    "note": "Allocates federal ADP responsibilities, including Commerce standards and technical services in \u00a7111(f). Predates A-130; this supplies an independent statutory standards lineage.",
     "resolved_url": "https://www.govinfo.gov/content/pkg/STATUTE-79/pdf/STATUTE-79-Pg1127.pdf",
     "pages": 3,
     "local": "sources/brooks.pdf",
@@ -98,7 +98,7 @@
     "url": "https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg1896.pdf",
     "locator": "\u00a73: 5 USC 552a(e)(10); \u00a76 OMB guidance",
     "relation": "Explicit statutory mandate",
-    "note": "",
+    "note": "Requires administrative, technical and physical safeguards for records about individuals and assigns OMB guidance duties. Later A-130 privacy provisions operate within this statutory framework.",
     "resolved_url": "https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg1896.pdf",
     "pages": 15,
     "local": "sources/privacy.pdf",
@@ -182,7 +182,7 @@
     "url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg2812.pdf",
     "locator": "44 USC 3504, 3506 as enacted",
     "relation": "Explicit statutory mandate",
-    "note": "",
+    "note": "Assigns OMB central information-resources management responsibilities; principal organizing authority for the 1985 circular.",
     "resolved_url": "https://www.govinfo.gov/content/pkg/STATUTE-94/pdf/STATUTE-94-Pg2812.pdf",
     "pages": 15,
     "local": "sources/pra1980.pdf",
@@ -235,7 +235,7 @@
     "url": "https://www.govinfo.gov/content/pkg/FR-1985-12-24/pdf/FR-1985-12-24.pdf",
     "locator": "50 FR 52730\u201352751; published December 24; effective December 12",
     "relation": "Explicit statutory mandate",
-    "note": "Original whole Federal Register issue preserved. Search extract restricted to A-130, PDF pages 288\u2013309 (printed 52730\u201352751); scan with OCR.",
+    "note": "The first A-130 was dated and effective December 12, 1985, and published on December 24 at 50 FR 52730\u201352751. The original Federal Register notice is decisive for those dates. Its purpose was broader than computer security: it assembled a government-wide framework for information policy, information technology, privacy, and records management. It superseded A-71, A-90, A-108, and A-121 and carried forward security responsibilities from A-71\u2019s 1978 transmittal. The March 1985 draft was a proposal, not a separate final circular. Original whole Federal Register issue preserved. Search extract restricted to A-130, PDF pages 288\u2013309 (printed 52730\u201352751); scan with OCR.",
     "resolved_url": "https://www.govinfo.gov/content/pkg/FR-1985-12-24/pdf/FR-1985-12-24.pdf",
     "pages": 320,
     "local": "sources/a130-1985.pdf",
@@ -265,7 +265,7 @@
     "url": "https://www.govinfo.gov/content/pkg/STATUTE-101/pdf/STATUTE-101-Pg1724.pdf",
     "locator": "\u00a7\u00a72\u20136; NBS functions, standards and agency plans",
     "relation": "Explicit statutory mandate",
-    "note": "",
+    "note": "Enacted January 8, 1988 despite its 1987 title. Assigns NBS security standards/guidelines work directly and requires agency security planning and training; implemented by OMB bulletins and later the 1996 appendix.",
     "resolved_url": "https://www.govinfo.gov/content/pkg/STATUTE-101/pdf/STATUTE-101-Pg1724.pdf",
     "pages": 7,
     "local": "sources/csa.pdf",
@@ -318,7 +318,7 @@
     "url": "https://clintonwhitehouse6.archives.gov/1993/06/1993-06-25-omb-circular-a130-revised-to-remove-printer-codes.html",
     "locator": "Sections 3, 8a; Appendix I; 58 FR 36068, July 2",
     "relation": "Explicit statutory mandate",
-    "note": "",
+    "note": "Transmittal 1 took effect June 25, 1993, and appeared in the Federal Register on July 2, at 58 FR 36068. This revision primarily changed information-management policy, definitions, basic assumptions, privacy-related responsibilities, and explanatory material. It was not the major rewrite of the security appendix. The issuance expressly identifies Appendix III as unchanged. This matters because a chronology that lists only 1994, 1996 and 2000 omits a substantive A-130 revision, while a chronology that calls every revision a new security regime overstates the 1993 action. ",
     "resolved_url": "https://clintonwhitehouse6.archives.gov/1993/06/1993-06-25-omb-circular-a130-revised-to-remove-printer-codes.html",
     "local": "sources/a130-1993.html",
     "extracted": "sources/a130-1993.txt",
@@ -389,7 +389,7 @@
     "a130_reference": true,
     "status": "Historical amendment; later consolidated texts change provisions.",
     "date_precision": "effective date; Federal Register publication July 25, 1994",
-    "note": "Original GovInfo HTML notice. The full daily-issue scan is retained in the local research cache, not in this public repository. GovInfo metadata says Page 0; the printed citation is 59 FR 37906\u201337928."
+    "note": "Transmittal 2 was effective July 15, 1994, and published July 25 at 59 FR 37906. It addressed information systems and information technology management, particularly section 8b. OMB\u2019s later 1996 preamble confirms both dates and describes its objectives: better public services, less burden, lower administrative costs, and use of IT as a strategic resource to improve federal work processes and organization. The preserved 1994 Federal Register issue allows the actual revised text to be read in context. Original GovInfo HTML notice. The full daily-issue scan is retained in the local research cache, not in this public repository. GovInfo metadata says Page 0; the printed citation is 59 FR 37906\u201337928."
   },
   {
     "id": "pra1995",
@@ -399,7 +399,7 @@
     "url": "https://www.govinfo.gov/content/pkg/PLAW-104publ13/pdf/PLAW-104publ13.pdf",
     "locator": "44 USC 3504, 3506",
     "relation": "Explicit statutory mandate",
-    "note": "",
+    "note": "Revises OMB and agency information-management responsibilities; reflected in 1996 A-130.",
     "resolved_url": "https://www.govinfo.gov/content/pkg/PLAW-104publ13/pdf/PLAW-104publ13.pdf",
     "pages": 23,
     "local": "sources/pra1995.pdf",
@@ -475,7 +475,7 @@
     "url": "https://clintonwhitehouse3.archives.gov/OMB/circulars/a130/a130.html",
     "locator": "Appendix III; February 20 publication, 61 FR 6428",
     "relation": "Explicit statutory mandate",
-    "note": "",
+    "note": "Transmittal 3, dated February 8, 1996, was published February 20 at 61 FR 6428. It substantially revised Appendix III for a distributed, interconnected computing environment. The preamble contrasts that environment with the centralized processing assumptions behind the 1985 appendix and A-71\u2019s 1978 security transmittal. The revision emphasized management responsibility, rules of behavior, training, accountability, security plans, contingency planning, reviews, and authorization, supported by technical controls. ",
     "resolved_url": "https://clintonwhitehouse3.archives.gov/OMB/circulars/a130/a130.html",
     "local": "sources/a130-1996.html",
     "extracted": "sources/a130-1996.txt",
@@ -504,7 +504,7 @@
     "url": "https://www.govinfo.gov/content/pkg/PLAW-104publ106/pdf/PLAW-104publ106.pdf",
     "locator": "Division E, \u00a7\u00a75112\u20135113, 5125, 5131",
     "relation": "Explicit statutory mandate",
-    "note": "",
+    "note": "Division E reforms IT investment and CIO responsibilities; a principal driver of the 2000 A-130 revision.",
     "resolved_url": "https://www.govinfo.gov/content/pkg/PLAW-104publ106/pdf/PLAW-104publ106.pdf",
     "pages": 519,
     "local": "sources/clinger.pdf",
@@ -854,7 +854,7 @@
     "url": "https://www.govinfo.gov/content/pkg/PLAW-106publ398/pdf/PLAW-106publ398.pdf",
     "locator": "Title X, Subtitle G, \u00a7\u00a71061\u20131065",
     "relation": "Explicit statutory mandate",
-    "note": "",
+    "note": "Creates a time-limited information-security management and reporting framework. Its proximity to the November 2000 transmittal does not alone establish causation.",
     "resolved_url": "https://www.govinfo.gov/content/pkg/PLAW-106publ398/pdf/PLAW-106publ398.pdf",
     "pages": 515,
     "local": "sources/gisra.pdf",
@@ -884,7 +884,7 @@
     "url": "https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/omb/circulars/a130/a130trans4.pdf",
     "locator": "Sections 3, 8b, 9; Appendices III\u2013IV",
     "relation": "Explicit statutory mandate",
-    "note": "",
+    "note": "Transmittal 4 is dated November 28, 2000; its final notice was published December 12 at 65 FR 77677. The April 13 notice at 65 FR 19933 was the proposed revision and must not be cited as the final issuance. The main purpose was further implementation of Clinger\u2013Cohen, together with related laws and Executive Order 13011. The final notice documents the comments OMB received and the decisions it made before issuing the revision. ",
     "resolved_url": "https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/omb/circulars/a130/a130trans4.pdf",
     "pages": 23,
     "local": "sources/a130-2000.pdf",
@@ -1203,7 +1203,7 @@
     "url": "https://www.govinfo.gov/content/pkg/PLAW-107publ347/pdf/PLAW-107publ347.pdf",
     "locator": "Title III; \u00a7303 NIST duties; \u00a7304 standards",
     "relation": "Explicit statutory mandate",
-    "note": "",
+    "note": "Directly assigns NIST categorization and minimum-security development duties in \u00a7303 and establishes agency security-program responsibilities; not dependent on a new A-130 revision.",
     "resolved_url": "https://www.govinfo.gov/content/pkg/PLAW-107publ347/pdf/PLAW-107publ347.pdf",
     "pages": 72,
     "local": "sources/fisma2002.pdf",
@@ -2839,7 +2839,7 @@
     "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ283/pdf/PLAW-113publ283.pdf",
     "locator": "\u00a72: 44 USC 3553\u20133554, 3557",
     "relation": "Explicit statutory mandate",
-    "note": "",
+    "note": "Updates OMB oversight, DHS operational responsibilities and agency duties; preserves distinct treatment of national-security systems. Central to the 2016 circular\u2019s security framework.",
     "resolved_url": "https://www.govinfo.gov/content/pkg/PLAW-113publ283/pdf/PLAW-113publ283.pdf",
     "pages": 16,
     "local": "sources/fisma2014.pdf",
@@ -3038,7 +3038,7 @@
     "url": "https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf",
     "locator": "Sections 2, 3, 5, 6; Appendix I; Appendix II",
     "relation": "Explicit statutory mandate",
-    "note": "",
+    "note": "The 2016 rewrite, effective July 28 and announced in the Federal Register that day at 81 FR 49689, retitled A-130 \u201cManaging Information as a Strategic Resource.\u201d It replaced the 2000 edition after sixteen years of substantial legal and technical change. Its purpose was to integrate information management, IT governance, security, privacy, acquisition and workforce responsibilities across the information life cycle. Unlike an incremental transmittal, it reorganized the circular and its appendices. ",
     "resolved_url": "https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf",
     "pages": 85,
     "local": "sources/a130-2016.pdf",
@@ -3053,7 +3053,7 @@
         "term": "cloud",
         "locator": "PDF page 14",
         "passage": "and decommissioning of information systems, particularly Internet resources to include storage solutions and cloud-based services such as software as a service, platform as a service, and infrastructure as a service; and e) IT investments use an Earned Value Management System (EVMS) and Integrated Baseline Review, when",
-        "verification": "Passage reviewed against original extracted text; PDF page supplied"
+        "verification": "Matching passage checked in original PDF page image, October 10, 2026"
       }
     ],
     "a130_reference": true,
@@ -4326,7 +4326,7 @@
     "text_quality": "searchable",
     "matches": [],
     "a130_reference": false,
-    "note": "",
+    "note": "Section 4 assigns OMB migration guidance duties linked to NIST post-quantum standards, illustrating complementary direct statutory roles.",
     "status": "Historical edition; consult version and scope before applying",
     "date_precision": "day as identified in source metadata"
   },
@@ -4338,7 +4338,7 @@
     "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/pdf/PLAW-117publ263.pdf",
     "locator": "Division E, Title LIX, Subtitle C, \u00a75921; enacts 44 USC 3607\u20133616",
     "relation": "Explicit statutory mandate",
-    "note": "Complete P.L. 117-263 preserved. Term flags below are restricted to the FedRAMP subtitle, not unrelated provisions of the omnibus law.",
+    "note": "Section 5921 codifies FedRAMP. New 44 USC 3607(3) defines authorization by reference to A-130, and 3607(4) defines cloud computing by reference to NIST SP 800-145. Complete omnibus law preserved; term flags are limited to the FedRAMP subtitle.",
     "resolved_url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/pdf/PLAW-117publ263.pdf",
     "pages": 1772,
     "local": "sources/fedramp-act.pdf",
@@ -4353,13 +4353,13 @@
         "term": "cloud",
         "locator": "PDF page 1055",
         "passage": "orma- tion as a Strategic Resource\u2019, or any successor document. \u2018\u2018(4) C LOUD COMPUTING .\u2014The term \u2018cloud computing\u2019 has the meaning given the term in Special Publication 800\u2013145 of the National Institute of Standards and Technology, or any successor document. \u2018\u2018(5) C LOUD SERVICE PROVIDER .\u2014The term \u2018cloud se",
-        "verification": "Scope reviewed: FedRAMP subtitle only; extracted passage"
+        "verification": "Matching passage checked in original PDF page image, October 10, 2026"
       },
       {
         "term": "FedRAMP",
         "locator": "PDF page 1055",
         "passage": "[PDF page 1055] SEC. 5921. FEDRAMP AUTHORIZATION ACT. (a) SHORT TITLE.\u2014This section may be cited as the \u2018\u2018FedRAMP Authorization Act\u2019\u2019. (b) A MENDMENT.\u2014Chapter 36 of title 44, United States Code, is amended by adding at the end the following",
-        "verification": "Scope reviewed: FedRAMP subtitle only; extracted passage"
+        "verification": "Matching passage checked in original PDF page image, October 10, 2026"
       }
     ],
     "a130_reference": true,
@@ -4599,13 +4599,13 @@
         "term": "cloud",
         "locator": "PDF page 1",
         "passage": "morandum from the Federal Chief Information Officer (CIO), \u201cSecurity Authorization of Information Systems in Cloud Computing Environments,\u201d1 to safely accelerate the adoption of cloud computing products and services by Federal agencies, and help those agencies avoid duplicating efforts by offering a consistent and reusab",
-        "verification": "Passage reviewed against original extracted text; PDF page supplied"
+        "verification": "Matching passage checked in original PDF page image, October 10, 2026"
       },
       {
         "term": "FedRAMP",
         "locator": "PDF page 1",
         "passage": " M-24-15 MEMORANDUM FOR THE HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES FROM: SHALANDA D. YOUNG SUBJECT: (FedRAMP) The Federal Risk and Authorization Management Program, known as FedRAMP, was established by the Office of Management and Budget (OMB) through a December 8, 2011 memorandum from the Federal Chief Informatio",
-        "verification": "Passage reviewed against original extracted text; PDF page supplied"
+        "verification": "Matching passage checked in original PDF page image, October 10, 2026"
       },
       {
         "term": "related terminology",
