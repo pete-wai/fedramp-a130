@@ -30,3 +30,9 @@ Final Pages publication: commit ff792fd, Actions run 38057785165, succeeded Octo
 - Existing report browser suite passes: search, combined filters, sorting, reset, timeline, print, no-JavaScript reading.
 - Self-review of representative 1985 Federal Register and older NBS reader screenshots; readable measure, clear page links, conservative OCR warning. This was self-review, not a verified transcription of every source page.
 - Pages deployment run 38059578187 succeeded for commit d89bcaa. Live 1985 reader HTML and reader CSS matched the tested local files byte-for-byte after deployment.
+
+## Clear section headings — October 10, 2026
+- Four heading regression tests cover mixed-case sections, inline headings, lettered subsections, wrapped questions, and rejection of page headers and prose references.
+- Source hash, scoped-reader and all local anchor/link checks pass for 160 readers.
+- Reader browser checks pass at 1440px and 390px, with JavaScript disabled, including keyboard activation of section links, page links, file:// navigation and no horizontal overflow.
+- Existing report browser regression suite passes. Visually self-reviewed the 2016 reader's mobile heading/body hierarchy; captures saved as `output/reader-heading-*.png`.

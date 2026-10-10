@@ -13,21 +13,44 @@ SCOPES={
  'fisma2002':(48,63,r'TITLE III',r'TITLE IV','Title III: Federal Information Security Management Act of 2002.'),
  'fedramp-act':(1055,1064,r'Subtitle C',r'Subtitle D','Subtitle C: FedRAMP Authorization Act only.')}
 def paragraphs(text):
- # Reflow line wraps; retain spelling, punctuation, and hyphens from the source.
+ """Recognize source labels without inventing headings or rewriting their words."""
  out=[];buf=[]
  def flush():
   if buf:out.append('<p>'+E(' '.join(buf))+'</p>');buf.clear()
- for line in text.splitlines():
-  s=line.strip()
+ def title_like(s):
+  words=re.findall(r"[A-Za-z][A-Za-z’'-]*",s)
+  return bool(words) and len(words)<=15 and sum(w[0].isupper() for w in words)/len(words)>=.55
+ lines=text.splitlines();i=0
+ while i<len(lines):
+  s=lines[i].strip();i+=1
   if not s:flush();continue
-  heading=len(s)<105 and len(s)>3 and s.isupper() and bool(re.search('[A-Z]',s))
-  start=bool(re.match(r'(?:SEC\. \d+\.|\d+\. |\([a-zA-Z0-9]+\) |[a-z]\. |[•●] )',s))
+  if re.fullmatch(r'\d+\.',s) and i<len(lines) and lines[i].strip():s+=' '+lines[i].strip();i+=1
+  level=None;heading=None;rest=''
+  running=bool(re.search(r'Federal Register|FIPS PUB|PUBLIC LAW|\bSTAT\.|\bUSC\b|^CIRCULAR NO',s,re.I))
+  numbered=None if running else re.match(r'^((?:Section\s+)?\d+(?:\.\d+)*[.)]?\s+|[a-z]\.\s+)(.+)$',s)
+  if numbered:
+   prefix,tail=numbered.groups()
+   split=re.match(r'^(.{2,95}?[.:])\s+(.+)$',tail)
+   if tail.endswith('?') and len(tail)<180:heading=s
+   elif split and title_like(split[1]):heading=prefix+split[1];rest=split[2]
+   elif len(s)<110 and not re.search(r'[;,]$',s) and title_like(tail) and not re.search(r'\b(shall|must|means|should)\b',tail,re.I):heading=s
+   if heading:level=3 if re.match('[a-z]\\.',prefix) or re.search(r'\d\.\d',prefix) else 2
+  if heading is None and not running and re.match(r'^(?:Appendix\s+[A-ZIVX]+\b|TITLE\s+[IVX]+\b|Subtitle\s+[A-Z]\b|SEC\.\s+\d+\.)',s) and (s.isupper() or (title_like(s) and not re.search(r'\b(with|to emphasize|The two|which|as discussed)\b',s))):
+   heading=s;level=2
+   # Join wrapped all-capital legislative section names, but not the next section.
+   while i<len(lines) and lines[i].strip().isupper() and len(heading)<160 and not re.match(r'^(?:SEC\.|TITLE|APPENDIX)',lines[i].strip()) and not heading.endswith('.'):
+    heading+=' '+lines[i].strip();i+=1
+  if heading is None and re.fullmatch(r'(?:Foreword|Abstract|Contents|Table of Contents|Executive Summary|Introduction|Background|Purpose|Scope|References|Bibliography|Conclusion|Conclusions|Acknowledgments)',s,re.I) and s[0].isupper():heading=s;level=2
+  if heading is None and not running and 2<=len(s.split())<=15 and re.match(r'^[A-Z]',s) and len(s)<105 and len(s)>3 and s.isupper() and re.search('[A-Z]',s) and not re.search(r'(?:Federal Register|FIPS PUB|PUBLIC LAW|STAT\.|CIRCULAR NO\.|TO THE HEADS|MEMORANDUM FOR|OMB Circular)',s,re.I):
+   heading=s;level=2
+   while i<len(lines) and lines[i].strip().isupper() and 0<len(lines[i].strip())<105 and len(heading)<150 and not re.match(r'^(?:SEC\.|TITLE|APPENDIX)',lines[i].strip()) and not re.search(r'FIPS PUB|STAT\.|USC|PUBLIC LAW',lines[i],re.I):heading+=' '+lines[i].strip();i+=1
+  label=re.match(r'^(agency|action|summary|dates?|subject|supplementary information|for further information contact)\s*:\s*(.*)$',s,re.I)
+  if label and heading is None:heading=label[1]+':';rest=label[2];level=3
   if heading:
-   flush()
-   if out and out[-1].endswith('</h3>'):out[-1]=out[-1][:-5]+' '+E(s)+'</h3>'
-   else:out.append('<h3>'+E(s)+'</h3>')
+   flush();out.append(f'<h{level} class="document-heading">'+E(heading)+f'</h{level}>')
+   if rest:buf.append(rest)
   else:
-   if re.match(r'(?:agency|action|summary|date)\s*:',s,re.I):start=True
+   start=bool(re.match(r'(?:\d+\. |\([a-zA-Z0-9]+\) |[a-z]\. |[•●] )',s))
    if start or (buf and re.search(r'[.!?][”’"\']?$',buf[-1]) and len(' '.join(buf))>260):flush()
    buf.append(s)
  flush();return ''.join(out)
@@ -54,10 +77,22 @@ def build_readers(site,records):
    if len(t)>150 and len(t.split())<len(t)/35 and (r['id'] not in SCOPES or r['id']=='sp50085'):
     if pdf is None:pdf=fitz.open(site/r['local'])
     t='\n\n'.join(b[4] for b in pdf[n-1].get_text('blocks') if b[6]==0);repaired.append(n)
-   body.append(f'<section class="source-page" id="page-{n}" aria-labelledby="label-{n}"><div class="page-label"><h2 id="label-{n}">PDF page {n}{E(label)}</h2><a href="../{E(r["local"])}#page={n}">View original page ↗</a></div>{paragraphs(t) if t.strip() else "<p class=muted>No text was extracted from this page. See the original PDF.</p>"}</section>')
+   rendered=paragraphs(t)
+   if r['id']=='a130-2016' and n==1:
+    rendered=re.sub(r'<h[23] class="document-heading">(.*?)</h[23]>',r'<p class="source-contents-entry">\1</p>',rendered)
+   if r['id']=='a130-2000' and n==1 and '1. Purpose:' in t:
+    front,actual=t.split('1. Purpose:',1)
+    rendered=re.sub(r'<h[23] class="document-heading">(.*?)</h[23]>',r'<p class="source-contents-entry">\1</p>',paragraphs(front))+paragraphs('1. Purpose:'+actual)
+   body.append(f'<section class="source-page" id="page-{n}" aria-labelledby="label-{n}"><div class="page-label"><span id="label-{n}">PDF page {n}{E(label)}</span><a href="../{E(r["local"])}#page={n}">View original page ↗</a></div>{rendered if t.strip() else "<p class=muted>No text was extracted from this page. See the original PDF.</p>"}</section>')
   if pdf:pdf.close()
+  headings=[]
+  def anchor(m):
+   level,title=m.groups();key='section-'+str(len(headings)+1);headings.append((key,title,level))
+   return f'<h{level} class="document-heading" id="{key}">{title}</h{level}>'
+  body=[re.sub(r'<h([23]) class="document-heading">(.*?)</h[23]>',anchor,part) for part in body]
+  contents='<details class="section-index" open><summary>Document sections</summary><nav aria-label="Document sections"><ol>'+''.join(f'<li class="depth-{level}"><a href="#{key}">{title}</a></li>' for key,title,level in headings)+'</ol></nav></details>' if headings else ''
   r['reader']='read/'+r['id']+'.html';r['reader_scope']=scope;r['reader_pages']=[p[0]for p in pages]
   nav=''.join(f'<a href="#page-{n}">{n}</a>'for n,_,_ in pages)
-  page=f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{E(r['title'])} · Reading copy</title><link rel="stylesheet" href="../reader.css"></head><body><a class="skip" href="#text">Skip to document text</a><header><a href="../index.html#doc-{E(r['id'])}">← Back to research report</a><p class="eyebrow">Source reader · {E(r['date'])}</p><h1>{E(r['title'])}</h1><p class="scope">{E(scope)}</p><nav class="downloads" aria-label="Source files"><a href="../{E(r['local'])}">Original PDF</a><a href="../{E(r['extracted'])}" download>Raw text ↓</a><a href="{E(r['url'])}">Official source ↗</a></nav><aside class="notice"><strong>Formatted reading copy</strong><p>Text is reflowed for smaller screens. Original PDF page numbers are retained. OCR spelling, reading order, tables and line-end hyphens may be imperfect; consult the original before quoting. This page is not an authoritative transcription.</p>{'<p>Spacing restored from the existing PDF text layer on pages '+E(', '.join(map(str,repaired)))+'. No AI rewriting or spelling correction was applied.</p>' if repaired else ''}</aside><details class="page-index"><summary>Jump to a PDF page · {len(pages)} included</summary><nav aria-label="PDF pages">{nav}</nav></details></header><main id="text">{''.join(body)}</main><footer><a href="#">Back to top ↑</a> · <a href="../index.html#doc-{E(r['id'])}">Return to source record</a></footer></body></html>'''
+  page=f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{E(r['title'])} · Reading copy</title><link rel="stylesheet" href="../reader.css"></head><body><a class="skip" href="#text">Skip to document text</a><header><a href="../index.html#doc-{E(r['id'])}">← Back to research report</a><p class="eyebrow">Source reader · {E(r['date'])}</p><h1>{E(r['title'])}</h1><p class="scope">{E(scope)}</p><nav class="downloads" aria-label="Source files"><a href="../{E(r['local'])}">Original PDF</a><a href="../{E(r['extracted'])}" download>Raw text ↓</a><a href="{E(r['url'])}">Official source ↗</a></nav><aside class="notice"><strong>Formatted reading copy</strong><p>Text is reflowed for smaller screens. Original PDF page numbers are retained. OCR spelling, reading order, tables and line-end hyphens may be imperfect; consult the original before quoting. This page is not an authoritative transcription.</p>{'<p>Spacing restored from the existing PDF text layer on pages '+E(', '.join(map(str,repaired)))+'. No AI rewriting or spelling correction was applied.</p>' if repaired else ''}</aside>{contents}<details class="page-index"><summary>Jump to a PDF page · {len(pages)} included</summary><nav aria-label="PDF pages">{nav}</nav></details></header><main id="text">{''.join(body)}</main><footer><a href="#">Back to top ↑</a> · <a href="../index.html#doc-{E(r['id'])}">Return to source record</a></footer></body></html>'''
   (site/r['reader']).write_text(page);audit.append({'id':r['id'],'pages':r['reader_pages'],'scope':scope,'spacing_recovered_pages':repaired})
  (site/'reader-manifest.json').write_text(json.dumps(audit,indent=2));print('Built',len(audit),'scoped PDF readers')
