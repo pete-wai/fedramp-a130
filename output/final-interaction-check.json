@@ -1,0 +1,11 @@
+{
+  "keyboardSkipLink": true,
+  "keyboardEventActivation": true,
+  "tableCombinedFilters": true,
+  "tableSortAndDetailNavigation": true,
+  "httpPDFDownload": true,
+  "offlineJavaScriptFiltering": true,
+  "offlineNetworkRequests": 0,
+  "consoleErrors": 0,
+  "passed": true
+}

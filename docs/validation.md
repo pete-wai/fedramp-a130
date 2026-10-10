@@ -16,3 +16,7 @@ Completed in this chat, as self-review:
 Limits: no independent legal review, screen-reader session, physical-device test, exhaustive OCR correction, or universal memorandum completeness claim. Browser tests used the existing Chrome installation. Tooling/browser failures during setup were corrected before the passing run.
 
 Deployment verification is appended after GitHub Pages completes.
+
+Final interaction pass: compact-table combined filters, newest-first sorting, table-to-record navigation, keyboard skip link and Enter activation, same-origin PDF download, and file:// JavaScript filtering passed. Offline report made zero HTTP requests; zero browser exceptions. The table navigation initially exposed a hash/visibility timing issue; revealing and scrolling the target record was fixed and the complete pass succeeded. Evidence: output/final-interaction-check.json and output/table-mobile.png. Direct file:// PDF links may open the browser viewer rather than emit a browser download event; the HTTP download behavior was verified separately.
+
+Initial Pages runs 38057621457 and 38057629595 succeeded; public URL returned HTTP 200. Final UI revision deployment is verified in the delivery chat and output/live-check.json.
