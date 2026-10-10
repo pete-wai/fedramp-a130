@@ -1,0 +1,14 @@
+{
+  "deployment": 38061501486,
+  "commit": "d76521b",
+  "filesMatchLocal": [
+    "index.html",
+    "styles.css",
+    "app.js",
+    "manifest.json",
+    "read/a130-1985.html"
+  ],
+  "records": 178,
+  "quotes": 3,
+  "mobileFootnotes": true
+}
