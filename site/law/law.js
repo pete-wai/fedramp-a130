@@ -26,3 +26,18 @@ window.addEventListener('hashchange',reveal);reveal();
 let printDetails=[];
 window.addEventListener('beforeprint',()=>{printDetails=[...document.querySelectorAll('details:not([open])')];printDetails.forEach(x=>x.open=true);});
 window.addEventListener('afterprint',()=>printDetails.forEach(x=>x.open=false));
+
+// Keep long readings navigable without changing the URL as the reader scrolls.
+const reading=document.querySelector('.continuous-reading');
+if(reading){
+ const links=[...document.querySelectorAll('.contents a[href^="#"]')];
+ const targets=links.map(a=>document.getElementById(a.hash.slice(1))).filter(Boolean);
+ let queued=false;
+ function trackReading(){
+  queued=false;const threshold=matchMedia('(max-width:900px)').matches?110:80;
+  let current=targets[0];for(const target of targets){if(target.getBoundingClientRect().top<=threshold)current=target;else break;}
+  for(const link of links){if(current&&link.hash==='#'+current.id)link.setAttribute('aria-current','location');else link.removeAttribute('aria-current');}
+ }
+ addEventListener('scroll',()=>{if(!queued){queued=true;requestAnimationFrame(trackReading);}}, {passive:true});trackReading();
+ for(const link of links)link.addEventListener('click',()=>{if(matchMedia('(max-width:900px)').matches)link.closest('details').open=false;});
+}

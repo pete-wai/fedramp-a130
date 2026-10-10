@@ -43,3 +43,7 @@ mise exec -- node scripts/law-browser-check.mjs
 `pnpm test` runs the existing report checks and the Node law-page validator, including in GitHub Actions. The Python check verifies XML provenance, complete chapter coverage, rendered text fidelity, A-130 source sequence, precise annotation targets, source hashes, local links, and selected historical edge cases. Browser checks cover desktop/mobile, keyboard expansion, search/filter reset, comparisons, no JavaScript, offline reading, and print.
 
 Review screenshots and the PDF in `output/law-*`. The review is an in-thread self-review; no independent legal reviewer or subagent was used. Source excerpts and statutory text remain separate from authored explanations. Typography-only comparison changes must not be described as substantive amendments.
+
+## Continuous subject readers
+
+`reading_groups.py` assigns all 100 sections exactly once to 12 subject readings. These are the index’s primary reading path. Grouped readers reuse the same source text and meaningful clause annotations as section pages, qualify history IDs, and keep cross-references within the current reading when possible. Source notes are native disclosures. Mobile contents stay in a compact sticky disclosure; desktop uses the existing sidebar. `reading-check.py` checks source-text equivalence; `reading-browser-check.mjs` checks desktop, tablet, phone, offline, keyboard, and print behavior.

@@ -38,3 +38,9 @@ Authoring: `scripts/law_content.py`, `scripts/a130_content.py`, `scripts/lineage
 Functional and source checks passed locally. Existing report browser/notes checks require `CHROME_PATH='/Users/codex/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'` on this host. The new law browser script defaults to that installed browser. Captures and JSON are under `output/law-*`; print evidence is `output/law-ig-print.pdf` (ignored by Git). See validation.md for completed checks and deployment evidence.
 
 Published and verified: feature commit `10dddad`, Pages workflow `38068750821`. Live entry points: https://pete-wai.github.io/fedramp-a130/law/index.html and https://pete-wai.github.io/fedramp-a130/a130/index.html . Thirteen live files matched local hashes and the live browser suite passed. Evidence: `output/law-live-check.json`.
+
+## Continuous law readings — October 10, 2026
+
+The law index now leads with 12 subject readings covering all 100 collected sections exactly once. Full section text stays visible; substantive clause context and source/amendment notes open inline. Section pages and full chapters remain available. `scripts/reading_groups.py` owns grouping and introductory navigation copy; `scripts/law_build.py` reuses the existing section renderer. No research or law snapshot changed.
+
+Verified with `pnpm test`, `scripts/editorial-check.py`, `scripts/reading-check.py`, the existing law browser suite, and `scripts/reading-browser-check.mjs`. Reading tests cover 1440, 768, 390, and 320px, subsection/section navigation, keyboard context expansion, inline source notes, no overflow, offline reading with and without JavaScript, and print styles. All 506 protected original files/source bodies remain unchanged; all 100 reading texts match their section pages. Visual self-review covered desktop and phone captures in `output/reading-*`. The design detector reported only a phrase in unchanged statutory text; it was preserved.

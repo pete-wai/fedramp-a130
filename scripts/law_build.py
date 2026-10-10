@@ -164,6 +164,7 @@ def nav(current):
 def page(file,title,intro,body,toc='',current='Read the law'):
  head=f'<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{e(title)} · A-130</title><link rel="stylesheet" href="../law/law.css"><script src="../law/law.js" defer></script></head><body><a class="skip" href="#main">Skip to content</a><header class="masthead"><a class="brand" href="../index.html">A–130 <span>Law, policy &amp; responsibility</span></a>{nav(current)}</header>'
  layout='<div class="reading-layout">'+(f'<aside class="contents"><details open><summary>On this page</summary><nav aria-label="Page sections">{toc}</nav></details></aside>' if toc else '')
+ if 'continuous-reading' in body:layout=layout.replace('<aside class="contents">','<aside class="contents" id="reader-contents">')
  text=head+layout+f'<main id="main"><header class="page-title"><h1>{e(title)}</h1><div class="intro">{intro}</div></header>{body}</main></div><footer><p>U.S. Code snapshot: Public Law 119-118, September 30, 2026. Retrieved October 10, 2026. <a href="../law/sources.html">Coverage and source details</a>.</p><p>Original law and policy text is set apart from the explanations. Reading, citations, and comparisons work offline; official-source links require a connection.</p></footer></body></html>'
  (S/file).parent.mkdir(exist_ok=True,parents=True);(S/file).write_text(text)
 
@@ -172,7 +173,7 @@ def filters(items,extra=''):
  return '<form class="filters" role="search"><label>Find a provision<input id="query" type="search" placeholder="Section, phrase, duty, or law"></label>'+''.join(f'<label>{label}<select id="{kind}"><option value="">All {label.lower()}</option>'+''.join(f'<option>{e(v)}</option>' for v in values)+'</select></label>' for kind,label,values in [('topic','Topics',topics),('actor','Actors',actors)])+extra+'<button type="reset">Clear filters</button><p id="results" role="status" aria-live="polite"></p></form><p id="empty" hidden>No provisions match. Try another phrase or clear the filters.</p>'
 
 # Each section remains a standalone, complete reading page; the chapter pages collect their full text.
-chapter_bodies={35:[],36:[]};section_cards=[]
+chapter_bodies={35:[],36:[]};section_cards=[];reading_sections={}
 for rec in sections:
  key=rec['id'];root=roots[key];auth=SECTIONS[key];rtitle=f'{rec["title"]} USC §{rec["number"]} — {rec["heading"]}'
  intro=f'<p>{e(auth["summary"])}</p><p class="meta">'+e(' · '.join(auth['actors']))+'</p><div class="law-labels" aria-label="Laws listed in the section source credit">'+badges(rec)+'</div><p class="meta">Section source laws · <a href="history.html#'+key+'">Explore its earlier history</a>.</p>'
@@ -191,6 +192,7 @@ for rec in sections:
   if TAG(x) in STRUCT and x in nodeids:
    toc+=f'<a href="#{anchor(nodeids[x])}">{e(plain(x.find(N+"num")))} {e(plain(x.find(N+"heading")))}</a>'
  toc+='<a href="#history">History and source notes</a>'
+ reading_sections[key]=(intro,body)
  page('law/'+key+'.html',rtitle,intro,body,toc)
  if rec['chapter']:
   # Chapter text links to the complete section's notes and clause annotations; avoids repeated IDs.
@@ -203,8 +205,49 @@ for ch,body in chapter_bodies.items():
  context=ET.parse(D/f'chapter-{ch}.xml').getroot()
  body=''.join(body)+'<section id="chapter-notes"><h2>Chapter organization and source notes</h2>'+xml(context,'chapter-'+str(ch))+'</section>'
  page(f'law/chapter-{ch}.html',f'Title 44, chapter {ch}', '<p>Complete section text in Code order. Open a section for clause annotations, amendment instructions, statutory notes, and related policy.</p>',body,toc)
-intro='<p class="meta">Code through September 30, 2026 · <a href="sources.html">Edition and coverage</a></p><p>Federal information-security duties come from several laws. The Paperwork Reduction Act assigns information-management responsibilities; the Federal Information Security Modernization Act (FISMA) specifies security programs and oversight; other statutes establish standards, operational powers, privacy safeguards, and cloud authorization.</p><p>Read the law in order or follow an agency responsibility. Each section keeps its original wording alongside a short explanation and legislative history.</p>'
-body='<section class="start-reading"><h2>Read complete chapters</h2><p><a href="chapter-35.html">Chapter 35 — Information policy, security, and statistical confidentiality</a></p><p><a href="chapter-36.html">Chapter 36 — Electronic government and FedRAMP</a></p><p><a href="oversight.html">Follow the annual independent evaluation and IG responsibilities</a></p></section>'+filters(list(SECTIONS.values()))+'<section id="provisions"><h2>Find a responsibility or section</h2>'+''.join(section_cards)+'</section>'
+# Continuous readers group complete sections into manageable subjects.
+from reading_groups import READING_GROUPS
+assigned=[key for group in READING_GROUPS for key in group['sections']]
+assert len(assigned)==len(set(assigned)) and set(assigned)==set(by), 'Reading groups must cover each section exactly once'
+reading_index='<section class="reading-paths" id="reading-paths"><h2>Read by subject</h2><p>Each reading brings related sections together on one page. Scroll through the full law, use the contents to jump to a subsection, and open the history where you need it.</p><ol>'
+for gi,group in enumerate(READING_GROUPS):
+ slug=group['slug'];keys=group['sections'];parts=[];toc=''
+ for key in keys:
+  rec=by[key];intro_part,body_part=reading_sections[key]
+  doc=BeautifulSoup(body_part,'html.parser')
+  text_section=doc.select_one('#text');text_section.select_one('h2').decompose();text_section.unwrap()
+  # Keep meaningful clause commentary nearby; repetitive generic history links move to section notes.
+  for detail in list(doc.select('.clause-context')):
+   unit=detail.parent;unit_key=next((k for k in set(CLAUSES)|set(LINEAGE) if anchor(k)==unit.get('id')),None)
+   if not unit_key:detail.decompose()
+  history=doc.select_one('#history');history.name='details';history['class']=['reading-notes'];history['id']='history-'+key
+  history.select_one('h2').decompose()
+  summary=doc.new_tag('summary');summary.string='Source credit, amendments, and statutory notes';history.insert(0,summary)
+  for a in doc.select('a[href="#history"]'):a['href']='#history-'+key
+  parts.append(f'<article class="reading-section" id="{key}"><h2>{e(label(key))} — {e(rec["heading"])}</h2><div class="section-intro">{intro_part}</div>'+str(doc)+f'<p class="section-end"><a href="{key}.html">Separate section page</a> · <a href="history-{key}.html">Compare editions</a> · <a href="#reader-contents">Back to contents</a></p></article>')
+  toc+=f'<a class="section-jump" href="#{key}">{e(label(key))} — {e(rec["heading"])}</a>'
+  for x in roots[key]:
+   if TAG(x) in STRUCT and x in nodeids:
+    heading=normalize(plain(x.find(N+'heading')))
+    if heading:toc+=f'<a class="subsection-jump" href="#{anchor(nodeids[x])}">{e(plain(x.find(N+"num")))} {e(heading)}</a>'
+ # Cross-references within the reading stay on this page.
+ doc=BeautifulSoup(''.join(parts),'html.parser')
+ for a in doc.select('a[href]'):
+  dest,_,frag=a['href'].partition('#')
+  if dest.endswith('.html') and dest[:-5] in keys and not a.find_parent(class_='section-end'):
+   a['href']='#'+(frag if frag and frag!='history' else ('history-'+dest[:-5] if frag else dest[:-5]))
+ paging='<nav class="reading-next" aria-label="Other readings">'
+ for offset,label_text in [(-1,'Previous reading'),(1,'Next reading')]:
+  other=gi+offset
+  if 0<=other<len(READING_GROUPS):
+   g=READING_GROUPS[other];paging+=f'<a href="read-{g["slug"]}.html">{label_text}: {e(g["title"])}</a>'
+ paging+='</nav>'
+ introduction=f'<p>{e(group["description"])}</p><p class="meta">{len(keys)} complete sections · Code through September 30, 2026</p><p><a href="index.html#reading-paths">All readings</a> · <a href="#'+keys[0]+'">Start reading</a></p>'
+ page(f'law/read-{slug}.html',group['title'],introduction,'<div id="reading-top" class="continuous-reading">'+str(doc)+paging+'</div>',toc)
+ reading_index+=f'<li><h3><a href="read-{slug}.html">{e(group["title"])}</a></h3><p>{e(group["description"])}</p><p class="meta">{e(group["scope"])} · {len(keys)} sections</p></li>'
+reading_index+='</ol></section>'
+intro='<p class="meta">Code through September 30, 2026 · <a href="sources.html">Edition and coverage</a></p><p>Federal information-security duties come from several laws. The Paperwork Reduction Act assigns information-management responsibilities; the Federal Information Security Modernization Act (FISMA) specifies security programs and oversight; other statutes establish standards, operational powers, privacy safeguards, and cloud authorization.</p><p>Choose a subject below to read related sections in one continuous view. Explanations sit beside the original wording, with legislative history available as you read.</p>'
+body=reading_index+'<section class="start-reading"><h2>Complete chapters and reference lookup</h2><p><a href="chapter-35.html">Chapter 35 — Information policy, security, and statistical confidentiality</a></p><p><a href="chapter-36.html">Chapter 36 — Electronic government and FedRAMP</a></p><p><a href="oversight.html">Follow the annual independent evaluation and IG responsibilities</a></p></section>'+filters(list(SECTIONS.values()))+'<section id="provisions"><h2>Find a responsibility or section</h2>'+''.join(section_cards)+'</section>'
 duty_index='<section><h2>Follow a familiar duty to its source</h2><div class="table-wrap"><table><thead><tr><th scope="col">Duty</th><th scope="col">Statutory origin</th><th scope="col">Current provision</th></tr></thead><tbody>'
 for k,v in LINEAGE.items():duty_index+='<tr><td>'+e(v['title'])+'</td><td>'+e(v['origin'])+'</td><td><a href="'+k.split('/')[0]+'.html#'+anchor(k)+'">'+e(label(k))+'</a></td></tr>'
 duty_index+='</tbody></table></div></section>'

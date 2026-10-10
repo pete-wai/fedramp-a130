@@ -1,0 +1,37 @@
+{
+  "base": "http://127.0.0.1:4176/",
+  "evidence": [
+    {
+      "width": 1440,
+      "contentsJump": true,
+      "keyboardContext": true,
+      "inlineHistory": true,
+      "noOverflow": true
+    },
+    {
+      "width": 768,
+      "contentsJump": true,
+      "keyboardContext": true,
+      "inlineHistory": true,
+      "noOverflow": true
+    },
+    {
+      "width": 390,
+      "contentsJump": true,
+      "keyboardContext": true,
+      "inlineHistory": true,
+      "noOverflow": true
+    },
+    {
+      "width": 320,
+      "contentsJump": true,
+      "keyboardContext": true,
+      "inlineHistory": true,
+      "noOverflow": true
+    }
+  ],
+  "offline": true,
+  "noJavaScript": true,
+  "print": true,
+  "passed": true
+}
