@@ -1,0 +1,21 @@
+[
+  {
+    "width": 1440,
+    "footnoteTargets": 36,
+    "keyboardRoundTrip": true,
+    "timelineUniqueIds": true,
+    "filterCompatibility": true,
+    "printNotes": true
+  },
+  {
+    "width": 390,
+    "footnoteTargets": 36,
+    "keyboardRoundTrip": true,
+    "timelineUniqueIds": true,
+    "filterCompatibility": true,
+    "printNotes": true
+  },
+  {
+    "offlineWithoutJavaScript": true
+  }
+]

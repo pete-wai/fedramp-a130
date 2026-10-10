@@ -1,12 +1,13 @@
 """Faithful, scoped HTML reading aids; originals and raw extracts stay unchanged."""
 import html,re,json
 import fitz
+from content import READER_NOTICE,READER_SPACING
 E=lambda s:html.escape(str(s),quote=True)
 SCOPES={
- 'sp50085':(5,18,None,None,'Foreword, abstract, contents, guidance and bibliography; cover and publisher back matter omitted.'),
+ 'sp50085':(5,18,None,None,'Foreword, abstract, contents, guidance, and bibliography. Covers and publisher pages are omitted.'),
  'a130-2016':(1,85,None,None,'Complete A-130 circular and its appendices.'),
  'fips31':(2,4,None,None,'Foreword and standards announcement: authority, purpose and applicability.'),
- 'a130-1985':(288,309,None,None,'A-130 notice only: 50 FR 52730–52751.'),
+ 'a130-1985':(288,309,None,None,'A-130 notice, 50 FR 52730–52751.'),
  'fips12':(34,37,None,r'4\.7\. BOB','A-71 reproduction only: §4.6 of FIPS 12.'),
  'clinger':(495,519,r'DIVISION E',None,'Division E: Information Technology Management Reform Act of 1996.'),
  'gisra':(268,277,r'Subtitle G',r'Subtitle H','Title X, Subtitle G: Government Information Security Reform.'),
@@ -59,7 +60,7 @@ def build_readers(site,records):
  for r in records:
   if not r.get('local','').endswith('.pdf'):continue
   raw=(site/r['extracted']).read_text();chunks=re.findall(r'\[PDF page (\d+)([^\]]*)\]\s*([\s\S]*?)(?=\[PDF page |\Z)',raw)
-  pages=[(int(n),label,t)for n,label,t in chunks];scope='Complete standalone document.'
+  pages=[(int(n),label,t)for n,label,t in chunks];scope='Complete document.'
   if r['id'] in SCOPES:
    lo,hi,start,end,scope=SCOPES[r['id']];pages=[p for p in pages if lo<=p[0]<=hi]
    for index,pattern,after in [(0,start,True),(-1,end,False)]:
@@ -68,7 +69,7 @@ def build_readers(site,records):
      pages[index]=(n,label,t[m.start():] if after else t[:m.start()])
   elif r.get('pages',0)>80:
    pages=[p for p in pages if re.search(r'A[–−—-]\s*130',p[2],re.I)]
-   scope='Selected pages explicitly referencing A-130; intervening pages are omitted. This is an excerpt, not the complete publication.'
+   scope='Selected pages that mention A-130. Other pages are omitted.'
    if not pages:continue
   assert pages,r['id']
   repaired=[];pdf=None;body=[]
@@ -93,6 +94,6 @@ def build_readers(site,records):
   contents='<details class="section-index" open><summary>Document sections</summary><nav aria-label="Document sections"><ol>'+''.join(f'<li class="depth-{level}"><a href="#{key}">{title}</a></li>' for key,title,level in headings)+'</ol></nav></details>' if headings else ''
   r['reader']='read/'+r['id']+'.html';r['reader_scope']=scope;r['reader_pages']=[p[0]for p in pages]
   nav=''.join(f'<a href="#page-{n}">{n}</a>'for n,_,_ in pages)
-  page=f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{E(r['title'])} · Reading copy</title><link rel="stylesheet" href="../reader.css"></head><body><a class="skip" href="#text">Skip to document text</a><header><a href="../index.html#doc-{E(r['id'])}">← Back to research report</a><p class="eyebrow">Source reader · {E(r['date'])}</p><h1>{E(r['title'])}</h1><p class="scope">{E(scope)}</p><nav class="downloads" aria-label="Source files"><a href="../{E(r['local'])}">Original PDF</a><a href="../{E(r['extracted'])}" download>Raw text ↓</a><a href="{E(r['url'])}">Official source ↗</a></nav><aside class="notice"><strong>Formatted reading copy</strong><p>Text is reflowed for smaller screens. Original PDF page numbers are retained. OCR spelling, reading order, tables and line-end hyphens may be imperfect; consult the original before quoting. This page is not an authoritative transcription.</p>{'<p>Spacing restored from the existing PDF text layer on pages '+E(', '.join(map(str,repaired)))+'. No AI rewriting or spelling correction was applied.</p>' if repaired else ''}</aside>{contents}<details class="page-index"><summary>Jump to a PDF page · {len(pages)} included</summary><nav aria-label="PDF pages">{nav}</nav></details></header><main id="text">{''.join(body)}</main><footer><a href="#">Back to top ↑</a> · <a href="../index.html#doc-{E(r['id'])}">Return to source record</a></footer></body></html>'''
+  page=f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{E(r['title'])} · Reading copy</title><link rel="stylesheet" href="../reader.css"></head><body><a class="skip" href="#text">Skip to document text</a><header><a href="../index.html#doc-{E(r['id'])}">← Back to research report</a><p class="eyebrow">Document · {E(r['date'])}</p><h1>{E(r['title'])}</h1><p class="scope">{E(scope)}</p><nav class="downloads" aria-label="Source files"><a href="../{E(r['local'])}">Original PDF</a><a href="../{E(r['extracted'])}" download>Raw text ↓</a><a href="{E(r['url'])}">Official source ↗</a></nav><details class="notice"><summary>About this text</summary><p>{E(READER_NOTICE)}</p>{'<p>'+E(READER_SPACING.format(pages=', '.join(map(str,repaired))))+'</p>' if repaired else ''}</details>{contents}<details class="page-index"><summary>Jump to a PDF page · {len(pages)} included</summary><nav aria-label="PDF pages">{nav}</nav></details></header><main id="text">{''.join(body)}</main><footer><a href="#">Back to top ↑</a> · <a href="../index.html#doc-{E(r['id'])}">Return to source record</a></footer></body></html>'''
   (site/r['reader']).write_text(page);audit.append({'id':r['id'],'pages':r['reader_pages'],'scope':scope,'spacing_recovered_pages':repaired})
  (site/'reader-manifest.json').write_text(json.dumps(audit,indent=2));print('Built',len(audit),'scoped PDF readers')

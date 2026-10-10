@@ -36,3 +36,17 @@ Final Pages publication: commit ff792fd, Actions run 38057785165, succeeded Octo
 - Source hash, scoped-reader and all local anchor/link checks pass for 160 readers.
 - Reader browser checks pass at 1440px and 390px, with JavaScript disabled, including keyboard activation of section links, page links, file:// navigation and no horizontal overflow.
 - Existing report browser regression suite passes. Visually self-reviewed the 2016 reader's mobile heading/body hierarchy; captures saved as `output/reader-heading-*.png`.
+
+## Narrative editorial revision — October 10, 2026
+
+Rewrote the overview, prehistory, six revision summaries, responsibility comparisons, NIST histories, memorandum overview, methodology, and all 178 library descriptions. Added 36 numbered notes and three source quotations. Reader notices are shorter and collapsed under “About this text”; excerpt boundaries and source bodies are unchanged.
+
+Completed checks:
+- `scripts/editorial-check.py`: 506 protected source-file/source-body hashes unchanged (173 originals, 173 raw extracts, 160 reader bodies); all 178 descriptions populated; six summaries of 274–298 words; three quotations match source text.
+- Original record IDs, dates, titles, types, relationships, URLs, locators, source paths, hashes, sizes, retrieval dates, term matches and reference passages compared with the pre-edit records and unchanged.
+- Quotation image review: 1985 Federal Register printed page 52730/PDF 288; 1996 Federal Register printed page 6439/PDF 12; 2016 circular PDF page 3. The 1996 quotation is linked to the equivalent Appendix III definition in the original HTML copy.
+- Static links, original hashes, and reader scope checks pass. Existing report and reader browser suites pass at 1440px and 390px.
+- `scripts/notes-check.mjs`: all 36 note targets, keyboard note/backlink round trips, timeline uniqueness, stable relationship filtering, print visibility, mobile overflow, and file:// navigation without JavaScript pass.
+- Visual self-review of the overview and 1985 summary on desktop/mobile. Separate editorial self-review removed generic descriptions, explained introductory acronyms, and corrected the descriptions of DATA Act memo M-17-04 and health/environment risk memo M-07-24. Historical source metadata and source passages were not rewritten.
+
+Editorial review used existing source statements, authority/introductory sections, and the previously cited evidence. This is a prose and presentation revision, not a new source-collection pass or a determination that historical requirements remain in force. No independent reviewer was used.
