@@ -1,0 +1,24 @@
+{
+  "evidence": [
+    {
+      "width": 1440,
+      "search": true,
+      "filters": true,
+      "keyboard": true,
+      "history": true,
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "search": true,
+      "filters": true,
+      "keyboard": true,
+      "history": true,
+      "overflow": false
+    }
+  ],
+  "offline": true,
+  "noJavaScript": true,
+  "print": true,
+  "passed": true
+}

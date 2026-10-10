@@ -1,0 +1,52 @@
+<ns0:section xmlns:ns0="http://xml.house.gov/schemas/uslm/1.0" style="-uslm-lc:I80" id="id125761cf-e3ef-11ef-8e9f-f6e47fd25777" identifier="/us/usc/t44/s3552"><ns0:num value="3552">§ 3552.</ns0:num><ns0:heading> Definitions</ns0:heading><ns0:subsection style="-uslm-lc:I11" class="indent0" id="id125761d0-e3ef-11ef-8e9f-f6e47fd25777" identifier="/us/usc/t44/s3552/a"><ns0:num value="a">(a)</ns0:num><ns0:heading> <ns0:inline class="small-caps">In General</ns0:inline>.—</ns0:heading><ns0:content>Except as provided under subsection (b), the definitions under section 3502 shall apply to this subchapter.</ns0:content>
+</ns0:subsection>
+<ns0:subsection style="-uslm-lc:I11" class="indent0" id="id125761d1-e3ef-11ef-8e9f-f6e47fd25777" identifier="/us/usc/t44/s3552/b"><ns0:num value="b">(b)</ns0:num><ns0:heading> <ns0:inline class="small-caps">Additional Definitions</ns0:inline>.—</ns0:heading><ns0:chapeau>As used in this subchapter:</ns0:chapeau><ns0:paragraph style="-uslm-lc:I12" class="indent1" id="id125761d2-e3ef-11ef-8e9f-f6e47fd25777" identifier="/us/usc/t44/s3552/b/1"><ns0:num value="1">(1)</ns0:num><ns0:chapeau> The term “binding operational directive” means a compulsory direction to an agency that—</ns0:chapeau><ns0:subparagraph style="-uslm-lc:I13" class="indent2" id="id125761d3-e3ef-11ef-8e9f-f6e47fd25777" identifier="/us/usc/t44/s3552/b/1/A"><ns0:num value="A">(A)</ns0:num><ns0:content> is for purposes of safeguarding Federal information and information systems from a known or reasonably suspected information security threat, vulnerability, or risk;</ns0:content>
+</ns0:subparagraph>
+<ns0:subparagraph style="-uslm-lc:I13" class="indent2" id="id125761d4-e3ef-11ef-8e9f-f6e47fd25777" identifier="/us/usc/t44/s3552/b/1/B"><ns0:num value="B">(B)</ns0:num><ns0:content> shall be in accordance with policies, principles, standards, and guidelines issued by the Director; and</ns0:content>
+</ns0:subparagraph>
+<ns0:subparagraph style="-uslm-lc:I13" class="indent2" id="id125761d5-e3ef-11ef-8e9f-f6e47fd25777" identifier="/us/usc/t44/s3552/b/1/C"><ns0:num value="C">(C)</ns0:num><ns0:content> may be revised or repealed by the Director if the direction issued on behalf of the Director is not in accordance with policies and principles developed by the Director.</ns0:content>
+</ns0:subparagraph>
+</ns0:paragraph>
+<ns0:paragraph style="-uslm-lc:I12" class="indent1" id="id125761d6-e3ef-11ef-8e9f-f6e47fd25777" identifier="/us/usc/t44/s3552/b/2"><ns0:num value="2">(2)</ns0:num><ns0:chapeau> The term “incident” means an occurrence that—</ns0:chapeau><ns0:subparagraph style="-uslm-lc:I13" class="indent2" id="id125761d7-e3ef-11ef-8e9f-f6e47fd25777" identifier="/us/usc/t44/s3552/b/2/A"><ns0:num value="A">(A)</ns0:num><ns0:content> actually or imminently jeopardizes, without lawful authority, the integrity, confidentiality, or availability of information or an information system; or</ns0:content>
+</ns0:subparagraph>
+<ns0:subparagraph style="-uslm-lc:I13" class="indent2" id="id125761d8-e3ef-11ef-8e9f-f6e47fd25777" identifier="/us/usc/t44/s3552/b/2/B"><ns0:num value="B">(B)</ns0:num><ns0:content> constitutes a violation or imminent threat of violation of law, security policies, security procedures, or acceptable use policies.</ns0:content>
+</ns0:subparagraph>
+</ns0:paragraph>
+<ns0:paragraph style="-uslm-lc:I12" class="indent1" id="id125761d9-e3ef-11ef-8e9f-f6e47fd25777" identifier="/us/usc/t44/s3552/b/3"><ns0:num value="3">(3)</ns0:num><ns0:chapeau> The term “information security” means protecting information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction in order to provide—</ns0:chapeau><ns0:subparagraph style="-uslm-lc:I13" class="indent2" id="id125761da-e3ef-11ef-8e9f-f6e47fd25777" identifier="/us/usc/t44/s3552/b/3/A"><ns0:num value="A">(A)</ns0:num><ns0:content> integrity, which means guarding against improper information modification or destruction, and includes ensuring information nonrepudiation and authenticity;</ns0:content>
+</ns0:subparagraph>
+<ns0:subparagraph style="-uslm-lc:I13" class="indent2" id="id125761db-e3ef-11ef-8e9f-f6e47fd25777" identifier="/us/usc/t44/s3552/b/3/B"><ns0:num value="B">(B)</ns0:num><ns0:content> confidentiality, which means preserving authorized restrictions on access and disclosure, including means for protecting personal privacy and proprietary information; and</ns0:content>
+</ns0:subparagraph>
+<ns0:subparagraph style="-uslm-lc:I13" class="indent2" id="id125761dc-e3ef-11ef-8e9f-f6e47fd25777" identifier="/us/usc/t44/s3552/b/3/C"><ns0:num value="C">(C)</ns0:num><ns0:content> availability, which means ensuring timely and reliable access to and use of information.</ns0:content>
+</ns0:subparagraph>
+</ns0:paragraph>
+<ns0:paragraph style="-uslm-lc:I12" class="indent1" id="id125761dd-e3ef-11ef-8e9f-f6e47fd25777" identifier="/us/usc/t44/s3552/b/4"><ns0:num value="4">(4)</ns0:num><ns0:content> The term “information technology” has the meaning given that term in <ns0:ref href="/us/usc/t40/s11101">section 11101 of title 40</ns0:ref>.</ns0:content>
+</ns0:paragraph>
+<ns0:paragraph style="-uslm-lc:I12" class="indent1" id="id125761de-e3ef-11ef-8e9f-f6e47fd25777" identifier="/us/usc/t44/s3552/b/5"><ns0:num value="5">(5)</ns0:num><ns0:content> The term “intelligence community” has the meaning given that term in section 3(4) of the National Security Act of 1947 (<ns0:ref href="/us/usc/t50/s3003/4">50 U.S.C. 3003(4)</ns0:ref>).</ns0:content>
+</ns0:paragraph>
+<ns0:paragraph style="-uslm-lc:I12" class="indent1" id="id125761df-e3ef-11ef-8e9f-f6e47fd25777" identifier="/us/usc/t44/s3552/b/6"><ns0:num value="6">(6)</ns0:num><ns0:subparagraph style="-uslm-lc:I12" class="indent1" id="id125761e0-e3ef-11ef-8e9f-f6e47fd25777" identifier="/us/usc/t44/s3552/b/6/A"><ns0:num value="A">(A)</ns0:num><ns0:chapeau> The term “national security system” means any information system (including any telecommunications system) used or operated by an agency or by a contractor of an agency, or other organization on behalf of an agency—</ns0:chapeau><ns0:clause style="-uslm-lc:I13" class="indent2" id="id125761e1-e3ef-11ef-8e9f-f6e47fd25777" identifier="/us/usc/t44/s3552/b/6/A/i"><ns0:num value="i">(i)</ns0:num><ns0:chapeau> the function, operation, or use of which—</ns0:chapeau><ns0:subclause style="-uslm-lc:I14" class="indent3" id="id125761e2-e3ef-11ef-8e9f-f6e47fd25777" identifier="/us/usc/t44/s3552/b/6/A/i/I"><ns0:num value="I">(I)</ns0:num><ns0:content> involves intelligence activities;</ns0:content>
+</ns0:subclause>
+<ns0:subclause style="-uslm-lc:I14" class="indent3" id="id125761e3-e3ef-11ef-8e9f-f6e47fd25777" identifier="/us/usc/t44/s3552/b/6/A/i/II"><ns0:num value="II">(II)</ns0:num><ns0:content> involves cryptologic activities related to national security;</ns0:content>
+</ns0:subclause>
+<ns0:subclause style="-uslm-lc:I14" class="indent3" id="id125761e4-e3ef-11ef-8e9f-f6e47fd25777" identifier="/us/usc/t44/s3552/b/6/A/i/III"><ns0:num value="III">(III)</ns0:num><ns0:content> involves command and control of military forces;</ns0:content>
+</ns0:subclause>
+<ns0:subclause style="-uslm-lc:I14" class="indent3" id="id125761e5-e3ef-11ef-8e9f-f6e47fd25777" identifier="/us/usc/t44/s3552/b/6/A/i/IV"><ns0:num value="IV">(IV)</ns0:num><ns0:content> involves equipment that is an integral part of a weapon or weapons system; or</ns0:content>
+</ns0:subclause>
+<ns0:subclause style="-uslm-lc:I14" class="indent3" id="id125761e6-e3ef-11ef-8e9f-f6e47fd25777" identifier="/us/usc/t44/s3552/b/6/A/i/V"><ns0:num value="V">(V)</ns0:num><ns0:content> subject to subparagraph (B), is critical to the direct fulfillment of military or intelligence missions; or</ns0:content>
+</ns0:subclause>
+</ns0:clause>
+<ns0:clause style="-uslm-lc:I13" class="indent2" id="id125761e7-e3ef-11ef-8e9f-f6e47fd25777" identifier="/us/usc/t44/s3552/b/6/A/ii"><ns0:num value="ii">(ii)</ns0:num><ns0:content> is protected at all times by procedures established for information that have been specifically authorized under criteria established by an Executive order or an Act of Congress to be kept classified in the interest of national defense or foreign policy.</ns0:content>
+</ns0:clause>
+</ns0:subparagraph>
+<ns0:subparagraph style="-uslm-lc:I12" class="indent1" id="id125761e8-e3ef-11ef-8e9f-f6e47fd25777" identifier="/us/usc/t44/s3552/b/6/B"><ns0:num value="B">(B)</ns0:num><ns0:content> Subparagraph (A)(i)(V) does not include a system that is to be used for routine administrative and business applications (including payroll, finance, logistics, and personnel management applications).</ns0:content>
+</ns0:subparagraph>
+</ns0:paragraph>
+<ns0:paragraph style="-uslm-lc:I12" class="indent1" id="id125761e9-e3ef-11ef-8e9f-f6e47fd25777" identifier="/us/usc/t44/s3552/b/7"><ns0:num value="7">(7)</ns0:num><ns0:content> The term “Secretary” means the Secretary of Homeland Security.</ns0:content>
+</ns0:paragraph>
+</ns0:subsection>
+<ns0:sourceCredit id="id125761ea-e3ef-11ef-8e9f-f6e47fd25777">(Added <ns0:ref href="/us/pl/113/283/s2/a">Pub. L. 113–283, § 2(a)</ns0:ref>, <ns0:date date="2014-12-18">Dec. 18, 2014</ns0:date>, <ns0:ref href="/us/stat/128/3074">128 Stat. 3074</ns0:ref>.)</ns0:sourceCredit>
+<ns0:notes type="uscNote" id="id125761eb-e3ef-11ef-8e9f-f6e47fd25777">
+<ns0:note style="-uslm-lc:I74" role="crossHeading" topic="editorialNotes" id="id125761ec-e3ef-11ef-8e9f-f6e47fd25777"><ns0:heading class="centered"><ns0:b>Editorial Notes</ns0:b></ns0:heading></ns0:note>
+<ns0:note style="-uslm-lc:I74" topic="priorProvisions" id="id125761ed-e3ef-11ef-8e9f-f6e47fd25777"><ns0:heading class="centered smallCaps">Prior Provisions</ns0:heading><ns0:p style="-uslm-lc:I21" class="indent0">Provisions similar to this section were contained in sections 3532 and 3542 of this title prior to repeal by <ns0:ref href="/us/pl/113/283">Pub. L. 113–283</ns0:ref>.</ns0:p>
+</ns0:note>
+</ns0:notes>
+</ns0:section>

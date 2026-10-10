@@ -1,0 +1,68 @@
+<ns0:chapter xmlns:ns0="http://xml.house.gov/schemas/uslm/1.0" style="-uslm-lc:I81" id="id125c1cca-e3ef-11ef-8e9f-f6e47fd25777" identifier="/us/usc/t44/ch36"><ns0:num value="36">CHAPTER 36—</ns0:num><ns0:heading>MANAGEMENT AND PROMOTION OF ELECTRONIC GOVERNMENT SERVICES</ns0:heading>
+<ns0:toc role="twoColumnTOC" id="id125c1ccb-e3ef-11ef-8e9f-f6e47fd25777">
+<ns0:layout>
+<ns0:header style="-uslm-lc:I70" role="tocColumnHeader">
+<ns0:column class="tocHeaderLeft">Sec.</ns0:column>
+</ns0:header>
+<ns0:tocItem>
+<ns0:column style="-uslm-lc:I20" class="twoColumnLeft"><ns0:ref href="/us/usc/t44/s3601">3601.</ns0:ref></ns0:column><ns0:column style="-uslm-lc:I46" class="twoColumnRight">Definitions.</ns0:column>
+</ns0:tocItem>
+<ns0:tocItem>
+<ns0:column style="-uslm-lc:I20" class="twoColumnLeft"><ns0:ref href="/us/usc/t44/s3602">3602.</ns0:ref></ns0:column><ns0:column style="-uslm-lc:I46" class="twoColumnRight">Office of Electronic Government.</ns0:column>
+</ns0:tocItem>
+<ns0:tocItem>
+<ns0:column style="-uslm-lc:I20" class="twoColumnLeft"><ns0:ref href="/us/usc/t44/s3603">3603.</ns0:ref></ns0:column><ns0:column style="-uslm-lc:I46" class="twoColumnRight">Chief Information Officers Council.</ns0:column>
+</ns0:tocItem>
+<ns0:tocItem>
+<ns0:column style="-uslm-lc:I20" class="twoColumnLeft"><ns0:ref href="/us/usc/t44/s3604">3604.</ns0:ref></ns0:column><ns0:column style="-uslm-lc:I46" class="twoColumnRight">E-Government Fund.</ns0:column>
+</ns0:tocItem>
+<ns0:tocItem>
+<ns0:column style="-uslm-lc:I20" class="twoColumnLeft"><ns0:ref href="/us/usc/t44/s3605">3605.</ns0:ref></ns0:column><ns0:column style="-uslm-lc:I46" class="twoColumnRight">Program to encourage innovative solutions to enhance electronic Government services and processes.</ns0:column>
+</ns0:tocItem>
+<ns0:tocItem>
+<ns0:column style="-uslm-lc:I20" class="twoColumnLeft"><ns0:ref href="/us/usc/t44/s3606">3606.</ns0:ref></ns0:column><ns0:column style="-uslm-lc:I46" class="twoColumnRight">E-Government report.</ns0:column>
+</ns0:tocItem>
+<ns0:tocItem>
+<ns0:column style="-uslm-lc:I20" class="twoColumnLeft"><ns0:ref href="/us/usc/t44/s3607">3607.</ns0:ref></ns0:column><ns0:column style="-uslm-lc:I46" class="twoColumnRight">Definitions.</ns0:column>
+</ns0:tocItem>
+<ns0:tocItem>
+<ns0:column style="-uslm-lc:I20" class="twoColumnLeft"><ns0:ref href="/us/usc/t44/s3608">3608.</ns0:ref></ns0:column><ns0:column style="-uslm-lc:I46" class="twoColumnRight">Federal Risk and Authorization Management Program.</ns0:column>
+</ns0:tocItem>
+<ns0:tocItem>
+<ns0:column style="-uslm-lc:I20" class="twoColumnLeft"><ns0:ref href="/us/usc/t44/s3609">3609.</ns0:ref></ns0:column><ns0:column style="-uslm-lc:I46" class="twoColumnRight">Roles and responsibilities of the General Services Administration.</ns0:column>
+</ns0:tocItem>
+<ns0:tocItem>
+<ns0:column style="-uslm-lc:I20" class="twoColumnLeft"><ns0:ref href="/us/usc/t44/s3610">3610.</ns0:ref></ns0:column><ns0:column style="-uslm-lc:I46" class="twoColumnRight">FedRAMP Board.</ns0:column>
+</ns0:tocItem>
+<ns0:tocItem>
+<ns0:column style="-uslm-lc:I20" class="twoColumnLeft"><ns0:ref href="/us/usc/t44/s3611">3611.</ns0:ref></ns0:column><ns0:column style="-uslm-lc:I46" class="twoColumnRight">Independent assessment.</ns0:column>
+</ns0:tocItem>
+<ns0:tocItem>
+<ns0:column style="-uslm-lc:I20" class="twoColumnLeft"><ns0:ref href="/us/usc/t44/s3612">3612.</ns0:ref></ns0:column><ns0:column style="-uslm-lc:I46" class="twoColumnRight">Declaration of foreign interests.</ns0:column>
+</ns0:tocItem>
+<ns0:tocItem>
+<ns0:column style="-uslm-lc:I20" class="twoColumnLeft"><ns0:ref href="/us/usc/t44/s3613">3613.</ns0:ref></ns0:column><ns0:column style="-uslm-lc:I46" class="twoColumnRight">Roles and responsibilities of agencies.</ns0:column>
+</ns0:tocItem>
+<ns0:tocItem>
+<ns0:column style="-uslm-lc:I20" class="twoColumnLeft"><ns0:ref href="/us/usc/t44/s3614">3614.</ns0:ref></ns0:column><ns0:column style="-uslm-lc:I46" class="twoColumnRight">Roles and responsibilities of the Office of Management and Budget.</ns0:column>
+</ns0:tocItem>
+<ns0:tocItem>
+<ns0:column style="-uslm-lc:I20" class="twoColumnLeft"><ns0:ref href="/us/usc/t44/s3615">3615.</ns0:ref></ns0:column><ns0:column style="-uslm-lc:I46" class="twoColumnRight">Reports to Congress; GAO report.</ns0:column>
+</ns0:tocItem>
+<ns0:tocItem>
+<ns0:column style="-uslm-lc:I20" class="twoColumnLeft"><ns0:ref href="/us/usc/t44/s3616">3616.</ns0:ref></ns0:column><ns0:column style="-uslm-lc:I46" class="twoColumnRight">Federal Secure Cloud Advisory Committee.</ns0:column>
+</ns0:tocItem>
+</ns0:layout>
+</ns0:toc>
+<ns0:notes type="uscNote" id="id125c1ccc-e3ef-11ef-8e9f-f6e47fd25777">
+<ns0:note style="-uslm-lc:I84" topic="prospectiveAmendment" id="id125c1ccd-e3ef-11ef-8e9f-f6e47fd25777"><ns0:heading class="centered fontsize8 smallCaps">Amendment of Analysis</ns0:heading><ns0:p style="-uslm-lc:I21" class="indent0"><ns0:ref href="/us/pl/117/263/dE/tLIX/s5921/d/2">Pub. L. 117–263, div. E, title LIX, § 5921(d)(2)</ns0:ref>, <ns0:date date="2022-12-23">Dec. 23, 2022</ns0:date>, <ns0:ref href="/us/stat/136/3458">136 Stat. 3458</ns0:ref>, provided that, effective on the date that is 5 years after <ns0:date date="2022-12-23">Dec. 23, 2022</ns0:date>, this analysis is amended by striking items 3607 to 3616.</ns0:p>
+</ns0:note>
+<ns0:note style="-uslm-lc:I74" role="crossHeading" topic="editorialNotes" id="id125c1cce-e3ef-11ef-8e9f-f6e47fd25777"><ns0:heading class="centered"><ns0:b>Editorial Notes</ns0:b></ns0:heading></ns0:note>
+<ns0:note style="-uslm-lc:I74" topic="amendments" id="id125c1ccf-e3ef-11ef-8e9f-f6e47fd25777"><ns0:heading class="centered smallCaps">Amendments</ns0:heading><ns0:p style="-uslm-lc:I21" class="indent0">2022—<ns0:ref href="/us/pl/117/263/dE/tLIX/s5921/d/2">Pub. L. 117–263, div. E, title LIX, § 5921(d)(2)</ns0:ref>, <ns0:date date="2022-12-23">Dec. 23, 2022</ns0:date>, <ns0:ref href="/us/stat/136/3458">136 Stat. 3458</ns0:ref>, struck out items 3607 “Definitions”, 3608 “Federal Risk and Authorization Management Program”, 3609 “Roles and responsibilities of the General Services Administration”, 3610 “FedRAMP Board”, 3611 “Independent assessment”, 3612 “Declaration of foreign interests”, 3613 “Roles and responsibilities of agencies”, 3614 “Roles and responsibilities of the Office of Management and Budget”, 3615 “Reports to Congress; GAO report”, and 3616 “Federal Secure Cloud Advisory Committee”. See Effective Date of 2022 Amendment note below.</ns0:p>
+<ns0:p style="-uslm-lc:I21" class="indent0"><ns0:ref href="/us/pl/117/263/dE/tLIX/s5921/c">Pub. L. 117–263, div. E, title LIX, § 5921(c)</ns0:ref>, <ns0:date date="2022-12-23">Dec. 23, 2022</ns0:date>, <ns0:ref href="/us/stat/136/3458">136 Stat. 3458</ns0:ref>, added items 3607 to 3616.</ns0:p>
+</ns0:note>
+<ns0:note style="-uslm-lc:I74" role="crossHeading" topic="statutoryNotes" id="id125c1cd0-e3ef-11ef-8e9f-f6e47fd25777"><ns0:heading class="centered"><ns0:b>Statutory Notes and Related Subsidiaries</ns0:b></ns0:heading></ns0:note>
+<ns0:note style="-uslm-lc:I74" topic="effectiveDateOfAmendment" id="id125c1cd1-e3ef-11ef-8e9f-f6e47fd25777"><ns0:heading class="centered smallCaps">Effective Date of 2022 Amendment</ns0:heading><ns0:p style="-uslm-lc:I21" class="indent0"><ns0:ref href="/us/pl/117/263/dE/tLIX/s5921/d/2">Pub. L. 117–263, div. E, title LIX, § 5921(d)(2)</ns0:ref>, <ns0:date date="2022-12-23">Dec. 23, 2022</ns0:date>, <ns0:ref href="/us/stat/136/3458">136 Stat. 3458</ns0:ref>, provided that, effective on the date that is 5 years after <ns0:date date="2022-12-23">Dec. 23, 2022</ns0:date>, this analysis is amended by striking items 3607 to 3616.</ns0:p>
+</ns0:note>
+</ns0:notes>
+</ns0:chapter>

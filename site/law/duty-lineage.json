@@ -1,0 +1,245 @@
+{
+  "44-3504/g": {
+    "title": "OMB privacy and security policy",
+    "origin": "PRA 1980",
+    "date": "1980-12-11",
+    "source": "../read/pra1980.html",
+    "locator": "§2(a), former 44 USC §3504(f)",
+    "text": "The 1980 PRA assigned OMB policies and guidance for safeguarding agency information. The 1995 PRA restated these responsibilities in §3504(g).",
+    "events": [
+      [
+        "1995-05-22",
+        "Restatement",
+        "PRA 1995 placed privacy and security oversight in §3504(g).",
+        "../read/pra1995.html"
+      ]
+    ]
+  },
+  "44-3506/g": {
+    "title": "Agency implementation of privacy and security policies",
+    "origin": "PRA amendments 1986",
+    "date": "1986-10-18",
+    "source": "../sources/law/1994-44-35.html",
+    "locator": "Former §3506(c)(6), source credit and 1986 amendment note",
+    "text": "The 1986 amendments expressly required agencies to implement applicable information policies, including privacy and security of records. The 1995 PRA restated agency privacy and security duties in §3506(g).",
+    "events": [
+      [
+        "1995-05-22",
+        "Restatement",
+        "Agency implementation and accountability appear in the current subsection (g).",
+        "../read/pra1995.html"
+      ]
+    ]
+  },
+  "44-3554/b": {
+    "title": "An agency-wide information-security program",
+    "origin": "GISRA 2000",
+    "date": "2000-10-30",
+    "source": "../read/gisra.html",
+    "locator": "§1061, former 44 USC §3534(b)",
+    "text": "GISRA required an agency-wide program with risk assessments, policies, training, testing, remediation, and incident procedures. The 2002 laws expanded the program provisions; FISMA 2014 retained the program in §3554(b).",
+    "events": [
+      [
+        "2002-11-25",
+        "Revision",
+        "The Homeland Security Act revised former §3534. Its general effective date was 60 days after enactment.",
+        "../sources/law/pl-107-296.html"
+      ],
+      [
+        "2002-12-17",
+        "Parallel enactment",
+        "The E-Government Act enacted §3544; §3549 addressed the parallel subchapter.",
+        "../read/fisma2002.html"
+      ],
+      [
+        "2014-12-18",
+        "Replacement",
+        "FISMA 2014 replaced the former security subchapters with §§3551–3558.",
+        "../read/fisma2014.html"
+      ]
+    ]
+  },
+  "44-3554/b/5": {
+    "title": "Security-control testing at least annually",
+    "origin": "FISMA legislation 2002",
+    "date": "2002-11-25",
+    "source": "../sources/law/pl-107-296.html",
+    "locator": "Title X, §1001, former 44 USC §3534(b)(5)",
+    "text": "GISRA already required periodic management testing. The 2002 provisions expressly set a floor of no less than annual testing, with more frequent testing where risk requires it. FISMA 2014 continued that rule.",
+    "events": [
+      [
+        "2000-10-30",
+        "Earlier duty",
+        "GISRA required periodic management testing in former §3534(b)(2)(D).",
+        "../read/gisra.html"
+      ],
+      [
+        "2002-11-25",
+        "Parallel enactment",
+        "The Homeland Security Act enacted the same annual floor in former §3534(b)(5), subject to its later effective date.",
+        "../sources/law/pl-107-296.html"
+      ],
+      [
+        "2014-12-18",
+        "Replacement",
+        "The annual floor continued in §3554(b)(5).",
+        "../read/fisma2014.html"
+      ]
+    ]
+  },
+  "44-3555/a/1": {
+    "title": "Annual independent security evaluations",
+    "origin": "GISRA 2000",
+    "date": "2000-10-30",
+    "source": "../read/gisra.html",
+    "locator": "§1061, former 44 USC §3535(a)(1)",
+    "text": "GISRA required an independent evaluation each year. The 2002 laws revised the evaluation requirements; FISMA 2014 continued them under today’s section number.",
+    "events": [
+      [
+        "2002-11-25",
+        "Revision",
+        "The Homeland Security Act revised former §3535.",
+        "../sources/law/pl-107-296.html"
+      ],
+      [
+        "2002-12-17",
+        "Parallel enactment",
+        "The E-Government Act enacted former §3545.",
+        "../read/fisma2002.html"
+      ],
+      [
+        "2014-12-18",
+        "Replacement",
+        "FISMA 2014 enacted §3555 after repealing both older security subchapters.",
+        "../read/fisma2014.html"
+      ]
+    ]
+  },
+  "44-3555/b/1": {
+    "title": "The IG’s role in the annual evaluation",
+    "origin": "GISRA 2000",
+    "date": "2000-10-30",
+    "source": "../read/gisra.html",
+    "locator": "§1061, former 44 USC §3535(b)(1)",
+    "text": "GISRA assigned the IG a role in performing or arranging the evaluation, with special rules for sensitive systems. The current auditor language developed through the 2002 and 2014 provisions.",
+    "events": [
+      [
+        "2002-12-17",
+        "Revision",
+        "Former §3545(b) specified the IG or an independent external auditor determined by the IG.",
+        "../read/fisma2002.html"
+      ],
+      [
+        "2014-12-18",
+        "Replacement",
+        "The duty continued in §3555(b).",
+        "../read/fisma2014.html"
+      ],
+      [
+        "2022-12-27",
+        "Citation correction",
+        "Congress replaced the Inspector General Act citation with Title 5, chapter 4.",
+        "../sources/law/pl-117-286.html"
+      ]
+    ]
+  },
+  "44-3553/b/2": {
+    "title": "Binding operational directives",
+    "origin": "FISMA 2014",
+    "date": "2014-12-18",
+    "source": "../read/fisma2014.html",
+    "locator": "§2(a), 44 USC §3553(b)(2)",
+    "text": "FISMA 2014 expressly assigned DHS development and oversight of binding operational directives under OMB policy. The surrounding subsections define the covered systems and exceptions.",
+    "events": []
+  },
+  "44-3553/h": {
+    "title": "Emergency directives",
+    "origin": "Cybersecurity Act 2015",
+    "date": "2015-12-18",
+    "source": "../sources/law/pl-114-113.html",
+    "locator": "Division N, Title II, §229(a)",
+    "text": "Congress added a separate emergency authority to address a known or reasonably suspected information-security threat, vulnerability, or incident meeting the statutory conditions.",
+    "events": []
+  },
+  "5-552a/e/10": {
+    "title": "Safeguards for records about individuals",
+    "origin": "Privacy Act 1974",
+    "date": "1974-12-31",
+    "source": "../read/privacy.html",
+    "locator": "§3, 5 USC §552a(e)(10)",
+    "text": "The Privacy Act requires appropriate administrative, technical, and physical safeguards for records. This duty has its own privacy-law basis alongside later security-program laws.",
+    "events": []
+  },
+  "44-3607/b/3": {
+    "title": "A-130 definitions in the FedRAMP statute",
+    "origin": "FedRAMP Authorization Act 2022",
+    "date": "2022-12-23",
+    "source": "../read/fedramp-act.html",
+    "locator": "§5921(b), 44 USC §3607(b)(3)",
+    "text": "Congress expressly adopted A-130’s definitions of authorization to operate and federal information, including successor documents.",
+    "events": []
+  },
+  "44-3607/b/4": {
+    "title": "NIST’s cloud definition in statute",
+    "origin": "FedRAMP Authorization Act 2022",
+    "date": "2022-12-23",
+    "source": "../read/fedramp-act.html",
+    "locator": "§5921(b), 44 USC §3607(b)(4)",
+    "text": "Congress adopted the cloud-computing definition from NIST SP 800-145 or its successor. The Special Publication itself was issued in 2011.",
+    "events": []
+  },
+  "44-3614": {
+    "title": "OMB guidance for statutory FedRAMP",
+    "origin": "FedRAMP Authorization Act 2022",
+    "date": "2022-12-23",
+    "source": "../read/fedramp-act.html",
+    "locator": "§5921(b), 44 USC §3614",
+    "text": "Congress directed OMB to issue guidance for agency implementation of the statutory FedRAMP program. OMB had established the earlier program through policy in 2011.",
+    "events": [
+      [
+        "2024-07-25",
+        "Implementation",
+        "OMB M-24-15 updates FedRAMP policy and implements the statutory framework.",
+        "../read/m-24-15.html"
+      ]
+    ]
+  },
+  "5-404": {
+    "title": "IG audits, investigations, and recommendations",
+    "origin": "Inspector General Act 1978",
+    "date": "1978-10-12",
+    "source": "../sources/law/ig1978.pdf",
+    "locator": "§4, 92 Stat. 1102",
+    "text": "Congress assigned general audit, investigation, and oversight duties to Inspectors General in 1978. The 2022 law restated the IG provisions in Title 5; FISMA supplies the separate annual security-evaluation duty.",
+    "events": [
+      [
+        "2022-12-27",
+        "Recodification",
+        "Congress restated the general IG duties in 5 USC §404.",
+        "../sources/law/pl-117-286.html"
+      ]
+    ]
+  },
+  "40-11331/b/2": {
+    "title": "Mandatory minimum information-security standards",
+    "origin": "FISMA legislation 2002",
+    "date": "2002-11-25",
+    "source": "../sources/law/pl-107-296.html",
+    "locator": "Title X, §1002, 40 USC §11331(b)(2)",
+    "text": "The 2002 legislation required specified minimum information-security standards to be compulsory and binding. Earlier law already provided federal computer-standards authority. FIPS 199 and FIPS 200 implement the categorization and minimum-requirements framework.",
+    "events": [
+      [
+        "2002-12-17",
+        "Parallel enactment",
+        "The E-Government Act enacted a parallel standards provision in §304, effective on enactment; the Homeland Security Act had a later general effective date.",
+        "../read/fisma2002.html"
+      ],
+      [
+        "2022-08-09",
+        "Amendment",
+        "Congress replaced references to the OMB Director with the Secretary of Commerce in §11331.",
+        "../sources/law/pl-117-167.html"
+      ]
+    ]
+  }
+}

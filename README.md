@@ -8,6 +8,15 @@ Open `site/index.html` directly for offline reading, or use `mise exec -- pnpm p
 
 The report includes six approximately 300-word revision summaries, an aligned chronology, qualitative authority analysis, NIST publication lineages, a searchable inventory with combined filters and sorting, original files, term passages and downloadable JSON/CSV provenance manifests. The complete narrative works without JavaScript.
 
+## Current-law and A-130 guides
+
+- [Read the law](https://pete-wai.github.io/fedramp-a130/law/index.html): full Title 44 chapters 35 and 36 and connected authorities, with 100 section explanations and 2,819 indexed provisions.
+- [A-130 responsibilities](https://pete-wai.github.io/fedramp-a130/a130/index.html): 71 topics covering the complete 2016 circular and both appendices, with source passages and statutory connections.
+- [History comparisons](https://pete-wai.github.io/fedramp-a130/law/history.html): dated Code editions, original amendment notes, and reviewed origins of selected duties.
+- [IGs and oversight](https://pete-wai.github.io/fedramp-a130/law/oversight.html): annual evaluations, management testing, reporting, and the roles of OMB, CIGIE, and GAO.
+
+The law collection uses OLRC release 119-118, through September 30, 2026, retrieved October 10. It has a separate source manifest with 240 preserved files. Comparisons show collected editions rather than every intervening effective date. See [authoring, update procedures, and coverage boundaries](docs/law-explorer.md).
+
 ## Sources and coverage
 
 The library includes 178 records and 173 downloaded documents. It covers major A-130 revisions, related laws, selected NIST publications, and OMB memoranda through October 10, 2026. Source notes identify editions, known replacements, and gaps in the collection.

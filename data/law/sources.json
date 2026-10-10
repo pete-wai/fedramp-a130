@@ -1,0 +1,1928 @@
+[
+  {
+    "id": "usc-44-119-118",
+    "file": "sources/law/title44.zip",
+    "url": "https://uscode.house.gov/download/releasepoints/us/pl/119/118/xml_usc44@119-118.zip",
+    "sha256": "7966161a532f2b1ddde650c8aaad3425737f85c578cac04fd4f0ce57ca97ead8",
+    "edition": "119-118",
+    "through": "2026-09-30",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-5-119-118",
+    "file": "sources/law/title5.zip",
+    "url": "https://uscode.house.gov/download/releasepoints/us/pl/119/118/xml_usc05@119-118.zip",
+    "sha256": "f8e6aa5def8854f8d2b1702eccd36962b92080d6212b64c543fa72f1ae1b209a",
+    "edition": "119-118",
+    "through": "2026-09-30",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-6-119-118",
+    "file": "sources/law/title6.zip",
+    "url": "https://uscode.house.gov/download/releasepoints/us/pl/119/118/xml_usc06@119-118.zip",
+    "sha256": "623e18be6b3e49a17fdb4a7486155266ae6c54ed35dbb4311d6e6e3adc12e23c",
+    "edition": "119-118",
+    "through": "2026-09-30",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-15-119-118",
+    "file": "sources/law/title15.zip",
+    "url": "https://uscode.house.gov/download/releasepoints/us/pl/119/118/xml_usc15@119-118.zip",
+    "sha256": "0d73c6a64c24c68d5c1b3d224de4071144297f0dd2e9fb92ae67a57a881e25db",
+    "edition": "119-118",
+    "through": "2026-09-30",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-40-119-118",
+    "file": "sources/law/title40.zip",
+    "url": "https://uscode.house.gov/download/releasepoints/us/pl/119/118/xml_usc40@119-118.zip",
+    "sha256": "45d1f4ff340d086ef331f92acfdcf3850b9835e55aeb38f9962d3f92a95ce5fa",
+    "edition": "119-118",
+    "through": "2026-09-30",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-41-119-118",
+    "file": "sources/law/title41.zip",
+    "url": "https://uscode.house.gov/download/releasepoints/us/pl/119/118/xml_usc41@119-118.zip",
+    "sha256": "5c92c31e0613890904e72d587053fec03f8cceef81ba9c07d017ca124aa84adf",
+    "edition": "119-118",
+    "through": "2026-09-30",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2023-44-35",
+    "file": "sources/law/2023-44-35.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title44/html/USCODE-2023-title44-chap35.htm",
+    "sha256": "a761f65d2a538880cd8d05c3c5a2788c55bf310c7033b878ccf6d218caa68123",
+    "edition": "2023",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2014-44-35",
+    "file": "sources/law/2014-44-35.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2014-title44/html/USCODE-2014-title44-chap35.htm",
+    "sha256": "d8ab5cb3f1350a79cbe311a6147970721569ba128d7bcf1d547d0f6ed8395229",
+    "edition": "2014",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2017-44-36",
+    "file": "sources/law/2017-44-36.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2017-title44/html/USCODE-2017-title44-chap36.htm",
+    "sha256": "2cef5982dc3abfbacff4c13825f7fcdaedbd5af3d446479699948be67894e266",
+    "edition": "2017",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2019-44-35",
+    "file": "sources/law/2019-44-35.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2019-title44/html/USCODE-2019-title44-chap35.htm",
+    "sha256": "a9a1eb99c77cbe85846051ed97fcb254f0e20f0fb9676a991e8adef955b426d1",
+    "edition": "2019",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-1994-44-35",
+    "file": "sources/law/1994-44-35.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1994-title44/html/USCODE-1994-title44-chap35.htm",
+    "sha256": "81ce99ff73e68836fe488cdcce49a10422bbb93c14e1010d6e4d9c968f2d1c94",
+    "edition": "1994",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2000-44-35",
+    "file": "sources/law/2000-44-35.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2000-title44/html/USCODE-2000-title44-chap35.htm",
+    "sha256": "7afff0b986a0189434f6878b25d9433de2cf0b16ce8d9a814b4fea6109539cfb",
+    "edition": "2000",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2003-44-36",
+    "file": "sources/law/2003-44-36.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2003-title44/html/USCODE-2003-title44-chap36.htm",
+    "sha256": "c7912aa6be35596f00b1d516ea9fde421627b9163c6a122b9cd9fe83a4e88811",
+    "edition": "2003",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2021-44-35",
+    "file": "sources/law/2021-44-35.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2021-title44/html/USCODE-2021-title44-chap35.htm",
+    "sha256": "044dd7bfce2fcc9e70d082632e6d427052b0634aa0c4d8820339d0663538c215",
+    "edition": "2021",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2018-44-36",
+    "file": "sources/law/2018-44-36.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2018-title44/html/USCODE-2018-title44-chap36.htm",
+    "sha256": "12ecf95bb03852c844d54f7c71f4175e173e064065d4bd1096b0403d9702db42",
+    "edition": "2018",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2015-44-36",
+    "file": "sources/law/2015-44-36.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2015-title44/html/USCODE-2015-title44-chap36.htm",
+    "sha256": "2187dbc135954bd17c13e72ec3c84a164c9613d22b89edb6ef913906013042f3",
+    "edition": "2015",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2022-44-36",
+    "file": "sources/law/2022-44-36.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title44/html/USCODE-2022-title44-chap36.htm",
+    "sha256": "26f5d3a57f57e1681ccf31b79918fdef21032d5aab641f74772e3a37638d5cbb",
+    "edition": "2022",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-1996-44-35",
+    "file": "sources/law/1996-44-35.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1996-title44/html/USCODE-1996-title44-chap35.htm",
+    "sha256": "a9d398824a66bc73e4919a3958e946d7a4b268136c42581451e575fda18d2697",
+    "edition": "1996",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2002-44-35",
+    "file": "sources/law/2002-44-35.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2002-title44/html/USCODE-2002-title44-chap35.htm",
+    "sha256": "43b09e82ff0e6b5b4a8b647ba0928ccdec577e94d5f5083f9cf3b87d3ddbca4d",
+    "edition": "2002",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-44-35",
+    "file": "sources/law/2024-44-35.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title44/html/USCODE-2024-title44-chap35.htm",
+    "sha256": "27ca53aa259f7eeb92ca8fd2f47d0fff173a9dcb65ebb61398212106f3ab399e",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2013-44-35",
+    "file": "sources/law/2013-44-35.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2013-title44/html/USCODE-2013-title44-chap35.htm",
+    "sha256": "26452ddad1310c2355532eabfb835fe027b065350f8cdb4ca08c4103396b37ac",
+    "edition": "2013",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2001-44-35",
+    "file": "sources/law/2001-44-35.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2001-title44/html/USCODE-2001-title44-chap35.htm",
+    "sha256": "68881504aace46dfa660fc5803337dc64e566ee0ace1d9f42f089588bf53e421",
+    "edition": "2001",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2013-44-36",
+    "file": "sources/law/2013-44-36.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2013-title44/html/USCODE-2013-title44-chap36.htm",
+    "sha256": "e19e33ea77d3777cb951817e2995b54725012a5e7eebf6f3f2c144645a881178",
+    "edition": "2013",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-44-36",
+    "file": "sources/law/2024-44-36.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title44/html/USCODE-2024-title44-chap36.htm",
+    "sha256": "310fc2a5046875d699283001904a6f8b3e53e5409b1ee87cde89175c5a26eb54",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-1995-44-35",
+    "file": "sources/law/1995-44-35.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1995-title44/html/USCODE-1995-title44-chap35.htm",
+    "sha256": "01d6967965ace8238d76c43b5bb22db44680448cc77826c8f1496702a2c7908f",
+    "edition": "1995",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2002-44-36",
+    "file": "sources/law/2002-44-36.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2002-title44/html/USCODE-2002-title44-chap36.htm",
+    "sha256": "a6c8a4815b56b4c3a0fa2eede0c9d0faef53a5ffbb902d2d32ebba162eeb1f9c",
+    "edition": "2002",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2022-44-35",
+    "file": "sources/law/2022-44-35.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title44/html/USCODE-2022-title44-chap35.htm",
+    "sha256": "c6d002476ff0e41792a832db238ffc06aee457fa19447a7a907662463080d43a",
+    "edition": "2022",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2015-44-35",
+    "file": "sources/law/2015-44-35.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2015-title44/html/USCODE-2015-title44-chap35.htm",
+    "sha256": "f588b701a7f1376d7a481b7e2f4f4b3867132b4eadfb0e9f1b2fa69e1f592835",
+    "edition": "2015",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2021-44-36",
+    "file": "sources/law/2021-44-36.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2021-title44/html/USCODE-2021-title44-chap36.htm",
+    "sha256": "6791c30271228eb98ecd77106e2583fe28a1b596f85ca26e65d7a93b51797b6e",
+    "edition": "2021",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2018-44-35",
+    "file": "sources/law/2018-44-35.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2018-title44/html/USCODE-2018-title44-chap35.htm",
+    "sha256": "b533714c2458834486fdd4bec57a5c18b57934caa09d7b3dd5aeea0d24c2c137",
+    "edition": "2018",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2003-44-35",
+    "file": "sources/law/2003-44-35.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2003-title44/html/USCODE-2003-title44-chap35.htm",
+    "sha256": "d5de7169e2822a560b02c82231bbe6ba3c7da46f95630bce3bc4f3020fd29b66",
+    "edition": "2003",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2017-44-35",
+    "file": "sources/law/2017-44-35.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2017-title44/html/USCODE-2017-title44-chap35.htm",
+    "sha256": "91abb20b867b68e422b002bf0b8bf21925c4f0810fe0cada77d66a69cbfd7983",
+    "edition": "2017",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2019-44-36",
+    "file": "sources/law/2019-44-36.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2019-title44/html/USCODE-2019-title44-chap36.htm",
+    "sha256": "fbe53bea14a2d66bdb42c60920406e00a51b08abe32fc2d4a46440ba695b6bb1",
+    "edition": "2019",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2014-44-36",
+    "file": "sources/law/2014-44-36.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2014-title44/html/USCODE-2014-title44-chap36.htm",
+    "sha256": "a2225e69d0c84ff8b89bffdd6e01ce3a58ecd8ba01112c9ae92eb13b24a08c54",
+    "edition": "2014",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2023-44-36",
+    "file": "sources/law/2023-44-36.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title44/html/USCODE-2023-title44-chap36.htm",
+    "sha256": "d229408173cbd3f44f99d71cca371acb3b016a4b2f038c8b111d50e178744eb1",
+    "edition": "2023",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "pl-107-296",
+    "file": "sources/law/pl-107-296.html",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-107publ296/html/PLAW-107publ296.htm",
+    "sha256": "e96e8b44905469d308187a78a906db5695ebb0b3c218575e55835c62526a0fd2",
+    "edition": "107",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "pl-114-113",
+    "file": "sources/law/pl-114-113.html",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ113/html/PLAW-114publ113.htm",
+    "sha256": "6f62f644ed7616d4538fec4e48316d3a268c053b0c6deae00823942707d2e454",
+    "edition": "114",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "pl-115-278",
+    "file": "sources/law/pl-115-278.html",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ278/html/PLAW-115publ278.htm",
+    "sha256": "49e6017c650c99922191237024e9f86c9a5cc4faff4bc40a782bb78a2db5087f",
+    "edition": "115",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "pl-115-390",
+    "file": "sources/law/pl-115-390.html",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ390/html/PLAW-115publ390.htm",
+    "sha256": "d362a1ac17fb63ad19bac3a711d48a5ec4e81237f38de372b0b2da4da0917da5",
+    "edition": "115",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "pl-115-435",
+    "file": "sources/law/pl-115-435.html",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ435/html/PLAW-115publ435.htm",
+    "sha256": "fbbe3a2e615e67ad020cd376fbbc3ebf5445e9e7d2e6e61acb5cb4cf772f3183",
+    "edition": "115",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "pl-117-286",
+    "file": "sources/law/pl-117-286.html",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ286/html/PLAW-117publ286.htm",
+    "sha256": "6a43e5d24d06a264dc3b403b6f16d0dd4fea80eb378eb9fb0700049b6b5f17d6",
+    "edition": "117",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "pl-117-167",
+    "file": "sources/law/pl-117-167.html",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ167/html/PLAW-117publ167.htm",
+    "sha256": "92fec394ce471eddaf306267366644bd70f27ecc385774b2bf0f5e2c0878db2d",
+    "edition": "117",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "pl-119-103",
+    "file": "sources/law/pl-119-103.html",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ103/html/PLAW-119publ103.htm",
+    "sha256": "ee98f0c04a22647ba352dd0fd75ee033b46bf04df470b9d5f044570f3e8a8436",
+    "edition": "119",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2022-5-s401",
+    "file": "sources/law/2022-5-s401.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title5/html/USCODE-2022-title5-partI-chap4-sec401.htm",
+    "sha256": "898d9a35500a9d34ef20f2a4176b1c5b573ce1e3d926346e36d5534616690402",
+    "edition": "2022",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-5-s401",
+    "file": "sources/law/2024-5-s401.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title5/html/USCODE-2024-title5-partI-chap4-sec401.htm",
+    "sha256": "b82aac1ff9fd62504f60070c4f33e73378441e3a67509416f1ce426adc81f032",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2022-5-s402",
+    "file": "sources/law/2022-5-s402.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title5/html/USCODE-2022-title5-partI-chap4-sec402.htm",
+    "sha256": "03d647da9c005f3e63ea164f31c4fc3486a18430eeb7c258b714b7f4776ad302",
+    "edition": "2022",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-5-s402",
+    "file": "sources/law/2024-5-s402.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title5/html/USCODE-2024-title5-partI-chap4-sec402.htm",
+    "sha256": "6dcfa8aabfcb918c02b50d29bc636cfbe29b0f0c254cd6393172be347d0e4552",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2022-5-s403",
+    "file": "sources/law/2022-5-s403.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title5/html/USCODE-2022-title5-partI-chap4-sec403.htm",
+    "sha256": "7dd9151ea82aaf543f08215c15368c669ab88a516d0ccb30b22101c94669e405",
+    "edition": "2022",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-5-s403",
+    "file": "sources/law/2024-5-s403.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title5/html/USCODE-2024-title5-partI-chap4-sec403.htm",
+    "sha256": "33a7a452288574d03a409bdca013f090661a85aa49dc7d394bca507a867eee85",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2022-5-s404",
+    "file": "sources/law/2022-5-s404.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title5/html/USCODE-2022-title5-partI-chap4-sec404.htm",
+    "sha256": "f411b9df6547ba28d24018346e0d6dcb6761aeb79be9ad08fb5ea284a7b9e428",
+    "edition": "2022",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-5-s404",
+    "file": "sources/law/2024-5-s404.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title5/html/USCODE-2024-title5-partI-chap4-sec404.htm",
+    "sha256": "0c2c3dd6797e2fcd6207e981ee66ac9832a3ba38e126c69db9c2c264bcbcdcff",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2022-5-s405",
+    "file": "sources/law/2022-5-s405.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title5/html/USCODE-2022-title5-partI-chap4-sec405.htm",
+    "sha256": "c0a172e832088e96a4ecbb589c4cf8965c9a80263a913d4e85a3321bf8c47d70",
+    "edition": "2022",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2023-5-s405",
+    "file": "sources/law/2023-5-s405.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-partI-chap4-sec405.htm",
+    "sha256": "ce1a47f06f841d076edc36669b1d4cea23b7792e23a00f94df7941c2f7beaec2",
+    "edition": "2023",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-5-s405",
+    "file": "sources/law/2024-5-s405.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title5/html/USCODE-2024-title5-partI-chap4-sec405.htm",
+    "sha256": "5ba947af46b6308970247de0ca077850775e2d6369fe11dc72baa0e3822234ef",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2022-5-s406",
+    "file": "sources/law/2022-5-s406.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title5/html/USCODE-2022-title5-partI-chap4-sec406.htm",
+    "sha256": "6fa0eccdcaeb8d5e83a8f0ef6d4232457d7ddccf02dbab226e5d04d285e40ac8",
+    "edition": "2022",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-5-s406",
+    "file": "sources/law/2024-5-s406.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title5/html/USCODE-2024-title5-partI-chap4-sec406.htm",
+    "sha256": "67a19c4f23ca8caac1639ee20e4f185a6e862a4ffc2166d2f5452ddc7486979d",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2022-5-s407",
+    "file": "sources/law/2022-5-s407.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title5/html/USCODE-2022-title5-partI-chap4-sec407.htm",
+    "sha256": "f39b825852ef37cb73f1beedb3c9098daec9fd1a05b1843d5b5ed8948475c085",
+    "edition": "2022",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-5-s407",
+    "file": "sources/law/2024-5-s407.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title5/html/USCODE-2024-title5-partI-chap4-sec407.htm",
+    "sha256": "93372498fe4ddaf4eded00eb92aa5b98cd79c5396c52f8dadf2b36dcc293d012",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2022-5-s408",
+    "file": "sources/law/2022-5-s408.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title5/html/USCODE-2022-title5-partI-chap4-sec408.htm",
+    "sha256": "52dea6c135b4cedafabda4c11524a0cf81de2f68a3a7ab16e6ead0a6190a2ba3",
+    "edition": "2022",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-5-s408",
+    "file": "sources/law/2024-5-s408.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title5/html/USCODE-2024-title5-partI-chap4-sec408.htm",
+    "sha256": "9ded5392025a60901520a65feaa95c04434f319bb092ba76470cff06acac3b3a",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2022-5-s424",
+    "file": "sources/law/2022-5-s424.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title5/html/USCODE-2022-title5-partI-chap4-sec424.htm",
+    "sha256": "0f3c71fa9f163841f877f46afcff9b4f1ed9f6deb9bc3b6ed82c37ef22eb157c",
+    "edition": "2022",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-5-s424",
+    "file": "sources/law/2024-5-s424.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title5/html/USCODE-2024-title5-partI-chap4-sec424.htm",
+    "sha256": "80a45babde6e42abec3c9c9a0a7365d7899f20207d418b9f1ef0f558a75151cd",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-1994-5-s552a",
+    "file": "sources/law/1994-5-s552a.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1994-title5/html/USCODE-1994-title5-partI-chap5-subchapII-sec552a.htm",
+    "sha256": "aa5cb49f23f188f2c9379b89c68d63931bc5cee3b1c65e45f0f3cab0359e6f10",
+    "edition": "1994",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-1995-5-s552a",
+    "file": "sources/law/1995-5-s552a.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1995-title5/html/USCODE-1995-title5-partI-chap5-subchapII-sec552a.htm",
+    "sha256": "ed42488392a295be8e364f253cf97603332d41f5629888c0a3fdaec7d38bcc6a",
+    "edition": "1995",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-1996-5-s552a",
+    "file": "sources/law/1996-5-s552a.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1996-title5/html/USCODE-1996-title5-partI-chap5-subchapII-sec552a.htm",
+    "sha256": "2f4fb67eb01c5bfe1c1642f6b8f28f8e32910470426de87a4b90232513a067fe",
+    "edition": "1996",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-1997-5-s552a",
+    "file": "sources/law/1997-5-s552a.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1997-title5/html/USCODE-1997-title5-partI-chap5-subchapII-sec552a.htm",
+    "sha256": "26b76dd0d8fe912d4c9ced46e11640b0784ba514997c5f1c6db68b17931fac49",
+    "edition": "1997",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-1998-5-s552a",
+    "file": "sources/law/1998-5-s552a.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1998-title5/html/USCODE-1998-title5-partI-chap5-subchapII-sec552a.htm",
+    "sha256": "ebba077746287f597ba4334e5cd4e8866b529aac22fefd25f9606e7e462e73e4",
+    "edition": "1998",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-1999-5-s552a",
+    "file": "sources/law/1999-5-s552a.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1999-title5/html/USCODE-1999-title5-partI-chap5-subchapII-sec552a.htm",
+    "sha256": "5027350b7c7215d53e155f1d9e0112b1e4f04dfc222dfe943c7fc3d33eafde1e",
+    "edition": "1999",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2003-5-s552a",
+    "file": "sources/law/2003-5-s552a.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2003-title5/html/USCODE-2003-title5-partI-chap5-subchapII-sec552a.htm",
+    "sha256": "a6cf33bac829b311a315059cc9aa7af5903c6e79052e405338f3cb4006f84afb",
+    "edition": "2003",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2004-5-s552a",
+    "file": "sources/law/2004-5-s552a.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2004-title5/html/USCODE-2004-title5-partI-chap5-subchapII-sec552a.htm",
+    "sha256": "94750498fc3706cc8bacd6ccb3660db467699cf6de028691e7674d2e464a1a4b",
+    "edition": "2004",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2009-5-s552a",
+    "file": "sources/law/2009-5-s552a.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2009-title5/html/USCODE-2009-title5-partI-chap5-subchapII-sec552a.htm",
+    "sha256": "3c743001843bf928a122ef349bb989f2d97829c6810076eade09dc73aa35ac91",
+    "edition": "2009",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2010-5-s552a",
+    "file": "sources/law/2010-5-s552a.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2010-title5/html/USCODE-2010-title5-partI-chap5-subchapII-sec552a.htm",
+    "sha256": "6e138494071ebd719077ea042db0c544721a60c8d402c617301976b4ae5421bc",
+    "edition": "2010",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2013-5-s552a",
+    "file": "sources/law/2013-5-s552a.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2013-title5/html/USCODE-2013-title5-partI-chap5-subchapII-sec552a.htm",
+    "sha256": "acdd875738e84353df26c43ef4ff125307d55521782fcd0c32987925cc8cd973",
+    "edition": "2013",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2014-5-s552a",
+    "file": "sources/law/2014-5-s552a.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2014-title5/html/USCODE-2014-title5-partI-chap5-subchapII-sec552a.htm",
+    "sha256": "99d6779a515c813062897967eb922f2b0980fadb2cab5aa2d11a66833ba2b146",
+    "edition": "2014",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2023-5-s552a",
+    "file": "sources/law/2023-5-s552a.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-partI-chap5-subchapII-sec552a.htm",
+    "sha256": "fd78a1cf3483020e267f9d946a632b68af30ca2ad130b1d9bd246b1cf70de947",
+    "edition": "2023",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-5-s552a",
+    "file": "sources/law/2024-5-s552a.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title5/html/USCODE-2024-title5-partI-chap5-subchapII-sec552a.htm",
+    "sha256": "19223e13c8d0413721b379ffab44ea26f39fdb00101b7afe691dc8098a254df6",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2022-5-s1013",
+    "file": "sources/law/2022-5-s1013.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title5/html/USCODE-2022-title5-partI-chap10-sec1013.htm",
+    "sha256": "d8ffc6be0fc0f9c8fe31aa8ba2c15d23da27c792a5fab6279fbf7d99e9dd42ff",
+    "edition": "2022",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-5-s1013",
+    "file": "sources/law/2024-5-s1013.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title5/html/USCODE-2024-title5-partI-chap10-sec1013.htm",
+    "sha256": "6a404ff0a252a2595a4f4710c062ae251d17a8ca9509a585df2ad50c657710b2",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2022-6-s650",
+    "file": "sources/law/2022-6-s650.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title6/html/USCODE-2022-title6-chap1-subchapXVIII-sec650.htm",
+    "sha256": "ccb2b880b685dbae4e35e8b5111bfcaf9e98b04cbbd8611ba39dc26f5d52ab34",
+    "edition": "2022",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-6-s650",
+    "file": "sources/law/2024-6-s650.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title6/html/USCODE-2024-title6-chap1-subchapXVIII-sec650.htm",
+    "sha256": "89c61da71a03606b288dfd50c45e5ec99da91fed138bf74f0c2291038c6cf145",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2018-6-s651",
+    "file": "sources/law/2018-6-s651.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2018-title6/html/USCODE-2018-title6-chap1-subchapXVIII-partA-sec651.htm",
+    "sha256": "c8fd6e0ac9a7cdee8f873b37a2413eccdb2df0a906a537b12f3f640f2991258e",
+    "edition": "2018",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2020-6-s651",
+    "file": "sources/law/2020-6-s651.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2020-title6/html/USCODE-2020-title6-chap1-subchapXVIII-partA-sec651.htm",
+    "sha256": "832cb3ede23ed5fb989c8c0bbe6a3ad3f8b5014c9db2c0a299db6abe1d1a628b",
+    "edition": "2020",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2021-6-s651",
+    "file": "sources/law/2021-6-s651.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2021-title6/html/USCODE-2021-title6-chap1-subchapXVIII-partA-sec651.htm",
+    "sha256": "395da5ea0acb267642f8272a08c653b404ba9c47411362ecb6a815e7d7fc7e94",
+    "edition": "2021",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2022-6-s651",
+    "file": "sources/law/2022-6-s651.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title6/html/USCODE-2022-title6-chap1-subchapXVIII-partA-sec651.htm",
+    "sha256": "3d3f872470e5334a56075c6d936389889f1257a991f2eac1a44a4a052920000c",
+    "edition": "2022",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-6-s651",
+    "file": "sources/law/2024-6-s651.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title6/html/USCODE-2024-title6-chap1-subchapXVIII-partA-sec651.htm",
+    "sha256": "849b24a96dd550911af02230e9ba552c6d7b0d9f036084823f756f8bfd54bd6c",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2018-6-s652",
+    "file": "sources/law/2018-6-s652.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2018-title6/html/USCODE-2018-title6-chap1-subchapXVIII-partA-sec652.htm",
+    "sha256": "b739adb7b394326f3b7867a06e991637de4f860830d202efc10c1dfb34eef66b",
+    "edition": "2018",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2019-6-s652",
+    "file": "sources/law/2019-6-s652.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2019-title6/html/USCODE-2019-title6-chap1-subchapXVIII-partA-sec652.htm",
+    "sha256": "f9b5be1f0d0c254f3062e24a2fcb38ec19874841dbb246e0113464cfa4b6dd10",
+    "edition": "2019",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2020-6-s652",
+    "file": "sources/law/2020-6-s652.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2020-title6/html/USCODE-2020-title6-chap1-subchapXVIII-partA-sec652.htm",
+    "sha256": "3889d1ba8491e1456452e4ee2b5d12b087ceabcd16eecd382261fb6eb83a1a0a",
+    "edition": "2020",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2021-6-s652",
+    "file": "sources/law/2021-6-s652.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2021-title6/html/USCODE-2021-title6-chap1-subchapXVIII-partA-sec652.htm",
+    "sha256": "cf54c303891935f281a18d45bb7872452178a7196d503cd3e0d78d4388cbe5b2",
+    "edition": "2021",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2022-6-s652",
+    "file": "sources/law/2022-6-s652.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title6/html/USCODE-2022-title6-chap1-subchapXVIII-partA-sec652.htm",
+    "sha256": "fc06a4328503e5ea20ca367c3359cebca4d735d10f6e73f2f0bbfc554d660382",
+    "edition": "2022",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-6-s652",
+    "file": "sources/law/2024-6-s652.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title6/html/USCODE-2024-title6-chap1-subchapXVIII-partA-sec652.htm",
+    "sha256": "7805546da7b8bac4091a88a962c8e56b6138eade6203db25a54e44493f595283",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2018-6-s659",
+    "file": "sources/law/2018-6-s659.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2018-title6/html/USCODE-2018-title6-chap1-subchapXVIII-partA-sec659.htm",
+    "sha256": "60f43f4ec8ffa23faebcda0a47c2d5493c2cc2108884e63eda22985deb07c5c4",
+    "edition": "2018",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2019-6-s659",
+    "file": "sources/law/2019-6-s659.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2019-title6/html/USCODE-2019-title6-chap1-subchapXVIII-partA-sec659.htm",
+    "sha256": "e3f52e3e42457ef861d9820247020c79422fb78b7a4c126295d535713124c8ad",
+    "edition": "2019",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2020-6-s659",
+    "file": "sources/law/2020-6-s659.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2020-title6/html/USCODE-2020-title6-chap1-subchapXVIII-partA-sec659.htm",
+    "sha256": "bc36ebc02957aca1bcaccb2451aa1c2290a58139db7f30a50449d04932b4357b",
+    "edition": "2020",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2021-6-s659",
+    "file": "sources/law/2021-6-s659.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2021-title6/html/USCODE-2021-title6-chap1-subchapXVIII-partA-sec659.htm",
+    "sha256": "2cefd9557895e9c01fd19c7799981ce85c1eacf22709d4b9a2425ff072c69bef",
+    "edition": "2021",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2022-6-s659",
+    "file": "sources/law/2022-6-s659.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title6/html/USCODE-2022-title6-chap1-subchapXVIII-partA-sec659.htm",
+    "sha256": "cb722b6340bcec48270db697e37d2d6ce854afb0f7436b36afabd6ff8f2f2b99",
+    "edition": "2022",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-6-s659",
+    "file": "sources/law/2024-6-s659.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title6/html/USCODE-2024-title6-chap1-subchapXVIII-partA-sec659.htm",
+    "sha256": "f8711795d713371a9463bc255f1c08f4563f21fd024d05c876b7e1a1d4b15683",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2018-6-s660",
+    "file": "sources/law/2018-6-s660.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2018-title6/html/USCODE-2018-title6-chap1-subchapXVIII-partA-sec660.htm",
+    "sha256": "04c6517fa0a7d3c983e4f3d15f407a2559bba2bc13eba591d79a53cfe854afcb",
+    "edition": "2018",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2020-6-s660",
+    "file": "sources/law/2020-6-s660.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2020-title6/html/USCODE-2020-title6-chap1-subchapXVIII-partA-sec660.htm",
+    "sha256": "3354e77431143aebbcd4a12680896a9ad62f3bcb19e69983a1566d8d2bf4ea5a",
+    "edition": "2020",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2021-6-s660",
+    "file": "sources/law/2021-6-s660.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2021-title6/html/USCODE-2021-title6-chap1-subchapXVIII-partA-sec660.htm",
+    "sha256": "b1d673aa37160cda8bfbfeb16fbf7ad2c883a3db792327dd19d9b2a8a9aa2608",
+    "edition": "2021",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2022-6-s660",
+    "file": "sources/law/2022-6-s660.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title6/html/USCODE-2022-title6-chap1-subchapXVIII-partA-sec660.htm",
+    "sha256": "29b4b8a784e2da3f22fb4c3ea9eefff85520dc1bf4b838dcb36180023da706c1",
+    "edition": "2022",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-6-s660",
+    "file": "sources/law/2024-6-s660.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title6/html/USCODE-2024-title6-chap1-subchapXVIII-partA-sec660.htm",
+    "sha256": "c5e3bd454503ac1ea36312a338b04ec8f0bddc877d25118786cf0b09b21b1006",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2018-6-s663",
+    "file": "sources/law/2018-6-s663.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2018-title6/html/USCODE-2018-title6-chap1-subchapXVIII-partA-sec663.htm",
+    "sha256": "58cbcef8d00ccded36d85f3f305716c75b18d84bd3c21769dc7fa613a9a2bc6c",
+    "edition": "2018",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2021-6-s663",
+    "file": "sources/law/2021-6-s663.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2021-title6/html/USCODE-2021-title6-chap1-subchapXVIII-partA-sec663.htm",
+    "sha256": "34f9d643320239f0a7a64e1b5122d2eef1e182102cb5d0e8e4c8504f7c4ddac6",
+    "edition": "2021",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2022-6-s663",
+    "file": "sources/law/2022-6-s663.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title6/html/USCODE-2022-title6-chap1-subchapXVIII-partA-sec663.htm",
+    "sha256": "d5c6d76ebf621ca12cb3ddb2986eb51fd14f5e5d7058368c83126a4f0ef9c0d3",
+    "edition": "2022",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-6-s663",
+    "file": "sources/law/2024-6-s663.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title6/html/USCODE-2024-title6-chap1-subchapXVIII-partA-sec663.htm",
+    "sha256": "2a92643fa38a93b0eb425054a600f4ce7e740d5f71fd287142fad8489510009e",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2015-6-s1521",
+    "file": "sources/law/2015-6-s1521.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2015-title6/html/USCODE-2015-title6-chap6-subchapII-sec1521.htm",
+    "sha256": "ca11b91b4f2feb1b9cec2583b0ab68afb4257ec7e83f7bd8f64cc106a02709d2",
+    "edition": "2015",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2017-6-s1521",
+    "file": "sources/law/2017-6-s1521.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2017-title6/html/USCODE-2017-title6-chap6-subchapII-sec1521.htm",
+    "sha256": "d45af4d0b48b57eed843b2ea2baf98b811e93146855dfe750ddc7bdf8a80f139",
+    "edition": "2017",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2018-6-s1521",
+    "file": "sources/law/2018-6-s1521.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2018-title6/html/USCODE-2018-title6-chap6-subchapII-sec1521.htm",
+    "sha256": "08d0ae8de5b6822e3708c15d8554630b6710ebd1d94be5db4b6932f55afb9b23",
+    "edition": "2018",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2021-6-s1521",
+    "file": "sources/law/2021-6-s1521.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2021-title6/html/USCODE-2021-title6-chap6-subchapII-sec1521.htm",
+    "sha256": "ce5d9cc7d196d494d003c0b4cfceb3fafd04ab4e963eef92ff36ad307e99a5b9",
+    "edition": "2021",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2022-6-s1521",
+    "file": "sources/law/2022-6-s1521.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title6/html/USCODE-2022-title6-chap6-subchapII-sec1521.htm",
+    "sha256": "fbf31791bf31dfb4d35f2557203c46a51b26f504f2580ca1c6bfddd3fe7d5f5a",
+    "edition": "2022",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-6-s1521",
+    "file": "sources/law/2024-6-s1521.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title6/html/USCODE-2024-title6-chap6-subchapII-sec1521.htm",
+    "sha256": "8471ab38de0b9513dd156bc09d0c9a9d28b3ff0c01e48e05f9ff0506b537c28e",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2015-6-s1522",
+    "file": "sources/law/2015-6-s1522.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2015-title6/html/USCODE-2015-title6-chap6-subchapII-sec1522.htm",
+    "sha256": "8b2f9543505a98d8322ba7a37b285c3604887c3bcc12a590696cc3ca75165c8b",
+    "edition": "2015",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-6-s1522",
+    "file": "sources/law/2024-6-s1522.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title6/html/USCODE-2024-title6-chap6-subchapII-sec1522.htm",
+    "sha256": "0f7507f11b6ec72cbc5f68f3ace04837fa58696c16e1c868460cf976b4b053ed",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2015-6-s1523",
+    "file": "sources/law/2015-6-s1523.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2015-title6/html/USCODE-2015-title6-chap6-subchapII-sec1523.htm",
+    "sha256": "dfcaac9eb216d2af18727363eab7f4679c351d35b5ef84c9e0c8df4e558c8f8e",
+    "edition": "2015",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-6-s1523",
+    "file": "sources/law/2024-6-s1523.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title6/html/USCODE-2024-title6-chap6-subchapII-sec1523.htm",
+    "sha256": "9a0275af9b33b3da6b46980da750756ca7f8bc256c397d8c22fe076c33646dc5",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2015-6-s1524",
+    "file": "sources/law/2015-6-s1524.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2015-title6/html/USCODE-2015-title6-chap6-subchapII-sec1524.htm",
+    "sha256": "d345a78e30a3692aa261cd05f8e4a333c6bbd84d4ceba57d60c3567cf6603e81",
+    "edition": "2015",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2017-6-s1524",
+    "file": "sources/law/2017-6-s1524.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2017-title6/html/USCODE-2017-title6-chap6-subchapII-sec1524.htm",
+    "sha256": "2d3547c8b57821ff6f4db08c6e81d9d4e4f93d81b82f6b27312fac520c22ddb3",
+    "edition": "2017",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2018-6-s1524",
+    "file": "sources/law/2018-6-s1524.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2018-title6/html/USCODE-2018-title6-chap6-subchapII-sec1524.htm",
+    "sha256": "d0998edcd515f07578014919d1646fc09737c523995f58f6af60414da80ac051",
+    "edition": "2018",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2021-6-s1524",
+    "file": "sources/law/2021-6-s1524.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2021-title6/html/USCODE-2021-title6-chap6-subchapII-sec1524.htm",
+    "sha256": "58cbe0ce7e327b6855da70dd20ce1fec79e3937aa30aff65780da67129259b5b",
+    "edition": "2021",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2022-6-s1524",
+    "file": "sources/law/2022-6-s1524.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title6/html/USCODE-2022-title6-chap6-subchapII-sec1524.htm",
+    "sha256": "4a8d4213c3c26b3ec0ad755f3b4ccfac3cc14d743c9912ba56cba0bc904fe9a4",
+    "edition": "2022",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-6-s1524",
+    "file": "sources/law/2024-6-s1524.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title6/html/USCODE-2024-title6-chap6-subchapII-sec1524.htm",
+    "sha256": "055c23c42b12c0625198e1082b52346891da5a67ca8104979168d6e9ade84cd4",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2015-6-s1525",
+    "file": "sources/law/2015-6-s1525.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2015-title6/html/USCODE-2015-title6-chap6-subchapII-sec1525.htm",
+    "sha256": "d25f3a183732f32f0abb51555481ae64cbca44e63743894ce111f6c526fa3011",
+    "edition": "2015",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2017-6-s1525",
+    "file": "sources/law/2017-6-s1525.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2017-title6/html/USCODE-2017-title6-chap6-subchapII-sec1525.htm",
+    "sha256": "0abbcb192ec00c82622f6f2e11e19d565987cb0ec08ac6f08eafd22f64abcff4",
+    "edition": "2017",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2018-6-s1525",
+    "file": "sources/law/2018-6-s1525.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2018-title6/html/USCODE-2018-title6-chap6-subchapII-sec1525.htm",
+    "sha256": "1ca6dcd23db6042462219c95b925c15d95af7c176c0abbd100c83610b46bf022",
+    "edition": "2018",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2021-6-s1525",
+    "file": "sources/law/2021-6-s1525.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2021-title6/html/USCODE-2021-title6-chap6-subchapII-sec1525.htm",
+    "sha256": "161af128f722b2ca54dcf5ecc624f32e8a6fad53c63fceead6994f324d34beda",
+    "edition": "2021",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2022-6-s1525",
+    "file": "sources/law/2022-6-s1525.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title6/html/USCODE-2022-title6-chap6-subchapII-sec1525.htm",
+    "sha256": "3efbe13e0746635c60f453c8e8c60a0c013c4c428b29b79ddc2be51190a06a5d",
+    "edition": "2022",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2023-6-s1525",
+    "file": "sources/law/2023-6-s1525.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title6/html/USCODE-2023-title6-chap6-subchapII-sec1525.htm",
+    "sha256": "0d358d1370dabc0f9e6bdcb840a1903927330e8dda282f537eefc10c4f1fbee3",
+    "edition": "2023",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-6-s1525",
+    "file": "sources/law/2024-6-s1525.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title6/html/USCODE-2024-title6-chap6-subchapII-sec1525.htm",
+    "sha256": "7895777aae537e3e643ad12bf7714088a924722a7eddece8f6e0cf2f8143f423",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-1994-15-s278g-3",
+    "file": "sources/law/1994-15-s278g-3.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1994-title15/html/USCODE-1994-title15-chap7-sec278g-3.htm",
+    "sha256": "ee534370a5ccf8b311a537c74ccc41bf2bde0932b5d9ebb7b0577750dd17d22f",
+    "edition": "1994",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-1995-15-s278g-3",
+    "file": "sources/law/1995-15-s278g-3.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1995-title15/html/USCODE-1995-title15-chap7-sec278g-3.htm",
+    "sha256": "3b83d1c78c5bb62babaa57fac656ef10f724ecc0f95afbd9348d30ac5e35f766",
+    "edition": "1995",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-1996-15-s278g-3",
+    "file": "sources/law/1996-15-s278g-3.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1996-title15/html/USCODE-1996-title15-chap7-sec278g-3.htm",
+    "sha256": "ea39d0deb8afb4363fce568909297a1dadbdd267bdde2991938efda3d1a83946",
+    "edition": "1996",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-1997-15-s278g-3",
+    "file": "sources/law/1997-15-s278g-3.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1997-title15/html/USCODE-1997-title15-chap7-sec278g-3.htm",
+    "sha256": "8c050ad3462293a8f357a5f377b505d23bd41191b9c8a9efa9c9402d3f9c9bed",
+    "edition": "1997",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2001-15-s278g-3",
+    "file": "sources/law/2001-15-s278g-3.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2001-title15/html/USCODE-2001-title15-chap7-sec278g-3.htm",
+    "sha256": "852e14b968330acfc01ba8971cecca0cacf835663f23e7e267b398dec21b88d8",
+    "edition": "2001",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2002-15-s278g-3",
+    "file": "sources/law/2002-15-s278g-3.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2002-title15/html/USCODE-2002-title15-chap7-sec278g-3.htm",
+    "sha256": "8650084b6ecdd87d13e7efa4a339bbfe95f7b93503fc21dd6af7a67ea4b3f29e",
+    "edition": "2002",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2003-15-s278g-3",
+    "file": "sources/law/2003-15-s278g-3.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2003-title15/html/USCODE-2003-title15-chap7-sec278g-3.htm",
+    "sha256": "17e10f98cc2fd939fe84031efe5f9eec20c76fbd5f5a233c460359d96adf134a",
+    "edition": "2003",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2004-15-s278g-3",
+    "file": "sources/law/2004-15-s278g-3.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2004-title15/html/USCODE-2004-title15-chap7-sec278g-3.htm",
+    "sha256": "82c98f8eb5ec2b0cd6833af706230e56bed0f3e3ecc82052aa4a9f8df9a83c5a",
+    "edition": "2004",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2013-15-s278g-3",
+    "file": "sources/law/2013-15-s278g-3.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2013-title15/html/USCODE-2013-title15-chap7-sec278g-3.htm",
+    "sha256": "924049570a727cc68297a3596ef2135a3f813c0be741b5c1055579c45d40ed1a",
+    "edition": "2013",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2014-15-s278g-3",
+    "file": "sources/law/2014-15-s278g-3.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2014-title15/html/USCODE-2014-title15-chap7-sec278g-3.htm",
+    "sha256": "c8871171006ea077e516769cc771ac93975c7ec591a03d0069e4e4aa5d7a8866",
+    "edition": "2014",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2016-15-s278g-3",
+    "file": "sources/law/2016-15-s278g-3.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2016-title15/html/USCODE-2016-title15-chap7-sec278g-3.htm",
+    "sha256": "eb8884288ff668571ea7961b8c82d903618d4d9897a3601e6183cc74eca2bbce",
+    "edition": "2016",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2017-15-s278g-3",
+    "file": "sources/law/2017-15-s278g-3.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2017-title15/html/USCODE-2017-title15-chap7-sec278g-3.htm",
+    "sha256": "186103f9c60b2b4e86dffb6c13350cf8495a4358248a5c27d118a13f04e4e44f",
+    "edition": "2017",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2020-15-s278g-3",
+    "file": "sources/law/2020-15-s278g-3.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2020-title15/html/USCODE-2020-title15-chap7-sec278g-3.htm",
+    "sha256": "93cfd58b699b8bd626be6693857725e352b296a052be6c6899501abcc37a3228",
+    "edition": "2020",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2021-15-s278g-3",
+    "file": "sources/law/2021-15-s278g-3.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2021-title15/html/USCODE-2021-title15-chap7-sec278g-3.htm",
+    "sha256": "88af5ee43aaa474cf5a7f23955e04896d196bb96cb0933af6a965236a3d9e5ab",
+    "edition": "2021",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2022-15-s278g-3",
+    "file": "sources/law/2022-15-s278g-3.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title15/html/USCODE-2022-title15-chap7-sec278g-3.htm",
+    "sha256": "a404b22ea872699d7f83f5f9d9df30b1204d1b53324517b428c70b498ecde115",
+    "edition": "2022",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-15-s278g-3",
+    "file": "sources/law/2024-15-s278g-3.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title15/html/USCODE-2024-title15-chap7-sec278g-3.htm",
+    "sha256": "58b8e50e5a157ef401ea918ddf85dfb2472b3c5c1daafce61b12e9806001aae8",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-1994-15-s278g-4",
+    "file": "sources/law/1994-15-s278g-4.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1994-title15/html/USCODE-1994-title15-chap7-sec278g-4.htm",
+    "sha256": "4f1a8ef9645fdf0e18b63390dbf177d43c0e4f4b192d6167b7f1bfa4cfda39c3",
+    "edition": "1994",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2001-15-s278g-4",
+    "file": "sources/law/2001-15-s278g-4.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2001-title15/html/USCODE-2001-title15-chap7-sec278g-4.htm",
+    "sha256": "f717521e59931a6ec10ce23e5c7d5d2eee2d5bf164c0300676b4c0cca95adc40",
+    "edition": "2001",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2002-15-s278g-4",
+    "file": "sources/law/2002-15-s278g-4.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2002-title15/html/USCODE-2002-title15-chap7-sec278g-4.htm",
+    "sha256": "866ea50fb8617ab96390b9016e9f5bd55365bb2e1f4a5383e1a6176051a6fd31",
+    "edition": "2002",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2013-15-s278g-4",
+    "file": "sources/law/2013-15-s278g-4.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2013-title15/html/USCODE-2013-title15-chap7-sec278g-4.htm",
+    "sha256": "54e80115b57df6a3eb11fcd3216bde5fa0c67ff3092879b04a3b650bb1e7d15a",
+    "edition": "2013",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2014-15-s278g-4",
+    "file": "sources/law/2014-15-s278g-4.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2014-title15/html/USCODE-2014-title15-chap7-sec278g-4.htm",
+    "sha256": "a58cf3861dbc255919650913f3e1e1f80fcf277480787932093e3f1cc33b2da6",
+    "edition": "2014",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-15-s278g-4",
+    "file": "sources/law/2024-15-s278g-4.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title15/html/USCODE-2024-title15-chap7-sec278g-4.htm",
+    "sha256": "7bbdbbcbb4d15d01f75429641e80e60a340c44b6994ed2fe5a54303acd6b4a2b",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2002-40-s11101",
+    "file": "sources/law/2002-40-s11101.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2002-title40/html/USCODE-2002-title40-subtitleIII-chap111-sec11101.htm",
+    "sha256": "b166cc59d18a96fbc4bb6564394af210396830404ba8d4c318ff4a72703e497b",
+    "edition": "2002",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2003-40-s11101",
+    "file": "sources/law/2003-40-s11101.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2003-title40/html/USCODE-2003-title40-subtitleIII-chap111-sec11101.htm",
+    "sha256": "e43be5080cabbf974e7452169c2df20e392e30b4c89cdf9862dd3331edaad5b7",
+    "edition": "2003",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2004-40-s11101",
+    "file": "sources/law/2004-40-s11101.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2004-title40/html/USCODE-2004-title40-subtitleIII-chap111-sec11101.htm",
+    "sha256": "1fef841731c703b4eecbbd5f63c3e152ea0f1a1223a18b15e016c07c8bca51b6",
+    "edition": "2004",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2010-40-s11101",
+    "file": "sources/law/2010-40-s11101.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2010-title40/html/USCODE-2010-title40-subtitleIII-chap111-sec11101.htm",
+    "sha256": "3d1b7f41b9fb45e7b7e98822a724348424e346307b1783985611c9248f1a103b",
+    "edition": "2010",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2011-40-s11101",
+    "file": "sources/law/2011-40-s11101.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2011-title40/html/USCODE-2011-title40-subtitleIII-chap111-sec11101.htm",
+    "sha256": "abc16ba9fe0055067754be921ca8608cdde149784429414d235bf028a880c2a1",
+    "edition": "2011",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2017-40-s11101",
+    "file": "sources/law/2017-40-s11101.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2017-title40/html/USCODE-2017-title40-subtitleIII-chap111-sec11101.htm",
+    "sha256": "860bb82421e6d1d20774775dca85407e981f9dee359a7edf6e2d15185ccc5fe5",
+    "edition": "2017",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2018-40-s11101",
+    "file": "sources/law/2018-40-s11101.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2018-title40/html/USCODE-2018-title40-subtitleIII-chap111-sec11101.htm",
+    "sha256": "78d28f36f3cff46e73c868a64638305bb55e2840cffe1134b585701e9fb65f3e",
+    "edition": "2018",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-40-s11101",
+    "file": "sources/law/2024-40-s11101.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title40/html/USCODE-2024-title40-subtitleIII-chap111-sec11101.htm",
+    "sha256": "ae0525d55f4cb615650f46cdea17a1b266291e518cb19816db7ba4a6e37dc650",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2002-40-s11302",
+    "file": "sources/law/2002-40-s11302.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2002-title40/html/USCODE-2002-title40-subtitleIII-chap113-subchapI-sec11302.htm",
+    "sha256": "9b29d740e10ff8f6f033f6c808966dec6a7d0525c403dbe50aa3f31a58bd40a0",
+    "edition": "2002",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2003-40-s11302",
+    "file": "sources/law/2003-40-s11302.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2003-title40/html/USCODE-2003-title40-subtitleIII-chap113-subchapI-sec11302.htm",
+    "sha256": "25b4f1386279e296b8652ccc55796b39f3e3a0f751b4183f54c2ce995aee4190",
+    "edition": "2003",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2004-40-s11302",
+    "file": "sources/law/2004-40-s11302.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2004-title40/html/USCODE-2004-title40-subtitleIII-chap113-subchapI-sec11302.htm",
+    "sha256": "fa04a400f389f44d298cbd04338167932e66293efaccf04b110889274365cb7b",
+    "edition": "2004",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2013-40-s11302",
+    "file": "sources/law/2013-40-s11302.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2013-title40/html/USCODE-2013-title40-subtitleIII-chap113-subchapI-sec11302.htm",
+    "sha256": "de52a0633dcb356b86fe0164098e6a214353669f16ef8df66189923b3bedefac",
+    "edition": "2013",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2014-40-s11302",
+    "file": "sources/law/2014-40-s11302.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2014-title40/html/USCODE-2014-title40-subtitleIII-chap113-subchapI-sec11302.htm",
+    "sha256": "6fe48a8c9e8786d531667bfb59c3cba76bb6e0110b93d50d4f68aed95c47e999",
+    "edition": "2014",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2016-40-s11302",
+    "file": "sources/law/2016-40-s11302.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2016-title40/html/USCODE-2016-title40-subtitleIII-chap113-subchapI-sec11302.htm",
+    "sha256": "2495ba10ddf023e647502a5c8f2a05acaecbe73fd82c6e9bfbb03588dd7b1f0c",
+    "edition": "2016",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2017-40-s11302",
+    "file": "sources/law/2017-40-s11302.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2017-title40/html/USCODE-2017-title40-subtitleIII-chap113-subchapI-sec11302.htm",
+    "sha256": "0e5c9a69ae6bd64d136f52e161fac8c9041af77c1dd8e92c34faac206d4c327a",
+    "edition": "2017",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-40-s11302",
+    "file": "sources/law/2024-40-s11302.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title40/html/USCODE-2024-title40-subtitleIII-chap113-subchapI-sec11302.htm",
+    "sha256": "05e51d85b56d0e1608812da5213632a4518ed94bd0a29df925d1e7cc1706700b",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2002-40-s11303",
+    "file": "sources/law/2002-40-s11303.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2002-title40/html/USCODE-2002-title40-subtitleIII-chap113-subchapI-sec11303.htm",
+    "sha256": "b917a4330c9180f1f8c049919ca00565aee40e2c267d96b86d154d7508948d44",
+    "edition": "2002",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-40-s11303",
+    "file": "sources/law/2024-40-s11303.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title40/html/USCODE-2024-title40-subtitleIII-chap113-subchapI-sec11303.htm",
+    "sha256": "e5f49d5e755428e01a260d88a6b8db4953d4d5c4b17b2058a0ec1278506f292d",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2002-40-s11312",
+    "file": "sources/law/2002-40-s11312.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2002-title40/html/USCODE-2002-title40-subtitleIII-chap113-subchapII-sec11312.htm",
+    "sha256": "076b24b519bd86773e3ccb6f4751b77abc67508f575a827a1aeaa8ea59c33aea",
+    "edition": "2002",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2003-40-s11312",
+    "file": "sources/law/2003-40-s11312.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2003-title40/html/USCODE-2003-title40-subtitleIII-chap113-subchapII-sec11312.htm",
+    "sha256": "036b5454084714c7084f3138949eca0710c32311d35407b3f51c59529b09d466",
+    "edition": "2003",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2004-40-s11312",
+    "file": "sources/law/2004-40-s11312.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2004-title40/html/USCODE-2004-title40-subtitleIII-chap113-subchapII-sec11312.htm",
+    "sha256": "12d0f6343567e9956c84b42625c76fea8e74c6278ae8c3043dee6282edf3d5ce",
+    "edition": "2004",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-40-s11312",
+    "file": "sources/law/2024-40-s11312.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title40/html/USCODE-2024-title40-subtitleIII-chap113-subchapII-sec11312.htm",
+    "sha256": "3be84b54c8b61548bf8347f275db618e955c454b45fe9ea4585c41468786779d",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2002-40-s11313",
+    "file": "sources/law/2002-40-s11313.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2002-title40/html/USCODE-2002-title40-subtitleIII-chap113-subchapII-sec11313.htm",
+    "sha256": "ed9473e8dede8015b6e477e4330bb0aab5c006094fd129d9e73f0ef4d17b2b4d",
+    "edition": "2002",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-40-s11313",
+    "file": "sources/law/2024-40-s11313.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title40/html/USCODE-2024-title40-subtitleIII-chap113-subchapII-sec11313.htm",
+    "sha256": "0af55b8565aebba800dba6772a51c3202e4c16c8be6246128beb7e44f50021ed",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2002-40-s11314",
+    "file": "sources/law/2002-40-s11314.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2002-title40/html/USCODE-2002-title40-subtitleIII-chap113-subchapII-sec11314.htm",
+    "sha256": "1fbcfcfc71bc98cc81cfefdb72e6da223bedbd5a5ce461b68950972881d8a72f",
+    "edition": "2002",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2017-40-s11314",
+    "file": "sources/law/2017-40-s11314.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2017-title40/html/USCODE-2017-title40-subtitleIII-chap113-subchapII-sec11314.htm",
+    "sha256": "cfa152487b657d850717d2e6d389268b31869b08d162523365a2000fcdd34fc2",
+    "edition": "2017",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2018-40-s11314",
+    "file": "sources/law/2018-40-s11314.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2018-title40/html/USCODE-2018-title40-subtitleIII-chap113-subchapII-sec11314.htm",
+    "sha256": "1a40d3310f5031fe7090f1525d729a2cd104257c37ca11673248ce4375d7aa04",
+    "edition": "2018",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-40-s11314",
+    "file": "sources/law/2024-40-s11314.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title40/html/USCODE-2024-title40-subtitleIII-chap113-subchapII-sec11314.htm",
+    "sha256": "ef8474678d1b17ab15a4d31dea41dabf92f33341d6240e81de6fc35b2c7aab13",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2002-40-s11315",
+    "file": "sources/law/2002-40-s11315.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2002-title40/html/USCODE-2002-title40-subtitleIII-chap113-subchapII-sec11315.htm",
+    "sha256": "66614d19296f29d962667c8654731d796db04ac9e18f0b02af65e274b998a03e",
+    "edition": "2002",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2003-40-s11315",
+    "file": "sources/law/2003-40-s11315.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2003-title40/html/USCODE-2003-title40-subtitleIII-chap113-subchapII-sec11315.htm",
+    "sha256": "b3d02c2f2babf6405071a8d5db0134b4e853ed9d0d0e7b729db7f8e40d16ccd0",
+    "edition": "2003",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2004-40-s11315",
+    "file": "sources/law/2004-40-s11315.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2004-title40/html/USCODE-2004-title40-subtitleIII-chap113-subchapII-sec11315.htm",
+    "sha256": "28fe8e1d7a71da067695485c67e12347673becf4f77614b0b3a8e901cf0072de",
+    "edition": "2004",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-40-s11315",
+    "file": "sources/law/2024-40-s11315.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title40/html/USCODE-2024-title40-subtitleIII-chap113-subchapII-sec11315.htm",
+    "sha256": "b8e195301adc032f9acfdebbfd950cfaed6c30cf3dfcaa438923053fa8d7aa41",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2014-40-s11319",
+    "file": "sources/law/2014-40-s11319.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2014-title40/html/USCODE-2014-title40-subtitleIII-chap113-subchapII-sec11319.htm",
+    "sha256": "f05be6a748e1fba09d961bf12853154372e4c505a9270e261359a908fc9d198b",
+    "edition": "2014",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2016-40-s11319",
+    "file": "sources/law/2016-40-s11319.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2016-title40/html/USCODE-2016-title40-subtitleIII-chap113-subchapII-sec11319.htm",
+    "sha256": "5b375e9adb0cf73547ab76f8c3b298667728c2874db39a36328c8d8bba1c09fb",
+    "edition": "2016",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2017-40-s11319",
+    "file": "sources/law/2017-40-s11319.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2017-title40/html/USCODE-2017-title40-subtitleIII-chap113-subchapII-sec11319.htm",
+    "sha256": "bfcb2300526b96ea0ca2be0a13e67525cc03eb83eaf00cb2cf3ebf65116d0299",
+    "edition": "2017",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2018-40-s11319",
+    "file": "sources/law/2018-40-s11319.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2018-title40/html/USCODE-2018-title40-subtitleIII-chap113-subchapII-sec11319.htm",
+    "sha256": "f76fe81884306ffe46b93182cc92d1cce21ac9a9baa2bbe5f86e49f9202f11a7",
+    "edition": "2018",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2019-40-s11319",
+    "file": "sources/law/2019-40-s11319.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2019-title40/html/USCODE-2019-title40-subtitleIII-chap113-subchapII-sec11319.htm",
+    "sha256": "01b27c6960fe2d18407618e57278e47afcaff4ab3e545a8f5bf7a84e3575b96d",
+    "edition": "2019",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2022-40-s11319",
+    "file": "sources/law/2022-40-s11319.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title40/html/USCODE-2022-title40-subtitleIII-chap113-subchapII-sec11319.htm",
+    "sha256": "18c54f79f1d49d166b9e058f3e5c456a424bcd6e4b5c2d19ec091abd86b5fcd1",
+    "edition": "2022",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2023-40-s11319",
+    "file": "sources/law/2023-40-s11319.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title40/html/USCODE-2023-title40-subtitleIII-chap113-subchapII-sec11319.htm",
+    "sha256": "d43ecfe30c9aac8145a2b297f3fcfb88a40799523995cd9c872a20bc12ac7765",
+    "edition": "2023",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-40-s11319",
+    "file": "sources/law/2024-40-s11319.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title40/html/USCODE-2024-title40-subtitleIII-chap113-subchapII-sec11319.htm",
+    "sha256": "945c057ff75a8c4ec8c41aea187cbe235754790277156850942e9d93b3dad2e2",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2002-40-s11331",
+    "file": "sources/law/2002-40-s11331.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2002-title40/html/USCODE-2002-title40-subtitleIII-chap113-subchapIII-sec11331.htm",
+    "sha256": "6d7da0966c3800322963f9df1d38534ae7293d70404d39c736b7c4bb5c6c8b9d",
+    "edition": "2002",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2021-40-s11331",
+    "file": "sources/law/2021-40-s11331.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2021-title40/html/USCODE-2021-title40-subtitleIII-chap113-subchapIII-sec11331.htm",
+    "sha256": "4a7f23eea35b74fb9182ae1646e42ec10f3522e0280393079621b3caac429197",
+    "edition": "2021",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2022-40-s11331",
+    "file": "sources/law/2022-40-s11331.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title40/html/USCODE-2022-title40-subtitleIII-chap113-subchapIII-sec11331.htm",
+    "sha256": "50da36000db3c802af93dfb29dbd5d1fdf3e2386ee9f0ae2649f83fae758819a",
+    "edition": "2022",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2024-40-s11331",
+    "file": "sources/law/2024-40-s11331.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title40/html/USCODE-2024-title40-subtitleIII-chap113-subchapIII-sec11331.htm",
+    "sha256": "629e3b8e2fd11616804ba278d6df3274116963b7f92d4d784196f21a97539908",
+    "edition": "2024",
+    "retrieved": "2026-10-10"
+  },
+  {
+    "id": "usc-2018-41-s1321",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2018-title41/html/USCODE-2018-title41-subtitleI-divsnB-chap13-subchapIII-sec1321.htm",
+    "file": "sources/law/2018-41-s1321.html",
+    "edition": "2018",
+    "retrieved": "2026-10-10",
+    "sha256": "59b9564b05b2e2c2f1f7e2a2e950bea91a54d97d72d368b572f30246796e5cb2"
+  },
+  {
+    "id": "usc-2018-41-s1322",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2018-title41/html/USCODE-2018-title41-subtitleI-divsnB-chap13-subchapIII-sec1322.htm",
+    "file": "sources/law/2018-41-s1322.html",
+    "edition": "2018",
+    "retrieved": "2026-10-10",
+    "sha256": "4f5e63a7717b40fc01a1033df669d796e38db6751f3ed2f9f80bab14f7b6a04b"
+  },
+  {
+    "id": "usc-2018-41-s1323",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2018-title41/html/USCODE-2018-title41-subtitleI-divsnB-chap13-subchapIII-sec1323.htm",
+    "file": "sources/law/2018-41-s1323.html",
+    "edition": "2018",
+    "retrieved": "2026-10-10",
+    "sha256": "98ac3eaddc9b72ec81d617d681fdf318965bb1c2ada05eeed8063ddfee596e8f"
+  },
+  {
+    "id": "usc-2018-41-s1324",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2018-title41/html/USCODE-2018-title41-subtitleI-divsnB-chap13-subchapIII-sec1324.htm",
+    "file": "sources/law/2018-41-s1324.html",
+    "edition": "2018",
+    "retrieved": "2026-10-10",
+    "sha256": "5cf212470fd7a523d40573119c6ef838e324e8c2ad5f1706e67e8b18d3cc0eb4"
+  },
+  {
+    "id": "usc-2018-41-s1325",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2018-title41/html/USCODE-2018-title41-subtitleI-divsnB-chap13-subchapIII-sec1325.htm",
+    "file": "sources/law/2018-41-s1325.html",
+    "edition": "2018",
+    "retrieved": "2026-10-10",
+    "sha256": "4dbba777a89232368361262c540f50056f355601267bf9cf567bf3f3c1f9c9ae"
+  },
+  {
+    "id": "usc-2018-41-s1326",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2018-title41/html/USCODE-2018-title41-subtitleI-divsnB-chap13-subchapIII-sec1326.htm",
+    "file": "sources/law/2018-41-s1326.html",
+    "edition": "2018",
+    "retrieved": "2026-10-10",
+    "sha256": "09deee35a019ff75f5bd5fb42f7818a8ee5b6cf536bb2aba26aa34b06ddaee1e"
+  },
+  {
+    "id": "usc-2018-41-s1327",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2018-title41/html/USCODE-2018-title41-subtitleI-divsnB-chap13-subchapIII-sec1327.htm",
+    "file": "sources/law/2018-41-s1327.html",
+    "edition": "2018",
+    "retrieved": "2026-10-10",
+    "sha256": "23d44ede47fbbba63484673c20e3aaca606af9df720b5506577fa1756816ef19"
+  },
+  {
+    "id": "usc-2018-41-s1328",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2018-title41/html/USCODE-2018-title41-subtitleI-divsnB-chap13-subchapIII-sec1328.htm",
+    "file": "sources/law/2018-41-s1328.html",
+    "edition": "2018",
+    "retrieved": "2026-10-10",
+    "sha256": "1c5119f82fda95b579658a41efe9cdfc34692d00eceb15da7e8f90e6a1b4aedd"
+  },
+  {
+    "id": "usc-2019-41-s1321",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2019-title41/html/USCODE-2019-title41-subtitleI-divsnB-chap13-subchapIII-sec1321.htm",
+    "file": "sources/law/2019-41-s1321.html",
+    "edition": "2019",
+    "retrieved": "2026-10-10",
+    "sha256": "0a30f4eda487a10f44b48af924fe48c72565d21029782a1db7c66ecf1037d30f"
+  },
+  {
+    "id": "usc-2019-41-s1322",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2019-title41/html/USCODE-2019-title41-subtitleI-divsnB-chap13-subchapIII-sec1322.htm",
+    "file": "sources/law/2019-41-s1322.html",
+    "edition": "2019",
+    "retrieved": "2026-10-10",
+    "sha256": "815de6b58120a63b62b8a048a3fc802c421eb208b3c41f6d01099ada3a9e7fdf"
+  },
+  {
+    "id": "usc-2019-41-s1323",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2019-title41/html/USCODE-2019-title41-subtitleI-divsnB-chap13-subchapIII-sec1323.htm",
+    "file": "sources/law/2019-41-s1323.html",
+    "edition": "2019",
+    "retrieved": "2026-10-10",
+    "sha256": "082bf962b07d0419350623eb24a94b633cadbe08162f5bcd1d16d97e5b56381c"
+  },
+  {
+    "id": "usc-2019-41-s1324",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2019-title41/html/USCODE-2019-title41-subtitleI-divsnB-chap13-subchapIII-sec1324.htm",
+    "file": "sources/law/2019-41-s1324.html",
+    "edition": "2019",
+    "retrieved": "2026-10-10",
+    "sha256": "5d423585416cfbebc179ba65348dab31247e269bf8939aa12529175b2f6e78f9"
+  },
+  {
+    "id": "usc-2019-41-s1325",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2019-title41/html/USCODE-2019-title41-subtitleI-divsnB-chap13-subchapIII-sec1325.htm",
+    "file": "sources/law/2019-41-s1325.html",
+    "edition": "2019",
+    "retrieved": "2026-10-10",
+    "sha256": "bf891580c1e6417b0d92ecc2dd5c354ca6c0da181b984b61162fb2d1f4a47725"
+  },
+  {
+    "id": "usc-2019-41-s1326",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2019-title41/html/USCODE-2019-title41-subtitleI-divsnB-chap13-subchapIII-sec1326.htm",
+    "file": "sources/law/2019-41-s1326.html",
+    "edition": "2019",
+    "retrieved": "2026-10-10",
+    "sha256": "8f1488ed3942f6f13344e5c05ec946559d33c99a88abcf30ef3f0925ed12dcb2"
+  },
+  {
+    "id": "usc-2019-41-s1327",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2019-title41/html/USCODE-2019-title41-subtitleI-divsnB-chap13-subchapIII-sec1327.htm",
+    "file": "sources/law/2019-41-s1327.html",
+    "edition": "2019",
+    "retrieved": "2026-10-10",
+    "sha256": "df124e204ebdd76458d26859ca410d5fc6650654b3f1b56153e08fed5b66d81f"
+  },
+  {
+    "id": "usc-2019-41-s1328",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2019-title41/html/USCODE-2019-title41-subtitleI-divsnB-chap13-subchapIII-sec1328.htm",
+    "file": "sources/law/2019-41-s1328.html",
+    "edition": "2019",
+    "retrieved": "2026-10-10",
+    "sha256": "7ee541e71dd505e1d3003191553e7da0f37520d256ec534ef1292a900f1e8102"
+  },
+  {
+    "id": "usc-2021-41-s1321",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2021-title41/html/USCODE-2021-title41-subtitleI-divsnB-chap13-subchapIII-sec1321.htm",
+    "file": "sources/law/2021-41-s1321.html",
+    "edition": "2021",
+    "retrieved": "2026-10-10",
+    "sha256": "40c33c956f653991d622d645c82dcaa1823043669ffff56ed543fa5556741703"
+  },
+  {
+    "id": "usc-2021-41-s1322",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2021-title41/html/USCODE-2021-title41-subtitleI-divsnB-chap13-subchapIII-sec1322.htm",
+    "file": "sources/law/2021-41-s1322.html",
+    "edition": "2021",
+    "retrieved": "2026-10-10",
+    "sha256": "52dbc99217fc1cd355abd1b86fd9973a3edb0deab723f3fe2f09fefff2c87068"
+  },
+  {
+    "id": "usc-2021-41-s1323",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2021-title41/html/USCODE-2021-title41-subtitleI-divsnB-chap13-subchapIII-sec1323.htm",
+    "file": "sources/law/2021-41-s1323.html",
+    "edition": "2021",
+    "retrieved": "2026-10-10",
+    "sha256": "421413cce8d97710a4dfcde07b2a15671089c78abbde55e5348cbcd694d83040"
+  },
+  {
+    "id": "usc-2021-41-s1324",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2021-title41/html/USCODE-2021-title41-subtitleI-divsnB-chap13-subchapIII-sec1324.htm",
+    "file": "sources/law/2021-41-s1324.html",
+    "edition": "2021",
+    "retrieved": "2026-10-10",
+    "sha256": "c740c8c8c5399e4961bdf32fe61f02c211452d3b83c1b9cf9e66bfdd38991906"
+  },
+  {
+    "id": "usc-2021-41-s1325",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2021-title41/html/USCODE-2021-title41-subtitleI-divsnB-chap13-subchapIII-sec1325.htm",
+    "file": "sources/law/2021-41-s1325.html",
+    "edition": "2021",
+    "retrieved": "2026-10-10",
+    "sha256": "0d9f136c24242cc20af8ae2ded713803ce947fd77d2a26ba4d28ced7491d6c4e"
+  },
+  {
+    "id": "usc-2021-41-s1326",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2021-title41/html/USCODE-2021-title41-subtitleI-divsnB-chap13-subchapIII-sec1326.htm",
+    "file": "sources/law/2021-41-s1326.html",
+    "edition": "2021",
+    "retrieved": "2026-10-10",
+    "sha256": "b52fb73fb8363dee5cd13567c21ac59b42bf2571588ec15c1f2918f428f1e505"
+  },
+  {
+    "id": "usc-2021-41-s1327",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2021-title41/html/USCODE-2021-title41-subtitleI-divsnB-chap13-subchapIII-sec1327.htm",
+    "file": "sources/law/2021-41-s1327.html",
+    "edition": "2021",
+    "retrieved": "2026-10-10",
+    "sha256": "3f962a087e050fcb5fa9364e582d1c547951f7b21740e6f1aeb83c546c3d781b"
+  },
+  {
+    "id": "usc-2021-41-s1328",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2021-title41/html/USCODE-2021-title41-subtitleI-divsnB-chap13-subchapIII-sec1328.htm",
+    "file": "sources/law/2021-41-s1328.html",
+    "edition": "2021",
+    "retrieved": "2026-10-10",
+    "sha256": "985c7664d70ab557d06438f14006369b82a42148c50bd2c2950ba67e4204f1de"
+  },
+  {
+    "id": "usc-2022-41-s1321",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title41/html/USCODE-2022-title41-subtitleI-divsnB-chap13-subchapIII-sec1321.htm",
+    "file": "sources/law/2022-41-s1321.html",
+    "edition": "2022",
+    "retrieved": "2026-10-10",
+    "sha256": "bb7cfc3966efe95389613fcd3eb69eb8805a7c063e80de53ece535b7a07b0a49"
+  },
+  {
+    "id": "usc-2022-41-s1322",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title41/html/USCODE-2022-title41-subtitleI-divsnB-chap13-subchapIII-sec1322.htm",
+    "file": "sources/law/2022-41-s1322.html",
+    "edition": "2022",
+    "retrieved": "2026-10-10",
+    "sha256": "836d389e3c4ccc70736809a7bd3bc7fea32035232c0da3f1b215ccd658dbd0ae"
+  },
+  {
+    "id": "usc-2022-41-s1323",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title41/html/USCODE-2022-title41-subtitleI-divsnB-chap13-subchapIII-sec1323.htm",
+    "file": "sources/law/2022-41-s1323.html",
+    "edition": "2022",
+    "retrieved": "2026-10-10",
+    "sha256": "d48023925b1c310f09e2aad3ffcd35d35bfc94afda1e34515ad6de301367441b"
+  },
+  {
+    "id": "usc-2022-41-s1324",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title41/html/USCODE-2022-title41-subtitleI-divsnB-chap13-subchapIII-sec1324.htm",
+    "file": "sources/law/2022-41-s1324.html",
+    "edition": "2022",
+    "retrieved": "2026-10-10",
+    "sha256": "25d8719da28b770d46bfbefd92e7122b49e3eba5fec8be738113772d32ef86d3"
+  },
+  {
+    "id": "usc-2022-41-s1325",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title41/html/USCODE-2022-title41-subtitleI-divsnB-chap13-subchapIII-sec1325.htm",
+    "file": "sources/law/2022-41-s1325.html",
+    "edition": "2022",
+    "retrieved": "2026-10-10",
+    "sha256": "23c4b47e6511e2276c37c6c4dddc9aa10cbca4511dee05f1d61daac3980e7618"
+  },
+  {
+    "id": "usc-2022-41-s1326",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title41/html/USCODE-2022-title41-subtitleI-divsnB-chap13-subchapIII-sec1326.htm",
+    "file": "sources/law/2022-41-s1326.html",
+    "edition": "2022",
+    "retrieved": "2026-10-10",
+    "sha256": "8ef858bc3cf01a2af2cd47d731c447ba8a2aff242a3f6663779e1e8b56c960ad"
+  },
+  {
+    "id": "usc-2022-41-s1327",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title41/html/USCODE-2022-title41-subtitleI-divsnB-chap13-subchapIII-sec1327.htm",
+    "file": "sources/law/2022-41-s1327.html",
+    "edition": "2022",
+    "retrieved": "2026-10-10",
+    "sha256": "e4a44d17f0d2cfeef86aafbcf61e1f71ba1ce005db61f181bc234468feb271ef"
+  },
+  {
+    "id": "usc-2022-41-s1328",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title41/html/USCODE-2022-title41-subtitleI-divsnB-chap13-subchapIII-sec1328.htm",
+    "file": "sources/law/2022-41-s1328.html",
+    "edition": "2022",
+    "retrieved": "2026-10-10",
+    "sha256": "e085978a55b56c808284064b50bcafea4dfec4a8de42c5a28aaa1b664369d538"
+  },
+  {
+    "id": "usc-2024-41-s1321",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title41/html/USCODE-2024-title41-subtitleI-divsnB-chap13-subchapIII-sec1321.htm",
+    "file": "sources/law/2024-41-s1321.html",
+    "edition": "2024",
+    "retrieved": "2026-10-10",
+    "sha256": "0f840d6408139cec454da51de32b13556773673d60923bc152dda88950a9c427"
+  },
+  {
+    "id": "usc-2024-41-s1322",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title41/html/USCODE-2024-title41-subtitleI-divsnB-chap13-subchapIII-sec1322.htm",
+    "file": "sources/law/2024-41-s1322.html",
+    "edition": "2024",
+    "retrieved": "2026-10-10",
+    "sha256": "e3aae8e1b1364a5dcdf75e38b6a7f1784cf67e823fe3c856553e5949fa03e069"
+  },
+  {
+    "id": "usc-2024-41-s1323",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title41/html/USCODE-2024-title41-subtitleI-divsnB-chap13-subchapIII-sec1323.htm",
+    "file": "sources/law/2024-41-s1323.html",
+    "edition": "2024",
+    "retrieved": "2026-10-10",
+    "sha256": "2b2b48875471ad215a7db82699f2e4a35b6db5aa7cd785bf8dafa0b9ff4349db"
+  },
+  {
+    "id": "usc-2024-41-s1324",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title41/html/USCODE-2024-title41-subtitleI-divsnB-chap13-subchapIII-sec1324.htm",
+    "file": "sources/law/2024-41-s1324.html",
+    "edition": "2024",
+    "retrieved": "2026-10-10",
+    "sha256": "4985bdc8a32654ad696b517fb18ca12f0e42f1fd9b2e0298ca194e902e8b0a54"
+  },
+  {
+    "id": "usc-2024-41-s1325",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title41/html/USCODE-2024-title41-subtitleI-divsnB-chap13-subchapIII-sec1325.htm",
+    "file": "sources/law/2024-41-s1325.html",
+    "edition": "2024",
+    "retrieved": "2026-10-10",
+    "sha256": "43a281108d942fc8ae0ebdd14a6eec98d1b537a36552edf1057f5679df982303"
+  },
+  {
+    "id": "usc-2024-41-s1326",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title41/html/USCODE-2024-title41-subtitleI-divsnB-chap13-subchapIII-sec1326.htm",
+    "file": "sources/law/2024-41-s1326.html",
+    "edition": "2024",
+    "retrieved": "2026-10-10",
+    "sha256": "1abddb6b7579b418611dd77a55d3bcf119cdf22ed10bdd994bdf6bdce51faf09"
+  },
+  {
+    "id": "usc-2024-41-s1327",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title41/html/USCODE-2024-title41-subtitleI-divsnB-chap13-subchapIII-sec1327.htm",
+    "file": "sources/law/2024-41-s1327.html",
+    "edition": "2024",
+    "retrieved": "2026-10-10",
+    "sha256": "c8f3dc188a381f2fd1a4ca24ec950455306e76b04ff8ad5573c6da26cb41abab"
+  },
+  {
+    "id": "usc-2024-41-s1328",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title41/html/USCODE-2024-title41-subtitleI-divsnB-chap13-subchapIII-sec1328.htm",
+    "file": "sources/law/2024-41-s1328.html",
+    "edition": "2024",
+    "retrieved": "2026-10-10",
+    "sha256": "0888c1a446b666ff4736e013581fd037dfcd54ab573f10d916c70f277ad1c8d7"
+  },
+  {
+    "id": "119s766enr",
+    "url": "https://www.govinfo.gov/content/pkg/BILLS-119s766enr/html/BILLS-119s766enr.htm",
+    "file": "sources/law/119s766enr.html",
+    "edition": "Enrolled bill",
+    "retrieved": "2026-10-10",
+    "sha256": "1b676d0eac28fe4545be4ef8a7d0833b64732a83b9fc6959d17aa24ee91f6cf3"
+  },
+  {
+    "id": "119hr5345enr",
+    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5345enr/html/BILLS-119hr5345enr.htm",
+    "file": "sources/law/119hr5345enr.html",
+    "edition": "Enrolled bill",
+    "retrieved": "2026-10-10",
+    "sha256": "2d7d868a10caa29a54c8db685741e7679e39dafc8c7ea7d4d0e1c0cec377b84c"
+  },
+  {
+    "id": "ig-act-1978",
+    "file": "sources/law/ig1978.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg1101.pdf",
+    "edition": "1978-10-12",
+    "retrieved": "2026-10-10",
+    "sha256": "53ff173c62e9131ce551120bd3257c57f447c67318bea853ffa232a592f4790b"
+  },
+  {
+    "id": "acts-approved-2026",
+    "file": "sources/law/acts-approved-2026.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/DCPD-2026ACTSAPPROVED/pdf/DCPD-2026ACTSAPPROVED.pdf",
+    "edition": "List ending September 30, 2026",
+    "retrieved": "2026-10-10",
+    "sha256": "140c0ed199f45ec3acb72949ff29a92451ae726f4e45b6a79f2ba632074a7d89"
+  },
+  {
+    "id": "olrc-release-index",
+    "file": "sources/law/release-index.html",
+    "url": "https://uscode.house.gov/download/download.html",
+    "edition": "119-118",
+    "retrieved": "2026-10-10",
+    "sha256": "c3593a629689d71ad428bd12a454df14dafd474295c9f5fe2baa696398db1a2a"
+  }
+]

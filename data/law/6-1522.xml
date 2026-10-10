@@ -1,0 +1,31 @@
+<ns0:section xmlns:ns0="http://xml.house.gov/schemas/uslm/1.0" style="-uslm-lc:I80" id="id2bf5425f-ac5f-11f1-b0ce-ef1e194b7b04" identifier="/us/usc/t6/s1522"><ns0:num value="1522">§ 1522.</ns0:num><ns0:heading> Advanced internal defenses</ns0:heading><ns0:subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id2bf54260-ac5f-11f1-b0ce-ef1e194b7b04" identifier="/us/usc/t6/s1522/a"><ns0:num value="a" class="bold">(a)</ns0:num><ns0:heading class="bold"> Advanced network security tools</ns0:heading><ns0:paragraph style="-uslm-lc:I79" class="indent3 firstIndent-2" id="id2bf54261-ac5f-11f1-b0ce-ef1e194b7b04" identifier="/us/usc/t6/s1522/a/1"><ns0:num value="1" class="bold">(1)</ns0:num><ns0:heading class="bold"> In general</ns0:heading><ns0:content><ns0:p style="-uslm-lc:I12" class="indent1">The Secretary shall include, in the efforts of the Department to continuously diagnose and mitigate cybersecurity risks, advanced network security tools to improve visibility of network activity, including through the use of commercial and free or open source tools, and to detect and mitigate intrusions and anomalous activity.</ns0:p>
+</ns0:content>
+</ns0:paragraph>
+<ns0:paragraph style="-uslm-lc:I79" class="indent3 firstIndent-2" id="id2bf54262-ac5f-11f1-b0ce-ef1e194b7b04" identifier="/us/usc/t6/s1522/a/2"><ns0:num value="2" class="bold">(2)</ns0:num><ns0:heading class="bold"> Development of plan</ns0:heading><ns0:content><ns0:p style="-uslm-lc:I12" class="indent1">The Director shall develop and the Secretary shall implement a plan to ensure that each agency utilizes advanced network security tools, including those described in paragraph (1), to detect and mitigate intrusions and anomalous activity.</ns0:p>
+</ns0:content>
+</ns0:paragraph>
+</ns0:subsection>
+<ns0:subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id2bf54263-ac5f-11f1-b0ce-ef1e194b7b04" identifier="/us/usc/t6/s1522/b"><ns0:num value="b" class="bold">(b)</ns0:num><ns0:heading class="bold"> Prioritizing advanced security tools</ns0:heading><ns0:chapeau style="-uslm-lc:I11" class="indent0">The Director and the Secretary, in consultation with appropriate agencies, shall—</ns0:chapeau><ns0:paragraph style="-uslm-lc:I12" class="indent1" id="id2bf54264-ac5f-11f1-b0ce-ef1e194b7b04" identifier="/us/usc/t6/s1522/b/1"><ns0:num value="1">(1)</ns0:num><ns0:content> review and update Government-wide policies and programs to ensure appropriate prioritization and use of network security monitoring tools within agency networks; and</ns0:content>
+</ns0:paragraph>
+<ns0:paragraph style="-uslm-lc:I12" class="indent1" id="id2bf54265-ac5f-11f1-b0ce-ef1e194b7b04" identifier="/us/usc/t6/s1522/b/2"><ns0:num value="2">(2)</ns0:num><ns0:content> brief appropriate congressional committees on such prioritization and use.</ns0:content>
+</ns0:paragraph>
+</ns0:subsection>
+<ns0:subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id2bf54266-ac5f-11f1-b0ce-ef1e194b7b04" identifier="/us/usc/t6/s1522/c"><ns0:num value="c" class="bold">(c)</ns0:num><ns0:heading class="bold"> Improved metrics</ns0:heading><ns0:content><ns0:p style="-uslm-lc:I11" class="indent0">The Secretary, in collaboration with the Director, shall review and update the metrics used to measure security under <ns0:ref href="/us/usc/t44/s3554">section 3554 of title 44</ns0:ref> to include measures of intrusion and incident detection and response times.</ns0:p>
+</ns0:content>
+</ns0:subsection>
+<ns0:subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id2bf54267-ac5f-11f1-b0ce-ef1e194b7b04" identifier="/us/usc/t6/s1522/d"><ns0:num value="d" class="bold">(d)</ns0:num><ns0:heading class="bold"> Transparency and accountability</ns0:heading><ns0:content><ns0:p style="-uslm-lc:I11" class="indent0">The Director, in consultation with the Secretary, shall increase transparency to the public on agency cybersecurity posture, including by increasing the number of metrics available on Federal Government performance websites and, to the greatest extent practicable, displaying metrics for department components, small agencies, and micro-agencies.</ns0:p>
+</ns0:content>
+</ns0:subsection>
+<ns0:subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id2bf54268-ac5f-11f1-b0ce-ef1e194b7b04" identifier="/us/usc/t6/s1522/e"><ns0:num value="e" class="bold">(e)</ns0:num><ns0:heading class="bold"> Omitted</ns0:heading><ns0:content />
+</ns0:subsection>
+<ns0:subsection style="-uslm-lc:I19" class="indent2 firstIndent-2" id="id2bf54269-ac5f-11f1-b0ce-ef1e194b7b04" identifier="/us/usc/t6/s1522/f"><ns0:num value="f" class="bold">(f)</ns0:num><ns0:heading class="bold"> Exception</ns0:heading><ns0:content><ns0:p style="-uslm-lc:I11" class="indent0">The requirements under this section shall not apply to the Department of Defense, a national security system, or an element of the intelligence community.</ns0:p>
+</ns0:content>
+</ns0:subsection>
+<ns0:sourceCredit id="id2bf5426a-ac5f-11f1-b0ce-ef1e194b7b04">(<ns0:ref href="/us/pl/114/113/dN/tII/s224">Pub. L. 114–113, div. N, title II, § 224</ns0:ref>, <ns0:date date="2015-12-18">Dec. 18, 2015</ns0:date>, <ns0:ref href="/us/stat/129/2967">129 Stat. 2967</ns0:ref>.)</ns0:sourceCredit>
+<ns0:notes type="uscNote" id="id2bf5426b-ac5f-11f1-b0ce-ef1e194b7b04">
+<ns0:note style="-uslm-lc:I74" role="crossHeading" topic="editorialNotes" id="id2bf5426c-ac5f-11f1-b0ce-ef1e194b7b04"><ns0:heading class="centered"><ns0:b>Editorial Notes</ns0:b></ns0:heading></ns0:note>
+<ns0:note style="-uslm-lc:I76" topic="codification" id="id2bf5426d-ac5f-11f1-b0ce-ef1e194b7b04"><ns0:heading class="centered smallCaps">Codification</ns0:heading>
+<ns0:p style="-uslm-lc:I21" class="indent0">Section is comprised of <ns0:ref href="/us/pl/114/113/dN/tII/s224">section 224 of title II of div. N of Pub. L. 114–113</ns0:ref>. Subsec. (e) of <ns0:ref href="/us/pl/114/113/dN/tII/s224">section 224 of title II of div. N of Pub. L. 114–113</ns0:ref> amended <ns0:ref href="/us/usc/t44/s3553">section 3553 of Title 44</ns0:ref>, Public Printing and Documents.</ns0:p>
+</ns0:note>
+</ns0:notes>
+</ns0:section>

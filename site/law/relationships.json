@@ -1,0 +1,836 @@
+[
+  {
+    "provision": "44-3504",
+    "document": "a130-2016",
+    "relationship": "Implements information-management policy",
+    "locator": "§§5, 8–9"
+  },
+  {
+    "provision": "44-3506",
+    "document": "a130-2016",
+    "relationship": "Implements agency responsibilities",
+    "locator": "§5"
+  },
+  {
+    "provision": "44-3553",
+    "document": "a130-2016",
+    "relationship": "Implements security policy",
+    "locator": "§6(b); Appendix I"
+  },
+  {
+    "provision": "44-3553",
+    "document": "m-17-12",
+    "relationship": "Implements breach-response policy",
+    "locator": "Breach response"
+  },
+  {
+    "provision": "44-3554",
+    "document": "a130-2016",
+    "relationship": "Implements the agency security program",
+    "locator": "§5(f); Appendix I"
+  },
+  {
+    "provision": "44-3554",
+    "document": "sp800372",
+    "relationship": "Risk-management implementation guidance",
+    "locator": "Risk Management Framework"
+  },
+  {
+    "provision": "44-3554",
+    "document": "sp800535",
+    "relationship": "Control catalogue used in implementation",
+    "locator": "Security and privacy controls"
+  },
+  {
+    "provision": "44-3554",
+    "document": "sp800137",
+    "relationship": "Continuous-monitoring guidance",
+    "locator": "Information security continuous monitoring"
+  },
+  {
+    "provision": "44-3555",
+    "document": "a130-2016",
+    "relationship": "Implements independent evaluations",
+    "locator": "Appendix I §4(m)"
+  },
+  {
+    "provision": "44-3607",
+    "document": "a130-2016",
+    "relationship": "Definitions incorporated by statute",
+    "locator": "§10"
+  },
+  {
+    "provision": "44-3607",
+    "document": "sp800145",
+    "relationship": "Cloud definition incorporated by statute",
+    "locator": "Definition of cloud computing"
+  },
+  {
+    "provision": "44-3614",
+    "document": "m-24-15",
+    "relationship": "Implements the FedRAMP statute",
+    "locator": "OMB guidance"
+  },
+  {
+    "provision": "15-278g-3",
+    "document": "fips199",
+    "relationship": "Standards framework product",
+    "locator": "Security categorization"
+  },
+  {
+    "provision": "15-278g-3",
+    "document": "fips200",
+    "relationship": "Standards framework product",
+    "locator": "Minimum security requirements"
+  },
+  {
+    "provision": "40-11331",
+    "document": "fips199",
+    "relationship": "Mandatory standard",
+    "locator": "Applicability"
+  },
+  {
+    "provision": "40-11331",
+    "document": "fips200",
+    "relationship": "Mandatory standard",
+    "locator": "Applicability"
+  },
+  {
+    "provision": "5-552a",
+    "document": "a130-2016",
+    "relationship": "Implements privacy management",
+    "locator": "Appendix II"
+  },
+  {
+    "provision": "44-3613",
+    "document": "m-24-15",
+    "relationship": "Agency implementation guidance",
+    "locator": "FedRAMP policy"
+  },
+  {
+    "provision": "44-3609",
+    "document": "m-24-15",
+    "relationship": "Program implementation guidance",
+    "locator": "GSA responsibilities"
+  },
+  {
+    "provision": "40-11319",
+    "document": "a130-2016",
+    "relationship": "Implements CIO and investment responsibilities",
+    "locator": "§5(b) and §5(d)"
+  },
+  {
+    "provision": "41-1326",
+    "document": "a130-2016",
+    "relationship": "Earlier related acquisition and security policy",
+    "locator": "§5(d); Appendix I §4(j). The circular predates this 2018 statute."
+  },
+  {
+    "provision": "44-3501",
+    "expectation": "a130-1",
+    "relationship": "related statutory authority",
+    "locator": "§1"
+  },
+  {
+    "provision": "44-3504",
+    "expectation": "a130-1",
+    "relationship": "related statutory authority",
+    "locator": "§1"
+  },
+  {
+    "provision": "44-3506",
+    "expectation": "a130-2",
+    "relationship": "related statutory authority",
+    "locator": "§2"
+  },
+  {
+    "provision": "44-3502",
+    "expectation": "a130-3",
+    "relationship": "related statutory authority",
+    "locator": "§3"
+  },
+  {
+    "provision": "44-3552",
+    "expectation": "a130-3",
+    "relationship": "related statutory authority",
+    "locator": "§3"
+  },
+  {
+    "provision": "44-3557",
+    "expectation": "a130-3",
+    "relationship": "related statutory authority",
+    "locator": "§3"
+  },
+  {
+    "provision": "44-3501",
+    "expectation": "a130-4",
+    "relationship": "related statutory authority",
+    "locator": "§4"
+  },
+  {
+    "provision": "44-3506",
+    "expectation": "a130-4",
+    "relationship": "related statutory authority",
+    "locator": "§4"
+  },
+  {
+    "provision": "44-3506",
+    "expectation": "a130-5",
+    "relationship": "related statutory authority",
+    "locator": "§5"
+  },
+  {
+    "provision": "40-11312",
+    "expectation": "a130-5",
+    "relationship": "related statutory authority",
+    "locator": "§5"
+  },
+  {
+    "provision": "44-3506",
+    "expectation": "a130-6",
+    "relationship": "related statutory authority",
+    "locator": "§5(a)(1)"
+  },
+  {
+    "provision": "40-11313",
+    "expectation": "a130-6",
+    "relationship": "related statutory authority",
+    "locator": "§5(a)(1)"
+  },
+  {
+    "provision": "40-11315",
+    "expectation": "a130-7",
+    "relationship": "related statutory authority",
+    "locator": "§5(a)(2)"
+  },
+  {
+    "provision": "40-11312",
+    "expectation": "a130-8",
+    "relationship": "related statutory authority",
+    "locator": "§5(a)(3)"
+  },
+  {
+    "provision": "40-11319",
+    "expectation": "a130-8",
+    "relationship": "related statutory authority",
+    "locator": "§5(a)(3)"
+  },
+  {
+    "provision": "44-3554",
+    "expectation": "a130-9",
+    "relationship": "related statutory authority",
+    "locator": "§5(a)(4)"
+  },
+  {
+    "provision": "40-11315",
+    "expectation": "a130-10",
+    "relationship": "related statutory authority",
+    "locator": "§5(b)"
+  },
+  {
+    "provision": "40-11319",
+    "expectation": "a130-10",
+    "relationship": "related statutory authority",
+    "locator": "§5(b)"
+  },
+  {
+    "provision": "40-11315",
+    "expectation": "a130-11",
+    "relationship": "related statutory authority",
+    "locator": "§5(c)"
+  },
+  {
+    "provision": "44-3506",
+    "expectation": "a130-11",
+    "relationship": "related statutory authority",
+    "locator": "§5(c)"
+  },
+  {
+    "provision": "40-11314",
+    "expectation": "a130-12",
+    "relationship": "related statutory authority",
+    "locator": "§5(d)(1)"
+  },
+  {
+    "provision": "40-11319",
+    "expectation": "a130-12",
+    "relationship": "related statutory authority",
+    "locator": "§5(d)(1)"
+  },
+  {
+    "provision": "40-11319",
+    "expectation": "a130-13",
+    "relationship": "related statutory authority",
+    "locator": "§5(d)(2)"
+  },
+  {
+    "provision": "40-11312",
+    "expectation": "a130-14",
+    "relationship": "related statutory authority",
+    "locator": "§5(d)(3)"
+  },
+  {
+    "provision": "40-11313",
+    "expectation": "a130-14",
+    "relationship": "related statutory authority",
+    "locator": "§5(d)(3)"
+  },
+  {
+    "provision": "40-11312",
+    "expectation": "a130-15",
+    "relationship": "related statutory authority",
+    "locator": "§5(d)(4)"
+  },
+  {
+    "provision": "40-11319",
+    "expectation": "a130-15",
+    "relationship": "related statutory authority",
+    "locator": "§5(d)(4)"
+  },
+  {
+    "provision": "40-11312",
+    "expectation": "a130-16",
+    "relationship": "related statutory authority",
+    "locator": "§5(d)(5)"
+  },
+  {
+    "provision": "40-11313",
+    "expectation": "a130-16",
+    "relationship": "related statutory authority",
+    "locator": "§5(d)(5)"
+  },
+  {
+    "provision": "44-3506",
+    "expectation": "a130-17",
+    "relationship": "related statutory authority",
+    "locator": "§5(e)"
+  },
+  {
+    "provision": "44-3511",
+    "expectation": "a130-17",
+    "relationship": "related statutory authority",
+    "locator": "§5(e)"
+  },
+  {
+    "provision": "5-552a",
+    "expectation": "a130-18",
+    "relationship": "related statutory authority",
+    "locator": "§5(f)(1)"
+  },
+  {
+    "provision": "44-3506",
+    "expectation": "a130-18",
+    "relationship": "related statutory authority",
+    "locator": "§5(f)(1)"
+  },
+  {
+    "provision": "44-3554",
+    "expectation": "a130-19",
+    "relationship": "related statutory authority",
+    "locator": "§5(f)(2)"
+  },
+  {
+    "provision": "44-3504",
+    "expectation": "a130-20",
+    "relationship": "related statutory authority",
+    "locator": "§5(g)"
+  },
+  {
+    "provision": "44-3506",
+    "expectation": "a130-21",
+    "relationship": "related statutory authority",
+    "locator": "§5(h)"
+  },
+  {
+    "provision": "44-3506",
+    "expectation": "a130-22",
+    "relationship": "related statutory authority",
+    "locator": "§5(i)"
+  },
+  {
+    "provision": "44-3554",
+    "expectation": "a130-22",
+    "relationship": "related statutory authority",
+    "locator": "§5(i)"
+  },
+  {
+    "provision": "15-278g-3",
+    "expectation": "a130-23",
+    "relationship": "related statutory authority",
+    "locator": "§6(a)"
+  },
+  {
+    "provision": "15-278g-4",
+    "expectation": "a130-23",
+    "relationship": "related statutory authority",
+    "locator": "§6(a)"
+  },
+  {
+    "provision": "40-11331",
+    "expectation": "a130-23",
+    "relationship": "related statutory authority",
+    "locator": "§6(a)"
+  },
+  {
+    "provision": "44-3553",
+    "expectation": "a130-24",
+    "relationship": "related statutory authority",
+    "locator": "§6(b)"
+  },
+  {
+    "provision": "44-3556",
+    "expectation": "a130-24",
+    "relationship": "related statutory authority",
+    "locator": "§6(b)"
+  },
+  {
+    "provision": "6-652",
+    "expectation": "a130-24",
+    "relationship": "related statutory authority",
+    "locator": "§6(b)"
+  },
+  {
+    "provision": "44-3603",
+    "expectation": "a130-25",
+    "relationship": "related statutory authority",
+    "locator": "§6(c)"
+  },
+  {
+    "provision": "5-552a",
+    "expectation": "a130-26",
+    "relationship": "related statutory authority",
+    "locator": "§6(d)"
+  },
+  {
+    "provision": "40-11314",
+    "expectation": "a130-27",
+    "relationship": "related statutory authority",
+    "locator": "§6(e)"
+  },
+  {
+    "provision": "44-3602",
+    "expectation": "a130-27",
+    "relationship": "related statutory authority",
+    "locator": "§6(e)"
+  },
+  {
+    "provision": "44-3506",
+    "expectation": "a130-28",
+    "relationship": "related statutory authority",
+    "locator": "§6(f)"
+  },
+  {
+    "provision": "44-3501",
+    "expectation": "a130-29",
+    "relationship": "related statutory authority",
+    "locator": "§6(g)"
+  },
+  {
+    "provision": "44-3504",
+    "expectation": "a130-30",
+    "relationship": "related statutory authority",
+    "locator": "§7"
+  },
+  {
+    "provision": "44-3504",
+    "expectation": "a130-31",
+    "relationship": "related statutory authority",
+    "locator": "§8"
+  },
+  {
+    "provision": "40-11303",
+    "expectation": "a130-31",
+    "relationship": "related statutory authority",
+    "locator": "§8"
+  },
+  {
+    "provision": "44-3504",
+    "expectation": "a130-32",
+    "relationship": "related statutory authority",
+    "locator": "§9"
+  },
+  {
+    "provision": "44-3553",
+    "expectation": "a130-32",
+    "relationship": "related statutory authority",
+    "locator": "§9"
+  },
+  {
+    "provision": "40-11319",
+    "expectation": "a130-32",
+    "relationship": "related statutory authority",
+    "locator": "§9"
+  },
+  {
+    "provision": "5-552a",
+    "expectation": "a130-32",
+    "relationship": "related statutory authority",
+    "locator": "§9"
+  },
+  {
+    "provision": "44-3607",
+    "expectation": "a130-33",
+    "relationship": "related statutory authority",
+    "locator": "§10"
+  },
+  {
+    "provision": "44-3504",
+    "expectation": "a130-34",
+    "relationship": "related statutory authority",
+    "locator": "§11"
+  },
+  {
+    "provision": "44-3554",
+    "expectation": "a130-35",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §1"
+  },
+  {
+    "provision": "44-3554",
+    "expectation": "a130-36",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §2"
+  },
+  {
+    "provision": "5-552a",
+    "expectation": "a130-36",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §2"
+  },
+  {
+    "provision": "44-3554",
+    "expectation": "a130-37",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §3"
+  },
+  {
+    "provision": "5-552a",
+    "expectation": "a130-37",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §3"
+  },
+  {
+    "provision": "44-3554",
+    "expectation": "a130-38",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §4(a)"
+  },
+  {
+    "provision": "15-278g-3",
+    "expectation": "a130-38",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §4(a)"
+  },
+  {
+    "provision": "40-11331",
+    "expectation": "a130-38",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §4(a)"
+  },
+  {
+    "provision": "44-3554",
+    "expectation": "a130-39",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §4(b)"
+  },
+  {
+    "provision": "40-11312",
+    "expectation": "a130-39",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §4(b)"
+  },
+  {
+    "provision": "44-3554",
+    "expectation": "a130-40",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §4(c)"
+  },
+  {
+    "provision": "15-278g-3",
+    "expectation": "a130-40",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §4(c)"
+  },
+  {
+    "provision": "44-3554",
+    "expectation": "a130-41",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §4(d)"
+  },
+  {
+    "provision": "5-552a",
+    "expectation": "a130-42",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §4(e)"
+  },
+  {
+    "provision": "44-3506",
+    "expectation": "a130-42",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §4(e)"
+  },
+  {
+    "provision": "44-3554",
+    "expectation": "a130-43",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §4(f)"
+  },
+  {
+    "provision": "44-3556",
+    "expectation": "a130-43",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §4(f)"
+  },
+  {
+    "provision": "44-3554",
+    "expectation": "a130-44",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §4(g)"
+  },
+  {
+    "provision": "44-3554",
+    "expectation": "a130-45",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §4(h)"
+  },
+  {
+    "provision": "44-3554",
+    "expectation": "a130-46",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §4(i)"
+  },
+  {
+    "provision": "40-11331",
+    "expectation": "a130-46",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §4(i)"
+  },
+  {
+    "provision": "44-3554",
+    "expectation": "a130-47",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §4(j)"
+  },
+  {
+    "provision": "5-552a",
+    "expectation": "a130-47",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §4(j)"
+  },
+  {
+    "provision": "44-3554",
+    "expectation": "a130-48",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §4(k)"
+  },
+  {
+    "provision": "44-3554",
+    "expectation": "a130-49",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §4(l)"
+  },
+  {
+    "provision": "44-3555",
+    "expectation": "a130-50",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §4(m)"
+  },
+  {
+    "provision": "15-278g-3",
+    "expectation": "a130-51",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §5(a)"
+  },
+  {
+    "provision": "40-11331",
+    "expectation": "a130-51",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §5(a)"
+  },
+  {
+    "provision": "44-3554",
+    "expectation": "a130-52",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §5(b)–(c)"
+  },
+  {
+    "provision": "44-3554",
+    "expectation": "a130-53",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §5(d)–(e)"
+  },
+  {
+    "provision": "15-278g-3",
+    "expectation": "a130-53",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §5(d)–(e)"
+  },
+  {
+    "provision": "44-3554",
+    "expectation": "a130-54",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §5(f)–(j)"
+  },
+  {
+    "provision": "44-3554",
+    "expectation": "a130-55",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §5(k)–(q)"
+  },
+  {
+    "provision": "40-11331",
+    "expectation": "a130-55",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §5(k)–(q)"
+  },
+  {
+    "provision": "44-3554",
+    "expectation": "a130-56",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §5(r)–(s)"
+  },
+  {
+    "provision": "44-3558",
+    "expectation": "a130-57",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §6"
+  },
+  {
+    "provision": "15-278g-3",
+    "expectation": "a130-58",
+    "relationship": "related statutory authority",
+    "locator": "Appendix I §7"
+  },
+  {
+    "provision": "5-552a",
+    "expectation": "a130-59",
+    "relationship": "related statutory authority",
+    "locator": "Appendix II §§1–2"
+  },
+  {
+    "provision": "44-3506",
+    "expectation": "a130-59",
+    "relationship": "related statutory authority",
+    "locator": "Appendix II §§1–2"
+  },
+  {
+    "provision": "5-552a",
+    "expectation": "a130-60",
+    "relationship": "related statutory authority",
+    "locator": "Appendix II §3"
+  },
+  {
+    "provision": "5-552a",
+    "expectation": "a130-61",
+    "relationship": "related statutory authority",
+    "locator": "Appendix II §4"
+  },
+  {
+    "provision": "44-3506",
+    "expectation": "a130-61",
+    "relationship": "related statutory authority",
+    "locator": "Appendix II §4"
+  },
+  {
+    "provision": "5-552a",
+    "expectation": "a130-62",
+    "relationship": "related statutory authority",
+    "locator": "Appendix II §5(a)"
+  },
+  {
+    "provision": "44-3506",
+    "expectation": "a130-62",
+    "relationship": "related statutory authority",
+    "locator": "Appendix II §5(a)"
+  },
+  {
+    "provision": "5-552a",
+    "expectation": "a130-63",
+    "relationship": "related statutory authority",
+    "locator": "Appendix II §5(b)"
+  },
+  {
+    "provision": "5-552a",
+    "expectation": "a130-64",
+    "relationship": "related statutory authority",
+    "locator": "Appendix II §5(c)"
+  },
+  {
+    "provision": "40-11312",
+    "expectation": "a130-64",
+    "relationship": "related statutory authority",
+    "locator": "Appendix II §5(c)"
+  },
+  {
+    "provision": "5-552a",
+    "expectation": "a130-65",
+    "relationship": "related statutory authority",
+    "locator": "Appendix II §5(d)"
+  },
+  {
+    "provision": "44-3501",
+    "expectation": "a130-66",
+    "relationship": "related statutory authority",
+    "locator": "Appendix II §5(e)"
+  },
+  {
+    "provision": "5-552a",
+    "expectation": "a130-66",
+    "relationship": "related statutory authority",
+    "locator": "Appendix II §5(e)"
+  },
+  {
+    "provision": "44-3506",
+    "expectation": "a130-67",
+    "relationship": "related statutory authority",
+    "locator": "Appendix II §5(f)"
+  },
+  {
+    "provision": "5-552a",
+    "expectation": "a130-68",
+    "relationship": "related statutory authority",
+    "locator": "Appendix II §5(g)"
+  },
+  {
+    "provision": "44-3506",
+    "expectation": "a130-68",
+    "relationship": "related statutory authority",
+    "locator": "Appendix II §5(g)"
+  },
+  {
+    "provision": "5-552a",
+    "expectation": "a130-69",
+    "relationship": "related statutory authority",
+    "locator": "Appendix II §5(h)"
+  },
+  {
+    "provision": "44-3554",
+    "expectation": "a130-69",
+    "relationship": "related statutory authority",
+    "locator": "Appendix II §5(h)"
+  },
+  {
+    "provision": "5-552a",
+    "expectation": "a130-70",
+    "relationship": "related statutory authority",
+    "locator": "Appendix II §5(i)"
+  },
+  {
+    "provision": "44-3554",
+    "expectation": "a130-70",
+    "relationship": "related statutory authority",
+    "locator": "Appendix II §5(i)"
+  },
+  {
+    "provision": "44-3572",
+    "expectation": "a130-71",
+    "relationship": "related statutory authority",
+    "locator": "Appendix II §6"
+  },
+  {
+    "provision": "44-3576",
+    "expectation": "a130-71",
+    "relationship": "related statutory authority",
+    "locator": "Appendix II §6"
+  }
+]

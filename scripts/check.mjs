@@ -7,3 +7,6 @@ let readers=0;for(const r of records.filter(r=>r.reader)){const file=path.join(r
 for(const [id,start,end] of [['a130-1985',288,309],['fips12',34,37],['fedramp-act',1055,1064],['gisra',268,277],['fisma2002',48,63],['clinger',495,519]]){const r=records.find(r=>r.id===id);assert.equal(r.reader_pages[0],start);assert.equal(r.reader_pages.at(-1),end);}
 for(const [id,excluded]of [['fips12','4.7. BOB'],['gisra','Subtitle H'],['fisma2002','TITLE IV'],['fedramp-act','Subtitle D']])assert(!fs.readFileSync(path.join(root,records.find(r=>r.id===id).reader),'utf8').includes(excluded),`unrelated material: ${id}`);
 console.log(JSON.stringify({readers,readerLinksAndScopes:true}));
+
+// Validate the law explorer using built-in Node APIs in GitHub Actions.
+await import("./law-check.mjs");
