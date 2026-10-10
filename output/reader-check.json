@@ -1,0 +1,17 @@
+{
+  "checks": [
+    {
+      "width": 1440,
+      "noJavaScript": true,
+      "noOverflow": true,
+      "pageNavigation": true
+    },
+    {
+      "width": 390,
+      "noJavaScript": true,
+      "noOverflow": true,
+      "pageNavigation": true
+    }
+  ],
+  "offline": true
+}

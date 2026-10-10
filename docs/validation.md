@@ -22,3 +22,10 @@ Final interaction pass: compact-table combined filters, newest-first sorting, ta
 Initial Pages runs 38057621457 and 38057629595 succeeded; public URL returned HTTP 200. Final UI revision deployment is verified in the delivery chat and output/live-check.json.
 
 Final Pages publication: commit ff792fd, Actions run 38057785165, succeeded October 10, 2026. Live HTTPS bytes for index.html, app.js, styles.css, manifest.json, original 2016 PDF and original 1994 HTML match the local release hashes. The public phone-sized table → filtered FedRAMP results → detailed record journey passed. See output/live-check.json. Final static check: 835 local links/anchors, 173 original-file hashes, zero duplicate IDs.
+
+## Responsive source-reader update — October 10, 2026
+- 160 formatted PDF readers; source/anchor crawl and exact excerpt-boundary assertions pass.
+- All 173 original SHA-256 hashes pass; raw extracts preserved.
+- Reader checks pass at 1440px and 390px without JavaScript: no viewport overflow, page-index navigation, GitHub Pages subpath, file:// reading and return to source record.
+- Existing report browser suite passes: search, combined filters, sorting, reset, timeline, print, no-JavaScript reading.
+- Self-review of representative 1985 Federal Register and older NBS reader screenshots; readable measure, clear page links, conservative OCR warning. This was self-review, not a verified transcription of every source page.
