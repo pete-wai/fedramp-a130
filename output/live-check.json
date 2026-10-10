@@ -1,0 +1,38 @@
+{
+  "url": "https://pete-wai.github.io/fedramp-a130/",
+  "deployedCommit": "ff792fd",
+  "checks": [
+    {
+      "file": "index.html",
+      "status": 200,
+      "hashMatches": true
+    },
+    {
+      "file": "app.js",
+      "status": 200,
+      "hashMatches": true
+    },
+    {
+      "file": "styles.css",
+      "status": 200,
+      "hashMatches": true
+    },
+    {
+      "file": "manifest.json",
+      "status": 200,
+      "hashMatches": true
+    },
+    {
+      "file": "sources/a130-2016.pdf",
+      "status": 200,
+      "hashMatches": true
+    },
+    {
+      "file": "sources/a130-1994-original.html",
+      "status": 200,
+      "hashMatches": true
+    }
+  ],
+  "liveMobileTableJourney": true,
+  "passed": true
+}
