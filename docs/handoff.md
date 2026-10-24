@@ -62,3 +62,11 @@ Publication authorized October 24, 2026. The report is being delivered to the ex
 ## Publication verified — October 24, 2026
 
 Published report commit `eb2eaf0e71d87407e9e30b1a6a6340d422ebd72d` through successful Pages workflow [40095459639](https://github.com/pete-wai/fedramp-a130/actions/runs/40095459639). Live report: https://pete-wai.github.io/fedramp-a130/on-behalf/index.html . Eleven live files, including HTML, assets, evidence manifests, and two source PDFs, matched tested local hashes. Live desktop (1440px) and phone (390px) checks passed for overflow, scenario selection, public-comment filtering, and source deep links. Evidence: `output/on-behalf/live-check.json`; repeat with `mise exec -- node scripts/behalf-live-check.mjs`. This supersedes the earlier local-only delivery status.
+
+## Quotation-led private-services replacement — October 24, 2026
+
+Replaced `/on-behalf/` with “Federal information in private services.” It focuses on the distinction between service purchase and commissioned system operation, the two FISMA clauses, agency information stewardship, A-130 §4(j) duties, and expressly scoped differences for nonfederal systems. The main text now contains 40 original-matched quotations, 53 sourced discussions, a nine-row comparison, and five examples. There are 42 cited sources and 45 retained library entries. Previous report anchors and source links remain valid.
+
+Read `docs/on-behalf.md` for current authoring and limits. Main analysis is in `scripts/behalf_analysis.py`; quotations in `data/on-behalf/quotations.json`. Build and static checks passed; quotation checking and existing-source protection passed; report and law-browser regressions passed. Responsive/keyboard/offline/print checks passed. Self-review only; no independent legal review. Publication is authorized; the deployment verification below records the delivered revision.
+
+Preview: `mise exec -- pnpm preview` → http://127.0.0.1:4176/on-behalf/index.html . Evidence base: `output/on-behalf/`. The legal currency and incomplete-comment-docket limits remain explicit. No primary source bytes were changed.

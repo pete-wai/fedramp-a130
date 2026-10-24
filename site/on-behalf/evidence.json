@@ -45,8 +45,8 @@
       "retrieved": "2026-10-24",
       "bytes": 493458,
       "cited_locations": [
-        "88 FR 40563\u201340565; \u00a7II.B.7, Definitions, 40571; basic clause and Alternate I; effective July 21, 2023",
-        "\u00a7II.B.7, 88 FR 40571"
+        "\u00a7II.B.7, 88 FR 40571",
+        "88 FR 40563\u201340565; \u00a7II.B.7, Definitions, 40571; basic clause and Alternate I; effective July 21, 2023"
       ]
     },
     {
@@ -61,11 +61,8 @@
       "retrieved": "2026-10-24",
       "bytes": 1313448,
       "cited_locations": [
-        "\u00a73.2, Authorization Boundary Description and System Component Inventory, pp. 19\u201321",
         "\u00a73.2",
-        "\u00a73.2, Control Implementation Details",
-        "\u00a73.2, System Operational Status; SP 800-37 Task M-7",
-        "\u00a73.2; References"
+        "\u00a73.2, System Operational Status; SP 800-37 Task M-7"
       ]
     },
     {
@@ -80,8 +77,8 @@
       "retrieved": "2026-10-24",
       "bytes": 721496,
       "cited_locations": [
-        "\u00a7\u00a71\u20133",
-        "\u00a7\u00a72\u20133"
+        "\u00a7\u00a72\u20133",
+        "\u00a7\u00a71\u20133"
       ]
     },
     {
@@ -97,9 +94,10 @@
       "bytes": 23571,
       "provenance": "Official FedRAMP/2026 repository, default branch snapshot. Retrieval date is not issuance date.",
       "cited_locations": [
-        "Agency Use Case Indicators; Single Agency Systems",
+        "Agency Use Case Indicators; Social Media & Communications; Single Agency Systems",
         "Social Media & Communications; Agency Use Case Indicators",
-        "Single Agency Systems"
+        "Single Agency Systems",
+        "Agency Use Case Indicators; Single Agency Systems"
       ]
     },
     {
@@ -114,6 +112,8 @@
       "retrieved": "2026-10-24",
       "bytes": 124736,
       "cited_locations": [
+        "FAR 52.204-21(a), definition; November 2021 clause, retrieved FAC 2026-01",
+        "FAR 52.204-21(b)(1)",
         "FAR 52.204-21(a)\u2013(c)"
       ]
     },
@@ -128,9 +128,8 @@
       "sha256": "6e9b69244d8347df4a1b6c2a70ba411afbafd55c14ea748e420c6279501878a6",
       "retrieved": "2026-10-24",
       "bytes": 49741,
-      "cited_locations": [
-        "Publication history, June 30, 2026"
-      ]
+      "cited_locations": [],
+      "provenance": " Retained from the earlier report for stable source links; not cited in this replacement."
     },
     {
       "id": "nist53status",
@@ -143,9 +142,8 @@
       "sha256": "00c4e550ba1326976657136497711dc3f4dffc86e90f0d71052a3ebdc1b4d21c",
       "retrieved": "2026-10-24",
       "bytes": 57249,
-      "cited_locations": [
-        "Planning Note, August 27, 2025"
-      ]
+      "cited_locations": [],
+      "provenance": " Retained from the earlier report for stable source links; not cited in this replacement."
     },
     {
       "id": "nist171status",
@@ -158,9 +156,8 @@
       "sha256": "a3cdded2f973b252b68e2082f794626a425c9bdbbf31ce7afb4a8ff1d90bf595",
       "retrieved": "2026-10-24",
       "bytes": 51592,
-      "cited_locations": [
-        "Publication history"
-      ]
+      "cited_locations": [],
+      "provenance": " Retained from the earlier report for stable source links; not cited in this replacement."
     },
     {
       "id": "records-cloud",
@@ -174,8 +171,9 @@
       "retrieved": "2026-10-24",
       "bytes": 52843,
       "cited_locations": [
-        "NARA Bulletin 2010-05, questions 6\u20138",
-        "Questions 6\u20138"
+        "Questions 6\u20138",
+        "NARA Bulletin 2010-05, question 6 (September 8, 2010)",
+        "NARA Bulletin 2010-05, questions 6\u20138"
       ]
     },
     {
@@ -223,17 +221,16 @@
       "retrieved": "2026-10-23",
       "provenance": "official host",
       "cited_locations": [
-        "32 CFR 2002.14(h)(1)\u2013(2)",
-        "32 CFR 2002.4(hh); 2002.14(h)",
-        "32 CFR 2002.4(hh), 2002.14(h)(1)\u2013(2)",
-        "32 CFR 2002.4(hh), 2002.14(h)",
-        "32 CFR 2002.4(h), (nn)",
-        "32 CFR 2002.14(h)(1)",
+        "32 CFR 2002.14(h)(1), 2025 annual edition",
+        "32 CFR 2002.14(h)(1)\u2013(2); 2002.2",
+        "32 CFR 2002.14(h)(2), 2025 annual edition",
+        "32 CFR 2002.14(h)(1)\u2013(2); 2002.4(hh)",
+        "32 CFR 2002.2(b)(5), 2002.14(h)(2)",
+        "32 CFR 2002.14(h)",
         "32 CFR 2002.16, 2002.18",
         "32 CFR 2002.14(f)",
-        "32 CFR 2002.14(h)",
         "32 CFR 2002.14(h)(2)",
-        "32 CFR 2002.2; 2002.14(h)"
+        "32 CFR 2002.4(hh), 2002.14(h)"
       ]
     },
     {
@@ -248,7 +245,8 @@
       "bytes": 177797,
       "retrieved": "2026-10-24",
       "cited_locations": [
-        "5 USC 552(f)(2)(B)"
+        "5 USC 552(f)(2)(B)",
+        "5 USC 552(f)(2)(B), 2024 Code edition"
       ]
     },
     {
@@ -278,13 +276,14 @@
       "retrieved": "2026-10-10",
       "provenance": "OLRC release 119-118; unchanged existing collection. Later-law verification incomplete.",
       "cited_locations": [
-        "44 USC 3554(a)(1)(A)(i)\u2013(ii), (b)",
-        "44 USC 3554(a)(1), (b)(2)",
-        "44 USC 3554(a)(1)(A)(i)",
-        "44 USC 3554(a)(1)(A)(ii), (b)",
-        "44 USC 3554(a)(1)(A)",
+        "44 USC 3554(a)(1)(A)(i)\u2013(ii); collected Code through September 30, 2026",
+        "44 USC 3554(a)(2)(A)\u2013(D), (b)(1)\u2013(8)",
+        "44 USC 3554(b)(7)",
+        "\u00a73554(a)(1)(A), (b)",
+        "\u00a73554(a)(2)(D), (b)(5)",
+        "\u00a73554(b)(7)",
         "44 USC 3554(a)\u2013(b)",
-        "44 USC 3554"
+        "44 USC 3554(a)(1)(A)"
       ]
     },
     {
@@ -344,10 +343,10 @@
       "retrieved": "2026-10-10",
       "provenance": "OLRC release 119-118; unchanged existing collection. Later-law verification incomplete.",
       "cited_locations": [
-        "5 USC 552a(a)(5), (m)",
-        "5 USC 552a(m)",
+        "5 USC 552a(a)(5), (b), (e), (m)",
         "5 USC 552a(e), (m)",
-        "5 USC 552a(b)"
+        "5 USC 552a(b)",
+        "5 USC 552a(m)"
       ]
     },
     {
@@ -376,40 +375,59 @@
       "provenance": "2016 revision; later laws and memoranda also apply.",
       "text": "../sources/a130-2016.txt",
       "cited_locations": [
-        "\u00a76(a)(1); \u00a710(22)\u2013(23); Appendix I \u00a75(r)",
         "\u00a710(22)\u2013(23)",
-        "Appendix I \u00a73(b)(2); \u00a74(j); \u00a75(r)",
-        "Appendix I \u00a75(r)",
-        "Appendix I \u00a74(j); \u00a75(r), printed pp. 25\u201326 / PDF pp. 62\u201363",
-        "\u00a710(22); Appendix I \u00a73",
+        "Appendix I \u00a74(d)(1), printed p. 7 / PDF p. 44",
+        "Appendix I \u00a74(d)(1)\u2013(8)",
+        "Appendix I \u00a74(j)(1)\u2013(2)",
+        "\u00a710(23); Appendix I \u00a75(r)",
+        "Appendix I \u00a74(j)(1), printed p. 14 / PDF p. 51",
+        "Appendix I \u00a74(j)(2), printed p. 14 / PDF p. 51",
+        "Appendix I \u00a74(j)(2)(a), printed p. 14 / PDF p. 51",
+        "Appendix I \u00a74(j)(2)(b), printed p. 14 / PDF p. 51",
+        "Appendix I \u00a74(j)(2)(c), printed p. 14 / PDF p. 51",
+        "Appendix I \u00a74(j)(2)(d), printed p. 14 / PDF p. 51",
+        "Appendix I \u00a74(j)(2)(f), printed p. 14 / PDF p. 51",
+        "Appendix I \u00a74(j)(2)(e), printed p. 14 / PDF p. 51",
+        "Appendix I \u00a75(r), printed p. 26 / PDF p. 63",
+        "Appendix I \u00a75(r), pp. 25\u201326",
+        "Appendix I \u00a74(j)(2)(b)",
+        "Appendix I \u00a74(j)(2)(c)\u2013(f)",
+        "Appendix I \u00a74(j)(2)(e)",
+        "Appendix I \u00a75(r), printed p. 25 / PDF p. 62",
+        "Appendix I \u00a74(j), \u00a75(r)",
         "\u00a75; Appendix II",
         "Appendix I \u00a74(j)",
-        "Appendix I \u00a74(j), \u00a75(r)"
+        "Appendix I \u00a75(r)",
+        "Appendix I \u00a74(j); \u00a75(r), printed pp. 25\u201326 / PDF pp. 62\u201363"
       ]
     },
     {
       "id": "sp800372",
       "title": "SP 800-37 Rev. 2: Security and Privacy RMF",
-      "date": "2018-12-01",
+      "date": "2018-12-20",
       "kind": "NIST guidance",
       "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf",
       "local": "../sources/sp800372.pdf",
       "sha256": "4f75e1136bb905a654f1bcd9eefefb4108f47597276ee5eec0688f6d96f6a01d",
       "retrieved": "2026-10-10",
-      "provenance": "Historical edition",
+      "provenance": "Historical edition Publication date in this report checked against NIST publication history or the FIPS announcement; original bytes unchanged.",
       "text": "../sources/sp800372.txt",
       "cited_locations": [
-        "\u00a72.5 and footnote 42, pp. 17\u201318; Appendix G, pp. 159\u2013161",
-        "Appendix G, pp. 157\u2013161",
-        "Appendix G, p. 160",
-        "\u00a72.5",
-        "\u00a72.5; Appendix G",
-        "\u00a7\u00a72.3\u20132.5; Appendix G",
+        "Appendix D, System Owner, p. 123 / PDF p. 142",
+        "Appendix D, Authorizing Official, p. 114 / PDF p. 133",
+        "Appendix D, p. 114; Appendix G, pp. 159\u2013160",
+        "Appendix D, Information Owner or Steward, p. 119 / PDF p. 138",
+        "\u00a72.5, footnote 42, p. 17 / PDF p. 36",
+        "Appendix G, p. 159 / PDF p. 178",
+        "Appendix G, pp. 159\u2013160",
+        "Appendix D, pp. 114, 119, 123; Appendix G",
+        "Appendix D, p. 114; Appendix G, p. 160",
         "Appendix G",
+        "Appendix G, p. 160 / PDF p. 179",
         "\u00a72.4; Appendix G",
         "Appendix G, pp. 159\u2013161",
         "\u00a7\u00a72.4\u20132.5; Appendix G",
-        "\u00a72.5, footnote 42; Appendix G, pp. 159\u2013161"
+        "\u00a72.5; Appendix G"
       ]
     },
     {
@@ -424,23 +442,24 @@
       "provenance": "Historical amendment; later editions contain further changes.",
       "text": "../sources/a130-1993.txt",
       "cited_locations": [
-        "Appendix IV, \u00a73, Analysis of \u00a76: Government Information",
-        "Appendix IV, \u00a73, Government Information",
-        "Appendix IV, Government Information"
+        "Appendix IV \u00a73, analysis of \u00a76: Government Information (1993)",
+        "Appendix IV, \u00a73, Government Information"
       ]
     },
     {
       "id": "fips200",
       "title": "FIPS 200: Minimum Security Requirements",
-      "date": "2006-03-01",
-      "kind": "NIST guidance",
+      "date": "2006-03-09",
+      "kind": "Mandatory standard",
       "url": "https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.200.pdf",
       "local": "../sources/fips200.pdf",
       "sha256": "107a9b9cdc8eccf37386aec28bbaf2dfaef5cfece17151ceabc3960423243a57",
       "retrieved": "2026-10-10",
-      "provenance": "Historical edition",
+      "provenance": "Historical edition Publication date in this report checked against NIST publication history or the FIPS announcement; original bytes unchanged.",
       "text": "../sources/fips200.txt",
       "cited_locations": [
+        "FIPS 200, announcement \u00a78, printed p. v / PDF p. 5",
+        "Announcement \u00a7\u00a76, 8; standard \u00a74",
         "\u00a7\u00a72\u20133"
       ]
     },
@@ -456,8 +475,11 @@
       "provenance": "Current applicability not assessed",
       "text": "../sources/m-24-15.txt",
       "cited_locations": [
-        "\u00a7III, Scope of FedRAMP, p. 5",
-        "\u00a7III, p. 5",
+        "\u00a7IV, footnote 7",
+        "\u00a7\u00a7III\u2013IV, footnote 7",
+        "\u00a7III, p. 5; exclusions follow this sentence",
+        "\u00a7IV, footnote 7, p. 6",
+        "\u00a7III exclusions",
         "\u00a7III",
         "\u00a7III, exclusion 1"
       ]
@@ -465,19 +487,20 @@
     {
       "id": "sp8001713",
       "title": "SP 800-171 Rev. 3: Protecting CUI",
-      "date": "2024-05-01",
+      "date": "2024-05-14",
       "kind": "NIST guidance",
       "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171r3.pdf",
       "local": "../sources/sp8001713.pdf",
       "sha256": "3e4631df8b5d61f40a6e542b52779ef30ddbbfff31e09214fa94ad6e6f5e6d08",
       "retrieved": "2026-10-10",
-      "provenance": "Historical edition",
+      "provenance": "Historical edition Publication date in this report checked against NIST publication history or the FIPS announcement; original bytes unchanged.",
       "text": "../sources/sp8001713.txt",
       "cited_locations": [
-        "\u00a71.1, pp. 1\u20132",
         "\u00a71.1",
-        "\u00a71.1, component scope and separate security domains",
-        "\u00a71.1 and footnote 8; References"
+        "\u00a71.1 and footnote 8",
+        "\u00a71.1, p. 2 / PDF p. 12; read with footnote 8",
+        "\u00a71.1, p. 2 / PDF p. 12",
+        "\u00a71.1, footnote 8; \u00a72"
       ]
     },
     {
@@ -492,6 +515,7 @@
       "provenance": "Historical edition",
       "text": "../sources/privacy.txt",
       "cited_locations": [
+        "Privacy Act of 1974 \u00a73, adding 5 USC 552a(m); 88 Stat. 1904 / PDF p. 9",
         "\u00a73, adding 5 USC 552a(m)"
       ]
     },
@@ -583,6 +607,7 @@
       "provenance": "Historical edition",
       "text": "../sources/clinger.txt",
       "cited_locations": [
+        "Division E \u00a75002(3), now 40 USC 11101(6)",
         "Division E, \u00a75002(3), now 40 USC 11101(6)"
       ]
     },
@@ -620,7 +645,7 @@
       "id": "fips199",
       "title": "FIPS 199: Security Categorization",
       "date": "2004-02-01",
-      "kind": "NIST guidance",
+      "kind": "Mandatory standard",
       "url": "https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.199.pdf",
       "local": "../sources/fips199.pdf",
       "sha256": "73d19f05f71e30f378050f178aa3943c38790bbae56c07f2b5708c5a1a90242f",
@@ -644,8 +669,8 @@
       "provenance": "Current applicability not assessed",
       "text": "../sources/m-10-15.txt",
       "cited_locations": [
-        "Questions 36\u201338, printed pp. 13\u201315; PDF pp. 17\u201319",
-        "Question 38, printed pp. 14\u201315"
+        "Question 38, printed pp. 14\u201315",
+        "Questions 36\u201338, printed pp. 13\u201315; PDF pp. 17\u201319"
       ]
     },
     {
@@ -675,6 +700,13 @@
       "provenance": "Historical edition",
       "text": "../sources/fisma2014.txt",
       "cited_locations": [
+        "44 USC 3554(a)(1)(A), shared introductory duty; 128 Stat. 3078",
+        "\u00a72, enacting 44 USC 3554(a)(1)(A)(i); 128 Stat. 3078",
+        "\u00a72, enacting 44 USC 3554(a)(1)(A)(ii); 128 Stat. 3078",
+        "44 USC 3554(a)(1)(B); 128 Stat. 3078",
+        "44 USC 3554(a)(2)(D); 128 Stat. 3078",
+        "44 USC 3554(b); 128 Stat. 3079",
+        "\u00a72, 44 USC 3554(a)(1)(A)(ii)",
         "\u00a72, 44 USC 3554"
       ]
     },
@@ -720,11 +752,10 @@
       "provenance": "Historical edition",
       "text": "../sources/sp800535.txt",
       "cited_locations": [
-        "SA-9, External System Services; CA-3, Information Exchange; AC-20, Use of External Systems",
-        "SA-9; SC-7, Boundary Protection",
+        "SA-9; AC-20; CA-3",
+        "SA-9",
         "SA-9; SC-28, Protection of Information at Rest",
-        "CA-3; SC-7; SC-8, Transmission Confidentiality and Integrity",
-        "AC-20; CA-3; SA-9; SC-7; SC-8"
+        "CA-3; SC-7; SC-8, Transmission Confidentiality and Integrity"
       ]
     },
     {

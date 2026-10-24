@@ -1,54 +1,4 @@
-"""Reviewed narrative for the on-behalf report. References resolve in behalf_build.py.
-
-Each tuple: stable ID, heading, explanatory paragraphs, (source ID, locator) pairs.
-Source wording is preserved separately; this module is authored analysis.
-"""
-
-INTRO = {
- 'title': 'When a service works on behalf of government',
- 'deck': 'The law follows both the information and the work being done. A tenant boundary alone cannot answer who is responsible.',
- 'summary': 'An agency can use a privately run service without taking over the provider’s business. It still has to protect federal information, meet applicable requirements, and establish what the provider will do. Commercial ownership and shared infrastructure do not, by themselves, put a service outside those duties.',
-}
-
-FINDINGS = [
- ('information-first', 'Two duties, not one', [
-  'The Federal Information Security Modernization Act (FISMA) gives agency heads a duty to protect information collected or maintained by or on behalf of the agency. It separately covers information systems used or operated by the agency, its contractors, or another organization on its behalf. A conclusion about the system does not erase the information duty.',
-  'Creating information, processing it, maintaining it, and operating the system are different activities. They may be performed by different parties. The report keeps the statutory language separate from the broader lifecycle language used in A-130 and cloud policy.'
- ], [('usc3554','44 USC 3554(a)(1)(A)(i)–(ii), (b)'),('a130-2016','§6(a)(1); §10(22)–(23); Appendix I §5(r)')]),
- ('tenant-test', 'Control helps define responsibilities. It is not an exemption.', [
-  'The tenant is often where an agency manages users, permissions, content, and configuration. Provider administrators, storage, backups, platform software, and physical facilities can still protect or expose that information. Those dependencies need an accountable treatment even when the agency cannot configure them.',
-  'NIST expressly discusses systems partly or entirely outside an authorizing organization’s direct control. It allows separate boundaries, inherited controls, and external services. It does not turn the edge of the agency’s administrative console into the edge of the agency’s legal responsibility.'
- ], [('sp800372','§2.5 and footnote 42, pp. 17–18; Appendix G, pp. 159–161'),('sp800182','§3.2, Authorization Boundary Description and System Component Inventory, pp. 19–21')]),
- ('private-business', 'The provider does not become an agency', [
-  'OMB said this clearly in its 1993 A-130 analysis: defining government information broadly did not give every contractor or grantee the agency’s own information-management responsibilities. Agreements matter. That is a distinction about who bears which duty, not a finding that commercially sold processing is outside federal security policy.',
-  'The right scope is the relevant information, service, supporting components, and obligations. There is no general rule that every unrelated corporate system must receive an agency authorization. There is also no general rule that provider-controlled components can be ignored.'
- ], [('a130-1993','Appendix IV, §3, Analysis of §6: Government Information'),('cui2025','32 CFR 2002.14(h)(1)–(2)'),('sp800372','Appendix G, pp. 157–161')]),
- ('risk-and-rules', 'Risk management works inside the applicable rules', [
-  'The agency must understand risk and select protections proportionate to harm. That part of the hypothesis is right. But accepting risk is not a general power to waive a statute, a binding standard, a required contract clause, or an applicable cloud authorization requirement.',
-  'Where an external provider offers limited assurance, NIST describes compensating controls, accepting greater risk, choosing another provider, or not obtaining the service. Those are risk-management options; they do not decide which legal requirements can be set aside.'
- ], [('usc3554','44 USC 3554(a)(1), (b)(2)'),('fips200','§§2–3'),('sp800372','Appendix G, p. 160'),('m-24-15','§III, Scope of FedRAMP, p. 5')]),
-]
-
-VERBS = [
- ('FISMA: the information duty','Information','Collected or maintained by or on behalf of an agency','The agency head must provide protection commensurate with risk. This limb does not require first declaring the recipient’s entire system a federal system.','usc3554','44 USC 3554(a)(1)(A)(i)'),
- ('FISMA: the system duty','Information systems','Used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency','The statute says “used or operated,” not only “operated.” It also requires an agency-wide security program covering systems supporting agency operations and assets.','usc3554','44 USC 3554(a)(1)(A)(ii), (b)'),
- ('A-130: what information is federal','Information in any medium','Created, collected, processed, maintained, disseminated, disclosed, or disposed of by or for the Federal Government','This definition identifies the information. It is not, on its own, a definition of a federal information system or a command to regulate every holder as an agency.','a130-2016','§10(22)–(23)'),
- ('A-130: agency protection','Information and information systems','Created, collected, processed, stored, transmitted, disseminated, or disposed of by or on behalf of the agency','The circular makes agency security responsibilities explicit across the lifecycle and includes information on behalf of agencies in contractor and cloud environments.','a130-2016','Appendix I §3(b)(2); §4(j); §5(r)'),
- ('CUI rule: acting on behalf','Activities of a non-executive-branch entity','Uses or operates a system, or maintains or collects information, for processing, storing, or transmitting federal information; those activities are not incidental to another product or service','Within this rule, outsourced information processing can be federal-system work. It expressly includes systems serving government and private customers. Do not export this definition to every statute without checking.','cui2025','32 CFR 2002.4(hh); 2002.14(h)'),
- ('FedRAMP policy: covered cloud services','Cloud products and services','Create, collect, process, store, or maintain federal information on behalf of an agency','These verbs set the program’s cloud-service scope, subject to listed exclusions. They do not rewrite the words of FISMA or make every federal system a FedRAMP service.','m-24-15','§III, p. 5'),
- ('Privacy Act: a specific contractual trigger','A system of records about individuals','Operation, by or on behalf of the agency, to accomplish an agency function','The agency must cause the Act’s requirements to apply when contracting for this operation, within its authority. This is a particular statutory trigger, not a rule for every design document or every private database.','usc552a','5 USC 552a(a)(5), (m)'),
-]
-
-VERB_ANALYSIS = [
- ('separate-predicates','Handling information and operating a system can overlap',[
-  'An agency employee creates a design in a SaaS tool. The employee may supply the design decisions while the service processes and stores the resulting document. The provider can be doing information-processing work for the agency even though the agency did the creative work. The provider need not author the content to maintain it.',
-  'Conversely, a company may receive government information to deliver a different product or service. Under the CUI rule, receiving that information only incidentally to work other than processing services can leave the company’s system nonfederal. CUI protection obligations can still apply. The work’s purpose matters; ownership, payment, and the presence of a government user do not answer everything.'
- ],[('cui2025','32 CFR 2002.4(hh), 2002.14(h)(1)–(2)'),('usc3554','44 USC 3554(a)(1)(A)'),('sp8001713','§1.1, pp. 1–2')]),
- ('not-interchangeable','The phrases are connected, but not interchangeable',[
-  '“Federal information” is a category of information. “On behalf of” describes a relationship or purpose in a particular authority. “Federal information system” identifies a covered system. “Authorization boundary” sets the scope of an authorization. “FedRAMP scope” identifies a program’s covered services. One label cannot safely substitute for the others.',
-  'For each transaction, ask two questions first: what information is being handled for the agency, and what system or service is being used or operated for it? Then ask which requirements reach each party and through what authority or agreement. This is an analytical sequence drawn from the sources, not a new legal test.'
- ],[('a130-2016','§10(22)–(23)'),('usc3554','44 USC 3554(a)(1)(A)'),('sp800372','§2.5'),('m-24-15','§III')]),
-]
+"""Supporting chronology, lifecycle, examples, and limits. Main analysis: behalf_analysis.py."""
 
 HISTORY = [
  ('1974','Law','privacy-origin','Congress addresses outsourced records about people',
@@ -93,14 +43,6 @@ HISTORY = [
  ('2022–2026','Law and OMB policy','fedramp-scope','FedRAMP’s scope is its own question',
   'Congress established FedRAMP in law in 2022 and assigned OMB the task of specifying covered categories. M-24-15 replaced the 2011 memorandum in 2024. It covers certain cloud services handling information for agencies while listing exclusions. The retrieved 2026 program guidance further emphasizes agency use cases. A single-agency application may be outside this shared program while the cloud infrastructure beneath it remains within scope. Neither result ends the agency’s FISMA responsibilities.',
   [('fedramp-act','§5921'),('usc3614','44 USC 3614(1)(A)'),('m-24-15','§III'),('scope2026','Agency Use Case Indicators; Single Agency Systems')]),
-]
-
-BOUNDARIES = [
- ('information','Information','Which data and activities does a duty cover?', 'Federal information can be public, sensitive, or controlled. Controlled unclassified information (CUI) needs a qualifying authority; ordinary unpublished government work is not automatically CUI. Confidentiality is only one objective: public information may still need integrity and availability protection.', [('a130-2016','§10(22); Appendix I §3'),('cui2025','32 CFR 2002.4(h), (nn)'),('fips199','§3')]),
- ('system','System or service','What work is performed for the agency?', 'Identify the service and its purpose, who uses or operates it, and whether another regime supplies a specific test. A multi-customer service can perform work for an agency. The CUI rule expressly recognizes mixed government and private users.', [('usc3554','44 USC 3554(a)–(b)'),('cui2025','32 CFR 2002.14(h)(1)')]),
- ('authorization','Authorization','What is the scope of this risk decision?', 'The scope can be an application, a platform, a larger system, or common controls. Another authorized system can supply inherited protections. A boundary documents responsibility and dependencies; it does not amend a statute.', [('sp800372','§§2.3–2.5; Appendix G'),('sp800182','§3.2')]),
- ('implementation','Implementation','Who configures, assesses, and monitors each safeguard?', 'A tenant administrator may manage accounts while the provider manages hardware, hypervisors, backups, and support access. Agreements, assessments, monitoring, and inherited controls can address this division. Each control still needs an identified owner.', [('sp800535','SA-9, External System Services; CA-3, Information Exchange; AC-20, Use of External Systems'),('sp800182','§3.2, Control Implementation Details')]),
- ('enterprise','Provider enterprise','Which other business systems actually matter?', 'The whole corporation is not automatically the authorized service. But a shared identity service, deployment system, support console, or backup store may affect the federal information. Analyze access and dependency, rather than excluding a component merely because the provider owns it.', [('sp800372','Appendix G'),('sp800535','SA-9; SC-7, Boundary Protection'),('sp8001713','§1.1, component scope and separate security domains')]),
 ]
 
 FLOW = [
@@ -158,32 +100,6 @@ SCENARIOS = [
   rows=[('Agency','Protect endpoints and exchanges, assess availability and interception risks, and authorize use.'),('Relevant service providers','Meet obligations for the specific services they supply; examine the actual contracts and legal regimes.'),('Boundary to examine','Defined endpoints and services, external connections, and risk controls—not the internet as a single owned asset.')],
   changes='Hiring a provider to run a private agency network or an application gateway adds a specific operated service to the analysis.',
   refs=[('usc3502','44 USC 3502(8)'),('sp800372','§§2.4–2.5; Appendix G'),('sp800471','§§2–3'),('m-10-15','Question 38, printed pp. 14–15')]),
-]
-
-NIST = [
- ('nist-lineage','What today’s NIST materials actually add',[
-  'FIPS 199 classifies the potential impact of losing confidentiality, integrity, or availability. FIPS 200 establishes minimum security requirements for covered federal systems and points to control selection and tailoring. Neither gives a general “commercial SaaS” exemption. Public information can still need protection against alteration or interruption.',
-  'SP 800-37 Revision 2, §2.5, says system elements generally share direct management, but footnote 42 explains that management includes budgetary, programmatic, or operational authority and need not exclude intervening management. Appendix G then addresses external systems and providers, including cloud services wholly outside direct agency control. Read both passages together.',
-  'The same appendix permits application boundaries that inherit host protections. It also acknowledges limited visibility into providers and discusses assurance, compensating controls, risk acceptance, alternative providers, and declining a service. NIST is describing how to manage dependencies; it is not declaring them legally irrelevant.'
- ],[('fips199','§3'),('fips200','§§2–3'),('sp800372','§2.5, footnote 42; Appendix G, pp. 159–161')]),
- ('nist-controls','A boundary needs evidence and named responsibilities',[
-  'SP 800-53 Revision 5 supplies controls for external system services (SA-9), use of external systems (AC-20), information exchange (CA-3), boundary protection (SC-7), and transmission confidentiality and integrity (SC-8). These are different tasks. Merely drawing a tenant box does not satisfy them.',
-  'The NIST publication page identifies Release 5.2.0, issued in August 2025, as the later control-catalog release. The older PDF in this site remains a dated source. The listed release changes do not replace the external-service and boundary concepts discussed here.',
-  'SP 800-18 Revision 2 replaced Revision 1 in June 2026. Its system-plan elements call for an authorization-boundary description, information-flow diagrams, external services, component inventory, inherited controls, and implementation responsibilities. Its references include FISMA, A-130, SP 800-37, and SP 800-53. The technical model links back to those authorities; it does not create a new private-sector regulator.'
- ],[('sp800535','AC-20; CA-3; SA-9; SC-7; SC-8'),('nist53status','Planning Note, August 27, 2025'),('sp800182','§3.2; References'),('nist18status','Publication history, June 30, 2026')]),
- ('nist-nonfederal','SP 800-171 describes a different branch',[
-  'Revision 3 provides recommended requirements for protecting CUI confidentiality in nonfederal systems. Section 1.1 excludes the on-behalf information and system activities described in its footnote 8, which directs readers to agency requirements under FISMA. The publication points to the CUI regulation and derives its requirements from SP 800-53.',
-  'It allows organizations to isolate CUI components in a separate security domain and limits its requirements to components processing, storing, transmitting, or protecting CUI. This supports proportionate technical scope. It does not prove that every cloud tenant belongs in the nonfederal branch.',
-  'A NIST revision’s publication date is not automatically the date a contract must change. Check the regulation, incorporated edition, contract, and transition terms. Likewise, the CUI rule’s definition must be read within that program; DHS’s 2023 response explicitly cautions against treating it as the final government-wide meaning of FISMA.'
- ],[('sp8001713','§1.1 and footnote 8; References'),('nist171status','Publication history'),('cui2025','32 CFR 2002.2; 2002.14(h)'),('dhs2023','§II.B.7, 88 FR 40571')]),
-]
-
-HYPOTHESES = [
- ('Only the agency-controlled tenant operates on behalf of government.','Not supported as a general rule.','Separate boundaries and shared controls can limit the agency’s implementation work.','NIST expressly includes external systems outside direct control; the CUI rule includes multi-customer processing systems.','Define the service, dependencies, and responsibilities before assigning the boundary.', [('sp800372','§2.5; Appendix G'),('cui2025','32 CFR 2002.14(h)(1)')]),
- ('Using a commercial service does not federalize the provider’s whole business.','Supported, with qualifications.','OMB distinguishes agency duties from contractor duties; nonfederal systems have a distinct CUI branch.','Relevant shared components may still process, protect, or expose the information.','Scope the offering and information duties; do not equate the offering with the entire company.', [('a130-1993','Appendix IV, Government Information'),('sp8001713','§1.1'),('sp800372','Appendix G')]),
- ('The agency only needs to understand and accept the risk.','Incomplete.','Risk-proportionate protection and authorization are central.','Standards, regulations, OMB requirements, and contracts can prescribe safeguards or authorization requirements.','Document both the risk decision and satisfaction of applicable requirements.', [('usc3554','44 USC 3554(a)–(b)'),('fips200','§§2–3'),('m-24-15','§III')]),
- ('Cloud subcontracting breaks the on-behalf relationship.','Not supported.','The host and application may have separate responsibilities and authorizations.','The agency-purpose application still runs for the agency; the host supplies another layer of service.','Trace the chain rather than stopping at the first commercial provider.', [('a130-2016','Appendix I §4(j), §5(r)'),('sp800372','Appendix G')]),
- ('If FedRAMP excludes a use, government information rules no longer apply.','Not supported.','The program has express exclusions and use-case guidance.','FISMA, privacy, records, and contractual duties have their own triggers.','Record the FedRAMP decision separately from other duties.', [('m-24-15','§III'),('usc3554','44 USC 3554'),('records-cloud','Questions 6–8')]),
 ]
 
 LIMITS = [

@@ -1,7 +1,9 @@
 {
   "passed": true,
   "protectedSourceFiles": 451,
-  "citedSources": 45,
-  "citedDiscussions": 51,
-  "localLinksAndAnchors": 1085
+  "librarySources": 45,
+  "citedSources": 42,
+  "verifiedQuotationCount": 40,
+  "citedDiscussions": 53,
+  "localLinksAndAnchors": 1405
 }

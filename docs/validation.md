@@ -92,3 +92,21 @@ Evidence: `output/on-behalf/static-check.json`, `browser-check.json`, responsive
 ## Publication verified — October 24, 2026
 
 Published report commit `eb2eaf0e71d87407e9e30b1a6a6340d422ebd72d` through successful Pages workflow [40095459639](https://github.com/pete-wai/fedramp-a130/actions/runs/40095459639). Live report: https://pete-wai.github.io/fedramp-a130/on-behalf/index.html . Eleven live files, including HTML, assets, evidence manifests, and two source PDFs, matched tested local hashes. Live desktop (1440px) and phone (390px) checks passed for overflow, scenario selection, public-comment filtering, and source deep links. Evidence: `output/on-behalf/live-check.json`; repeat with `mise exec -- node scripts/behalf-live-check.mjs`. This supersedes the earlier local-only delivery status.
+
+## Quotation-led replacement — October 24, 2026
+
+Replaced the on-behalf narrative with “Federal information in private services.” Completed checks:
+
+- Normal build passed: 40 visible quotations, 42 cited sources, 45 retained source-library entries, 53 sourced discussions, nine comparison rows, and five scenarios. Old published anchors are preserved.
+- `pnpm test` passed: 451 protected source-file hashes, 45 library source hashes, 1,405 report-local links and anchors, unique IDs, 40 quotation figures in both editions, and all existing site checks.
+- `behalf-quotes-check.py` passed: all 40 quotes match bounded original PDF pages or original HTML/XML text; all are visible in both editions; the two 2014 FISMA clauses match the collected current Code. Evidence: `output/on-behalf/quotation-check.json`.
+- `editorial-check.py` passed: all 506 protected files/source bodies unchanged. No source PDF, HTML, XML, raw extract, or existing statutory reader body was rewritten.
+- Revised browser suite passed at 1440, 768, 390, and 320px, including visible quotations, no viewport overflow, filters/reset/empty states, scenarios and Back, source deep links, keyboard controls, and computed typography. Offline file:// with and without JavaScript, 200% text, print disclosure expansion, and the repository prefix passed.
+- Existing historical-report and law-explorer browser suites passed after shared navigation changed.
+- Visual self-review covered the mobile overview and duty quotations, desktop statutory excerpts and comparison, and representative printed pages. Print-only confirmation after keeping comparison rows together produced a 59-page complete edition. Final print captures use `revised-print-*`; earlier captures are historical evidence.
+- Source/editorial self-review checked A-130 PDF 51 and NIST RMF PDF 133 visually, verified the original statute passages and CUI XML, corrected the Privacy Act locator to 88 Stat. 1904, retained the CUI exceptions, and corrected report-specific NIST/FIPS publication dates. The source library now identifies retained but uncited entries.
+- One design-detector pass produced heuristic warnings for leading, small comparison notes, repeated em dashes, Arial, and the quotation rule. Comparison notes were enlarged. Browser-computed body leading is at least 1.5. Arial remains intentional for metadata; repeated reference separators and quoted punctuation remain; the left rule identifies block quotations. The print comparison uses 9pt text and 8pt citations. No automatic style changes were applied.
+
+Research checks: official NIST publication pages confirmed the cited revisions. The official current OLRC endpoint returned an error; current-law consolidation beyond the preserved editions is not claimed. The existing incomplete 2015 comment-docket limitation remains visible. This was source/editorial and visual self-review, not independent legal review.
+
+Publication was explicitly requested. The following deployment entry records the actual delivered commit and live checks.

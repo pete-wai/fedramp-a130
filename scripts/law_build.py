@@ -158,7 +158,7 @@ def material_links(key):
  return '<h3>Policies and standards that carry this out</h3><ul>'+''.join(items)+'</ul>' if items else ''
 
 def nav(current):
- entries=[('../index.html','Historical report'),('../on-behalf/index.html','On behalf of government'),('../law/index.html','Read the law'),('../a130/index.html','A-130 responsibilities'),('../law/history.html','How the law changed'),('../law/oversight.html','IGs and oversight'),('../law/sources.html','Coverage and sources')]
+ entries=[('../index.html','Historical report'),('../on-behalf/index.html','Federal information in private services'),('../law/index.html','Read the law'),('../a130/index.html','A-130 responsibilities'),('../law/history.html','How the law changed'),('../law/oversight.html','IGs and oversight'),('../law/sources.html','Coverage and sources')]
  return '<nav class="site-nav" aria-label="Main navigation">'+''.join(f'<a href="{url}"'+(' aria-current="page"' if name==current else '')+f'>{name}</a>' for url,name in entries)+'</nav>'
 
 def page(file,title,intro,body,toc='',current='Read the law'):

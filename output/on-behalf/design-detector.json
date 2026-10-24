@@ -1,13 +1,153 @@
 [
   {
-    "antipattern": "tight-leading",
-    "name": "Tight line height",
-    "description": "Line height below 1.3x the font size makes multi-line text hard to read. Use 1.5 to 1.7 for body text so lines have room to breathe.",
+    "antipattern": "tiny-text",
+    "name": "Tiny body text",
+    "description": "Body text below 12px is hard to read, especially on high-DPI screens. Use at least 14px for body content, 16px is ideal.",
     "severity": "warning",
     "category": "quality",
     "file": "/Users/codex/projects/fedramp-a130/site/on-behalf/index.html",
     "line": 0,
-    "snippet": "line-height 0.24x (need >=1.3)"
+    "snippet": "11.84px body text"
+  },
+  {
+    "antipattern": "tiny-text",
+    "name": "Tiny body text",
+    "description": "Body text below 12px is hard to read, especially on high-DPI screens. Use at least 14px for body content, 16px is ideal.",
+    "severity": "warning",
+    "category": "quality",
+    "file": "/Users/codex/projects/fedramp-a130/site/on-behalf/index.html",
+    "line": 0,
+    "snippet": "11.84px body text"
+  },
+  {
+    "antipattern": "tiny-text",
+    "name": "Tiny body text",
+    "description": "Body text below 12px is hard to read, especially on high-DPI screens. Use at least 14px for body content, 16px is ideal.",
+    "severity": "warning",
+    "category": "quality",
+    "file": "/Users/codex/projects/fedramp-a130/site/on-behalf/index.html",
+    "line": 0,
+    "snippet": "11.84px body text"
+  },
+  {
+    "antipattern": "tiny-text",
+    "name": "Tiny body text",
+    "description": "Body text below 12px is hard to read, especially on high-DPI screens. Use at least 14px for body content, 16px is ideal.",
+    "severity": "warning",
+    "category": "quality",
+    "file": "/Users/codex/projects/fedramp-a130/site/on-behalf/index.html",
+    "line": 0,
+    "snippet": "11.84px body text"
+  },
+  {
+    "antipattern": "tiny-text",
+    "name": "Tiny body text",
+    "description": "Body text below 12px is hard to read, especially on high-DPI screens. Use at least 14px for body content, 16px is ideal.",
+    "severity": "warning",
+    "category": "quality",
+    "file": "/Users/codex/projects/fedramp-a130/site/on-behalf/index.html",
+    "line": 0,
+    "snippet": "11.84px body text"
+  },
+  {
+    "antipattern": "tiny-text",
+    "name": "Tiny body text",
+    "description": "Body text below 12px is hard to read, especially on high-DPI screens. Use at least 14px for body content, 16px is ideal.",
+    "severity": "warning",
+    "category": "quality",
+    "file": "/Users/codex/projects/fedramp-a130/site/on-behalf/index.html",
+    "line": 0,
+    "snippet": "11.84px body text"
+  },
+  {
+    "antipattern": "tiny-text",
+    "name": "Tiny body text",
+    "description": "Body text below 12px is hard to read, especially on high-DPI screens. Use at least 14px for body content, 16px is ideal.",
+    "severity": "warning",
+    "category": "quality",
+    "file": "/Users/codex/projects/fedramp-a130/site/on-behalf/index.html",
+    "line": 0,
+    "snippet": "11.84px body text"
+  },
+  {
+    "antipattern": "tiny-text",
+    "name": "Tiny body text",
+    "description": "Body text below 12px is hard to read, especially on high-DPI screens. Use at least 14px for body content, 16px is ideal.",
+    "severity": "warning",
+    "category": "quality",
+    "file": "/Users/codex/projects/fedramp-a130/site/on-behalf/index.html",
+    "line": 0,
+    "snippet": "11.84px body text"
+  },
+  {
+    "antipattern": "tiny-text",
+    "name": "Tiny body text",
+    "description": "Body text below 12px is hard to read, especially on high-DPI screens. Use at least 14px for body content, 16px is ideal.",
+    "severity": "warning",
+    "category": "quality",
+    "file": "/Users/codex/projects/fedramp-a130/site/on-behalf/index.html",
+    "line": 0,
+    "snippet": "11.84px body text"
+  },
+  {
+    "antipattern": "tiny-text",
+    "name": "Tiny body text",
+    "description": "Body text below 12px is hard to read, especially on high-DPI screens. Use at least 14px for body content, 16px is ideal.",
+    "severity": "warning",
+    "category": "quality",
+    "file": "/Users/codex/projects/fedramp-a130/site/on-behalf/index.html",
+    "line": 0,
+    "snippet": "11.84px body text"
+  },
+  {
+    "antipattern": "tiny-text",
+    "name": "Tiny body text",
+    "description": "Body text below 12px is hard to read, especially on high-DPI screens. Use at least 14px for body content, 16px is ideal.",
+    "severity": "warning",
+    "category": "quality",
+    "file": "/Users/codex/projects/fedramp-a130/site/on-behalf/index.html",
+    "line": 0,
+    "snippet": "11.84px body text"
+  },
+  {
+    "antipattern": "tiny-text",
+    "name": "Tiny body text",
+    "description": "Body text below 12px is hard to read, especially on high-DPI screens. Use at least 14px for body content, 16px is ideal.",
+    "severity": "warning",
+    "category": "quality",
+    "file": "/Users/codex/projects/fedramp-a130/site/on-behalf/index.html",
+    "line": 0,
+    "snippet": "11.84px body text"
+  },
+  {
+    "antipattern": "tiny-text",
+    "name": "Tiny body text",
+    "description": "Body text below 12px is hard to read, especially on high-DPI screens. Use at least 14px for body content, 16px is ideal.",
+    "severity": "warning",
+    "category": "quality",
+    "file": "/Users/codex/projects/fedramp-a130/site/on-behalf/index.html",
+    "line": 0,
+    "snippet": "11.84px body text"
+  },
+  {
+    "antipattern": "tiny-text",
+    "name": "Tiny body text",
+    "description": "Body text below 12px is hard to read, especially on high-DPI screens. Use at least 14px for body content, 16px is ideal.",
+    "severity": "warning",
+    "category": "quality",
+    "file": "/Users/codex/projects/fedramp-a130/site/on-behalf/index.html",
+    "line": 0,
+    "snippet": "11.84px body text"
+  },
+  {
+    "antipattern": "tiny-text",
+    "name": "Tiny body text",
+    "description": "Body text below 12px is hard to read, especially on high-DPI screens. Use at least 14px for body content, 16px is ideal.",
+    "severity": "warning",
+    "category": "quality",
+    "file": "/Users/codex/projects/fedramp-a130/site/on-behalf/index.html",
+    "line": 0,
+    "snippet": "11.84px body text"
   },
   {
     "antipattern": "tight-leading",
@@ -450,14 +590,14 @@
     "snippet": "line-height 0.24x (need >=1.3)"
   },
   {
-    "antipattern": "oversized-h1",
-    "name": "Oversized hero headline",
-    "description": "A full-sentence headline set at display size ends up dominating the viewport, leaving no room for anything else above the fold. A punchy one- or two-word headline at that size is fine — the problem is a long headline blown up too large. Set long headlines smaller, or tighten the copy.",
+    "antipattern": "tight-leading",
+    "name": "Tight line height",
+    "description": "Line height below 1.3x the font size makes multi-line text hard to read. Use 1.5 to 1.7 for body text so lines have room to breathe.",
     "severity": "warning",
-    "category": "slop",
+    "category": "quality",
     "file": "/Users/codex/projects/fedramp-a130/site/on-behalf/index.html",
     "line": 0,
-    "snippet": "4320px h1, 44 chars \"When a service works on behalf of government\""
+    "snippet": "line-height 0.24x (need >=1.3)"
   },
   {
     "antipattern": "overused-font",
@@ -477,7 +617,17 @@
     "category": "slop",
     "file": "/Users/codex/projects/fedramp-a130/site/on-behalf/index.html",
     "line": 0,
-    "snippet": "303 em-dashes in body text",
+    "snippet": "362 em-dashes in body text",
     "advisory": true
+  },
+  {
+    "antipattern": "side-tab",
+    "name": "Side-tab accent border",
+    "description": "Thick colored border on one side of a card — the most recognizable tell of AI-generated UIs. Use a subtler accent or remove it entirely.",
+    "severity": "warning",
+    "category": "slop",
+    "file": "/Users/codex/projects/fedramp-a130/site/on-behalf/report.css",
+    "line": 10,
+    "snippet": "border-left:3px solid var(--blue)"
   }
 ]
