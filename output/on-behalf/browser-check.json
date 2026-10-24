@@ -1,0 +1,83 @@
+[
+  {
+    "width": 1440,
+    "passed": true,
+    "checks": [
+      "overflow",
+      "scenario selection",
+      "browser Back",
+      "timeline filters/reset/empty",
+      "source filters/reset/empty",
+      "deep links reveal content",
+      "keyboard disclosure",
+      "no JS exceptions"
+    ]
+  },
+  {
+    "width": 768,
+    "passed": true,
+    "checks": [
+      "overflow",
+      "scenario selection",
+      "browser Back",
+      "timeline filters/reset/empty",
+      "source filters/reset/empty",
+      "deep links reveal content",
+      "keyboard disclosure",
+      "no JS exceptions"
+    ]
+  },
+  {
+    "width": 390,
+    "passed": true,
+    "checks": [
+      "overflow",
+      "scenario selection",
+      "browser Back",
+      "timeline filters/reset/empty",
+      "source filters/reset/empty",
+      "deep links reveal content",
+      "keyboard disclosure",
+      "no JS exceptions"
+    ]
+  },
+  {
+    "width": 320,
+    "passed": true,
+    "checks": [
+      "overflow",
+      "scenario selection",
+      "browser Back",
+      "timeline filters/reset/empty",
+      "source filters/reset/empty",
+      "deep links reveal content",
+      "keyboard disclosure",
+      "no JS exceptions"
+    ]
+  },
+  {
+    "fileProtocol": true,
+    "offline": true,
+    "javaScript": true,
+    "passed": true
+  },
+  {
+    "fileProtocol": true,
+    "offline": true,
+    "javaScript": false,
+    "passed": true
+  },
+  {
+    "keyboardSkip": true,
+    "textSize": "200%",
+    "passed": true
+  },
+  {
+    "print": "all examples and evidence expanded",
+    "passed": true
+  },
+  {
+    "publicPrefix": true,
+    "passed": true
+  }
+]

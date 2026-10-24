@@ -17,6 +17,10 @@ The report includes six approximately 300-word revision summaries, an aligned ch
 
 The law collection uses OLRC release 119-118, through September 30, 2026, retrieved October 10. It has a separate source manifest with 240 preserved files. Comparisons show collected editions rather than every intervening effective date. See [authoring, update procedures, and coverage boundaries](docs/law-explorer.md).
 
+## On behalf of government
+
+[The report](https://pete-wai.github.io/fedramp-a130/on-behalf/index.html) examines information handling versus system operation, the historical rules and comments, current NIST guidance, and five commercial-service examples. It has a filterable chronology, source library, linked provisions, and a complete print edition. Research checked October 24, 2026; legal editions vary. See [coverage, authoring, and research limits](docs/on-behalf.md).
+
 ## Sources and coverage
 
 The library includes 178 records and 173 downloaded documents. It covers major A-130 revisions, related laws, selected NIST publications, and OMB memoranda through October 10, 2026. Source notes identify editions, known replacements, and gaps in the collection.

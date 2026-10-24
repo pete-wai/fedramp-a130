@@ -10,3 +10,6 @@ console.log(JSON.stringify({readers,readerLinksAndScopes:true}));
 
 // Validate the law explorer using built-in Node APIs in GitHub Actions.
 await import("./law-check.mjs");
+
+// Protect source provenance and links in the on-behalf report.
+await import("./behalf-check.mjs");

@@ -1,0 +1,2063 @@
+{
+  "retrieved": "2026-10-24",
+  "results": [
+    {
+      "key": "\"on behalf\" \"A-130\"",
+      "result": {
+        "generation": "1792804158-98893:vectors-242001-1792844285847554000",
+        "query": "\"on behalf\" \"A-130\"",
+        "results": [
+          {
+            "document_id": "f1a2e73a1063eab7d83da2a3bfa810f3aaebc9a6ef8e9d264ffc57ccd02152e6",
+            "identifier_match": true,
+            "document_number": "Circular A-130",
+            "title": "Managing Information as a Strategic Resource",
+            "issuer": "OMB",
+            "date": "2016-07-28",
+            "authority": "policy",
+            "status": "final",
+            "passages": [
+              {
+                "passage_id": "9617e50117523242cb281e252011a7ee8f7ef46b7add131f0b9babd03673724b",
+                "text": "r operated by contractors or other entities on behalf of the agency are effectively implemented and comply with NIST standards and guidelines and agency requirements.                                                                                                                                               | Appendix I § 4(j)(2)(b).                          |\n| Maintain an inventory of contractor information systems.                                  | Agencies shall ensure that information systems used or operated by contractors or other entities on behalf of the agency are included in the agency's inventory of information systems.                                                                                                                                                                                                                    | Appendix I § 4(j)(2)(c).                          |\n| Ensure that incident response procedures are in place for contractor information systems. | Agencies shall ensure that procedures are in place for incident response for information systems used or operated by contractors or other entities on behalf of the agency, including timelines for noti",
+                "context": "Managing Information as a Strategic Resource | OMB | 2016-07-28 | Circular A-130 | policy | final | OMB Circular A-130 — PDF page 74 | e. Privacy Impact Assessments | Source page image",
+                "review_status": "independently_reviewed",
+                "citation": {
+                  "document_id": "f1a2e73a1063eab7d83da2a3bfa810f3aaebc9a6ef8e9d264ffc57ccd02152e6",
+                  "source_sha256": "f1a2e73a1063eab7d83da2a3bfa810f3aaebc9a6ef8e9d264ffc57ccd02152e6",
+                  "title": "Managing Information as a Strategic Resource",
+                  "document_number": "Circular A-130",
+                  "issuer": "OMB",
+                  "date": "2016-07-28",
+                  "authority": "policy",
+                  "document_status": "final",
+                  "page": 74,
+                  "anchor": "page-74",
+                  "start": 2646,
+                  "end": 5628,
+                  "original_path": "originals/omb/OMB/2016/a130-2016--f1a2e73a1063eab7.pdf",
+                  "reader_path": "markdown/f1a2e73a1063eab7d83da2a3bfa810f3aaebc9a6ef8e9d264ffc57ccd02152e6/b76edb3cdd85732d15ea/document.html",
+                  "source_urls": [
+                    "https://bidenwhitehouse.archives.gov/omb/information-for-agencies/circulars/",
+                    "https://bidenwhitehouse.archives.gov/wp-content/uploads/legacy_drupal_files/omb/circulars/A130/a130revised.pdf",
+                    "https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf",
+                    "https://trumpwhitehouse.archives.gov/omb/information-for-agencies/circulars/",
+                    "https://trumpwhitehouse.archives.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf",
+                    "https://www.archives.gov/files/records-mgmt/policy/a130revised.pdf",
+                    "https://www.archives.gov/records-mgmt/policy",
+                    "https://www.cisa.gov/news-events/directives/bod-26-02-mitigating-risk-end-support-edge-devices",
+                    "https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/circulars/A130/a130revised.pdf"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/9617e50117523242cb281e252011a7ee8f7ef46b7add131f0b9babd03673724b"
+                },
+                "excerpt_range": {
+                  "start": 4146,
+                  "end": 5346
+                },
+                "full_text_available": true
+              },
+              {
+                "passage_id": "bbd12a768372a4c6faf9399f0965145aa3072fe076680172fafa0b5b1edf9576",
+                "text": "other entities on behalf of the agency, including timelines for notification of affected individuals and reporting to OMB, DHS, and other entities as required in OMB guidance.                                                                                        | Appendix I § 4(j)(2)(e).                          |\n\n## e. Privacy Impact Assessments\n\nAs a general matter, an agency shall conduct a privacy impact assessment (PIA) under section 208(b) of the E-Government Act of 2002, absent an applicable exception under that section,\n\n### Source page image\n\n![Source PDF page 74](images/page-00074.png)\n",
+                "context": "Managing Information as a Strategic Resource | OMB | 2016-07-28 | Circular A-130 | policy | final | OMB Circular A-130 — PDF page 74 | e. Privacy Impact Assessments | Source page image",
+                "review_status": "independently_reviewed",
+                "citation": {
+                  "document_id": "f1a2e73a1063eab7d83da2a3bfa810f3aaebc9a6ef8e9d264ffc57ccd02152e6",
+                  "source_sha256": "f1a2e73a1063eab7d83da2a3bfa810f3aaebc9a6ef8e9d264ffc57ccd02152e6",
+                  "title": "Managing Information as a Strategic Resource",
+                  "document_number": "Circular A-130",
+                  "issuer": "OMB",
+                  "date": "2016-07-28",
+                  "authority": "policy",
+                  "document_status": "final",
+                  "page": 74,
+                  "anchor": "page-74",
+                  "start": 5278,
+                  "end": 5883,
+                  "original_path": "originals/omb/OMB/2016/a130-2016--f1a2e73a1063eab7.pdf",
+                  "reader_path": "markdown/f1a2e73a1063eab7d83da2a3bfa810f3aaebc9a6ef8e9d264ffc57ccd02152e6/b76edb3cdd85732d15ea/document.html",
+                  "source_urls": [
+                    "https://bidenwhitehouse.archives.gov/omb/information-for-agencies/circulars/",
+                    "https://bidenwhitehouse.archives.gov/wp-content/uploads/legacy_drupal_files/omb/circulars/A130/a130revised.pdf",
+                    "https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf",
+                    "https://trumpwhitehouse.archives.gov/omb/information-for-agencies/circulars/",
+                    "https://trumpwhitehouse.archives.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf",
+                    "https://www.archives.gov/files/records-mgmt/policy/a130revised.pdf",
+                    "https://www.archives.gov/records-mgmt/policy",
+                    "https://www.cisa.gov/news-events/directives/bod-26-02-mitigating-risk-end-support-edge-devices",
+                    "https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/circulars/A130/a130revised.pdf"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/bbd12a768372a4c6faf9399f0965145aa3072fe076680172fafa0b5b1edf9576"
+                },
+                "excerpt_range": {
+                  "start": 5278,
+                  "end": 5883
+                },
+                "full_text_available": false
+              },
+              {
+                "passage_id": "a2acdd563cec2d0200c686032d3d14c02b61c1e96926719710e0308057853586",
+                "text": " their current information security programs. NIST is responsible for providing guidance on how agencies can use the Cybersecurity Framework and in particular, how the two frameworks can work together to help agencies develop, implement, and continuously improve their information security programs.\n\n## r. FISMA Applicability to Non-Federal Entities\n\nFISMA describes Federal agency security responsibilities as including \"information collected or maintained by or on behalf of an agency\" and \"information systems used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency.\" FISMA requires each agency to provide information security for the information and \"information systems that support the operations and assets of the agency, including those provided or managed by another agency, contractor, or other source.\" This includes services that are either fully or partially provided, including agency-hosted, outsourced, and cloud-based solutions.\n\nAdditionally, because FISMA applies to Federal information and information systems, in certain circumstances, its requirements also apply to a specific class of IT that the Clinger-Cohen Act of 1996 (4",
+                "context": "Managing Information as a Strategic Resource | OMB | 2016-07-28 | Circular A-130 | policy | final | OMB Circular A-130 — PDF page 62 | p. Unsupported Information System Components | q. Cybersecurity Framework | r. FISMA Applicability to Non-Federal Entities",
+                "review_status": "independently_reviewed",
+                "citation": {
+                  "document_id": "f1a2e73a1063eab7d83da2a3bfa810f3aaebc9a6ef8e9d264ffc57ccd02152e6",
+                  "source_sha256": "f1a2e73a1063eab7d83da2a3bfa810f3aaebc9a6ef8e9d264ffc57ccd02152e6",
+                  "title": "Managing Information as a Strategic Resource",
+                  "document_number": "Circular A-130",
+                  "issuer": "OMB",
+                  "date": "2016-07-28",
+                  "authority": "policy",
+                  "document_status": "final",
+                  "page": 62,
+                  "anchor": "page-62",
+                  "start": 2355,
+                  "end": 3627,
+                  "original_path": "originals/omb/OMB/2016/a130-2016--f1a2e73a1063eab7.pdf",
+                  "reader_path": "markdown/f1a2e73a1063eab7d83da2a3bfa810f3aaebc9a6ef8e9d264ffc57ccd02152e6/b76edb3cdd85732d15ea/document.html",
+                  "source_urls": [
+                    "https://bidenwhitehouse.archives.gov/omb/information-for-agencies/circulars/",
+                    "https://bidenwhitehouse.archives.gov/wp-content/uploads/legacy_drupal_files/omb/circulars/A130/a130revised.pdf",
+                    "https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf",
+                    "https://trumpwhitehouse.archives.gov/omb/information-for-agencies/circulars/",
+                    "https://trumpwhitehouse.archives.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf",
+                    "https://www.archives.gov/files/records-mgmt/policy/a130revised.pdf",
+                    "https://www.archives.gov/records-mgmt/policy",
+                    "https://www.cisa.gov/news-events/directives/bod-26-02-mitigating-risk-end-support-edge-devices",
+                    "https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/circulars/A130/a130revised.pdf"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/a2acdd563cec2d0200c686032d3d14c02b61c1e96926719710e0308057853586"
+                },
+                "excerpt_range": {
+                  "start": 2355,
+                  "end": 3555
+                },
+                "full_text_available": true
+              }
+            ]
+          },
+          {
+            "document_id": "906a73bd9b77740b0ed2bfc6f2201ec33363e2a04def3f3108fc7aecc146c4b6",
+            "identifier_match": true,
+            "document_number": "a130-1996",
+            "title": "A-130: Transmittal 3",
+            "issuer": "OMB",
+            "date": "1996-02-08",
+            "authority": "policy",
+            "status": "final",
+            "passages": [
+              {
+                "passage_id": "37f615a44aabbcb822eed8ea3f1a5c47acd3e213f977335db75e6f6cb865a50e",
+                "text": "strict its availability to the public. Since the Freedom of Information Act does not provide a\ncategorical exemption for copyrighted information, and Federal agencies have neither the\nauthority nor capability to enforce restrictions on behalf of other nations, agencies faced with such\nrestrictive conditions lack clear guidance as to how to respond.\n\nThe results of the July 1995 Congress of the World Meteorological Organization, which sought to\nstrike a balance of interests in this area, are instructive. Faced with a resolution which would have\nessentially required member nations to enforce restrictions on certain categories of information for\nthe commercial benefit of other nations, the United States proposed a compromise which was\nultimately accepted. The compromise explicitly affirmed the general principle that government\nmeteorological information -- like all other scientific, technical and environmental information --\nshould be shared globally without restriction; but recognized that individual nations may in\nparticular cases apply their own domestic copyright and similar laws to prevent what they deem to\nbe unfair or inappropriate competition within their own territories. This",
+                "context": "A-130: Transmittal 3 | OMB | 1996-02-08 | a130-1996 | policy | final | CIRCULAR NO. A-130 | CIRCULAR NO. A-130 | Appendix II to OMB Circular No. A-130 - Cost Accounting, Cost Recovery, and Interagency Sharing of Information Technology Facilities | Appendix III to OMB Circular No. A-130 - Security of Federal Automated Information Resources | Appendix IV to OMB Circular No. A-130 - Analysis of Key Sections",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "906a73bd9b77740b0ed2bfc6f2201ec33363e2a04def3f3108fc7aecc146c4b6",
+                  "source_sha256": "906a73bd9b77740b0ed2bfc6f2201ec33363e2a04def3f3108fc7aecc146c4b6",
+                  "title": "A-130: Transmittal 3",
+                  "document_number": "a130-1996",
+                  "issuer": "OMB",
+                  "date": "1996-02-08",
+                  "authority": "policy",
+                  "document_status": "final",
+                  "page": null,
+                  "anchor": "document-text",
+                  "start": 204977,
+                  "end": 207872,
+                  "original_path": "originals/omb/OMB/1996/a130-1996--906a73bd9b77740b.html",
+                  "reader_path": "markdown/906a73bd9b77740b0ed2bfc6f2201ec33363e2a04def3f3108fc7aecc146c4b6/ae6f746ffc61d6914650/document.html",
+                  "source_urls": [
+                    "https://clintonwhitehouse3.archives.gov/OMB/circulars/a130/a130.html",
+                    "https://clintonwhitehouse3.archives.gov/omb/circulars/a130/a130.html",
+                    "https://clintonwhitehouse3.archives.gov/omb/circulars/index.html"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/37f615a44aabbcb822eed8ea3f1a5c47acd3e213f977335db75e6f6cb865a50e"
+                },
+                "excerpt_range": {
+                  "start": 204977,
+                  "end": 206177
+                },
+                "full_text_available": true
+              },
+              {
+                "passage_id": "f1670752b7b347a6d3d6296f06c468c5dd4c8450cc5e95581a1e13bea6956784",
+                "text": "uld first coordinate\nwith the State Department. The State Department will work with the agency to develop the least\nrestrictive terms consistent with United States policy, and ensure that those terms receive full\ninteragency clearance through the established process for granting agencies authority to negotiate\nand conclude international agreements.\n\nFinally, whenever an agency is attending meetings of international or multilateral organizations\nwhere restrictive practices are being proposed as binding on member states, the agency should\ncoordinate with the State Department, the Office of Management and Budget, the Office of\nScience and Technology Policy, or the U.S. Trade Representative, as appropriate, before\nexpressing a position on behalf of the United States.\n\n---\n\n\n| [OMB Home Page](../../index.html)\n| [Budget Information](../../budget/index.html)\n| [Legislative Information](../../legislative/index.html)\n| [Management Reform/GPRA](../../mgmt-gpra/index.html)\n|   \n | [Grants Management](../../grants/index.html)\n| [Financial Management](../../financial/index.html)\n| [Procurement Policy](../../procurement/index.html)\n|   \n | [Information & Regulatory Policy](../../inforeg/index.h",
+                "context": "A-130: Transmittal 3 | OMB | 1996-02-08 | a130-1996 | policy | final | CIRCULAR NO. A-130 | CIRCULAR NO. A-130 | Appendix II to OMB Circular No. A-130 - Cost Accounting, Cost Recovery, and Interagency Sharing of Information Technology Facilities | Appendix III to OMB Circular No. A-130 - Security of Federal Automated Information Resources | Appendix IV to OMB Circular No. A-130 - Analysis of Key Sections",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "906a73bd9b77740b0ed2bfc6f2201ec33363e2a04def3f3108fc7aecc146c4b6",
+                  "source_sha256": "906a73bd9b77740b0ed2bfc6f2201ec33363e2a04def3f3108fc7aecc146c4b6",
+                  "title": "A-130: Transmittal 3",
+                  "document_number": "a130-1996",
+                  "issuer": "OMB",
+                  "date": "1996-02-08",
+                  "authority": "policy",
+                  "document_status": "final",
+                  "page": null,
+                  "anchor": "document-text",
+                  "start": 207522,
+                  "end": 208774,
+                  "original_path": "originals/omb/OMB/1996/a130-1996--906a73bd9b77740b.html",
+                  "reader_path": "markdown/906a73bd9b77740b0ed2bfc6f2201ec33363e2a04def3f3108fc7aecc146c4b6/ae6f746ffc61d6914650/document.html",
+                  "source_urls": [
+                    "https://clintonwhitehouse3.archives.gov/OMB/circulars/a130/a130.html",
+                    "https://clintonwhitehouse3.archives.gov/omb/circulars/a130/a130.html",
+                    "https://clintonwhitehouse3.archives.gov/omb/circulars/index.html"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/f1670752b7b347a6d3d6296f06c468c5dd4c8450cc5e95581a1e13bea6956784"
+                },
+                "excerpt_range": {
+                  "start": 207522,
+                  "end": 208722
+                },
+                "full_text_available": true
+              },
+              {
+                "passage_id": "d7050fb65554bfb908b14ee0623fd7ef2905ff31d9f2606039c63fffff7814af",
+                "text": "ong the entities involved in\ndisseminating it. These include for-profit and not-for-profit entities, such as information vendors\nand libraries, as well as State, local and tribal governments. The policies on charging the cost of\ndissemination and against restrictive practices contained in the PRA and Circular A-130 are aimed\nat achieving this goal.\n\nOther nations do not necessarily share these values. Although an increasing number are\nembracing the concept of equitable and unrestricted access to public information -- particularly\nscientific, environmental, and geographic information of great public benefit -- other nations are\ntreating their information as a commodity to be \"commercialized\". Whereas the Copyright Act,\n17 U.S.C. 105, has long provided that \"[c]opyright protection under this title is not available for\nany work of the United States Government,\" some other nations take advantage of their domestic\ncopyright laws that do permit government copyright and assert a monopoly on certain categories\nof information in order to maximize revenues. Such arrangements tend to preclude other entities\nfrom developing markets for the information or otherwise disseminating the information",
+                "context": "A-130: Transmittal 3 | OMB | 1996-02-08 | a130-1996 | policy | final | CIRCULAR NO. A-130 | CIRCULAR NO. A-130 | Appendix II to OMB Circular No. A-130 - Cost Accounting, Cost Recovery, and Interagency Sharing of Information Technology Facilities | Appendix III to OMB Circular No. A-130 - Security of Federal Automated Information Resources | Appendix IV to OMB Circular No. A-130 - Analysis of Key Sections",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "906a73bd9b77740b0ed2bfc6f2201ec33363e2a04def3f3108fc7aecc146c4b6",
+                  "source_sha256": "906a73bd9b77740b0ed2bfc6f2201ec33363e2a04def3f3108fc7aecc146c4b6",
+                  "title": "A-130: Transmittal 3",
+                  "document_number": "a130-1996",
+                  "issuer": "OMB",
+                  "date": "1996-02-08",
+                  "authority": "policy",
+                  "document_status": "final",
+                  "page": null,
+                  "anchor": "document-text",
+                  "start": 203383,
+                  "end": 205327,
+                  "original_path": "originals/omb/OMB/1996/a130-1996--906a73bd9b77740b.html",
+                  "reader_path": "markdown/906a73bd9b77740b0ed2bfc6f2201ec33363e2a04def3f3108fc7aecc146c4b6/ae6f746ffc61d6914650/document.html",
+                  "source_urls": [
+                    "https://clintonwhitehouse3.archives.gov/OMB/circulars/a130/a130.html",
+                    "https://clintonwhitehouse3.archives.gov/omb/circulars/a130/a130.html",
+                    "https://clintonwhitehouse3.archives.gov/omb/circulars/index.html"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/d7050fb65554bfb908b14ee0623fd7ef2905ff31d9f2606039c63fffff7814af"
+                },
+                "excerpt_range": {
+                  "start": 203383,
+                  "end": 204583
+                },
+                "full_text_available": true
+              }
+            ]
+          },
+          {
+            "document_id": "8622552e664b006f9a4ee0d15601db85cb0c7465c42a4b56402b44ca1c64f4bf",
+            "identifier_match": true,
+            "document_number": null,
+            "title": "Circular No. A-130, Managing Information as a Strategic Resource",
+            "issuer": "OMB",
+            "date": "2016-07-28",
+            "authority": "guidance",
+            "status": "published historical or current material",
+            "passages": [
+              {
+                "passage_id": "1e422196dd14bbfa23bf39bee8430e26ab4a946e9d7f3b77ddb4c0f0f427476e",
+                "text": "                   effectively implemented and comply with NIST\n                            standards and guidelines and agency requirements.\n Maintain an inventory of   Agencies shall ensure that information systems used or   Appendix I § 4(j)(2)(c).\n contractor information     operated by contractors or other entities on behalf of\n systems.                   the agency are included in the agency’s inventory of\n                            information systems.\n Ensure that incident       Agencies shall ensure that procedures are in place for    Appendix I § 4(j)(2)(e).\n response procedures are    incident response for information systems used or\n in place for contractor     operated by contractors or other entities on behalf of\n information systems.       the agency, including timelines for notification of\n                             affected individuals and reporting to OMB, DHS, and\n                             other entities as required in OMB guidance.\n\ne.  Privacy Impact Assessments\nAs a general matter, an agency shall conduct a privacy impact assessment (PIA) under section\n208(b) of the E-Government Act of 2002, absent an applicable exception under that section,\n\n           ",
+                "context": "Circular No. A-130, Managing Information as a Strategic Resource | OMB | 2016-07-28 | guidance | published historical or current material",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "8622552e664b006f9a4ee0d15601db85cb0c7465c42a4b56402b44ca1c64f4bf",
+                  "source_sha256": "8622552e664b006f9a4ee0d15601db85cb0c7465c42a4b56402b44ca1c64f4bf",
+                  "title": "Circular No. A-130, Managing Information as a Strategic Resource",
+                  "document_number": null,
+                  "issuer": "OMB",
+                  "date": "2016-07-28",
+                  "authority": "guidance",
+                  "document_status": "published historical or current material",
+                  "page": 74,
+                  "anchor": "page-74",
+                  "start": 2649,
+                  "end": 3895,
+                  "original_path": "originals/omb/OMB/2016/Circular-No.-A-130-Managing-Information-as-a-Strategic-Resource--8622552e664b006f.pdf",
+                  "reader_path": "markdown/8622552e664b006f9a4ee0d15601db85cb0c7465c42a4b56402b44ca1c64f4bf/b329eb2a0819e1b75f48/document.html",
+                  "source_urls": [
+                    "https://www.archives.gov/files/records-mgmt/pdf/a130revised.pdf",
+                    "https://trumpwhitehouse.archives.gov/omb/information-for-agencies/circulars/"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/1e422196dd14bbfa23bf39bee8430e26ab4a946e9d7f3b77ddb4c0f0f427476e"
+                },
+                "excerpt_range": {
+                  "start": 2649,
+                  "end": 3849
+                },
+                "full_text_available": true
+              },
+              {
+                "passage_id": "3fcdd468afd36d228b136203c93de193a581ae935b772cc6b14ca18a56facc12",
+                "text": ")(1)(c)(ii);\n made aware of             are made aware of information systems and            Appendix I § 3(b)(10).\n information systems and   components that cannot be appropriately protected or\n components that cannot    secured, and that such systems are given a high priority\n be protected.                for upgrade, replacement, or retirement.\n\nd.  Contractors and Third Parties\nAgencies’ privacy programs shall ensure that entities that create, collect, use, process, store,\nmaintain, disseminate, disclose, or dispose of information on behalf of a Federal agency or that\noperate or use information systems on behalf of a Federal agency, comply with the privacy\nrequirements in law and OMB policies. The following table summarizes the privacy\nrequirements in this Circular that pertain to contractors and third parties. While some of the\nrequirements summarized in the table are not exclusively privacy requirements, they may still\nrequire the involvement of agencies’ privacy programs.\n\n\n\n\n\n                                     Appendix II - 8\n```\n",
+                "context": "Circular No. A-130, Managing Information as a Strategic Resource | OMB | 2016-07-28 | guidance | published historical or current material",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "8622552e664b006f9a4ee0d15601db85cb0c7465c42a4b56402b44ca1c64f4bf",
+                  "source_sha256": "8622552e664b006f9a4ee0d15601db85cb0c7465c42a4b56402b44ca1c64f4bf",
+                  "title": "Circular No. A-130, Managing Information as a Strategic Resource",
+                  "document_number": null,
+                  "issuer": "OMB",
+                  "date": "2016-07-28",
+                  "authority": "guidance",
+                  "document_status": "published historical or current material",
+                  "page": 73,
+                  "anchor": "page-73",
+                  "start": 2319,
+                  "end": 3376,
+                  "original_path": "originals/omb/OMB/2016/Circular-No.-A-130-Managing-Information-as-a-Strategic-Resource--8622552e664b006f.pdf",
+                  "reader_path": "markdown/8622552e664b006f9a4ee0d15601db85cb0c7465c42a4b56402b44ca1c64f4bf/b329eb2a0819e1b75f48/document.html",
+                  "source_urls": [
+                    "https://www.archives.gov/files/records-mgmt/pdf/a130revised.pdf",
+                    "https://trumpwhitehouse.archives.gov/omb/information-for-agencies/circulars/"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/3fcdd468afd36d228b136203c93de193a581ae935b772cc6b14ca18a56facc12"
+                },
+                "excerpt_range": {
+                  "start": 2319,
+                  "end": 3376
+                },
+                "full_text_available": false
+              },
+              {
+                "passage_id": "404f36d4e50d4193c2ebfef2c96e69b4699b1d71d361bec04e84774309d15125",
+                "text": "e Cybersecurity Framework to\n   complement their current information security programs. NIST is responsible for providing\n   guidance on how agencies can use the Cybersecurity Framework and in particular, how the\n   two frameworks can work together to help agencies develop, implement, and continuously\n   improve their information security programs.\n\nr.  FISMA Applicability to Non-Federal Entities\n  FISMA describes Federal agency security responsibilities as including “information\n    collected or maintained by or on behalf of an agency” and “information systems used or\n   operated by an agency or by a contractor of an agency or other organization on behalf of\n   an agency.” FISMA requires each agency to provide information security for the\n   information and “information systems that support the operations and assets of the agency,\n    including those provided or managed by another agency, contractor, or other source.” This\n    includes services that are either fully or partially provided, including agency-hosted,\n    outsourced, and cloud-based solutions.\n\n    Additionally, because FISMA applies to Federal information and information systems, in\n    certain circumstances, its requ",
+                "context": "Circular No. A-130, Managing Information as a Strategic Resource | OMB | 2016-07-28 | guidance | published historical or current material",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "8622552e664b006f9a4ee0d15601db85cb0c7465c42a4b56402b44ca1c64f4bf",
+                  "source_sha256": "8622552e664b006f9a4ee0d15601db85cb0c7465c42a4b56402b44ca1c64f4bf",
+                  "title": "Circular No. A-130, Managing Information as a Strategic Resource",
+                  "document_number": null,
+                  "issuer": "OMB",
+                  "date": "2016-07-28",
+                  "authority": "guidance",
+                  "document_status": "published historical or current material",
+                  "page": 62,
+                  "anchor": "page-62",
+                  "start": 2235,
+                  "end": 3652,
+                  "original_path": "originals/omb/OMB/2016/Circular-No.-A-130-Managing-Information-as-a-Strategic-Resource--8622552e664b006f.pdf",
+                  "reader_path": "markdown/8622552e664b006f9a4ee0d15601db85cb0c7465c42a4b56402b44ca1c64f4bf/b329eb2a0819e1b75f48/document.html",
+                  "source_urls": [
+                    "https://www.archives.gov/files/records-mgmt/pdf/a130revised.pdf",
+                    "https://trumpwhitehouse.archives.gov/omb/information-for-agencies/circulars/"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/404f36d4e50d4193c2ebfef2c96e69b4699b1d71d361bec04e84774309d15125"
+                },
+                "excerpt_range": {
+                  "start": 2235,
+                  "end": 3435
+                },
+                "full_text_available": true
+              }
+            ]
+          }
+        ],
+        "next_cursor": "eyJnZW5lcmF0aW9uIjogIjE3OTI4MDQxNTgtOTg4OTM6dmVjdG9ycy0yNDIwMDEtMTc5Mjg0NDI4NTg0NzU1NDAwMCIsICJxdWVyeSI6ICJcIm9uIGJlaGFsZlwiIFwiQS0xMzBcIiIsICJmaWx0ZXJzIjoge30sICJvZmZzZXQiOiAzfQ==",
+        "truncated": true,
+        "candidate_document_count": 46,
+        "retrieval_is_exhaustive": false,
+        "warnings": [
+          "Semantic backfill incomplete: 242001 of 631348 passages; partial vectors withheld, using full lexical retrieval",
+          "Search covers indexed text, not proof of complete historical coverage."
+        ],
+        "elapsed_ms": 6843
+      }
+    },
+    {
+      "key": "\"on behalf\" \"incidental\"",
+      "result": {
+        "generation": "1792804158-98893:vectors-242001-1792844285847554000",
+        "query": "\"on behalf\" \"incidental\"",
+        "results": [
+          {
+            "document_id": "b94bb7c8a4cfc506c67606cded3fb6ee7dca00598268f06e5fb47c14ed17ee97",
+            "identifier_match": false,
+            "document_number": null,
+            "title": "RAND Corporation Comments on HSAR Case 2015-001",
+            "issuer": "RAND Corporation (comment submitted on behalf of the organization; no individual author identified in quoted attachment excerpt)",
+            "date": "2017-03-23",
+            "authority": "Public comment; submitter position, nonbinding",
+            "status": "Submitted comment in docket DHS-2017-0006; proposed rule input later addressed in final rule 2023-11270",
+            "passages": [
+              {
+                "passage_id": "522938f2950fae16dd2828ed4dee67d10df3dc2536837112ff942257b31ae97c",
+                "text": "```text\nRAND\n\nCORPORATION\n\nRAND Corporation Comments on HSAR Case 2015-001\nMarch 23, 2017\nPage 8\n\n(emphasis added). Under the NARA Final Rule, these DHS 4300A standards cannot be\nimposed on contractors that handle or use DHS CUI “only incidental to” providing a\nservice or product to DHS. The proposed rule clearly exceeds DHS’s authority as\nconstrained by Executive Order 13556 and the NARA Final Rule. 32 CFR §§\n2002.14(h)(1) and (2).\n\nComment 3\n\nTo avoid ambiguity, confusion, and inconsistent contract\nadministration, the term “on behalf of’ should be defined in the\nproposed regulation, consistent with the definition of the term in the\nNARA Final Rule on CUI.\n\nThe term “on behalf of” is used throughout both the NARA Final Rule on CUI and in the\nproposed DHS regulation. It is a critical term, because it clarifies when an information\nsystem is considered a Federal information system that is operated by a contractor, as\nopposed to a non-Federal contractor information system that merely stores or handles\nCUI only incidental to providing a product or service to the Government.\n\nFor example, the determination of whether proposed clause 3052.204-7X(c), Authority to\nOperate, should be includ",
+                "context": "RAND Corporation Comments on HSAR Case 2015-001 | RAND Corporation (comment submitted on behalf of the organization; no individual author identified in quoted attachment excerpt) | 2017-03-23 | Public comment; submitter position, nonbinding | Submitted comment in docket DHS-2017-0006; proposed rule input later addressed in final rule 2023-11270 | Source page image",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "b94bb7c8a4cfc506c67606cded3fb6ee7dca00598268f06e5fb47c14ed17ee97",
+                  "source_sha256": "b94bb7c8a4cfc506c67606cded3fb6ee7dca00598268f06e5fb47c14ed17ee97",
+                  "title": "RAND Corporation Comments on HSAR Case 2015-001",
+                  "document_number": null,
+                  "issuer": "RAND Corporation (comment submitted on behalf of the organization; no individual author identified in quoted attachment excerpt)",
+                  "date": "2017-03-23",
+                  "authority": "Public comment; submitter position, nonbinding",
+                  "document_status": "Submitted comment in docket DHS-2017-0006; proposed rule input later addressed in final rule 2023-11270",
+                  "page": 8,
+                  "anchor": "page-8",
+                  "start": 0,
+                  "end": 2199,
+                  "original_path": "originals/omb/RAND-Corporation-comment-submitted-on-behalf-of-the-organization-no-individual-author-identified-in-/2017/RAND-Corporation-Comments-on-HSAR-Case-2015-001--b94bb7c8a4cfc506.pdf",
+                  "reader_path": "markdown/b94bb7c8a4cfc506c67606cded3fb6ee7dca00598268f06e5fb47c14ed17ee97/c483b83e9cc2e3800070/document.html",
+                  "source_urls": [
+                    "https://downloads.regulations.gov/DHS-2017-0006-0013/attachment_1.pdf",
+                    "https://www.regulations.gov/docket/DHS-2017-0006"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/522938f2950fae16dd2828ed4dee67d10df3dc2536837112ff942257b31ae97c"
+                },
+                "excerpt_range": {
+                  "start": 0,
+                  "end": 1200
+                },
+                "full_text_available": true
+              },
+              {
+                "passage_id": "ec2bec0cad3018c9a5af8e685fa260869d008f1f7b40200ee49f03c3cda6da2e",
+                "text": "ds and controls for\nsafeguarding CUI that apply to a government contractor, an analysis must be made of the\npurpose of the contract, which in turn determines the reason that the contractor is\ncollecting, maintaining, or using government information or data. The determining factor\nis whether the non-government entity/contractor is managing an information system ‘on\nbehalf of” an executive branch agency, or whether the contractor is using government\ninformation “only incidental to providing a service or product” to the agency. The CUI\nProgram regulation 2002.14(h) states:\n\nInformation systems that process, store, or transmit CUI are of two\ndifferent types:\n\n(1) A Federal information system is an information system used or\noperated by an agency or by a contractor of an agency or other\norganization on behalf of an agency. An information system operated on\nbehalf of an agency provides information processing services to the\nagency that the Government might otherwise perform itself but has\ndecided to outsource. ... Information systems that a non-executive\nbranch entity operates on behalf of an agency are subject to the\n\n® DHS acknowledges in footnote 5 on page 6431 of the Federal Register",
+                "context": "RAND Corporation Comments on HSAR Case 2015-001 | RAND Corporation (comment submitted on behalf of the organization; no individual author identified in quoted attachment excerpt) | 2017-03-23 | Public comment; submitter position, nonbinding | Submitted comment in docket DHS-2017-0006; proposed rule input later addressed in final rule 2023-11270 | Source page image",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "b94bb7c8a4cfc506c67606cded3fb6ee7dca00598268f06e5fb47c14ed17ee97",
+                  "source_sha256": "b94bb7c8a4cfc506c67606cded3fb6ee7dca00598268f06e5fb47c14ed17ee97",
+                  "title": "RAND Corporation Comments on HSAR Case 2015-001",
+                  "document_number": null,
+                  "issuer": "RAND Corporation (comment submitted on behalf of the organization; no individual author identified in quoted attachment excerpt)",
+                  "date": "2017-03-23",
+                  "authority": "Public comment; submitter position, nonbinding",
+                  "document_status": "Submitted comment in docket DHS-2017-0006; proposed rule input later addressed in final rule 2023-11270",
+                  "page": 3,
+                  "anchor": "page-3",
+                  "start": 0,
+                  "end": 2958,
+                  "original_path": "originals/omb/RAND-Corporation-comment-submitted-on-behalf-of-the-organization-no-individual-author-identified-in-/2017/RAND-Corporation-Comments-on-HSAR-Case-2015-001--b94bb7c8a4cfc506.pdf",
+                  "reader_path": "markdown/b94bb7c8a4cfc506c67606cded3fb6ee7dca00598268f06e5fb47c14ed17ee97/c483b83e9cc2e3800070/document.html",
+                  "source_urls": [
+                    "https://downloads.regulations.gov/DHS-2017-0006-0013/attachment_1.pdf",
+                    "https://www.regulations.gov/docket/DHS-2017-0006"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/ec2bec0cad3018c9a5af8e685fa260869d008f1f7b40200ee49f03c3cda6da2e"
+                },
+                "excerpt_range": {
+                  "start": 1500,
+                  "end": 2700
+                },
+                "full_text_available": true
+              },
+              {
+                "passage_id": "e0fbc31ad11ec66c3bdc607e3ebae8b562baefc7a5f3eeda422b93f4c3528213",
+                "text": "otect CUI Basic on non-Federal information systems in\naccordance with the requirements of this part. Agencies must use NIST SP\n800-171 when establishing security requirements to protect CUI’s\nconfidentiality on non-Federal information systems (unless the authorizing\nlaw, regulation, or Government-wide policy listed in the CUI Registry for\nthe CUI category or subcategory of the information involved prescribes\nspecific safeguarding requirements for protecting the information’s\nconfidentiality, or unless an agreement establishes requirements to protect\nCUI Basic at higher than moderate confidentiality).\n\n32 CFR § 2002.14(h) (emphasis added).\nThe NARA Final Rule defines the term “on behalf of” an agency as follow:\n\n(hh) On behalf of an agency occurs when a non-executive branch entity\nuses or operates an information system or maintains or collects\ninformation for the purpose of processing, storing, or transmitting Federal\ninformation, and those activities are not incidental to providing a service\nor product to the Government.\n\n32 CFR § 2002.4(hh).\n\nThe rule proposed by DHS does not distinguish between information security standards\napplicable to non-Federal contractor information system",
+                "context": "RAND Corporation Comments on HSAR Case 2015-001 | RAND Corporation (comment submitted on behalf of the organization; no individual author identified in quoted attachment excerpt) | 2017-03-23 | Public comment; submitter position, nonbinding | Submitted comment in docket DHS-2017-0006; proposed rule input later addressed in final rule 2023-11270 | Source page image",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "b94bb7c8a4cfc506c67606cded3fb6ee7dca00598268f06e5fb47c14ed17ee97",
+                  "source_sha256": "b94bb7c8a4cfc506c67606cded3fb6ee7dca00598268f06e5fb47c14ed17ee97",
+                  "title": "RAND Corporation Comments on HSAR Case 2015-001",
+                  "document_number": null,
+                  "issuer": "RAND Corporation (comment submitted on behalf of the organization; no individual author identified in quoted attachment excerpt)",
+                  "date": "2017-03-23",
+                  "authority": "Public comment; submitter position, nonbinding",
+                  "document_status": "Submitted comment in docket DHS-2017-0006; proposed rule input later addressed in final rule 2023-11270",
+                  "page": 4,
+                  "anchor": "page-4",
+                  "start": 0,
+                  "end": 2507,
+                  "original_path": "originals/omb/RAND-Corporation-comment-submitted-on-behalf-of-the-organization-no-individual-author-identified-in-/2017/RAND-Corporation-Comments-on-HSAR-Case-2015-001--b94bb7c8a4cfc506.pdf",
+                  "reader_path": "markdown/b94bb7c8a4cfc506c67606cded3fb6ee7dca00598268f06e5fb47c14ed17ee97/c483b83e9cc2e3800070/document.html",
+                  "source_urls": [
+                    "https://downloads.regulations.gov/DHS-2017-0006-0013/attachment_1.pdf",
+                    "https://www.regulations.gov/docket/DHS-2017-0006"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/e0fbc31ad11ec66c3bdc607e3ebae8b562baefc7a5f3eeda422b93f4c3528213"
+                },
+                "excerpt_range": {
+                  "start": 1000,
+                  "end": 2200
+                },
+                "full_text_available": true
+              }
+            ]
+          },
+          {
+            "document_id": "de73191abda2c3037a37d6ff60566a6dd72c9aacbeaa8f5337b1f7be467273d2",
+            "identifier_match": false,
+            "document_number": "m-10-15",
+            "title": "M-10-15, FY 2010 Reporting Instructions for the Federal Information Security Management Act and Agency Privacy Management",
+            "issuer": "OMB",
+            "date": "2010-04-21",
+            "authority": "policy",
+            "status": "final",
+            "passages": [
+              {
+                "passage_id": "3f3193c23dd705347206b81098549091b5a77350b76ea3564e68a908378d1950",
+                "text": "s must also review the security of other users with privileged\naccess to Federal data and systems.\n\nFinally, because FISMA applies to Federal information and information systems, in certain\nlimited circumstances its requirements also apply to a specific class of information technology to\nwhich Clinger-Cohen did not, i.e., “equipment that is acquired by a Federal contractor incidental\nto a Federal contract.” Therefore, when Federal information is used within incidentally acquired\nequipment, the agency continues to be responsible and accountable for ensuring FISMA\nrequirements are met.\n\n37. Could you provide examples of “incidental” contractor equipment which is not subject\nto FISMA?\nIn considering the answer to this question, it is essential to remember FISMA requires agencies to\nprovide security protections \"...commensurate with the risk and magnitude of harm resulting from\nunauthorized access, use, disclosure, disruption, modification, or destruction of information\ncollected or maintained by or on behalf of the agency; and information systems used or operated\nby an agency or other organization on behalf of an agency.\" This includes services which are\neither fully or partially prov",
+                "context": "M-10-15, FY 2010 Reporting Instructions for the Federal Information Security Management Act and Agency Privacy Management | OMB | 2010-04-21 | m-10-15 | policy | final",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "de73191abda2c3037a37d6ff60566a6dd72c9aacbeaa8f5337b1f7be467273d2",
+                  "source_sha256": "de73191abda2c3037a37d6ff60566a6dd72c9aacbeaa8f5337b1f7be467273d2",
+                  "title": "M-10-15, FY 2010 Reporting Instructions for the Federal Information Security Management Act and Agency Privacy Management",
+                  "document_number": "m-10-15",
+                  "issuer": "OMB",
+                  "date": "2010-04-21",
+                  "authority": "policy",
+                  "document_status": "final",
+                  "page": 18,
+                  "anchor": "page-18",
+                  "start": 0,
+                  "end": 2925,
+                  "original_path": "originals/omb/OMB/2010/m-10-15--de73191abda2c303.pdf",
+                  "reader_path": "markdown/de73191abda2c3037a37d6ff60566a6dd72c9aacbeaa8f5337b1f7be467273d2/f6fc8fe292043e54019e/document.html",
+                  "source_urls": [
+                    "https://bidenwhitehouse.archives.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2010/m10-15.pdf",
+                    "https://trumpwhitehouse.archives.gov/omb/information-for-agencies/memoranda/",
+                    "https://trumpwhitehouse.archives.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-15.pdf"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/3f3193c23dd705347206b81098549091b5a77350b76ea3564e68a908378d1950"
+                },
+                "excerpt_range": {
+                  "start": 500,
+                  "end": 1700
+                },
+                "full_text_available": true
+              }
+            ]
+          },
+          {
+            "document_id": "05b6e2c84f3eaa5160f835f55c7e15816cbabadf3fd4f216802e57fc6dd1aad9",
+            "identifier_match": false,
+            "document_number": "m-14-04",
+            "title": "M-14-04, Fiscal Year 2013 Reporting Instructions for the Federal Information Security Management Act and Agency Privacy Management",
+            "issuer": "OMB",
+            "date": "2013-11-18",
+            "authority": "policy",
+            "status": "final",
+            "passages": [
+              {
+                "passage_id": "3620ed2b1c6c325a271e10aa8bc6722879d004b184b2867391803f0f3a2e0e81",
+                "text": "is\nacquired by a Federal contractor incidental to a Federal contract.” Therefore, when Federal\ninformation is used within incidentally acquired equipment, the agency continues to be\nresponsible and accountable for ensuring FISMA requirements are met.\n\n47. Could you provide examples of “incidental” contractor equipment which is not subject\nto FISMA?\n\nIn considering the answer to this question, it is essential to remember FISMA requires agencies to\nprovide security protections \"...commensurate with the risk and magnitude of harm resulting from\nunauthorized access, use, disclosure, disruption, modification, or destruction of information\ncollected or maintained by or on behalf of the agency; and information systems used or operated\nby an agency or other organization on behalf of an agency.\" This includes services which are\neither fully or partially provided by another source, including agency hosted, outsourced, and\nSaaS type solutions. SI\n\n18\n```\n\n### Source page image\n\n![Source PDF page 22](images/page-00022.png)\n",
+                "context": "M-14-04, Fiscal Year 2013 Reporting Instructions for the Federal Information Security Management Act and Agency Privacy Management | OMB | 2013-11-18 | m-14-04 | policy | final | Source page image",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "05b6e2c84f3eaa5160f835f55c7e15816cbabadf3fd4f216802e57fc6dd1aad9",
+                  "source_sha256": "05b6e2c84f3eaa5160f835f55c7e15816cbabadf3fd4f216802e57fc6dd1aad9",
+                  "title": "M-14-04, Fiscal Year 2013 Reporting Instructions for the Federal Information Security Management Act and Agency Privacy Management",
+                  "document_number": "m-14-04",
+                  "issuer": "OMB",
+                  "date": "2013-11-18",
+                  "authority": "policy",
+                  "document_status": "final",
+                  "page": 22,
+                  "anchor": "page-22",
+                  "start": 2268,
+                  "end": 3295,
+                  "original_path": "originals/omb/OMB/2013/m-14-04--05b6e2c84f3eaa51.pdf",
+                  "reader_path": "markdown/05b6e2c84f3eaa5160f835f55c7e15816cbabadf3fd4f216802e57fc6dd1aad9/a801ba52f5eff3ffe042/document.html",
+                  "source_urls": [
+                    "https://bidenwhitehouse.archives.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2014/m-14-04.pdf",
+                    "https://trumpwhitehouse.archives.gov/omb/information-for-agencies/memoranda/",
+                    "https://trumpwhitehouse.archives.gov/sites/whitehouse.gov/files/omb/memoranda/2014/m-14-04.pdf"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/3620ed2b1c6c325a271e10aa8bc6722879d004b184b2867391803f0f3a2e0e81"
+                },
+                "excerpt_range": {
+                  "start": 2268,
+                  "end": 3295
+                },
+                "full_text_available": false
+              },
+              {
+                "passage_id": "d1c2b4e80b31d5ef9e1bf6b6f0efebbe0f90884f88f9f495b8dff76f6b216771",
+                "text": "ncerning sharing Government information and interconnecting\nsystems.\n\nTherefore, Federal security requirements continue to apply and the agency is responsible for\nensuring appropriate security controls (see OMB Circular A-130, Appendix III). Agencies must\ndevelop policies for information security oversight of contractors and other users with privileged\naccess to Federal data. Agencies must also review the security of other users with privileged\naccess to Federal data and systems.\n\nFinally, because FISMA applies to Federal information and information systems, in certain\nlimited circumstances its requirements also apply to a specific class of information technology\nthat the Clinger-Cohen Act of 1996 (40 U.S.C. § 1401(3)) did not include, i.e., “equipment that is\nacquired by a Federal contractor incidental to a Federal contract.” Therefore, when Federal\ninformation is used within incidentally acquired equipment, the agency continues to be\nresponsible and accountable for ensuring FISMA requirements are met.\n\n47. Could you provide examples of “incidental” contractor equipment which is not subject\nto FISMA?",
+                "context": "M-14-04, Fiscal Year 2013 Reporting Instructions for the Federal Information Security Management Act and Agency Privacy Management | OMB | 2013-11-18 | m-14-04 | policy | final | Source page image",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "05b6e2c84f3eaa5160f835f55c7e15816cbabadf3fd4f216802e57fc6dd1aad9",
+                  "source_sha256": "05b6e2c84f3eaa5160f835f55c7e15816cbabadf3fd4f216802e57fc6dd1aad9",
+                  "title": "M-14-04, Fiscal Year 2013 Reporting Instructions for the Federal Information Security Management Act and Agency Privacy Management",
+                  "document_number": "m-14-04",
+                  "issuer": "OMB",
+                  "date": "2013-11-18",
+                  "authority": "policy",
+                  "document_status": "final",
+                  "page": 22,
+                  "anchor": "page-22",
+                  "start": 0,
+                  "end": 2618,
+                  "original_path": "originals/omb/OMB/2013/m-14-04--05b6e2c84f3eaa51.pdf",
+                  "reader_path": "markdown/05b6e2c84f3eaa5160f835f55c7e15816cbabadf3fd4f216802e57fc6dd1aad9/a801ba52f5eff3ffe042/document.html",
+                  "source_urls": [
+                    "https://bidenwhitehouse.archives.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2014/m-14-04.pdf",
+                    "https://trumpwhitehouse.archives.gov/omb/information-for-agencies/memoranda/",
+                    "https://trumpwhitehouse.archives.gov/sites/whitehouse.gov/files/omb/memoranda/2014/m-14-04.pdf"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/d1c2b4e80b31d5ef9e1bf6b6f0efebbe0f90884f88f9f495b8dff76f6b216771"
+                },
+                "excerpt_range": {
+                  "start": 1500,
+                  "end": 2618
+                },
+                "full_text_available": true
+              },
+              {
+                "passage_id": "5b38c4ba753abbf4a5b7fa08f95295ce60421afb3b363c89de8a3fe8da65a37c",
+                "text": "```text\nA corporate human resource or financial management system acquired solely to assist managing\ncorporate resources assigned to a government contract could be incidental provided the system\ndoes not use agency information or interconnect with an agency system.\n\n48. Could you provide examples of agency information security responsibilities concerning\ncontractors and other sources?\n\nFISMA requires agencies to provide security protections \"...commensurate with the risk and\nmagnitude of harm resulting from unauthorized access, use, disclosure, disruption, modification,\nor destruction of information collected or maintained by or on behalf of the agency; and\ninformation systems used or operated by an agency or other organization on behalf of an\nagency.\" This includes full or partial operations.\n\nWhile we cannot anticipate all possible combinations and permutations, there are five primary\ncategories of contractors as they relate to securing systems and information; 1) service providers;\n2) contractor support; 3) Government Owned, Contractor Operated facilities (GOCO); 4)\nlaboratories and research centers; and 5) management and operating contracts.\n\n1) Service providers -- this encomp",
+                "context": "M-14-04, Fiscal Year 2013 Reporting Instructions for the Federal Information Security Management Act and Agency Privacy Management | OMB | 2013-11-18 | m-14-04 | policy | final | Source page image",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "05b6e2c84f3eaa5160f835f55c7e15816cbabadf3fd4f216802e57fc6dd1aad9",
+                  "source_sha256": "05b6e2c84f3eaa5160f835f55c7e15816cbabadf3fd4f216802e57fc6dd1aad9",
+                  "title": "M-14-04, Fiscal Year 2013 Reporting Instructions for the Federal Information Security Management Act and Agency Privacy Management",
+                  "document_number": "m-14-04",
+                  "issuer": "OMB",
+                  "date": "2013-11-18",
+                  "authority": "policy",
+                  "document_status": "final",
+                  "page": 23,
+                  "anchor": "page-23",
+                  "start": 0,
+                  "end": 2997,
+                  "original_path": "originals/omb/OMB/2013/m-14-04--05b6e2c84f3eaa51.pdf",
+                  "reader_path": "markdown/05b6e2c84f3eaa5160f835f55c7e15816cbabadf3fd4f216802e57fc6dd1aad9/a801ba52f5eff3ffe042/document.html",
+                  "source_urls": [
+                    "https://bidenwhitehouse.archives.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2014/m-14-04.pdf",
+                    "https://trumpwhitehouse.archives.gov/omb/information-for-agencies/memoranda/",
+                    "https://trumpwhitehouse.archives.gov/sites/whitehouse.gov/files/omb/memoranda/2014/m-14-04.pdf"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/5b38c4ba753abbf4a5b7fa08f95295ce60421afb3b363c89de8a3fe8da65a37c"
+                },
+                "excerpt_range": {
+                  "start": 0,
+                  "end": 1200
+                },
+                "full_text_available": true
+              }
+            ]
+          },
+          {
+            "document_id": "e5b317184e742b02604685ef3def682ccf4c151466f5877f580f5460511bd6b2",
+            "identifier_match": false,
+            "document_number": "M-08-21",
+            "title": "M-08-21, FY 2008 Reporting Instructions for the Federal Information Security Management Act and Agency Privacy Management",
+            "issuer": "OMB",
+            "date": "2008-07-14",
+            "authority": "policy",
+            "status": "final",
+            "passages": [
+              {
+                "passage_id": "cfc5db5c3d5a4313c1a4d45b751e2fba404d41c016dc998ff6efe8dbeb660fb4",
+                "text": "which Clinger-Cohen did not, i.e., “equipment that is acquired by a Federal contractor incidental\nto a Federal contract.” Therefore, when Federal information is used within incidentally acquired\nequipment, the agency continues to be responsible and accountable for ensuring FISMA\nrequirements are met.\n\n36. Could you provide examples of “incidental” contractor equipment which is not subject to\nFISMA?\n\nIn considering the answer to this question, it is essential to remember FISMA requires agencies to\nprovide security protections \"...commensurate with the risk and magnitude of harm resulting from\nunauthorized access, use, disclosure, disruption, modification, or destruction of information\ncollected or maintained by or on behalf of the agency; and information systems used or operated\nby an agency or other organization on behalf of an agency.\" This includes services which are\neither fully or partially provided by another source, including agency hosted, outsourced, and\nSaaS solutions.\n\nA corporate human resource or financial management system acquired solely to assist managing\ncorporate resources assigned to a Government contract could be incidental, provided the system\ndoes not use agenc",
+                "context": "M-08-21, FY 2008 Reporting Instructions for the Federal Information Security Management Act and Agency Privacy Management | OMB | 2008-07-14 | M-08-21 | policy | final",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "e5b317184e742b02604685ef3def682ccf4c151466f5877f580f5460511bd6b2",
+                  "source_sha256": "e5b317184e742b02604685ef3def682ccf4c151466f5877f580f5460511bd6b2",
+                  "title": "M-08-21, FY 2008 Reporting Instructions for the Federal Information Security Management Act and Agency Privacy Management",
+                  "document_number": "M-08-21",
+                  "issuer": "OMB",
+                  "date": "2008-07-14",
+                  "authority": "policy",
+                  "document_status": "final",
+                  "page": 17,
+                  "anchor": "page-17",
+                  "start": 0,
+                  "end": 2862,
+                  "original_path": "originals/omb/OMB/undated/M-08-21--e5b317184e742b02.pdf",
+                  "reader_path": "markdown/e5b317184e742b02604685ef3def682ccf4c151466f5877f580f5460511bd6b2/f9c40d90a328ede58679/document.html",
+                  "source_urls": [
+                    "https://bidenwhitehouse.archives.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2008/m08-21.pdf",
+                    "https://georgewbush-whitehouse.archives.gov/omb/memoranda/2008.html",
+                    "https://georgewbush-whitehouse.archives.gov/omb/memoranda/fy2008/m08-21.pdf",
+                    "https://trumpwhitehouse.archives.gov/omb/information-for-agencies/memoranda/",
+                    "https://trumpwhitehouse.archives.gov/sites/whitehouse.gov/files/omb/memoranda/2008/m08-21.pdf"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/cfc5db5c3d5a4313c1a4d45b751e2fba404d41c016dc998ff6efe8dbeb660fb4"
+                },
+                "excerpt_range": {
+                  "start": 1500,
+                  "end": 2700
+                },
+                "full_text_available": true
+              },
+              {
+                "passage_id": "fca4b0fb687653cba8bad431b20922f9a8138a40e93cafebb30cc0728f1f9025",
+                "text": "resource or financial management system acquired solely to assist managing\ncorporate resources assigned to a Government contract could be incidental, provided the system\ndoes not use agency information or interconnect with an agency system.\n\n37. Could you provide examples of agency security responsibilities concerning contractors and\nother sources?\n\nFISMA requires agencies to provide security protections \"...commensurate with the risk and\nmagnitude of harm resulting from unauthorized access, use, disclosure, disruption, modification,\nor destruction of information collected or maintained by or on behalf of the agency; and\n\n\n\n                                           14\n```\n",
+                "context": "M-08-21, FY 2008 Reporting Instructions for the Federal Information Security Management Act and Agency Privacy Management | OMB | 2008-07-14 | M-08-21 | policy | final",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "e5b317184e742b02604685ef3def682ccf4c151466f5877f580f5460511bd6b2",
+                  "source_sha256": "e5b317184e742b02604685ef3def682ccf4c151466f5877f580f5460511bd6b2",
+                  "title": "M-08-21, FY 2008 Reporting Instructions for the Federal Information Security Management Act and Agency Privacy Management",
+                  "document_number": "M-08-21",
+                  "issuer": "OMB",
+                  "date": "2008-07-14",
+                  "authority": "policy",
+                  "document_status": "final",
+                  "page": 17,
+                  "anchor": "page-17",
+                  "start": 2512,
+                  "end": 3194,
+                  "original_path": "originals/omb/OMB/undated/M-08-21--e5b317184e742b02.pdf",
+                  "reader_path": "markdown/e5b317184e742b02604685ef3def682ccf4c151466f5877f580f5460511bd6b2/f9c40d90a328ede58679/document.html",
+                  "source_urls": [
+                    "https://bidenwhitehouse.archives.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2008/m08-21.pdf",
+                    "https://georgewbush-whitehouse.archives.gov/omb/memoranda/2008.html",
+                    "https://georgewbush-whitehouse.archives.gov/omb/memoranda/fy2008/m08-21.pdf",
+                    "https://trumpwhitehouse.archives.gov/omb/information-for-agencies/memoranda/",
+                    "https://trumpwhitehouse.archives.gov/sites/whitehouse.gov/files/omb/memoranda/2008/m08-21.pdf"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/fca4b0fb687653cba8bad431b20922f9a8138a40e93cafebb30cc0728f1f9025"
+                },
+                "excerpt_range": {
+                  "start": 2512,
+                  "end": 3194
+                },
+                "full_text_available": false
+              }
+            ]
+          }
+        ],
+        "next_cursor": "eyJnZW5lcmF0aW9uIjogIjE3OTI4MDQxNTgtOTg4OTM6dmVjdG9ycy0yNDIwMDEtMTc5Mjg0NDI4NTg0NzU1NDAwMCIsICJxdWVyeSI6ICJcIm9uIGJlaGFsZlwiIFwiaW5jaWRlbnRhbFwiIiwgImZpbHRlcnMiOiB7fSwgIm9mZnNldCI6IDR9",
+        "truncated": true,
+        "candidate_document_count": 64,
+        "retrieval_is_exhaustive": false,
+        "warnings": [
+          "Semantic backfill incomplete: 242001 of 631348 passages; partial vectors withheld, using full lexical retrieval",
+          "Search covers indexed text, not proof of complete historical coverage."
+        ],
+        "elapsed_ms": 12594
+      }
+    },
+    {
+      "key": "\"external\" \"SP 800-37\"",
+      "result": {
+        "generation": "1792804158-98893:vectors-242001-1792844285847554000",
+        "query": "\"external\" \"SP 800-37\"",
+        "results": [
+          {
+            "document_id": "4f75e1136bb905a654f1bcd9eefefb4108f47597276ee5eec0688f6d96f6a01d",
+            "identifier_match": true,
+            "document_number": "SP 800-37 Rev. 2",
+            "title": "Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy",
+            "issuer": "NIST",
+            "date": "2018-12-20",
+            "authority": "guidance",
+            "status": "final",
+            "passages": [
+              {
+                "passage_id": "e782a7d6408e9e53ec2e3671c2c8b1639e76ff01e6650d11398a688448e7dfc2",
+                "text": "on\n              component)              boundary established by the organization and for which the\n                                             organization typically has no direct control over the application\n                                              of required controls or the assessment of control effectiveness.\n                 external system service    A system service that is implemented outside of the\n                                             authorization boundary of the organizational system (i.e., a\n                                               service that is used by, but not a part of, the organizational\n                                          system) and for which the organization typically has no direct\n                                              control over the application of required controls or the\n                                         assessment of control effectiveness.\n                 external system service    A provider of external system services to an organizationThis\n                provider                  through a variety of consumer-producer relationships including\n                                         but not limited to: joint ve",
+                "context": "Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy | NIST | 2018-12-20 | SP 800-37 Rev. 2 | guidance | final",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "4f75e1136bb905a654f1bcd9eefefb4108f47597276ee5eec0688f6d96f6a01d",
+                  "source_sha256": "4f75e1136bb905a654f1bcd9eefefb4108f47597276ee5eec0688f6d96f6a01d",
+                  "title": "Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy",
+                  "document_number": "SP 800-37 Rev. 2",
+                  "issuer": "NIST",
+                  "date": "2018-12-20",
+                  "authority": "guidance",
+                  "document_status": "final",
+                  "page": 116,
+                  "anchor": "page-116",
+                  "start": 0,
+                  "end": 2995,
+                  "original_path": "originals/nist/NIST/2018/sp800372--4f75e1136bb905a6.pdf",
+                  "reader_path": "markdown/4f75e1136bb905a654f1bcd9eefefb4108f47597276ee5eec0688f6d96f6a01d/31228afe29e51fd42245/document.html",
+                  "source_urls": [
+                    "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/e782a7d6408e9e53ec2e3671c2c8b1639e76ff01e6650d11398a688448e7dfc2"
+                },
+                "excerpt_range": {
+                  "start": 500,
+                  "end": 1700
+                },
+                "full_text_available": true
+              },
+              {
+                "passage_id": "beb5e43db552138b9cc96520d159145b1c309534e11e5a225a64684882d08021",
+                "text": "ganizations should exercise caution when attempting to leverage external provider controls\n                   and assessment results. Controls implemented by external providers may be different than the\n                       controls in [SP 800-53] in the scope, coverage, and capability provided. NIST provides a mapping\n                       of the controls in its catalog to the [ISO 27001] security controls and to the [ISO 15408-2] and\n                       [ISO 15408-3] security requirements. However, such mappings are inherently subjective and\n                     should be reviewed carefully by organizations to determine if the controls and requirements\n                     addressed by external providers meet the protection needs of the organization. The mappings\n                   between different standards or guidelines also do not address the potential for differing scopes\nThis                 and purpose for each publication.\n                        Similar caution should be exercised when attempting to use or leverage security and privacy\n                     assessment results from external providers. The type, rigor, and scope of the assessments may\n                ",
+                "context": "Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy | NIST | 2018-12-20 | SP 800-37 Rev. 2 | guidance | final",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "4f75e1136bb905a654f1bcd9eefefb4108f47597276ee5eec0688f6d96f6a01d",
+                  "source_sha256": "4f75e1136bb905a654f1bcd9eefefb4108f47597276ee5eec0688f6d96f6a01d",
+                  "title": "Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy",
+                  "document_number": "SP 800-37 Rev. 2",
+                  "issuer": "NIST",
+                  "date": "2018-12-20",
+                  "authority": "guidance",
+                  "document_status": "final",
+                  "page": 180,
+                  "anchor": "page-180",
+                  "start": 0,
+                  "end": 2659,
+                  "original_path": "originals/nist/NIST/2018/sp800372--4f75e1136bb905a6.pdf",
+                  "reader_path": "markdown/4f75e1136bb905a654f1bcd9eefefb4108f47597276ee5eec0688f6d96f6a01d/31228afe29e51fd42245/document.html",
+                  "source_urls": [
+                    "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/beb5e43db552138b9cc96520d159145b1c309534e11e5a225a64684882d08021"
+                },
+                "excerpt_range": {
+                  "start": 500,
+                  "end": 1700
+                },
+                "full_text_available": true
+              },
+              {
+                "passage_id": "3737bb229da58e5f523f847246dac0f6f9f94d5b48e42c08065295c66a9ab5e0",
+                "text": "ng\n              systems on behalf of the federal government to meet the same security and privacy\n               requirements as federal agencies. Security and privacy requirements for external providers\n                 including the controls for systems processing, storing, or transmitting federal information are\n               expressed in contracts or other formal agreements. The RMF can be effectively used to manage\n               supply chain risk.47 The conceptual view of the system in Figure 5 can guide and inform security,\n                 privacy, and risk management activities for all elements of the supply chain. Every step in the\n           RMF can be executed by nonfederal external providers except for the Authorize step—that is,\n               the acceptance of risk is an inherent federal responsibility for which senior executives are held\n                responsible and accountable. The authorization decision is directly linked to the management of\n                   risk related to the acquisition and use of component products, systems, and services from\n                external providers.48 [OMB A-130] also requires organizations to develop and implement SCRMThis",
+                "context": "Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy | NIST | 2018-12-20 | SP 800-37 Rev. 2 | guidance | final",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "4f75e1136bb905a654f1bcd9eefefb4108f47597276ee5eec0688f6d96f6a01d",
+                  "source_sha256": "4f75e1136bb905a654f1bcd9eefefb4108f47597276ee5eec0688f6d96f6a01d",
+                  "title": "Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy",
+                  "document_number": "SP 800-37 Rev. 2",
+                  "issuer": "NIST",
+                  "date": "2018-12-20",
+                  "authority": "guidance",
+                  "document_status": "final",
+                  "page": 40,
+                  "anchor": "page-40",
+                  "start": 0,
+                  "end": 1726,
+                  "original_path": "originals/nist/NIST/2018/sp800372--4f75e1136bb905a6.pdf",
+                  "reader_path": "markdown/4f75e1136bb905a654f1bcd9eefefb4108f47597276ee5eec0688f6d96f6a01d/31228afe29e51fd42245/document.html",
+                  "source_urls": [
+                    "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/3737bb229da58e5f523f847246dac0f6f9f94d5b48e42c08065295c66a9ab5e0"
+                },
+                "excerpt_range": {
+                  "start": 500,
+                  "end": 1700
+                },
+                "full_text_available": true
+              }
+            ]
+          },
+          {
+            "document_id": "edf93929d50464a5636a2feb529e2c3069cce5dc7f5cfb4f6710ec66fb60879d",
+            "identifier_match": false,
+            "document_number": "NISTIR 7298 Rev. 1",
+            "title": "Glossary of Key Information Security Terms",
+            "issuer": "NIST",
+            "date": "2011-02-17",
+            "authority": "guidance",
+            "status": "withdrawn",
+            "passages": [
+              {
+                "passage_id": "a0d6e3f14ad28cd06356e1206939ae5d2fd79cb3e9926f58d6a2d738ec66a659",
+                "text": "                                 and for which the organization typically has no direct control over the\n                                       application of required security controls or the assessment of security\n                                       control effectiveness.\n\n                               SOURCE: SP 800-37; SP 800-53; CNSSI-4009\n\n External Information System      An information system service that is implemented outside of the\n Service –                             authorization boundary of the organizational information system\n                                                     (i.e., a service that is used by, but not a part of, the organizational\n                                     information system) and for which the organization typically has\n                                no direct control over the application of required security controls\n                                      or the assessment of security control effectiveness.\n\n                               SOURCE: SP 800-53; SP 800-37; CNSSI-4009\n\n\n\n\n\n                                                                                                 Pg 72\n```\n",
+                "context": "Glossary of Key Information Security Terms | NIST | 2011-02-17 | NISTIR 7298 Rev. 1 | guidance | withdrawn",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "edf93929d50464a5636a2feb529e2c3069cce5dc7f5cfb4f6710ec66fb60879d",
+                  "source_sha256": "edf93929d50464a5636a2feb529e2c3069cce5dc7f5cfb4f6710ec66fb60879d",
+                  "title": "Glossary of Key Information Security Terms",
+                  "document_number": "NISTIR 7298 Rev. 1",
+                  "issuer": "NIST",
+                  "date": "2011-02-17",
+                  "authority": "guidance",
+                  "document_status": "withdrawn",
+                  "page": 72,
+                  "anchor": "page-72",
+                  "start": 2462,
+                  "end": 3620,
+                  "original_path": "originals/nist/NIST/2011/NISTIR-7298-Rev.-1--edf93929d50464a5.pdf",
+                  "reader_path": "markdown/edf93929d50464a5636a2feb529e2c3069cce5dc7f5cfb4f6710ec66fb60879d/41b391d2dc0757243f3f/document.html",
+                  "source_urls": [
+                    "https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7298r1.pdf",
+                    "https://csrc.nist.gov/publications/search?ipp-lg=all&viewmode-lg=brief&series-lg=IR&status-lg=Withdrawn"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/a0d6e3f14ad28cd06356e1206939ae5d2fd79cb3e9926f58d6a2d738ec66a659"
+                },
+                "excerpt_range": {
+                  "start": 2462,
+                  "end": 3620
+                },
+                "full_text_available": false
+              },
+              {
+                "passage_id": "32c0995521b185c1c96d57f8134d622c32644aa0a7b0cf8b6fe70dabb92848a9",
+                "text": "                      SOURCE: SP 800-63\n\n Environment –                     Aggregate of external procedures, conditions, and objects affecting\n                                       the development, operation, and maintenance of an information\n                                     system.\n\n                               SOURCE: FIPS 200; CNSSI-4009\n\n Environment of Operation –        The physical surroundings in which an information system\n                                       processes, stores, and transmits information.\n\n                               SOURCE: SP 800-37; SP 800-53A\n\n\n\n\n                                                                                                 Pg 70\n```\n",
+                "context": "Glossary of Key Information Security Terms | NIST | 2011-02-17 | NISTIR 7298 Rev. 1 | guidance | withdrawn",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "edf93929d50464a5636a2feb529e2c3069cce5dc7f5cfb4f6710ec66fb60879d",
+                  "source_sha256": "edf93929d50464a5636a2feb529e2c3069cce5dc7f5cfb4f6710ec66fb60879d",
+                  "title": "Glossary of Key Information Security Terms",
+                  "document_number": "NISTIR 7298 Rev. 1",
+                  "issuer": "NIST",
+                  "date": "2011-02-17",
+                  "authority": "guidance",
+                  "document_status": "withdrawn",
+                  "page": 70,
+                  "anchor": "page-70",
+                  "start": 2558,
+                  "end": 3260,
+                  "original_path": "originals/nist/NIST/2011/NISTIR-7298-Rev.-1--edf93929d50464a5.pdf",
+                  "reader_path": "markdown/edf93929d50464a5636a2feb529e2c3069cce5dc7f5cfb4f6710ec66fb60879d/41b391d2dc0757243f3f/document.html",
+                  "source_urls": [
+                    "https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7298r1.pdf",
+                    "https://csrc.nist.gov/publications/search?ipp-lg=all&viewmode-lg=brief&series-lg=IR&status-lg=Withdrawn"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/32c0995521b185c1c96d57f8134d622c32644aa0a7b0cf8b6fe70dabb92848a9"
+                },
+                "excerpt_range": {
+                  "start": 2558,
+                  "end": 3260
+                },
+                "full_text_available": false
+              },
+              {
+                "passage_id": "86cba1b0ecb5e18971b5c28235e25fbf3c225aa07298875d908436f59f4acd81",
+                "text": "clusively to safeguard\n                                  communications transmitted over-the-air during military or organized\n                                             civil training exercises.\n\n                               SOURCE: CNSSI-4009\n\n Exploit Code –             A program that allows attackers to automatically break into a system.\n\n                               SOURCE: SP 800-40\n\n Exploitable Channel –              Channel that allows the violation of the security policy governing an\n                                     information system and is usable or detectable by subjects external to\n                                       the trusted computing base. See covert channel.\n\n                               SOURCE: CNSSI-4009\n\n External Information System (or    An information system or component of an information system that is\n Component) –                        outside of the authorization boundary established by the organization\n                                 and for which the organization typically has no direct control over the\n                                       application of required security controls or the assessment of security\n                      ",
+                "context": "Glossary of Key Information Security Terms | NIST | 2011-02-17 | NISTIR 7298 Rev. 1 | guidance | withdrawn",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "edf93929d50464a5636a2feb529e2c3069cce5dc7f5cfb4f6710ec66fb60879d",
+                  "source_sha256": "edf93929d50464a5636a2feb529e2c3069cce5dc7f5cfb4f6710ec66fb60879d",
+                  "title": "Glossary of Key Information Security Terms",
+                  "document_number": "NISTIR 7298 Rev. 1",
+                  "issuer": "NIST",
+                  "date": "2011-02-17",
+                  "authority": "guidance",
+                  "document_status": "withdrawn",
+                  "page": 72,
+                  "anchor": "page-72",
+                  "start": 0,
+                  "end": 2812,
+                  "original_path": "originals/nist/NIST/2011/NISTIR-7298-Rev.-1--edf93929d50464a5.pdf",
+                  "reader_path": "markdown/edf93929d50464a5636a2feb529e2c3069cce5dc7f5cfb4f6710ec66fb60879d/41b391d2dc0757243f3f/document.html",
+                  "source_urls": [
+                    "https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7298r1.pdf",
+                    "https://csrc.nist.gov/publications/search?ipp-lg=all&viewmode-lg=brief&series-lg=IR&status-lg=Withdrawn"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/86cba1b0ecb5e18971b5c28235e25fbf3c225aa07298875d908436f59f4acd81"
+                },
+                "excerpt_range": {
+                  "start": 1500,
+                  "end": 2700
+                },
+                "full_text_available": true
+              }
+            ]
+          },
+          {
+            "document_id": "5b8c8fde0e534d4568f9dd4c6b9c6a36ac6539e5c4296af5a27de55c69f1a393",
+            "identifier_match": false,
+            "document_number": "NISTIR 7298 Rev. 2",
+            "title": "Glossary of Key Information Security Terms",
+            "issuer": "NIST",
+            "date": "2013-06-05",
+            "authority": "guidance",
+            "status": "withdrawn",
+            "passages": [
+              {
+                "passage_id": "ac539ec1df26bb9efa02f0794a0fc0dbc2e199674c88afb7971075b7088eeea1",
+                "text": "e organizational\n                                     information system) and for which the organization typically has\n                                no direct control over the application of required security controls\n                                      or the assessment of security control effectiveness.\n                               SOURCE: SP 800-53; SP 800-37; CNSSI-4009\n\n External Information System Service A provider of external information system services to an organization\n Provider –                         through a variety of consumer-producer relationships, including but\n                                     not limited to: joint ventures; business partnerships; outsourcing\n                                   arrangements (i.e., through contracts, interagency agreements, lines\n                                      of business arrangements); licensing agreements; and/or supply chain\n                                    exchanges.\n                               SOURCE: SP 800-37; SP 800-53\n\n External Network –           A network not controlled by the organization.\n                               SOURCE: SP 800-53; CNSSI-4009\n\n External Security Testing –           Secur",
+                "context": "Glossary of Key Information Security Terms | NIST | 2013-06-05 | NISTIR 7298 Rev. 2 | guidance | withdrawn",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "5b8c8fde0e534d4568f9dd4c6b9c6a36ac6539e5c4296af5a27de55c69f1a393",
+                  "source_sha256": "5b8c8fde0e534d4568f9dd4c6b9c6a36ac6539e5c4296af5a27de55c69f1a393",
+                  "title": "Glossary of Key Information Security Terms",
+                  "document_number": "NISTIR 7298 Rev. 2",
+                  "issuer": "NIST",
+                  "date": "2013-06-05",
+                  "authority": "guidance",
+                  "document_status": "withdrawn",
+                  "page": 79,
+                  "anchor": "page-79",
+                  "start": 0,
+                  "end": 2862,
+                  "original_path": "originals/nist/NIST/2013/NISTIR-7298-Rev.-2--5b8c8fde0e534d45.pdf",
+                  "reader_path": "markdown/5b8c8fde0e534d4568f9dd4c6b9c6a36ac6539e5c4296af5a27de55c69f1a393/2e69359b10df1d47b774/document.html",
+                  "source_urls": [
+                    "https://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7298r2.pdf",
+                    "https://csrc.nist.gov/publications/search?ipp-lg=all&viewmode-lg=brief&series-lg=IR&status-lg=Withdrawn"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/ac539ec1df26bb9efa02f0794a0fc0dbc2e199674c88afb7971075b7088eeea1"
+                },
+                "excerpt_range": {
+                  "start": 1500,
+                  "end": 2700
+                },
+                "full_text_available": true
+              },
+              {
+                "passage_id": "550a0736633753db6bbdc33e7a5fc57a063b93aa0f5b019401e077b50c53ede0",
+                "text": "the program management controls and common\n                                       controls in place or planned for meeting those requirements.\n                               SOURCE: SP 800-37; SP 800-53; SP 800-53A\n\n Information Security Risk –        The risk to organizational operations (including mission, functions,\n                                   image, reputation), organizational assets, individuals, other\n                                       organizations, and the Nation due to the potential for unauthorized\n                                       access, use, disclosure, disruption, modification, or destruction of\n                                     information and/or information systems. See Risk.\n                               SOURCE: SP 800-30\n\n Information Sharing –             The requirements for information sharing by an IT system with one\n                                      or more other IT systems or applications, for information sharing to\n                                     support multiple internal or external organizations, missions, or\n                                      public programs.\n                               SOURCE: SP 800-16\n\n Information S",
+                "context": "Glossary of Key Information Security Terms | NIST | 2013-06-05 | NISTIR 7298 Rev. 2 | guidance | withdrawn",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "5b8c8fde0e534d4568f9dd4c6b9c6a36ac6539e5c4296af5a27de55c69f1a393",
+                  "source_sha256": "5b8c8fde0e534d4568f9dd4c6b9c6a36ac6539e5c4296af5a27de55c69f1a393",
+                  "title": "Glossary of Key Information Security Terms",
+                  "document_number": "NISTIR 7298 Rev. 2",
+                  "issuer": "NIST",
+                  "date": "2013-06-05",
+                  "authority": "guidance",
+                  "document_status": "withdrawn",
+                  "page": 101,
+                  "anchor": "page-101",
+                  "start": 0,
+                  "end": 2609,
+                  "original_path": "originals/nist/NIST/2013/NISTIR-7298-Rev.-2--5b8c8fde0e534d45.pdf",
+                  "reader_path": "markdown/5b8c8fde0e534d4568f9dd4c6b9c6a36ac6539e5c4296af5a27de55c69f1a393/2e69359b10df1d47b774/document.html",
+                  "source_urls": [
+                    "https://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7298r2.pdf",
+                    "https://csrc.nist.gov/publications/search?ipp-lg=all&viewmode-lg=brief&series-lg=IR&status-lg=Withdrawn"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/550a0736633753db6bbdc33e7a5fc57a063b93aa0f5b019401e077b50c53ede0"
+                },
+                "excerpt_range": {
+                  "start": 1000,
+                  "end": 2200
+                },
+                "full_text_available": true
+              },
+              {
+                "passage_id": "c170d84114f842ba471138c9b32643d45bde2585c462a27d49a8e7f133533553",
+                "text": "P 800-137\n\n Security Control Enhancements –     Statements of security capability to 1) build in additional, but related,\n                                        functionality to a basic control; and/or 2) increase the strength of a\n                                       basic control.\n                               SOURCE: CNSSI-4009; SP 800-53A; SP 800-39\n\n                                    Statements of security capability to: (i) build in additional, but\n                                           related, functionality to a security control; and/or (ii) increase the\n                                       strength of the control.\n                               SOURCE: SP 800-53; SP 800-18\n\n Security Control Inheritance –     A situation in which an information system or application\n                                       receives protection from security controls (or portions of security\n                                        controls) that are developed, implemented, assessed, authorized,\n                                 and monitored by entities other than those responsible for the\n                                  system or application; entities either internal or external t",
+                "context": "Glossary of Key Information Security Terms | NIST | 2013-06-05 | NISTIR 7298 Rev. 2 | guidance | withdrawn",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "5b8c8fde0e534d4568f9dd4c6b9c6a36ac6539e5c4296af5a27de55c69f1a393",
+                  "source_sha256": "5b8c8fde0e534d4568f9dd4c6b9c6a36ac6539e5c4296af5a27de55c69f1a393",
+                  "title": "Glossary of Key Information Security Terms",
+                  "document_number": "NISTIR 7298 Rev. 2",
+                  "issuer": "NIST",
+                  "date": "2013-06-05",
+                  "authority": "guidance",
+                  "document_status": "withdrawn",
+                  "page": 181,
+                  "anchor": "page-181",
+                  "start": 0,
+                  "end": 2892,
+                  "original_path": "originals/nist/NIST/2013/NISTIR-7298-Rev.-2--5b8c8fde0e534d45.pdf",
+                  "reader_path": "markdown/5b8c8fde0e534d4568f9dd4c6b9c6a36ac6539e5c4296af5a27de55c69f1a393/2e69359b10df1d47b774/document.html",
+                  "source_urls": [
+                    "https://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7298r2.pdf",
+                    "https://csrc.nist.gov/publications/search?ipp-lg=all&viewmode-lg=brief&series-lg=IR&status-lg=Withdrawn"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/c170d84114f842ba471138c9b32643d45bde2585c462a27d49a8e7f133533553"
+                },
+                "excerpt_range": {
+                  "start": 500,
+                  "end": 1700
+                },
+                "full_text_available": true
+              }
+            ]
+          },
+          {
+            "document_id": "d19a9f3447b0b769db361aaa14b3272d5f1d0816985e903140fe2531e0a7a647",
+            "identifier_match": true,
+            "document_number": "sp800371",
+            "title": "SP 800-37 Rev. 1: Risk Management Framework",
+            "issuer": "NIST",
+            "date": "2010-02-01",
+            "authority": "guidance",
+            "status": "final",
+            "passages": [
+              {
+                "passage_id": "963ca49cefcb68283d680e47bbbc6349e3f61fe7e594768b91bb5d2c6619b40d",
+                "text": "................................................................................... B-1\nAPPENDIX C ACRONYMS ............................................................................................... C-1\nAPPENDIX D ROLES AND RESPONSIBILITIES .................................................................... D-1\nAPPENDIX E SUMMARY OF RMF TASKS ........................................................................... E-1\nAPPENDIX F SECURITY AUTHORIZATION ......................................................................... F-1\nAPPENDIX G CONTINUOUS MONITORING ......................................................................... G-1\nAPPENDIX H OPERATIONAL SCENARIOS .......................................................................... H-1\nAPPENDIX I  SECURITY CONTROLS IN EXTERNAL ENVIRONMENTS ....................................... I-1\n\n\n\n\n\n                                            PAGE vii\n```\n",
+                "context": "SP 800-37 Rev. 1: Risk Management Framework | NIST | 2010-02-01 | sp800371 | guidance | final",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "d19a9f3447b0b769db361aaa14b3272d5f1d0816985e903140fe2531e0a7a647",
+                  "source_sha256": "d19a9f3447b0b769db361aaa14b3272d5f1d0816985e903140fe2531e0a7a647",
+                  "title": "SP 800-37 Rev. 1: Risk Management Framework",
+                  "document_number": "sp800371",
+                  "issuer": "NIST",
+                  "date": "2010-02-01",
+                  "authority": "guidance",
+                  "document_status": "final",
+                  "page": 8,
+                  "anchor": "page-8",
+                  "start": 2628,
+                  "end": 3555,
+                  "original_path": "originals/nist/NIST/2010/sp800371--d19a9f3447b0b769.pdf",
+                  "reader_path": "markdown/d19a9f3447b0b769db361aaa14b3272d5f1d0816985e903140fe2531e0a7a647/6103dbef60a9053e3865/document.html",
+                  "source_urls": [
+                    "https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-37r1.pdf"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/963ca49cefcb68283d680e47bbbc6349e3f61fe7e594768b91bb5d2c6619b40d"
+                },
+                "excerpt_range": {
+                  "start": 2628,
+                  "end": 3555
+                },
+                "full_text_available": false
+              },
+              {
+                "passage_id": "6d67563eb31ba16ae0e8e7ec857599a0a7ffdb2242aece844272b0c941eff2d4",
+                "text": "o the Department of Commerce.\n80 The term owning organization refers to the federal agency or subordinate organization that owns the authorization\npackage. The information system may not be owned by the same organization that owns the authorization package, for\nexample, in situations where the system/services are provided by an external provider.\n\n\n\nAPPENDIX F                                                                               PAGE F-9\n```\n",
+                "context": "SP 800-37 Rev. 1: Risk Management Framework | NIST | 2010-02-01 | sp800371 | guidance | final",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "d19a9f3447b0b769db361aaa14b3272d5f1d0816985e903140fe2531e0a7a647",
+                  "source_sha256": "d19a9f3447b0b769db361aaa14b3272d5f1d0816985e903140fe2531e0a7a647",
+                  "title": "SP 800-37 Rev. 1: Risk Management Framework",
+                  "document_number": "sp800371",
+                  "issuer": "NIST",
+                  "date": "2010-02-01",
+                  "authority": "guidance",
+                  "document_status": "final",
+                  "page": 94,
+                  "anchor": "page-94",
+                  "start": 4121,
+                  "end": 4575,
+                  "original_path": "originals/nist/NIST/2010/sp800371--d19a9f3447b0b769.pdf",
+                  "reader_path": "markdown/d19a9f3447b0b769db361aaa14b3272d5f1d0816985e903140fe2531e0a7a647/6103dbef60a9053e3865/document.html",
+                  "source_urls": [
+                    "https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-37r1.pdf"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/6d67563eb31ba16ae0e8e7ec857599a0a7ffdb2242aece844272b0c941eff2d4"
+                },
+                "excerpt_range": {
+                  "start": 4121,
+                  "end": 4575
+                },
+                "full_text_available": false
+              },
+              {
+                "passage_id": "daaf6b4dcf465f726eb0162166743544494427f904276ef7dea3d710c724633b",
+                "text": "```text\nSpecial Publication 800-37        Guide for Applying the Risk Management Framework to Federal Information Systems\nRevision 1                                                     A Security Life Cycle Approach\n________________________________________________________________________________________________\nentities participating in the consumer-provider relationship and the type of relationship between\nthe parties. External service providers may also in turn outsource the services to other external\nentities, making the chain of trust even more complicated and difficult to manage. Depending on\nthe nature of the service, it may simply be unwise for the organization to place significant trust in\nthe provider—not due to any inherent untrustworthiness on the provider's part, but due to the\nintrinsic level of risk in the service. Where a sufficient level of trust cannot be established in the\nexternal services and/or service providers, the organization: (i) employs compensating controls;\n(ii) accepts a greater degree of risk; or (iii) does not obtain the service (i.e., performs missions or\nbusiness operations with reduced levels of functionality or possibly no functionality at all).\n",
+                "context": "SP 800-37 Rev. 1: Risk Management Framework | NIST | 2010-02-01 | sp800371 | guidance | final",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "d19a9f3447b0b769db361aaa14b3272d5f1d0816985e903140fe2531e0a7a647",
+                  "source_sha256": "d19a9f3447b0b769db361aaa14b3272d5f1d0816985e903140fe2531e0a7a647",
+                  "title": "SP 800-37 Rev. 1: Risk Management Framework",
+                  "document_number": "sp800371",
+                  "issuer": "NIST",
+                  "date": "2010-02-01",
+                  "authority": "guidance",
+                  "document_status": "final",
+                  "page": 102,
+                  "anchor": "page-102",
+                  "start": 0,
+                  "end": 1308,
+                  "original_path": "originals/nist/NIST/2010/sp800371--d19a9f3447b0b769.pdf",
+                  "reader_path": "markdown/d19a9f3447b0b769db361aaa14b3272d5f1d0816985e903140fe2531e0a7a647/6103dbef60a9053e3865/document.html",
+                  "source_urls": [
+                    "https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-37r1.pdf"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/daaf6b4dcf465f726eb0162166743544494427f904276ef7dea3d710c724633b"
+                },
+                "excerpt_range": {
+                  "start": 0,
+                  "end": 1200
+                },
+                "full_text_available": true
+              }
+            ]
+          }
+        ],
+        "next_cursor": "eyJnZW5lcmF0aW9uIjogIjE3OTI4MDQxNTgtOTg4OTM6dmVjdG9ycy0yNDIwMDEtMTc5Mjg0NDI4NTg0NzU1NDAwMCIsICJxdWVyeSI6ICJcImV4dGVybmFsXCIgXCJTUCA4MDAtMzdcIiIsICJmaWx0ZXJzIjoge30sICJvZmZzZXQiOiA0fQ==",
+        "truncated": true,
+        "candidate_document_count": 54,
+        "retrieval_is_exhaustive": false,
+        "warnings": [
+          "Semantic backfill incomplete: 242001 of 631348 passages; partial vectors withheld, using full lexical retrieval",
+          "Search covers indexed text, not proof of complete historical coverage."
+        ],
+        "elapsed_ms": 7900
+      }
+    },
+    {
+      "key": "\"on behalf\" \"SP 800-171\"",
+      "result": {
+        "generation": "1792804158-98893:vectors-242001-1792844285847554000",
+        "query": "\"on behalf\" \"SP 800-171\"",
+        "results": [
+          {
+            "document_id": "2132a14fa7eba23f83d01ff2fd819f605087253160b92d9a76d642df7ced1df8",
+            "identifier_match": false,
+            "document_number": null,
+            "title": "Public comment on NIST SP 800-171 Rev. 3 Initial Public Draft — Cloud Service Providers Advisory Board",
+            "issuer": "Cloud Service Providers Advisory Board",
+            "date": "2023-07-14",
+            "authority": "public comment",
+            "status": "public comment",
+            "passages": [
+              {
+                "passage_id": "401e162464a7089ae8eddc90cf9d8e1c5799179f6476a475afd5c7e77a663203",
+                "text": "```text\nFrom:               800-171comments@list.nist.gov on behalf of\nTo:                  800-171comments@list.nist.gov\nSubject:            [800-171 Comments] Submission of 800-171 comment template\nDate:                 Friday, July 14, 2023 10:06:00 AM\nAttachments:      CSP-AB 800-171 Final.xlsx\n\nOn behalf of the Cloud Service Providers - Advisory Board (CSP-AB), please see attached our\ncomments on SP 800-171 Rev. 3\n\nBest,\n\nLaura\n\n--\nLaura Navaratnam\nExecutive Director\nCloud Service Providers - Advisory Board\n\n\n\nwww.csp-ab.com\n```\n",
+                "context": "Public comment on NIST SP 800-171 Rev. 3 Initial Public Draft — Cloud Service Providers Advisory Board | Cloud Service Providers Advisory Board | 2023-07-14 | public comment | public comment",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "2132a14fa7eba23f83d01ff2fd819f605087253160b92d9a76d642df7ced1df8",
+                  "source_sha256": "2132a14fa7eba23f83d01ff2fd819f605087253160b92d9a76d642df7ced1df8",
+                  "title": "Public comment on NIST SP 800-171 Rev. 3 Initial Public Draft — Cloud Service Providers Advisory Board",
+                  "document_number": null,
+                  "issuer": "Cloud Service Providers Advisory Board",
+                  "date": "2023-07-14",
+                  "authority": "public comment",
+                  "document_status": "public comment",
+                  "page": 1,
+                  "anchor": "page-1",
+                  "start": 0,
+                  "end": 540,
+                  "original_path": "originals/nist/Cloud-Service-Providers-Advisory-Board/2023/Public-comment-on-NIST-SP-800-171-Rev.-3-Initial-Public-Draft-Cloud-Service-Providers-Advisory-Board--2132a14fa7eba23f.pdf",
+                  "reader_path": "markdown/2132a14fa7eba23f83d01ff2fd819f605087253160b92d9a76d642df7ced1df8/49659b84f15f301520e1/document.html",
+                  "source_urls": [
+                    "https://csrc.nist.gov/csrc/media/projects/protecting-controlled-unclassified-information/Call-for-comments-July-2023/CUI_Call_CloudServiceProviders%20_July14_2023.pdf",
+                    "https://csrc.nist.gov/Projects/protecting-controlled-unclassified-information/sp-800-171/comments-draft-sp-800-171-r3"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/401e162464a7089ae8eddc90cf9d8e1c5799179f6476a475afd5c7e77a663203"
+                },
+                "excerpt_range": {
+                  "start": 0,
+                  "end": 540
+                },
+                "full_text_available": false
+              }
+            ]
+          },
+          {
+            "document_id": "56c401f048d761a4f04c56e391a828b3ae47476e5b4acf36e2cdb18da33fc68f",
+            "identifier_match": false,
+            "document_number": null,
+            "title": "Public comment on NIST SP 800-171 Rev. 3 Initial Public Draft — EDUCAUSE",
+            "issuer": "EDUCAUSE",
+            "date": "2023-07-14",
+            "authority": "public comment",
+            "status": "public comment",
+            "passages": [
+              {
+                "passage_id": "6044f678be9dd4fbca6df50e9bdc4dd0b5b41c86a1292392e291338359110644",
+                "text": "```text\nFrom:               800-171comments@list.nist.gov on behalf of\nTo:                  800-171comments@list.nist.gov\nSubject:            [800-171 Comments] EDUCAUSE Comments--NIST SP 800-171, Rev. 3 (Draft)\nDate:                 Friday, July 14, 2023 1:46:55 PM\nAttachments:      NIST Draft 800-171r3 comments--EDUCAUSE 07-23 f.pdf\n                    sp800-171r3-ipd-comment EDUCAUSE 07-23.xlsx\n\nPlease see attached for a cover letter and comments from EDUCAUSE (educause.edu) regarding the\ninitial public draft of NIST SP 800-171, Rev. 3. On behalf of our members, EDUCAUSE thanks NIST for\nthe opportunity to contribute to this important process. – Jarret Cummings\n\n_______________________________________________\nJarret S. Cummings (he / him / his)\nSenior Advisor, Policy and Government Relations\n\nE D U C A U S E\nUncommon Thinking for the Common Good\n                                    | educause.edu\n```\n",
+                "context": "Public comment on NIST SP 800-171 Rev. 3 Initial Public Draft — EDUCAUSE | EDUCAUSE | 2023-07-14 | public comment | public comment",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "56c401f048d761a4f04c56e391a828b3ae47476e5b4acf36e2cdb18da33fc68f",
+                  "source_sha256": "56c401f048d761a4f04c56e391a828b3ae47476e5b4acf36e2cdb18da33fc68f",
+                  "title": "Public comment on NIST SP 800-171 Rev. 3 Initial Public Draft — EDUCAUSE",
+                  "document_number": null,
+                  "issuer": "EDUCAUSE",
+                  "date": "2023-07-14",
+                  "authority": "public comment",
+                  "document_status": "public comment",
+                  "page": 1,
+                  "anchor": "page-1",
+                  "start": 0,
+                  "end": 915,
+                  "original_path": "originals/nist/EDUCAUSE/2023/Public-comment-on-NIST-SP-800-171-Rev.-3-Initial-Public-Draft-EDUCAUSE--56c401f048d761a4.pdf",
+                  "reader_path": "markdown/56c401f048d761a4f04c56e391a828b3ae47476e5b4acf36e2cdb18da33fc68f/c171c66efd13d913ca2e/document.html",
+                  "source_urls": [
+                    "https://csrc.nist.gov/csrc/media/projects/protecting-controlled-unclassified-information/Call-for-comments-July-2023/CUI_Call_EDUCAUSE_July14_2023.pdf",
+                    "https://csrc.nist.gov/Projects/protecting-controlled-unclassified-information/sp-800-171/comments-draft-sp-800-171-r3"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/6044f678be9dd4fbca6df50e9bdc4dd0b5b41c86a1292392e291338359110644"
+                },
+                "excerpt_range": {
+                  "start": 0,
+                  "end": 915
+                },
+                "full_text_available": false
+              },
+              {
+                "passage_id": "b42d108a60eaf07c2f3d6c78def6db257ed3acbc2b24f08635011a6a596792b4",
+                "text": "```text\n          July 14, 2023\n\n\n       Ron Ross\n        NIST Fellow, Computer Security\n         National Institute of Standards and Technology\n         Attn: Computer Security Division, Information Technology Laboratory\n       100 Bureau Drive (Mail Stop 8930)\n         Gaithersburg, MD 20899-8930\n\n\n          Victoria Pillitteri\n       Group Leader (Acting), Security Engineering and\n         Risk Management Group\n         National Institute of Standards and Technology\n         Attn: Computer Security Division, Information Technology Laboratory\n       100 Bureau Drive (Mail Stop 8930)\n         Gaithersburg, MD 20899-8930\n\n\n         RE: Comments concerning NIST SP 800-171, Revision 3 (Draft)—response submitted to 800-\n        171comments@list.nist.gov\n\n\n\n        Dear Dr. Ross and Ms. Pillitteri,\n\n\n      On behalf of EDUCAUSE, I would like to thank you for the opportunity to provide input from our\n         cybersecurity community on the draft NIST Special Publication 800-171, Revision 3 (NIST SP\n        800-171, Rev. 3). The email with which this letter was submitted includes the comments of our\n        community, which are provided via the spreadsheet form made available for that pu",
+                "context": "Public comment on NIST SP 800-171 Rev. 3 Initial Public Draft — EDUCAUSE | EDUCAUSE | 2023-07-14 | public comment | public comment",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "56c401f048d761a4f04c56e391a828b3ae47476e5b4acf36e2cdb18da33fc68f",
+                  "source_sha256": "56c401f048d761a4f04c56e391a828b3ae47476e5b4acf36e2cdb18da33fc68f",
+                  "title": "Public comment on NIST SP 800-171 Rev. 3 Initial Public Draft — EDUCAUSE",
+                  "document_number": null,
+                  "issuer": "EDUCAUSE",
+                  "date": "2023-07-14",
+                  "authority": "public comment",
+                  "document_status": "public comment",
+                  "page": 2,
+                  "anchor": "page-2",
+                  "start": 0,
+                  "end": 2329,
+                  "original_path": "originals/nist/EDUCAUSE/2023/Public-comment-on-NIST-SP-800-171-Rev.-3-Initial-Public-Draft-EDUCAUSE--56c401f048d761a4.pdf",
+                  "reader_path": "markdown/56c401f048d761a4f04c56e391a828b3ae47476e5b4acf36e2cdb18da33fc68f/c171c66efd13d913ca2e/document.html",
+                  "source_urls": [
+                    "https://csrc.nist.gov/csrc/media/projects/protecting-controlled-unclassified-information/Call-for-comments-July-2023/CUI_Call_EDUCAUSE_July14_2023.pdf",
+                    "https://csrc.nist.gov/Projects/protecting-controlled-unclassified-information/sp-800-171/comments-draft-sp-800-171-r3"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/b42d108a60eaf07c2f3d6c78def6db257ed3acbc2b24f08635011a6a596792b4"
+                },
+                "excerpt_range": {
+                  "start": 0,
+                  "end": 1200
+                },
+                "full_text_available": true
+              }
+            ]
+          },
+          {
+            "document_id": "f0cdb44c9085b8a885551652de86934767b00c05d9018beceafce2cd40b1b5df",
+            "identifier_match": false,
+            "document_number": null,
+            "title": "Public comment on NIST SP 800-171 Rev. 3 Initial Public Draft — ComplianceForge",
+            "issuer": "ComplianceForge",
+            "date": "2023-05-23",
+            "authority": "public comment",
+            "status": "public comment",
+            "passages": [
+              {
+                "passage_id": "fbaf777ddccec0bff65ba9fe90746c888d9f2d96e9988150cc343bc6f8eeb6ac",
+                "text": "```text\nFrom:               800-171comments@list.nist.gov on behalf of\nTo:                  800-171comments@list.nist.gov\nSubject:            [800-171 Comments] NIST SP 800-171 IPD Feedback\nDate:               Tuesday, May 23, 2023 1:43:26 PM\nAttachments:       sp800-171r3-ipd-comment-template-complianceforge.xlsx\n\nNIST,\n\nAttached is the feedback is on behalf of ComplianceForge for NIST SP 800-171 R3 IPD.\n\nRespectfully,\n\n\nTom Cornelius, CISSP, CISA, CRISC, CDPSE, CIPP/US, PCIP, MCITP, MBA\nSenior Partner\n```\n",
+                "context": "Public comment on NIST SP 800-171 Rev. 3 Initial Public Draft — ComplianceForge | ComplianceForge | 2023-05-23 | public comment | public comment",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "f0cdb44c9085b8a885551652de86934767b00c05d9018beceafce2cd40b1b5df",
+                  "source_sha256": "f0cdb44c9085b8a885551652de86934767b00c05d9018beceafce2cd40b1b5df",
+                  "title": "Public comment on NIST SP 800-171 Rev. 3 Initial Public Draft — ComplianceForge",
+                  "document_number": null,
+                  "issuer": "ComplianceForge",
+                  "date": "2023-05-23",
+                  "authority": "public comment",
+                  "document_status": "public comment",
+                  "page": 1,
+                  "anchor": "page-1",
+                  "start": 0,
+                  "end": 513,
+                  "original_path": "originals/nist/ComplianceForge/2023/Public-comment-on-NIST-SP-800-171-Rev.-3-Initial-Public-Draft-ComplianceForge--f0cdb44c9085b8a8.pdf",
+                  "reader_path": "markdown/f0cdb44c9085b8a885551652de86934767b00c05d9018beceafce2cd40b1b5df/5c8a9e74d5d21af6b5cc/document.html",
+                  "source_urls": [
+                    "https://csrc.nist.gov/csrc/media/projects/protecting-controlled-unclassified-information/Call-for-comments-July-2023/CUI_Call_ComplianceForge_May23_2023.pdf",
+                    "https://csrc.nist.gov/Projects/protecting-controlled-unclassified-information/sp-800-171/comments-draft-sp-800-171-r3"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/fbaf777ddccec0bff65ba9fe90746c888d9f2d96e9988150cc343bc6f8eeb6ac"
+                },
+                "excerpt_range": {
+                  "start": 0,
+                  "end": 513
+                },
+                "full_text_available": false
+              }
+            ]
+          },
+          {
+            "document_id": "6f7b23e124b91a2b9f91a6b097d02ac9290830caf8f46daab46e00bac1cec650",
+            "identifier_match": false,
+            "document_number": null,
+            "title": "Public comment on NIST SP 800-171 Rev. 3 Final Public Draft — Archstone Security",
+            "issuer": "Archstone Security",
+            "date": "2024-01-23",
+            "authority": "public comment",
+            "status": "public comment",
+            "passages": [
+              {
+                "passage_id": "ff49b96a82051597ee6e71e894881053b71fd6923ccd77fbc91164d099e6c52d",
+                "text": "```text\nFrom:               800-171comments@list.nist.gov on behalf of\nTo:                  800-171comments@list.nist.gov\nSubject:            [800-171 Comments] NIST SP 800-171 and NIST SP 800-171a Comments\nDate:               Tuesday, January 23, 2024 12:29:24 PM\nAttachments:       Outlook-qduzj5mw.png\n                      Outlook-nke2rara.png\n                     Archstone Security NIST SP 800-171- 800-171a Comments.xlsx\n\nAttached, please find comments on both the NIST SP 800-171 and the NIST SP 800-171a.\n\nThanks again for all your hard work and the collaborative relationship NIST has with industry! I\nappreciate the opportunity to provide feedback for your consideration.\n\n\n\n\nKaren Stanford\nArchstone Security LLC, President\n\n\n\n\nPO Box 287\nHaymarket, VA 20169\nhttp://archstonesecurity.com\n```\n",
+                "context": "Public comment on NIST SP 800-171 Rev. 3 Final Public Draft — Archstone Security | Archstone Security | 2024-01-23 | public comment | public comment",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "6f7b23e124b91a2b9f91a6b097d02ac9290830caf8f46daab46e00bac1cec650",
+                  "source_sha256": "6f7b23e124b91a2b9f91a6b097d02ac9290830caf8f46daab46e00bac1cec650",
+                  "title": "Public comment on NIST SP 800-171 Rev. 3 Final Public Draft — Archstone Security",
+                  "document_number": null,
+                  "issuer": "Archstone Security",
+                  "date": "2024-01-23",
+                  "authority": "public comment",
+                  "document_status": "public comment",
+                  "page": 1,
+                  "anchor": "page-1",
+                  "start": 0,
+                  "end": 804,
+                  "original_path": "originals/nist/Archstone-Security/2024/Public-comment-on-NIST-SP-800-171-Rev.-3-Final-Public-Draft-Archstone-Security--6f7b23e124b91a2b.pdf",
+                  "reader_path": "markdown/6f7b23e124b91a2b9f91a6b097d02ac9290830caf8f46daab46e00bac1cec650/847552a158e4eca29090/document.html",
+                  "source_urls": [
+                    "https://csrc.nist.gov/csrc/media/Projects/protecting-controlled-unclassified-information/Call%20for%20comments%20Nov%202023/CUI_Comments_ArchstoneSecurity_Jan23_2024.pdf",
+                    "https://csrc.nist.gov/Projects/protecting-controlled-unclassified-information/sp-800-171/comments-draft-sp-800-171-r3"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/ff49b96a82051597ee6e71e894881053b71fd6923ccd77fbc91164d099e6c52d"
+                },
+                "excerpt_range": {
+                  "start": 0,
+                  "end": 804
+                },
+                "full_text_available": false
+              }
+            ]
+          },
+          {
+            "document_id": "c3842d4d984cf946be5d05f48758b4ba4327a0430f27594eb70916f08d6d9aaa",
+            "identifier_match": false,
+            "document_number": null,
+            "title": "Public comment on NIST SP 800-171 Rev. 3 Final Public Draft — Aerospace Industries Association",
+            "issuer": "Aerospace Industries Association",
+            "date": "2024-01-26",
+            "authority": "public comment",
+            "status": "public comment",
+            "passages": [
+              {
+                "passage_id": "3d59d5c82ccdfd0f1e0f0e6bb3b6bf9088e96b04d881203f093809deeca0e822",
+                "text": "```text\nFrom:               800-171comments@list.nist.gov on behalf of\nTo:                  800-171comments@list.nist.gov\nCc:\nSubject:            [800-171 Comments] AIA Comment Submittal for NIST SP-800-171 Rev. 3\nDate:                 Friday, January 26, 2024 5:29:09 PM\nAttachments:       AIA Comments - NIST SP 800-171 Rev 3 - 1.26.2024.pdf\nImportance:        High\n\nDear NIST –\n\nPlease find attached AIA’s comment submittal to the Final Public Draft of NIST SP 800-171\nRev 3.\n\nThank you for the extension to the comment period as we are also working through public\ncomments to multiple FAR and DFARS cases.\n\nV/R\n\n- Jason\n\nJason Timm  | Director, Defense Policy & Integration\nAIA  | 1000 Wilson Boulevard, Suite 1700, Arlington, VA 22209\n\naia-aerospace.org\n```\n",
+                "context": "Public comment on NIST SP 800-171 Rev. 3 Final Public Draft — Aerospace Industries Association | Aerospace Industries Association | 2024-01-26 | public comment | public comment",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "c3842d4d984cf946be5d05f48758b4ba4327a0430f27594eb70916f08d6d9aaa",
+                  "source_sha256": "c3842d4d984cf946be5d05f48758b4ba4327a0430f27594eb70916f08d6d9aaa",
+                  "title": "Public comment on NIST SP 800-171 Rev. 3 Final Public Draft — Aerospace Industries Association",
+                  "document_number": null,
+                  "issuer": "Aerospace Industries Association",
+                  "date": "2024-01-26",
+                  "authority": "public comment",
+                  "document_status": "public comment",
+                  "page": 1,
+                  "anchor": "page-1",
+                  "start": 0,
+                  "end": 763,
+                  "original_path": "originals/nist/Aerospace-Industries-Association/2024/Public-comment-on-NIST-SP-800-171-Rev.-3-Final-Public-Draft-Aerospace-Industries-Association--c3842d4d984cf946.pdf",
+                  "reader_path": "markdown/c3842d4d984cf946be5d05f48758b4ba4327a0430f27594eb70916f08d6d9aaa/a0c9aaa7cb9ed5f030bd/document.html",
+                  "source_urls": [
+                    "https://csrc.nist.gov/csrc/media/Projects/protecting-controlled-unclassified-information/Call%20for%20comments%20Nov%202023/CUI_Comments_AIA_Jan26_2024.pdf",
+                    "https://csrc.nist.gov/Projects/protecting-controlled-unclassified-information/sp-800-171/comments-draft-sp-800-171-r3"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/3d59d5c82ccdfd0f1e0f0e6bb3b6bf9088e96b04d881203f093809deeca0e822"
+                },
+                "excerpt_range": {
+                  "start": 0,
+                  "end": 763
+                },
+                "full_text_available": false
+              },
+              {
+                "passage_id": "ad415a26fbbcf00e4a11420a43de130de8494f3a86373807aadb3bf9b33c8156",
+                "text": "```text\n     January 26, 2024\n\n      National Institute of Standards and Technology\n     Computer Security Division\n     Computer Security Resource Center\n     Email to: 800-171comments@list.nist.gov\n\n     RE: Call for Comments: NIST Special Publication (SP) 800-171 Rev. 3, Protecting Controlled\n      Unclassified Information in Nonfederal Systems and Organizations\n\n     Dear NIST:\n\n    On behalf of the Aerospace Industries Association (AIA)1, I am pleased to offer the following\n    comments and the enclosed comments matrix in response to the call for public comment to NIST\n    SP 800-171 Rev. 3, Protecting Controlled Unclassified Information in Nonfederal Systems and\n      Organizations:\n\n     General Comments/Concerns/Recommendations\n     While AIA acknowledges that NIST is not a regulating body, many U. S. Government agencies\n     use NIST Special Publications within their regulatory and/or policy frameworks. When NIST\n    makes major changes to its Special Publications, they have a ripple effect throughout the\n     aerospace and defense industry (A&D). They often increase costs significantly (contrary to many\n      regulatory impact analyses) and, more importantly, reduce the o",
+                "context": "Public comment on NIST SP 800-171 Rev. 3 Final Public Draft — Aerospace Industries Association | Aerospace Industries Association | 2024-01-26 | public comment | public comment",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "c3842d4d984cf946be5d05f48758b4ba4327a0430f27594eb70916f08d6d9aaa",
+                  "source_sha256": "c3842d4d984cf946be5d05f48758b4ba4327a0430f27594eb70916f08d6d9aaa",
+                  "title": "Public comment on NIST SP 800-171 Rev. 3 Final Public Draft — Aerospace Industries Association",
+                  "document_number": null,
+                  "issuer": "Aerospace Industries Association",
+                  "date": "2024-01-26",
+                  "authority": "public comment",
+                  "document_status": "public comment",
+                  "page": 2,
+                  "anchor": "page-2",
+                  "start": 0,
+                  "end": 2688,
+                  "original_path": "originals/nist/Aerospace-Industries-Association/2024/Public-comment-on-NIST-SP-800-171-Rev.-3-Final-Public-Draft-Aerospace-Industries-Association--c3842d4d984cf946.pdf",
+                  "reader_path": "markdown/c3842d4d984cf946be5d05f48758b4ba4327a0430f27594eb70916f08d6d9aaa/a0c9aaa7cb9ed5f030bd/document.html",
+                  "source_urls": [
+                    "https://csrc.nist.gov/csrc/media/Projects/protecting-controlled-unclassified-information/Call%20for%20comments%20Nov%202023/CUI_Comments_AIA_Jan26_2024.pdf",
+                    "https://csrc.nist.gov/Projects/protecting-controlled-unclassified-information/sp-800-171/comments-draft-sp-800-171-r3"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/ad415a26fbbcf00e4a11420a43de130de8494f3a86373807aadb3bf9b33c8156"
+                },
+                "excerpt_range": {
+                  "start": 0,
+                  "end": 1200
+                },
+                "full_text_available": true
+              },
+              {
+                "passage_id": "09f27dfbba79e0ee6e1c2456ab06c90f0b27d45f96310a0a0a3c78f8984f2996",
+                "text": "s from NIST SP 800-53, contradicting the tailoring\n       effort by NIST as quoted below from section 1.1 Purpose and Applicability of the NIST SP 800-\n     171 Rev 2 (and similarly in Rev. 1). This should not be changed now more than seven (7) years\n      after the Department of Defense first incorporated NIST SP 800-171 into government contracts.\n\n          “The tailoring criteria described in Chapter Two are not intended to reduce or\n          minimize the federal requirements for the safeguarding of CUI as expressed in\n           the federal CUI regulation. Rather, the intent is to express the requirements in\n         a manner that allows for and facilitates the equivalent safeguarding measures\n            within nonfederal systems and organizations and does not diminish the level\n\n1 Founded in 1919, the Aerospace Industries Association (AIA) is the premier trade association advocating on behalf of\nover 330 aerospace and defense (A&D) companies for policies and investments that keep our country strong, bolster our\ncapacity to innovate and spur economic growth. AIA’s members represent nation’s leading aerospace and defense\nmanufacturers and suppliers of civil, military, and busi",
+                "context": "Public comment on NIST SP 800-171 Rev. 3 Final Public Draft — Aerospace Industries Association | Aerospace Industries Association | 2024-01-26 | public comment | public comment",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "c3842d4d984cf946be5d05f48758b4ba4327a0430f27594eb70916f08d6d9aaa",
+                  "source_sha256": "c3842d4d984cf946be5d05f48758b4ba4327a0430f27594eb70916f08d6d9aaa",
+                  "title": "Public comment on NIST SP 800-171 Rev. 3 Final Public Draft — Aerospace Industries Association",
+                  "document_number": null,
+                  "issuer": "Aerospace Industries Association",
+                  "date": "2024-01-26",
+                  "authority": "public comment",
+                  "document_status": "public comment",
+                  "page": 2,
+                  "anchor": "page-2",
+                  "start": 2338,
+                  "end": 3706,
+                  "original_path": "originals/nist/Aerospace-Industries-Association/2024/Public-comment-on-NIST-SP-800-171-Rev.-3-Final-Public-Draft-Aerospace-Industries-Association--c3842d4d984cf946.pdf",
+                  "reader_path": "markdown/c3842d4d984cf946be5d05f48758b4ba4327a0430f27594eb70916f08d6d9aaa/a0c9aaa7cb9ed5f030bd/document.html",
+                  "source_urls": [
+                    "https://csrc.nist.gov/csrc/media/Projects/protecting-controlled-unclassified-information/Call%20for%20comments%20Nov%202023/CUI_Comments_AIA_Jan26_2024.pdf",
+                    "https://csrc.nist.gov/Projects/protecting-controlled-unclassified-information/sp-800-171/comments-draft-sp-800-171-r3"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/09f27dfbba79e0ee6e1c2456ab06c90f0b27d45f96310a0a0a3c78f8984f2996"
+                },
+                "excerpt_range": {
+                  "start": 2338,
+                  "end": 3538
+                },
+                "full_text_available": true
+              }
+            ]
+          },
+          {
+            "document_id": "0ce33414677698e95c2c262c3fa250fd77a357e2a1ae6d7f503669e05b205114",
+            "identifier_match": false,
+            "document_number": null,
+            "title": "Public comment on NIST SP 800-171 Rev. 3 Final Public Draft — Compliance Forge",
+            "issuer": "Compliance Forge",
+            "date": "2023-12-03",
+            "authority": "public comment",
+            "status": "public comment",
+            "passages": [
+              {
+                "passage_id": "aea7c403753edaa4de287a090287cde4b28d8cc8ff13e8395428a78cc5e4b3f5",
+                "text": "```text\nFrom:               800-171comments@list.nist.gov on behalf of\nTo:                  800-171comments@list.nist.gov\nSubject:            [800-171 Comments] NIST SP 800-171 R3 FPD comments\nDate:               Sunday, December 3, 2023 4:30:45 PM\nAttachments:       sp800-171r3-fpd-complianceforge.xlsx\n\nRon / Victoria,\n\nGood afternoon! Attached are several comments on the NIST SP 800-171 R3 FPD release.\n\nRespectfully,\n\nTom Cornelius, CISSP, CISA, CRISC, CDPSE, CIPP/US, PCIP, MCITP, MBA\nSenior Partner\n```\n",
+                "context": "Public comment on NIST SP 800-171 Rev. 3 Final Public Draft — Compliance Forge | Compliance Forge | 2023-12-03 | public comment | public comment",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "0ce33414677698e95c2c262c3fa250fd77a357e2a1ae6d7f503669e05b205114",
+                  "source_sha256": "0ce33414677698e95c2c262c3fa250fd77a357e2a1ae6d7f503669e05b205114",
+                  "title": "Public comment on NIST SP 800-171 Rev. 3 Final Public Draft — Compliance Forge",
+                  "document_number": null,
+                  "issuer": "Compliance Forge",
+                  "date": "2023-12-03",
+                  "authority": "public comment",
+                  "document_status": "public comment",
+                  "page": 1,
+                  "anchor": "page-1",
+                  "start": 0,
+                  "end": 511,
+                  "original_path": "originals/nist/Compliance-Forge/2023/Public-comment-on-NIST-SP-800-171-Rev.-3-Final-Public-Draft-Compliance-Forge--0ce33414677698e9.pdf",
+                  "reader_path": "markdown/0ce33414677698e95c2c262c3fa250fd77a357e2a1ae6d7f503669e05b205114/7d2cf4c8559f84d3cddb/document.html",
+                  "source_urls": [
+                    "https://csrc.nist.gov/csrc/media/Projects/protecting-controlled-unclassified-information/Call%20for%20comments%20Nov%202023/CUI_Comments_ComplianceForge_Dec3_2023.pdf",
+                    "https://csrc.nist.gov/Projects/protecting-controlled-unclassified-information/sp-800-171/comments-draft-sp-800-171-r3"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/aea7c403753edaa4de287a090287cde4b28d8cc8ff13e8395428a78cc5e4b3f5"
+                },
+                "excerpt_range": {
+                  "start": 0,
+                  "end": 511
+                },
+                "full_text_available": false
+              }
+            ]
+          }
+        ],
+        "next_cursor": "eyJnZW5lcmF0aW9uIjogIjE3OTI4MDQxNTgtOTg4OTM6dmVjdG9ycy0yNDIwMDEtMTc5Mjg0NDI4NTg0NzU1NDAwMCIsICJxdWVyeSI6ICJcIm9uIGJlaGFsZlwiIFwiU1AgODAwLTE3MVwiIiwgImZpbHRlcnMiOiB7fSwgIm9mZnNldCI6IDZ9",
+        "truncated": true,
+        "candidate_document_count": 64,
+        "retrieval_is_exhaustive": false,
+        "warnings": [
+          "Semantic backfill incomplete: 242001 of 631348 passages; partial vectors withheld, using full lexical retrieval",
+          "Search covers indexed text, not proof of complete historical coverage."
+        ],
+        "elapsed_ms": 22729
+      }
+    },
+    {
+      "key": "1993search",
+      "result": {
+        "generation": "1792804158-98893:vectors-242001-1792844285847554000",
+        "query": "\"responsibilities of grantees and contractors\"",
+        "results": [
+          {
+            "document_id": "b394b7885e2a250a20af528c2c032bc8a749987bc7346c0f3bf385f00b05e270",
+            "identifier_match": false,
+            "document_number": "a130-1993",
+            "title": "A-130: Transmittal 1",
+            "issuer": "OMB",
+            "date": "1993-06-25",
+            "authority": "policy",
+            "status": "final",
+            "passages": [
+              {
+                "passage_id": "c4d1b5d23379e442b942d32affc030f53c057f3de4ca0ae65723d0fdb55014cd",
+                "text": " information\" does not imply that\nresponsibility for implementing the provisions of the Circular\nitself extends beyond the executive agencies to other entities.\nSuch an interpretation would be inconsistent with Section 4,\nApplicability, and with existing law. For example, the courts\nhave held that requests to Federal agencies for release of\ninformation under the FOIA do not always extend to those\nperforming information activities under grant or contract to a\nFederal agency. Similarly, grantees may copyright information\nwhere the government may not. Thus the information\nresponsibilities of grantees and contractors are not identical to\nthose of Federal agencies except to the extent that the agencies\nmake them so in the underlying grants or contracts. Similarly,\nagency information resources management responsibilities do not\nextend to other entities.\n\nInformation Dissemination Product. This notice defines the\nterm \"information dissemination product\" to include all\ninformation that is disseminated by Federal agencies. While the\nprovision of access to online databases and search software\nincluded on compact disk, read-only memory (CD-ROM) are often\ncalled information services rather tha",
+                "context": "A-130: Transmittal 1 | OMB | 1993-06-25 | a130-1993 | policy | final",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "b394b7885e2a250a20af528c2c032bc8a749987bc7346c0f3bf385f00b05e270",
+                  "source_sha256": "b394b7885e2a250a20af528c2c032bc8a749987bc7346c0f3bf385f00b05e270",
+                  "title": "A-130: Transmittal 1",
+                  "document_number": "a130-1993",
+                  "issuer": "OMB",
+                  "date": "1993-06-25",
+                  "authority": "policy",
+                  "document_status": "final",
+                  "page": null,
+                  "anchor": "document-text",
+                  "start": 88058,
+                  "end": 90817,
+                  "original_path": "originals/omb/OMB/1993/a130-1993--b394b7885e2a250a.html",
+                  "reader_path": "markdown/b394b7885e2a250a20af528c2c032bc8a749987bc7346c0f3bf385f00b05e270/d25cc70b7e7dae06f254/document.html",
+                  "source_urls": [
+                    "https://clintonwhitehouse6.archives.gov/1993/06/1993-06-25-omb-circular-a130-revised-to-remove-printer-codes.html"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/c4d1b5d23379e442b942d32affc030f53c057f3de4ca0ae65723d0fdb55014cd"
+                },
+                "excerpt_range": {
+                  "start": 88558,
+                  "end": 89758
+                },
+                "full_text_available": true
+              }
+            ]
+          },
+          {
+            "document_id": "906a73bd9b77740b0ed2bfc6f2201ec33363e2a04def3f3108fc7aecc146c4b6",
+            "identifier_match": false,
+            "document_number": "a130-1996",
+            "title": "A-130: Transmittal 3",
+            "issuer": "OMB",
+            "date": "1996-02-08",
+            "authority": "policy",
+            "status": "final",
+            "passages": [
+              {
+                "passage_id": "b63aace79ddbcaffc0760f8187517e281f3699accbc87d775839e80b676e2726",
+                "text": " information\" does not imply that\nresponsibility for implementing the provisions of the Circular itself extends beyond the executive\nagencies to other entities. Such an interpretation would be inconsistent with Section 4,\nApplicability, and with existing law. For example, the courts have held that requests to Federal\nagencies for release of information under the FOIA do not always extend to those performing\ninformation activities under grant or contract to a Federal agency. Similarly, grantees may\ncopyright information where the government may not. Thus the information responsibilities of\ngrantees and contractors are not identical to those of Federal agencies except to the extent that\nthe agencies make them so in the underlying grants or contracts. Similarly, agency information\nresources management responsibilities do not extend to other entities.\n\nInformation Dissemination Product. This notice defines the term \"information dissemination\nproduct\" to include all information that is disseminated by Federal agencies. While the provision\nof access to on-line databases and search software included on compact disk, read-only memory\n(CD-ROM) are often called information services rather th",
+                "context": "A-130: Transmittal 3 | OMB | 1996-02-08 | a130-1996 | policy | final | CIRCULAR NO. A-130 | CIRCULAR NO. A-130 | Appendix II to OMB Circular No. A-130 - Cost Accounting, Cost Recovery, and Interagency Sharing of Information Technology Facilities | Appendix III to OMB Circular No. A-130 - Security of Federal Automated Information Resources | Appendix IV to OMB Circular No. A-130 - Analysis of Key Sections",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "906a73bd9b77740b0ed2bfc6f2201ec33363e2a04def3f3108fc7aecc146c4b6",
+                  "source_sha256": "906a73bd9b77740b0ed2bfc6f2201ec33363e2a04def3f3108fc7aecc146c4b6",
+                  "title": "A-130: Transmittal 3",
+                  "document_number": "a130-1996",
+                  "issuer": "OMB",
+                  "date": "1996-02-08",
+                  "authority": "policy",
+                  "document_status": "final",
+                  "page": null,
+                  "anchor": "document-text",
+                  "start": 139599,
+                  "end": 142359,
+                  "original_path": "originals/omb/OMB/1996/a130-1996--906a73bd9b77740b.html",
+                  "reader_path": "markdown/906a73bd9b77740b0ed2bfc6f2201ec33363e2a04def3f3108fc7aecc146c4b6/ae6f746ffc61d6914650/document.html",
+                  "source_urls": [
+                    "https://clintonwhitehouse3.archives.gov/OMB/circulars/a130/a130.html",
+                    "https://clintonwhitehouse3.archives.gov/omb/circulars/a130/a130.html",
+                    "https://clintonwhitehouse3.archives.gov/omb/circulars/index.html"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/b63aace79ddbcaffc0760f8187517e281f3699accbc87d775839e80b676e2726"
+                },
+                "excerpt_range": {
+                  "start": 140099,
+                  "end": 141299
+                },
+                "full_text_available": true
+              }
+            ]
+          },
+          {
+            "document_id": "dec37813f1c79ee93e2cf259690af4243f274a6f4643bcdbe6b283d3692a5ca3",
+            "identifier_match": false,
+            "document_number": "a130-2000-app-iv",
+            "title": "A-130 (2000), Appendix IV",
+            "issuer": "OMB",
+            "date": "2000-11-28",
+            "authority": "policy",
+            "status": "final",
+            "passages": [
+              {
+                "passage_id": "8db7c841ef3f15adfd306c602772d6f5028c093391449f43ed171bbf8cc8b0fb",
+                "text": "ation of information increasingly irrelevant. </p>\n<p>The inclusion of information created, collected, processed, disseminated, or disposed of for the Federal Government in the\ndefinition of \"government information\" does not imply that responsibility for implementing the provisions of the Circular\nitself extends beyond the executive agencies to other entities. Such an interpretation would be inconsistent with Section 4,\nApplicability, and with existing law. For example, the courts have held that requests to Federal agencies for release of\ninformation under the FOIA do not always extend to those performing information activities under grant or contract to a\nFederal agency. Similarly, grantees may copyright information where the government may not. Thus the information\nresponsibilities of grantees and contractors are not identical to those of Federal agencies except to the extent that the\nagencies make them so in the underlying grants or contracts. Similarly, agency information resources management\nresponsibilities do not extend to other entities. </p>\n<p>Information Dissemination Product. This notice defines the term \"information dissemination product\" to include all\ninformation tha",
+                "context": "A-130 (2000), Appendix IV | OMB | 2000-11-28 | a130-2000-app-iv | policy | final",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "dec37813f1c79ee93e2cf259690af4243f274a6f4643bcdbe6b283d3692a5ca3",
+                  "source_sha256": "dec37813f1c79ee93e2cf259690af4243f274a6f4643bcdbe6b283d3692a5ca3",
+                  "title": "A-130 (2000), Appendix IV",
+                  "document_number": "a130-2000-app-iv",
+                  "issuer": "OMB",
+                  "date": "2000-11-28",
+                  "authority": "policy",
+                  "document_status": "final",
+                  "page": null,
+                  "anchor": "document-text",
+                  "start": 7929,
+                  "end": 10925,
+                  "original_path": "originals/omb/OMB/2000/a130-2000-app-iv--dec37813f1c79ee9.html",
+                  "reader_path": "markdown/dec37813f1c79ee93e2cf259690af4243f274a6f4643bcdbe6b283d3692a5ca3/039e18318e5a2380b9cd/document.html",
+                  "source_urls": [
+                    "https://georgewbush-whitehouse.archives.gov/omb/circulars/a130/a130appendix_iv.html"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/8db7c841ef3f15adfd306c602772d6f5028c093391449f43ed171bbf8cc8b0fb"
+                },
+                "excerpt_range": {
+                  "start": 9429,
+                  "end": 10629
+                },
+                "full_text_available": true
+              }
+            ]
+          },
+          {
+            "document_id": "faa11653189377a47a59c5dc6382ee1d69ffce26ad80e64bc1550356a7fb885b",
+            "identifier_match": false,
+            "document_number": "A-130 TM 2",
+            "title": "OMB Circular No. A-130, Transmittal Memorandum No. 2 (59 FR 37906)",
+            "issuer": "OMB",
+            "date": "1994-07-25",
+            "authority": "policy",
+            "status": "final",
+            "passages": [
+              {
+                "passage_id": "5522c8b6c09ded2ce64a55edba8fbacf5695985b3cdbe5ba1b8c1f4b1e99e00f",
+                "text": "tself extends\nbeyond the executive agencies to other\nentities. Such an interpretation would\nbe inconsistent with Section 4,\nApplicability, and with existing law.\nFor example, the courts have held that\nrequests to Federal agencies for release\nof information under the FOIA do not\nalways extend to those performing\ninformation activities under grant or\n\ncontract to a Federal agency. Similarly,\ngrantees may copyright information\nwhere the government may not. Thus\nthe information responsibilities of\ngrantees and contractors are not\nidentical to those of Federal agencies\nexcept to the extent that the agencies\nmake them so in the underlying grants\nor contracts. Similarly, agency\ninformation resources management\nresponsibilities do not extend to other\nentities.\n\nInformation Dissemination Product.\nThis notice defines the term\n“information dissemination product” to\n\n* include all information that is\n\ndisseminated by Federal agencies.\nWhile the provision of access to on-line\ndatabases and search software included\non compact disk, read-only memory\n(CD-ROM) are often called information\nservices rather than products, there is\nno clear distinction and, moreover, no\nreal difference for policy purpo",
+                "context": "OMB Circular No. A-130, Transmittal Memorandum No. 2 (59 FR 37906) | OMB | 1994-07-25 | A-130 TM 2 | policy | final | Source page image",
+                "review_status": "draft",
+                "citation": {
+                  "document_id": "faa11653189377a47a59c5dc6382ee1d69ffce26ad80e64bc1550356a7fb885b",
+                  "source_sha256": "faa11653189377a47a59c5dc6382ee1d69ffce26ad80e64bc1550356a7fb885b",
+                  "title": "OMB Circular No. A-130, Transmittal Memorandum No. 2 (59 FR 37906)",
+                  "document_number": "A-130 TM 2",
+                  "issuer": "OMB",
+                  "date": "1994-07-25",
+                  "authority": "policy",
+                  "document_status": "final",
+                  "page": 280,
+                  "anchor": "page-280",
+                  "start": 2262,
+                  "end": 5091,
+                  "original_path": "originals/omb/OMB/1994/A-130-TM-2--faa11653189377a4.pdf",
+                  "reader_path": "markdown/faa11653189377a47a59c5dc6382ee1d69ffce26ad80e64bc1550356a7fb885b/6e1bebdf59fa21f4a12b/document.html",
+                  "source_urls": [
+                    "https://www.govinfo.gov/content/pkg/FR-1994-07-25/pdf/FR-1994-07-25.pdf",
+                    "https://clintonwhitehouse3.archives.gov/omb/circulars/a130/a130.html"
+                  ],
+                  "embedded_documents": [],
+                  "resource_uri": "inforegs://passages/5522c8b6c09ded2ce64a55edba8fbacf5695985b3cdbe5ba1b8c1f4b1e99e00f"
+                },
+                "excerpt_range": {
+                  "start": 2262,
+                  "end": 3462
+                },
+                "full_text_available": true
+              }
+            ]
+          }
+        ],
+        "next_cursor": "eyJnZW5lcmF0aW9uIjogIjE3OTI4MDQxNTgtOTg4OTM6dmVjdG9ycy0yNDIwMDEtMTc5Mjg0NDI4NTg0NzU1NDAwMCIsICJxdWVyeSI6ICJcInJlc3BvbnNpYmlsaXRpZXMgb2YgZ3JhbnRlZXMgYW5kIGNvbnRyYWN0b3JzXCIiLCAiZmlsdGVycyI6IHsiaXNzdWVyIjogIk9NQiJ9LCAib2Zmc2V0IjogNH0=",
+        "truncated": true,
+        "candidate_document_count": 6,
+        "retrieval_is_exhaustive": false,
+        "warnings": [
+          "Semantic backfill incomplete: 242001 of 631348 passages; partial vectors withheld, using full lexical retrieval",
+          "Search covers indexed text, not proof of complete historical coverage."
+        ],
+        "elapsed_ms": 10083
+      }
+    },
+    {
+      "key": "c4d1b5d23379e442b942d32affc030f53c057f3de4ca0ae65723d0fdb55014cd",
+      "result": {
+        "generation": "1792804158-98893:vectors-242001-1792844285847554000",
+        "passage_id": "c4d1b5d23379e442b942d32affc030f53c057f3de4ca0ae65723d0fdb55014cd",
+        "text": " actually to collect the information itself, only to\nassure that it is made publicly available. For example, banks\ninsured by the FDIC must provide statements of financial\ncondition to bank customers on request. Particularly when\ninformation is available in electronic form, networks make the\nphysical location of information increasingly irrelevant.\n\nThe inclusion of information created, collected, processed,\ndisseminated, or disposed of for the Federal Government in the\ndefinition of \"government information\" does not imply that\nresponsibility for implementing the provisions of the Circular\nitself extends beyond the executive agencies to other entities.\nSuch an interpretation would be inconsistent with Section 4,\nApplicability, and with existing law. For example, the courts\nhave held that requests to Federal agencies for release of\ninformation under the FOIA do not always extend to those\nperforming information activities under grant or contract to a\nFederal agency. Similarly, grantees may copyright information\nwhere the government may not. Thus the information\nresponsibilities of grantees and contractors are not identical to\nthose of Federal agencies except to the extent that the agencies\nmake them so in the underlying grants or contracts. Similarly,\nagency information resources management responsibilities do not\nextend to other entities.\n\nInformation Dissemination Product. This notice defines the\nterm \"information dissemination product\" to include all\ninformation that is disseminated by Federal agencies. While the\nprovision of access to online databases and search software\nincluded on compact disk, read-only memory (CD-ROM) are often\ncalled information services rather than products, there is no\nclear distinction and, moreover, no real difference for policy\npurposes between the two. Thus, the term \"information\ndissemination product\" applies to both products and services, and\nmakes no distinction based on how the information is delivered.\n\nSection 8a(1). Information Management Planning. Parallel to new\nSection 7, Basic Considerations and Assumptions, Section 8a\nbegins with information resources management planning. Planning\nis the process of establishing a course of action to achieve\ndesired results with available resources. Planners translate\norganizational missions into specific goals and, in turn, into\nmeasurable objectives.\n\nThe PRA introduced the concept of information resources\nmanagement and the principle of information as an institutional\nresource which has both value and associated costs. Information\nresources management is a tool that managers use to achieve\nagency objectives. Information resources management is\nsuccessful if it enables managers to achieve agency objectives\nefficiently and effectively.",
+        "context": "A-130: Transmittal 1 | OMB | 1993-06-25 | a130-1993 | policy | final",
+        "review_status": "draft",
+        "citation": {
+          "document_id": "b394b7885e2a250a20af528c2c032bc8a749987bc7346c0f3bf385f00b05e270",
+          "source_sha256": "b394b7885e2a250a20af528c2c032bc8a749987bc7346c0f3bf385f00b05e270",
+          "title": "A-130: Transmittal 1",
+          "document_number": "a130-1993",
+          "issuer": "OMB",
+          "date": "1993-06-25",
+          "authority": "policy",
+          "document_status": "final",
+          "page": null,
+          "anchor": "document-text",
+          "start": 88058,
+          "end": 90817,
+          "original_path": "originals/omb/OMB/1993/a130-1993--b394b7885e2a250a.html",
+          "reader_path": "markdown/b394b7885e2a250a20af528c2c032bc8a749987bc7346c0f3bf385f00b05e270/d25cc70b7e7dae06f254/document.html",
+          "source_urls": [
+            "https://clintonwhitehouse6.archives.gov/1993/06/1993-06-25-omb-circular-a130-revised-to-remove-printer-codes.html"
+          ],
+          "embedded_documents": [],
+          "resource_uri": "inforegs://passages/c4d1b5d23379e442b942d32affc030f53c057f3de4ca0ae65723d0fdb55014cd"
+        },
+        "neighbors": [
+          {
+            "passage_id": "34898cc3e5eb7911e7414bc33fd2cab33d657050439b4c8e4a191ff09bbfabfe",
+            "text": "Cooperating with State and Local Governments to\n\nCoordinate and Improve Information Systems\n\nA-108 - Responsibilities for the Maintenance of Records about\n\nlndividuals by Federal Agencies\n\nA-114 - Management of Federal Audiovisual Activities\n\nA-121 - Cost Accounting, Cost Recovery, and Interagency\n\nSharing of Data Processing Facilities\n\n3. Analysis\n\nSection 6, Definitions. Access and Dissemination. The\noriginal Circular No. A-130 distinguished between the terms\n\"access to information\" and \"dissemination of information\" in\norder to separate statutory requirements from policy\nconsiderations. The first term means giving members of the\npublic, at their request, information to which they are entitled\nby a law such as the FOIA. The latter means actively\ndistributing information to the public at the initiative of the\nagency. The distinction appeared useful at the time Circular No.\nA-130 was written, because it allowed OMB to focus discussion on\nFederal agencies' responsibilities for actively distributing\ninformation. However, popular usage and evolving technology have\nblurred differences between the terms \"access\" and\n\"dissemination\" and readers of the Circular were confused by the\ndistinction. For example, if an agency \"disseminates\"\ninformation via an online computer system, one speaks of\npermitting users to \"access\" the information, and online \"access\"\nbecomes a form of \"dissemination.\"\n\nThus, the revision defines only the term \"dissemination.\"\nSpecial considerations based on access statutes such as the\nPrivacy Act and the FOIA are explained in context.\n\nGovernment Information. The definition of \"government\ninformation\" includes information created, collected, processed,\ndisseminated, or disposed of both by and for the Federal\nGovernment. This recognizes the increasingly distributed nature\nof information in electronic environments. Many agencies, in\naddition to collecting information for government use and for\ndissemination to the public, require members of the public to\nmaintain information or to disclose it to the public. Sound\ninformation resources management dictates that agencies consider\nthe costs and benefits of a full range of alternatives to meet\ngovernment objectives. In some cases, there is no need for the\ngovernment actually to collect the information itself, only to\nassure that it is made publicly available. For example, banks\ninsured by the FDIC must provide statements of financial\ncondition to bank customers on request. Particularly when\ninformation is available in electronic form, networks make the\nphysical location of information increasingly irrelevant.",
+            "context": "A-130: Transmittal 1 | OMB | 1993-06-25 | a130-1993 | policy | final",
+            "review_status": "draft",
+            "citation": {
+              "document_id": "b394b7885e2a250a20af528c2c032bc8a749987bc7346c0f3bf385f00b05e270",
+              "source_sha256": "b394b7885e2a250a20af528c2c032bc8a749987bc7346c0f3bf385f00b05e270",
+              "title": "A-130: Transmittal 1",
+              "document_number": "a130-1993",
+              "issuer": "OMB",
+              "date": "1993-06-25",
+              "authority": "policy",
+              "document_status": "final",
+              "page": null,
+              "anchor": "document-text",
+              "start": 85795,
+              "end": 88408,
+              "original_path": "originals/omb/OMB/1993/a130-1993--b394b7885e2a250a.html",
+              "reader_path": "markdown/b394b7885e2a250a20af528c2c032bc8a749987bc7346c0f3bf385f00b05e270/d25cc70b7e7dae06f254/document.html",
+              "source_urls": [
+                "https://clintonwhitehouse6.archives.gov/1993/06/1993-06-25-omb-circular-a130-revised-to-remove-printer-codes.html"
+              ],
+              "embedded_documents": [],
+              "resource_uri": "inforegs://passages/34898cc3e5eb7911e7414bc33fd2cab33d657050439b4c8e4a191ff09bbfabfe"
+            }
+          },
+          {
+            "passage_id": "067c07c21753e76744a72fc1fb1c2e72dd467f92dd5433e3452ef962ee522b68",
+            "text": "ation resources\nmanagement and the principle of information as an institutional\nresource which has both value and associated costs. Information\nresources management is a tool that managers use to achieve\nagency objectives. Information resources management is\nsuccessful if it enables managers to achieve agency objectives\nefficiently and effectively.\n\nInformation resources management planning is an integral\npart of overall mission planning. Agencies need to plan from the\noutset for the steps in the information life cycle. When\ncreating or collecting information, agencies must plan how they\nwill process and transmit the information, how they will use it,\nhow they will protect its integrity, what provisions they will\nmake for access to it, whether and how they will disseminate it,\nhow they will store and retrieve it, and finally, how the\ninformation will ultimately be disposed of. They must also plan\nfor the effects their actions and programs will have on the\npublic and State and local governments.\n\nThe Role of State and Local Governments. OMB made additions\nat Sections 7a, 7e, and 7j, Basic Considerations and Assumptions,\nconcerning State and local governments, and also in policy\nstatements at Sections 8a(1)(c), (3)(f), (6)(c), 9(e), and 10(c).\n\nState and local governments, and tribal governments,\ncooperate as major partners with the Federal Government in the\ncollection, processing, and dissemination of information. For\nexample, State governments are the principal collectors and/or\nproducers of information in the areas of health, welfare,\neducation, labor markets, transportation, the environment, and\ncriminal justice. The States supply the Federal Government with\ndata on aid to families with dependent children; medicare; school\nenrollments, staffing, and financing; statistics on births,\ndeaths, and infectious diseases; population related data that\nform the basis for national estimates; employment and labor\nmarket data; and data used for census geography. National\ninformation resources are greatly enhanced through these major\ncooperating efforts.\n\nFederal agencies need to be sensitive to the role of State\nand local governments, and tribal governments, in managing\ninformation and in managing information technology. When\nplanning, designing, and carrying out information collections,\nagencies should systematically consider what effect their\nactivities will have on cities, counties, and States, and take\nsteps to involve these governments as appropriate. Agencies\nshould ensure that their information collections impose the\nminimum burden and do not duplicate or conflict with local\nefforts or other Federal agency requirements or mandates. The\ngoal is that Federal agencies routinely integrate State and local\ngovernment concerns into Federal information resources management\npractices. This goal is consistent with standards for State and\nlocal government review of Federal policies and programs.",
+            "context": "A-130: Transmittal 1 | OMB | 1993-06-25 | a130-1993 | policy | final",
+            "review_status": "draft",
+            "citation": {
+              "document_id": "b394b7885e2a250a20af528c2c032bc8a749987bc7346c0f3bf385f00b05e270",
+              "source_sha256": "b394b7885e2a250a20af528c2c032bc8a749987bc7346c0f3bf385f00b05e270",
+              "title": "A-130: Transmittal 1",
+              "document_number": "a130-1993",
+              "issuer": "OMB",
+              "date": "1993-06-25",
+              "authority": "policy",
+              "document_status": "final",
+              "page": null,
+              "anchor": "document-text",
+              "start": 90467,
+              "end": 93400,
+              "original_path": "originals/omb/OMB/1993/a130-1993--b394b7885e2a250a.html",
+              "reader_path": "markdown/b394b7885e2a250a20af528c2c032bc8a749987bc7346c0f3bf385f00b05e270/d25cc70b7e7dae06f254/document.html",
+              "source_urls": [
+                "https://clintonwhitehouse6.archives.gov/1993/06/1993-06-25-omb-circular-a130-revised-to-remove-printer-codes.html"
+              ],
+              "embedded_documents": [],
+              "resource_uri": "inforegs://passages/067c07c21753e76744a72fc1fb1c2e72dd467f92dd5433e3452ef962ee522b68"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "key": "3f3193c23dd705347206b81098549091b5a77350b76ea3564e68a908378d1950",
+      "result": {
+        "generation": "1792804158-98893:vectors-242001-1792844285847554000",
+        "passage_id": "3f3193c23dd705347206b81098549091b5a77350b76ea3564e68a908378d1950",
+        "text": "```text\nproviders of software subscription services, etc. FISMA, therefore, underscores longstanding\nOMB policy concerning sharing Government information and interconnecting systems.\n\nTherefore, Federal security requirements continue to apply and the agency is responsible for\nensuring appropriate security controls (see OMB Circular A-130, Appendix III). Agencies must\ndevelop policies for information security oversight of contractors and other users with privileged\naccess to Federal data. Agencies must also review the security of other users with privileged\naccess to Federal data and systems.\n\nFinally, because FISMA applies to Federal information and information systems, in certain\nlimited circumstances its requirements also apply to a specific class of information technology to\nwhich Clinger-Cohen did not, i.e., “equipment that is acquired by a Federal contractor incidental\nto a Federal contract.” Therefore, when Federal information is used within incidentally acquired\nequipment, the agency continues to be responsible and accountable for ensuring FISMA\nrequirements are met.\n\n37. Could you provide examples of “incidental” contractor equipment which is not subject\nto FISMA?\nIn considering the answer to this question, it is essential to remember FISMA requires agencies to\nprovide security protections \"...commensurate with the risk and magnitude of harm resulting from\nunauthorized access, use, disclosure, disruption, modification, or destruction of information\ncollected or maintained by or on behalf of the agency; and information systems used or operated\nby an agency or other organization on behalf of an agency.\" This includes services which are\neither fully or partially provided by another source, including agency hosted, outsourced, and\nSaaS solutions.\n\nA corporate human resource or financial management system acquired solely to assist managing\ncorporate resources assigned to a Government contract could be incidental, provided the system\ndoes not use agency information or interconnect with an agency system.\n\n38. Could you provide examples of agency security responsibilities concerning contractors\nand other sources?\nFISMA requires agencies to provide security protections \"...commensurate with the risk and\nmagnitude of harm resulting from unauthorized access, use, disclosure, disruption, modification,\nor destruction of information collected or maintained by or on behalf of the agency; and\ninformation systems used or operated by an agency or other organization on behalf of an\nagency.\" This includes full or partial operations.\n\nWhile we cannot anticipate all possible combinations and permutations, there are five primary\ncategories of contractors as they relate to securing systems and information: 1) service providers,\n2) contractor support, 3) Government Owned, Contractor Operated facilities (GOCO), 4)\nlaboratories and research centers, and 5) management and operating contracts.",
+        "context": "M-10-15, FY 2010 Reporting Instructions for the Federal Information Security Management Act and Agency Privacy Management | OMB | 2010-04-21 | m-10-15 | policy | final",
+        "review_status": "draft",
+        "citation": {
+          "document_id": "de73191abda2c3037a37d6ff60566a6dd72c9aacbeaa8f5337b1f7be467273d2",
+          "source_sha256": "de73191abda2c3037a37d6ff60566a6dd72c9aacbeaa8f5337b1f7be467273d2",
+          "title": "M-10-15, FY 2010 Reporting Instructions for the Federal Information Security Management Act and Agency Privacy Management",
+          "document_number": "m-10-15",
+          "issuer": "OMB",
+          "date": "2010-04-21",
+          "authority": "policy",
+          "document_status": "final",
+          "page": 18,
+          "anchor": "page-18",
+          "start": 0,
+          "end": 2925,
+          "original_path": "originals/omb/OMB/2010/m-10-15--de73191abda2c303.pdf",
+          "reader_path": "markdown/de73191abda2c3037a37d6ff60566a6dd72c9aacbeaa8f5337b1f7be467273d2/f6fc8fe292043e54019e/document.html",
+          "source_urls": [
+            "https://bidenwhitehouse.archives.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2010/m10-15.pdf",
+            "https://trumpwhitehouse.archives.gov/omb/information-for-agencies/memoranda/",
+            "https://trumpwhitehouse.archives.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-15.pdf"
+          ],
+          "embedded_documents": [],
+          "resource_uri": "inforegs://passages/3f3193c23dd705347206b81098549091b5a77350b76ea3564e68a908378d1950"
+        },
+        "neighbors": [
+          {
+            "passage_id": "b5deffa919b874a493e920595cfcdf9f4f66dfeddc5b2fba2bd588c5e78d074f",
+            "text": "rmation security for the information and “information systems that support the operations and\nassets of the agency, including those provided or managed by another agency, contractor, or other\nsource.” This includes services which are either fully or partially provided, including agency\nhosted, outsourced, and software-as-a-service (SaaS) solutions.\n\nBecause FISMA applies to both information and information systems used by the agency,\ncontractors, and other organizations and sources, it has somewhat broader applicability than prior\nsecurity law. That is, agency information security programs apply to all organizations (sources)\nwhich possess or use Federal information – or which operate, use, or have access to Federal\ninformation systems (whether automated or manual) – on behalf of a Federal agency. Such other\norganizations may include contractors, grantees, State and local Governments, industry partners,\n\n\n\n                                              13\n```\n",
+            "context": "M-10-15, FY 2010 Reporting Instructions for the Federal Information Security Management Act and Agency Privacy Management | OMB | 2010-04-21 | m-10-15 | policy | final",
+            "review_status": "draft",
+            "citation": {
+              "document_id": "de73191abda2c3037a37d6ff60566a6dd72c9aacbeaa8f5337b1f7be467273d2",
+              "source_sha256": "de73191abda2c3037a37d6ff60566a6dd72c9aacbeaa8f5337b1f7be467273d2",
+              "title": "M-10-15, FY 2010 Reporting Instructions for the Federal Information Security Management Act and Agency Privacy Management",
+              "document_number": "m-10-15",
+              "issuer": "OMB",
+              "date": "2010-04-21",
+              "authority": "policy",
+              "document_status": "final",
+              "page": 17,
+              "anchor": "page-17",
+              "start": 2095,
+              "end": 3068,
+              "original_path": "originals/omb/OMB/2010/m-10-15--de73191abda2c303.pdf",
+              "reader_path": "markdown/de73191abda2c3037a37d6ff60566a6dd72c9aacbeaa8f5337b1f7be467273d2/f6fc8fe292043e54019e/document.html",
+              "source_urls": [
+                "https://bidenwhitehouse.archives.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2010/m10-15.pdf",
+                "https://trumpwhitehouse.archives.gov/omb/information-for-agencies/memoranda/",
+                "https://trumpwhitehouse.archives.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-15.pdf"
+              ],
+              "embedded_documents": [],
+              "resource_uri": "inforegs://passages/b5deffa919b874a493e920595cfcdf9f4f66dfeddc5b2fba2bd588c5e78d074f"
+            }
+          },
+          {
+            "passage_id": "ae656fbedf63e84e7ed2bb913cc16be2a3e7f28480d46c04a470752e5dfd70a3",
+            "text": "e cannot anticipate all possible combinations and permutations, there are five primary\ncategories of contractors as they relate to securing systems and information: 1) service providers,\n2) contractor support, 3) Government Owned, Contractor Operated facilities (GOCO), 4)\nlaboratories and research centers, and 5) management and operating contracts.\n\n    1) Service providers -- this encompasses typical outsourcing of system or network operations,\n   telecommunications services, or other managed services (including those provided by another\n   agency and subscribing to software services).\n\n\n                                              14\n```\n",
+            "context": "M-10-15, FY 2010 Reporting Instructions for the Federal Information Security Management Act and Agency Privacy Management | OMB | 2010-04-21 | m-10-15 | policy | final",
+            "review_status": "draft",
+            "citation": {
+              "document_id": "de73191abda2c3037a37d6ff60566a6dd72c9aacbeaa8f5337b1f7be467273d2",
+              "source_sha256": "de73191abda2c3037a37d6ff60566a6dd72c9aacbeaa8f5337b1f7be467273d2",
+              "title": "M-10-15, FY 2010 Reporting Instructions for the Federal Information Security Management Act and Agency Privacy Management",
+              "document_number": "m-10-15",
+              "issuer": "OMB",
+              "date": "2010-04-21",
+              "authority": "policy",
+              "document_status": "final",
+              "page": 18,
+              "anchor": "page-18",
+              "start": 2575,
+              "end": 3224,
+              "original_path": "originals/omb/OMB/2010/m-10-15--de73191abda2c303.pdf",
+              "reader_path": "markdown/de73191abda2c3037a37d6ff60566a6dd72c9aacbeaa8f5337b1f7be467273d2/f6fc8fe292043e54019e/document.html",
+              "source_urls": [
+                "https://bidenwhitehouse.archives.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2010/m10-15.pdf",
+                "https://trumpwhitehouse.archives.gov/omb/information-for-agencies/memoranda/",
+                "https://trumpwhitehouse.archives.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-15.pdf"
+              ],
+              "embedded_documents": [],
+              "resource_uri": "inforegs://passages/ae656fbedf63e84e7ed2bb913cc16be2a3e7f28480d46c04a470752e5dfd70a3"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "key": "522938f2950fae16dd2828ed4dee67d10df3dc2536837112ff942257b31ae97c",
+      "result": {
+        "generation": "1792804158-98893:vectors-242001-1792844285847554000",
+        "passage_id": "522938f2950fae16dd2828ed4dee67d10df3dc2536837112ff942257b31ae97c",
+        "text": "```text\nRAND\n\nCORPORATION\n\nRAND Corporation Comments on HSAR Case 2015-001\nMarch 23, 2017\nPage 8\n\n(emphasis added). Under the NARA Final Rule, these DHS 4300A standards cannot be\nimposed on contractors that handle or use DHS CUI “only incidental to” providing a\nservice or product to DHS. The proposed rule clearly exceeds DHS’s authority as\nconstrained by Executive Order 13556 and the NARA Final Rule. 32 CFR §§\n2002.14(h)(1) and (2).\n\nComment 3\n\nTo avoid ambiguity, confusion, and inconsistent contract\nadministration, the term “on behalf of’ should be defined in the\nproposed regulation, consistent with the definition of the term in the\nNARA Final Rule on CUI.\n\nThe term “on behalf of” is used throughout both the NARA Final Rule on CUI and in the\nproposed DHS regulation. It is a critical term, because it clarifies when an information\nsystem is considered a Federal information system that is operated by a contractor, as\nopposed to a non-Federal contractor information system that merely stores or handles\nCUI only incidental to providing a product or service to the Government.\n\nFor example, the determination of whether proposed clause 3052.204-7X(c), Authority to\nOperate, should be included in a contract or whether it is “self-deleting” depends on a\ndetermination of whether a contractor information system is operating “on behalf of’ the\nagency. Absent a definition of this key term, contracting officers are likely to interpret the\napplicability of the clause differently, leading to inconsistent standards for protection of\ninformation.\n\nThe NARA Final Rule includes a definition of the term, and to ensure consistency with\nthe Federal-wide standard, the same definition also should be included in the DHS\nregulation, as follows:\n\n(hh) On behalf of an agency occurs when a non-executive branch entity\nuses or operates an information system or maintains or collects\ninformation for the purpose of processing, storing, or transmitting Federal\ninformation, and those activities are not incidental to providing a service\nor product to the Government.\n\n32 CFR § 2002.4(hh).\n\nOBJECTIVE ANALYSIS. EFFECTIVE SOLUTIONS.\n```\n\n### Source page image\n\n![Source PDF page 8](images/page-00008.png)\n",
+        "context": "RAND Corporation Comments on HSAR Case 2015-001 | RAND Corporation (comment submitted on behalf of the organization; no individual author identified in quoted attachment excerpt) | 2017-03-23 | Public comment; submitter position, nonbinding | Submitted comment in docket DHS-2017-0006; proposed rule input later addressed in final rule 2023-11270 | Source page image",
+        "review_status": "draft",
+        "citation": {
+          "document_id": "b94bb7c8a4cfc506c67606cded3fb6ee7dca00598268f06e5fb47c14ed17ee97",
+          "source_sha256": "b94bb7c8a4cfc506c67606cded3fb6ee7dca00598268f06e5fb47c14ed17ee97",
+          "title": "RAND Corporation Comments on HSAR Case 2015-001",
+          "document_number": null,
+          "issuer": "RAND Corporation (comment submitted on behalf of the organization; no individual author identified in quoted attachment excerpt)",
+          "date": "2017-03-23",
+          "authority": "Public comment; submitter position, nonbinding",
+          "document_status": "Submitted comment in docket DHS-2017-0006; proposed rule input later addressed in final rule 2023-11270",
+          "page": 8,
+          "anchor": "page-8",
+          "start": 0,
+          "end": 2199,
+          "original_path": "originals/omb/RAND-Corporation-comment-submitted-on-behalf-of-the-organization-no-individual-author-identified-in-/2017/RAND-Corporation-Comments-on-HSAR-Case-2015-001--b94bb7c8a4cfc506.pdf",
+          "reader_path": "markdown/b94bb7c8a4cfc506c67606cded3fb6ee7dca00598268f06e5fb47c14ed17ee97/c483b83e9cc2e3800070/document.html",
+          "source_urls": [
+            "https://downloads.regulations.gov/DHS-2017-0006-0013/attachment_1.pdf",
+            "https://www.regulations.gov/docket/DHS-2017-0006"
+          ],
+          "embedded_documents": [],
+          "resource_uri": "inforegs://passages/522938f2950fae16dd2828ed4dee67d10df3dc2536837112ff942257b31ae97c"
+        },
+        "neighbors": [
+          {
+            "passage_id": "1b460599d44b82106a340b7e4477c3a14808130be3ea550eb36ecf8af61d7773",
+            "text": "```text\nRAND Corporation Comments on HSAR Case 2015-001\nMarch 23, 2017\nPage 7\n\nRAND\n\nCORPORATION\n\nAt present, executive departments and agencies (agencies) employ ad hoc,\nagency-specific policies, procedures, and markings to safeguard and\ncontrol this information, such as information that involves privacy,\nsecurity, proprietary business interests, and law enforcement\ninvestigations. This inefficient, confusing patchwork has resulted in\ninconsistent marking and safeguarding of documents, led to unclear or\nunnecessarily restrictive dissemination policies, and created impediments\nto authorized information sharing. The fact that these agency-specific\npolicies are often hidden from public view has only aggravated these\nissues.\n\nTo address these problems, this order establishes a program for managing\nthis information, hereinafter described as Controlled Unclassified\nInformation, that emphasizes the openness and uniformity of Government-\nwide practice.\n\nExecutive Order 13556, Section 1, Purpose (Fed. Reg. Vol. 75, No. 216, p. 68675\n(November 9, 2010)).\n\nConsistent with the Executive Order, the NARA Final Rule explicitly limits the authority\nof agencies to impose agency-specific policies. Agencies “cannot require that\nnonexecutive branch entities protect these [non-Federal information] systems in the same\nmanner that the agencies might protect their own information systems.” 32 CFR §\n2002.14(h)(2). Agencies “may not implement safeguarding or dissemination controls for\nany unclassified information other than those controls consistent with the CUI\nProgram[.]” 32 CFR § 2002.1(c). The NARA Final Rule “overrides agency-specific or\nad hoc requirements when they conflict.” 32 CFR § 2002.1(i). “Agencies may not\nimplement safeguarding or dissemination controls for any unclassified information other\nthan those controls permitted by the CUI Program.” 32 CFR § 2002.12(a).\n\nAs set forth in detail in Comment 1 above, the NARA Final Rule stipulates that the NIST\n800-171 standard is the only information security standard that may be applied to\ncontractor information systems and contractor employees who maintain, handle, or use\nCUI “only incidental to” providing a product or service to DHS. 32 CFR §\n2002.14(h)(2). Section 3004.470-3 of the proposed DHS rule and corresponding contract\nclause 3052.204-7X (b)(1) improperly subject all contractors and all contractor\ninformation systems to DHS agency-specific standards. These provisions impose\nagency-specific standards — including the DHS 4300A standard — in “any situation where\ncontractor employees may have access to CUI” (Section 3004.470-3(a))(emphasis added)\nand whenever contractor employees “will have access to CUL” 3004.470-4(b)(1)\n\nOBJECTIVE ANALYSIS. EFFECTIVE SOLUTIONS\n```\n\n### Source page image\n\n![Source PDF page 7](images/page-00007.png)\n",
+            "context": "RAND Corporation Comments on HSAR Case 2015-001 | RAND Corporation (comment submitted on behalf of the organization; no individual author identified in quoted attachment excerpt) | 2017-03-23 | Public comment; submitter position, nonbinding | Submitted comment in docket DHS-2017-0006; proposed rule input later addressed in final rule 2023-11270 | Source page image",
+            "review_status": "draft",
+            "citation": {
+              "document_id": "b94bb7c8a4cfc506c67606cded3fb6ee7dca00598268f06e5fb47c14ed17ee97",
+              "source_sha256": "b94bb7c8a4cfc506c67606cded3fb6ee7dca00598268f06e5fb47c14ed17ee97",
+              "title": "RAND Corporation Comments on HSAR Case 2015-001",
+              "document_number": null,
+              "issuer": "RAND Corporation (comment submitted on behalf of the organization; no individual author identified in quoted attachment excerpt)",
+              "date": "2017-03-23",
+              "authority": "Public comment; submitter position, nonbinding",
+              "document_status": "Submitted comment in docket DHS-2017-0006; proposed rule input later addressed in final rule 2023-11270",
+              "page": 7,
+              "anchor": "page-7",
+              "start": 0,
+              "end": 2820,
+              "original_path": "originals/omb/RAND-Corporation-comment-submitted-on-behalf-of-the-organization-no-individual-author-identified-in-/2017/RAND-Corporation-Comments-on-HSAR-Case-2015-001--b94bb7c8a4cfc506.pdf",
+              "reader_path": "markdown/b94bb7c8a4cfc506c67606cded3fb6ee7dca00598268f06e5fb47c14ed17ee97/c483b83e9cc2e3800070/document.html",
+              "source_urls": [
+                "https://downloads.regulations.gov/DHS-2017-0006-0013/attachment_1.pdf",
+                "https://www.regulations.gov/docket/DHS-2017-0006"
+              ],
+              "embedded_documents": [],
+              "resource_uri": "inforegs://passages/1b460599d44b82106a340b7e4477c3a14808130be3ea550eb36ecf8af61d7773"
+            }
+          },
+          {
+            "passage_id": "a8e8dbdba64a6039cc3a82ec1c2b6d3ad768f13850ec7b2fdae2098b522d610a",
+            "text": "```text\nRAND\n\nCORPORATION\n\nRAND Corporation Comments on HSAR Case 2015-001\nMarch 23, 2017\nPage 9\n\nComment 4\n\nDHS should add a provision to the proposed rule — and a\ncorresponding contract clause — explicitly specifying that the NIST\n800-171 standard must be applied to non-Federal contractor\ninformation systems and to contractor employees who handle or use\nCUI “only incidental to” providing a service or product to DHS.\n\nAs discussed in Comment 1, the NARA Final Rule stipulates that NIST 800-171 is the\nonly standard that applies to CUI that is maintained, handled, or used on a contractor’s\ninformation system “only incidental to” providing products or services to the\nGovernment: “Agencies must use NIST SP 800-171 when establishing security\nrequirements to protect CUI’s confidentiality on non-Federal information systems[.]” 32\nCFR § 2002.14(h)(2). To avoid ambiguity or inconsistency in the application of\ninformation security standards, the NIST 800-171 standard should be cited in all\ninstances in which it applies in the DHS regulation — that is, in all situations in which a\ncontractor’s information system or contractor employees are handling or using CUI “only\nincidental to” providing a product or service to DHS.\n\nComment 5\n\nSome of the categories or subcategories of CUI defined in the\nproposed regulation are not included the CUI Registry.\n\nThe DHS proposed rule includes in its definition of Controlled Unclassified Information\nsome categories of information designated as CUI that are not listed in the CUI Registry.\nSee 3052.204-7X, proposed definition of Controlled Unclassified Information.\n\nThe NARA Final Rule establishes the CUI Registry as the “authoritative central\nrepository for all guidance, policy, instructions, and information on CUI (other than\n[Executive Order 13556] and [the NARA Final Rule]).” 32 CFR § 2002.10(a). See also,\nExecutive Order 13556 (“The CUI categories and subcategories shall serve as exclusive\ndesignations for identifying unclassified information throughout the executive branch that\nrequires safeguarding or dissemination controls, pursuant to and consistent with\napplicable law, regulations, and Government-wide policies.” Executive Order 13556,\nSection 2, Controlled Unclassified Information (Fed. Reg. Vol. 75, No. 216, p. 68675\n(November 9, 2010)).\n\nAgencies do not have the authority to designate categories or subcategories of\ninformation as CUI except through the CUI Registry: “CUI categories and subcategories\n\nOBJECTIVE ANALYSIS. EFFECTIVE SOLUTIONS.\n```\n\n### Source page image\n\n![Source PDF page 9](images/page-00009.png)\n",
+            "context": "RAND Corporation Comments on HSAR Case 2015-001 | RAND Corporation (comment submitted on behalf of the organization; no individual author identified in quoted attachment excerpt) | 2017-03-23 | Public comment; submitter position, nonbinding | Submitted comment in docket DHS-2017-0006; proposed rule input later addressed in final rule 2023-11270 | Source page image",
+            "review_status": "draft",
+            "citation": {
+              "document_id": "b94bb7c8a4cfc506c67606cded3fb6ee7dca00598268f06e5fb47c14ed17ee97",
+              "source_sha256": "b94bb7c8a4cfc506c67606cded3fb6ee7dca00598268f06e5fb47c14ed17ee97",
+              "title": "RAND Corporation Comments on HSAR Case 2015-001",
+              "document_number": null,
+              "issuer": "RAND Corporation (comment submitted on behalf of the organization; no individual author identified in quoted attachment excerpt)",
+              "date": "2017-03-23",
+              "authority": "Public comment; submitter position, nonbinding",
+              "document_status": "Submitted comment in docket DHS-2017-0006; proposed rule input later addressed in final rule 2023-11270",
+              "page": 9,
+              "anchor": "page-9",
+              "start": 0,
+              "end": 2591,
+              "original_path": "originals/omb/RAND-Corporation-comment-submitted-on-behalf-of-the-organization-no-individual-author-identified-in-/2017/RAND-Corporation-Comments-on-HSAR-Case-2015-001--b94bb7c8a4cfc506.pdf",
+              "reader_path": "markdown/b94bb7c8a4cfc506c67606cded3fb6ee7dca00598268f06e5fb47c14ed17ee97/c483b83e9cc2e3800070/document.html",
+              "source_urls": [
+                "https://downloads.regulations.gov/DHS-2017-0006-0013/attachment_1.pdf",
+                "https://www.regulations.gov/docket/DHS-2017-0006"
+              ],
+              "embedded_documents": [],
+              "resource_uri": "inforegs://passages/a8e8dbdba64a6039cc3a82ec1c2b6d3ad768f13850ec7b2fdae2098b522d610a"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

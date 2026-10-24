@@ -1,0 +1,231 @@
+SP 800-18 Rev. 2, Developing Security, Privacy, and Cybersecurity Supply Chain Risk Management Plans for Systems | CSRC
+You are viewing this page in an unauthorized frame window.
+This is a potential security issue, you are being redirected to
+https://csrc.nist.gov
+.
+You have JavaScript disabled. This site requires JavaScript to be enabled for complete site functionality.
+An official website of the United States government
+Here’s how you know
+Here’s how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government
+                            organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you’ve safely connected to
+                            the .gov website. Share sensitive information only on official,
+                            secure websites.
+Search
+Search
+CSRC MENU
+Search
+Search
+Projects
+Publications
+Expand or Collapse
+Drafts for Public Comment
+All Public Drafts
+Final Pubs
+FIPS
+(standards)
+Special Publications (SP
+s
+)
+IR
+(interagency/internal reports)
+CSWP
+(cybersecurity white papers)
+ITL Bulletins
+Project Descriptions
+Journal Articles
+Conference Papers
+Books
+Topics
+Expand or Collapse
+Security & Privacy
+Applications
+Technologies
+Sectors
+Laws & Regulations
+Activities & Products
+News & Updates
+Events
+Glossary
+About CSRC
+Expand or Collapse
+Computer Security Division
+Cryptographic Technology
+Software Security Group
+Hardware Security Group
+Security Engineering and Risk Management
+Applied Cybersecurity Division
+Cybersecurity and Privacy Applications
+National Cybersecurity Center of Excellence (NCCoE)
+National Initiative for Cybersecurity Education (NICE)
+Contact Us
+Information Technology Laboratory
+Computer Security Resource Center
+Publications
+NIST SP 800-18 Rev. 2
+Developing Security, Privacy, and Cybersecurity Supply Chain Risk Management Plans for Systems
+Share to Facebook
+Share to X
+Share to LinkedIn
+Share ia Email
+Documentation
+Topics
+Date Published:
+June 2026
+Supersedes:
+SP 800-18 Rev. 1 (02/24/2006)
+Author(s)
+Jeremy Licata (NIST)
+,
+Rebecca McWhite (NIST)
+,
+Laura Calloway (NIST)
+,
+Dylan Gilbert (NIST)
+,
+Meghan Anderson (NIST)
+,
+Julie Snyder (MITRE)
+,
+Jeremy Miller (MITRE)
+Abstract
+The system security plan, system privacy plan, and cybersecurity supply chain risk management plan are collectively referred to as system plans. They describe the purpose of the system, the operational status of the controls selected and allocated for meeting risk management requirements, and the responsibilities and expected behavior of all individuals who manage, support, and access the system. This publication identifies essential elements of system plans from security, privacy, and cybersecurity supply chain risk management perspectives to promote consistent information collection across the organization, regardless of the system’s mission or business function.
+The system security plan, system privacy plan, and cybersecurity supply chain risk management plan are collectively referred to as system plans. They describe the purpose of the system, the operational status of the controls selected and allocated for meeting risk management requirements, and the...
+See full abstract
+The system security plan, system privacy plan, and cybersecurity supply chain risk management plan are collectively referred to as system plans. They describe the purpose of the system, the operational status of the controls selected and allocated for meeting risk management requirements, and the responsibilities and expected behavior of all individuals who manage, support, and access the system. This publication identifies essential elements of system plans from security, privacy, and cybersecurity supply chain risk management perspectives to promote consistent information collection across the organization, regardless of the system’s mission or business function.
+Hide full abstract
+Keywords
+authorization boundary
+;
+authorizing official
+;
+common control authorization
+;
+control implementation details
+;
+cybersecurity supply chain risk management plan
+;
+privacy plan
+;
+privacy risk management
+;
+risk management framework
+;
+security plan
+;
+security risk management
+;
+authorization to operate
+;
+authorization to use
+;
+authorizing official designated representative
+;
+CASES Act
+;
+control implementation
+;
+controls
+;
+FASCSA
+;
+FISMA
+;
+ongoing authorization
+;
+Privacy Act
+;
+privacy plan
+;
+supply chain
+;
+supply chain risk management
+;
+system privacy plan
+;
+system security plan
+;
+system owner
+Control Families
+None selected
+Documentation
+Publication:
+https://doi.org/10.6028/NIST.SP.800-18r2
+Download URL
+Supplemental Material:
+Security Plan Example Outline  (docx)
+Privacy Plan Example Outline  (docx)
+C-SCRM Plan Example Outline  (docx)
+System Plan-related Roles and Responsibilities  (docx)
+NIST Risk Management Framework
+Document History:
+06/04/25:
+SP 800-18 Rev. 2 (Draft)
+06/30/26:
+SP 800-18 Rev. 2 (Final)
+Topics
+Security and Privacy
+access authorization
+,
+authentication
+,
+cybersecurity supply chain risk management
+,
+planning
+,
+privacy
+,
+risk management
+Laws and Regulations
+Federal Information Security Modernization Act
+,
+OMB Circular A-130
+HEADQUARTERS
+100 Bureau Drive
+Gaithersburg, MD 20899
+X
+(link is external)
+facebook
+(link is external)
+linkedin
+(link is external)
+instagram
+(link is external)
+youtube
+(link is external)
+rss
+govdelivery
+(link is external)
+Want updates about CSRC and our publications?
+Subscribe
+Contact Us
+|
+Our Other Offices
+Send inquiries to
+[email protected]
+Site Privacy
+Accessibility
+Privacy Program
+Copyrights
+Vulnerability Disclosure
+No Fear Act Policy
+FOIA
+Environmental Policy
+Scientific Integrity
+Information Quality Standards
+Commerce.gov
+Science.gov
+USA.gov
+Vote.gov

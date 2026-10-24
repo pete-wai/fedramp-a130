@@ -1,0 +1,801 @@
+[
+  {
+    "id": "information-first",
+    "references": [
+      {
+        "source_id": "usc3554",
+        "locator": "44 USC 3554(a)(1)(A)(i)\u2013(ii), (b)"
+      },
+      {
+        "source_id": "a130-2016",
+        "locator": "\u00a76(a)(1); \u00a710(22)\u2013(23); Appendix I \u00a75(r)"
+      }
+    ]
+  },
+  {
+    "id": "tenant-test",
+    "references": [
+      {
+        "source_id": "sp800372",
+        "locator": "\u00a72.5 and footnote 42, pp. 17\u201318; Appendix G, pp. 159\u2013161"
+      },
+      {
+        "source_id": "sp800182",
+        "locator": "\u00a73.2, Authorization Boundary Description and System Component Inventory, pp. 19\u201321"
+      }
+    ]
+  },
+  {
+    "id": "private-business",
+    "references": [
+      {
+        "source_id": "a130-1993",
+        "locator": "Appendix IV, \u00a73, Analysis of \u00a76: Government Information"
+      },
+      {
+        "source_id": "cui2025",
+        "locator": "32 CFR 2002.14(h)(1)\u2013(2)"
+      },
+      {
+        "source_id": "sp800372",
+        "locator": "Appendix G, pp. 157\u2013161"
+      }
+    ]
+  },
+  {
+    "id": "risk-and-rules",
+    "references": [
+      {
+        "source_id": "usc3554",
+        "locator": "44 USC 3554(a)(1), (b)(2)"
+      },
+      {
+        "source_id": "fips200",
+        "locator": "\u00a7\u00a72\u20133"
+      },
+      {
+        "source_id": "sp800372",
+        "locator": "Appendix G, p. 160"
+      },
+      {
+        "source_id": "m-24-15",
+        "locator": "\u00a7III, Scope of FedRAMP, p. 5"
+      }
+    ]
+  },
+  {
+    "id": "word-1",
+    "references": [
+      {
+        "source_id": "usc3554",
+        "locator": "44 USC 3554(a)(1)(A)(i)"
+      }
+    ]
+  },
+  {
+    "id": "word-2",
+    "references": [
+      {
+        "source_id": "usc3554",
+        "locator": "44 USC 3554(a)(1)(A)(ii), (b)"
+      }
+    ]
+  },
+  {
+    "id": "word-3",
+    "references": [
+      {
+        "source_id": "a130-2016",
+        "locator": "\u00a710(22)\u2013(23)"
+      }
+    ]
+  },
+  {
+    "id": "word-4",
+    "references": [
+      {
+        "source_id": "a130-2016",
+        "locator": "Appendix I \u00a73(b)(2); \u00a74(j); \u00a75(r)"
+      }
+    ]
+  },
+  {
+    "id": "word-5",
+    "references": [
+      {
+        "source_id": "cui2025",
+        "locator": "32 CFR 2002.4(hh); 2002.14(h)"
+      }
+    ]
+  },
+  {
+    "id": "word-6",
+    "references": [
+      {
+        "source_id": "m-24-15",
+        "locator": "\u00a7III, p. 5"
+      }
+    ]
+  },
+  {
+    "id": "word-7",
+    "references": [
+      {
+        "source_id": "usc552a",
+        "locator": "5 USC 552a(a)(5), (m)"
+      }
+    ]
+  },
+  {
+    "id": "separate-predicates",
+    "references": [
+      {
+        "source_id": "cui2025",
+        "locator": "32 CFR 2002.4(hh), 2002.14(h)(1)\u2013(2)"
+      },
+      {
+        "source_id": "usc3554",
+        "locator": "44 USC 3554(a)(1)(A)"
+      },
+      {
+        "source_id": "sp8001713",
+        "locator": "\u00a71.1, pp. 1\u20132"
+      }
+    ]
+  },
+  {
+    "id": "not-interchangeable",
+    "references": [
+      {
+        "source_id": "a130-2016",
+        "locator": "\u00a710(22)\u2013(23)"
+      },
+      {
+        "source_id": "usc3554",
+        "locator": "44 USC 3554(a)(1)(A)"
+      },
+      {
+        "source_id": "sp800372",
+        "locator": "\u00a72.5"
+      },
+      {
+        "source_id": "m-24-15",
+        "locator": "\u00a7III"
+      }
+    ]
+  },
+  {
+    "id": "privacy-origin",
+    "references": [
+      {
+        "source_id": "privacy",
+        "locator": "\u00a73, adding 5 USC 552a(m)"
+      },
+      {
+        "source_id": "usc552a",
+        "locator": "5 USC 552a(m)"
+      }
+    ]
+  },
+  {
+    "id": "management-origin",
+    "references": [
+      {
+        "source_id": "pra1980",
+        "locator": "44 USC 3504\u20133506 as enacted"
+      },
+      {
+        "source_id": "a130-1985",
+        "locator": "\u00a76; Appendix IV, analysis of \u00a78b(2)\u2013(3), 50 FR 52749; PDF p. 307"
+      }
+    ]
+  },
+  {
+    "id": "computer-security",
+    "references": [
+      {
+        "source_id": "csa",
+        "locator": "\u00a73, adding NBS Act \u00a720(d)(2); \u00a7\u00a75\u20137"
+      }
+    ]
+  },
+  {
+    "id": "omb-distinction",
+    "references": [
+      {
+        "source_id": "a130-1993",
+        "locator": "Appendix IV, \u00a73, Government Information"
+      },
+      {
+        "source_id": "a130-1996",
+        "locator": "Appendix IV, Government Information"
+      },
+      {
+        "source_id": "a130-2000-app-iv",
+        "locator": "\u00a73, Government Information"
+      }
+    ]
+  },
+  {
+    "id": "incidental-equipment",
+    "references": [
+      {
+        "source_id": "clinger",
+        "locator": "Division E, \u00a75002(3), now 40 USC 11101(6)"
+      },
+      {
+        "source_id": "a130-1996",
+        "locator": "Appendix III, \u00a7\u00a72\u20133"
+      },
+      {
+        "source_id": "a130-2016",
+        "locator": "Appendix I \u00a75(r)"
+      }
+    ]
+  },
+  {
+    "id": "fisma-origins",
+    "references": [
+      {
+        "source_id": "gisra",
+        "locator": "\u00a71061, former 44 USC 3534"
+      },
+      {
+        "source_id": "hsa2002",
+        "locator": "\u00a71001, former 44 USC 3534"
+      },
+      {
+        "source_id": "fisma2002",
+        "locator": "Title III \u00a7301, former 44 USC 3544(a)\u2013(b)"
+      }
+    ]
+  },
+  {
+    "id": "outsourcing-memos",
+    "references": [
+      {
+        "source_id": "fips199",
+        "locator": "\u00a7\u00a72\u20133"
+      },
+      {
+        "source_id": "fips200",
+        "locator": "\u00a7\u00a72\u20133"
+      },
+      {
+        "source_id": "m-10-15",
+        "locator": "Questions 36\u201338, printed pp. 13\u201315; PDF pp. 17\u201319"
+      },
+      {
+        "source_id": "fedramp2011",
+        "locator": "Scope and agency responsibilities"
+      }
+    ]
+  },
+  {
+    "id": "modernization",
+    "references": [
+      {
+        "source_id": "fisma2014",
+        "locator": "\u00a72, 44 USC 3554"
+      },
+      {
+        "source_id": "usc3554",
+        "locator": "44 USC 3554(a)\u2013(b)"
+      }
+    ]
+  },
+  {
+    "id": "a130-comments",
+    "references": [
+      {
+        "source_id": "notice2015",
+        "locator": "80 FR 64022, October 22, 2015"
+      },
+      {
+        "source_id": "epic2015",
+        "locator": "\u00a7III, pp. 5\u20136"
+      },
+      {
+        "source_id": "a130-2016-notice",
+        "locator": "81 FR 49689, July 28, 2016"
+      }
+    ]
+  },
+  {
+    "id": "a130-modern",
+    "references": [
+      {
+        "source_id": "a130-2016",
+        "locator": "Appendix I \u00a74(j); \u00a75(r), printed pp. 25\u201326 / PDF pp. 62\u201363"
+      }
+    ]
+  },
+  {
+    "id": "cui-split",
+    "references": [
+      {
+        "source_id": "nara2016",
+        "locator": "81 FR 63330\u201363331, responses; \u00a7\u00a72002.4(hh), 2002.14(h); effective November 14, 2016"
+      },
+      {
+        "source_id": "cui2025",
+        "locator": "32 CFR 2002.4(hh), 2002.14(h)"
+      }
+    ]
+  },
+  {
+    "id": "dhs-dispute",
+    "references": [
+      {
+        "source_id": "rand2017",
+        "locator": "Comments 1\u20134, pp. 3\u20139"
+      },
+      {
+        "source_id": "dhs2023",
+        "locator": "88 FR 40563\u201340565; \u00a7II.B.7, Definitions, 40571; basic clause and Alternate I; effective July 21, 2023"
+      }
+    ]
+  },
+  {
+    "id": "nist-boundaries",
+    "references": [
+      {
+        "source_id": "sp800372",
+        "locator": "\u00a72.5; Appendix G"
+      },
+      {
+        "source_id": "sp800471",
+        "locator": "\u00a7\u00a71\u20133"
+      },
+      {
+        "source_id": "sp8001713",
+        "locator": "\u00a71.1"
+      },
+      {
+        "source_id": "sp800182",
+        "locator": "\u00a73.2"
+      }
+    ]
+  },
+  {
+    "id": "fedramp-scope",
+    "references": [
+      {
+        "source_id": "fedramp-act",
+        "locator": "\u00a75921"
+      },
+      {
+        "source_id": "usc3614",
+        "locator": "44 USC 3614(1)(A)"
+      },
+      {
+        "source_id": "m-24-15",
+        "locator": "\u00a7III"
+      },
+      {
+        "source_id": "scope2026",
+        "locator": "Agency Use Case Indicators; Single Agency Systems"
+      }
+    ]
+  },
+  {
+    "id": "boundary-information",
+    "references": [
+      {
+        "source_id": "a130-2016",
+        "locator": "\u00a710(22); Appendix I \u00a73"
+      },
+      {
+        "source_id": "cui2025",
+        "locator": "32 CFR 2002.4(h), (nn)"
+      },
+      {
+        "source_id": "fips199",
+        "locator": "\u00a73"
+      }
+    ]
+  },
+  {
+    "id": "boundary-system",
+    "references": [
+      {
+        "source_id": "usc3554",
+        "locator": "44 USC 3554(a)\u2013(b)"
+      },
+      {
+        "source_id": "cui2025",
+        "locator": "32 CFR 2002.14(h)(1)"
+      }
+    ]
+  },
+  {
+    "id": "boundary-authorization",
+    "references": [
+      {
+        "source_id": "sp800372",
+        "locator": "\u00a7\u00a72.3\u20132.5; Appendix G"
+      },
+      {
+        "source_id": "sp800182",
+        "locator": "\u00a73.2"
+      }
+    ]
+  },
+  {
+    "id": "boundary-implementation",
+    "references": [
+      {
+        "source_id": "sp800535",
+        "locator": "SA-9, External System Services; CA-3, Information Exchange; AC-20, Use of External Systems"
+      },
+      {
+        "source_id": "sp800182",
+        "locator": "\u00a73.2, Control Implementation Details"
+      }
+    ]
+  },
+  {
+    "id": "boundary-enterprise",
+    "references": [
+      {
+        "source_id": "sp800372",
+        "locator": "Appendix G"
+      },
+      {
+        "source_id": "sp800535",
+        "locator": "SA-9; SC-7, Boundary Protection"
+      },
+      {
+        "source_id": "sp8001713",
+        "locator": "\u00a71.1, component scope and separate security domains"
+      }
+    ]
+  },
+  {
+    "id": "flow-1",
+    "references": [
+      {
+        "source_id": "usc3506",
+        "locator": "44 USC 3506(c)"
+      },
+      {
+        "source_id": "usc552a",
+        "locator": "5 USC 552a(e), (m)"
+      },
+      {
+        "source_id": "a130-2016",
+        "locator": "\u00a75; Appendix II"
+      }
+    ]
+  },
+  {
+    "id": "flow-2",
+    "references": [
+      {
+        "source_id": "usc3554",
+        "locator": "44 USC 3554(a)\u2013(b)"
+      },
+      {
+        "source_id": "sp800535",
+        "locator": "SA-9; SC-28, Protection of Information at Rest"
+      },
+      {
+        "source_id": "sp800182",
+        "locator": "\u00a73.2"
+      }
+    ]
+  },
+  {
+    "id": "flow-3",
+    "references": [
+      {
+        "source_id": "sp800471",
+        "locator": "\u00a7\u00a72\u20133"
+      },
+      {
+        "source_id": "sp800535",
+        "locator": "CA-3; SC-7; SC-8, Transmission Confidentiality and Integrity"
+      },
+      {
+        "source_id": "sp800372",
+        "locator": "\u00a72.4; Appendix G"
+      }
+    ]
+  },
+  {
+    "id": "flow-4",
+    "references": [
+      {
+        "source_id": "usc552a",
+        "locator": "5 USC 552a(b)"
+      },
+      {
+        "source_id": "cui2025",
+        "locator": "32 CFR 2002.16, 2002.18"
+      },
+      {
+        "source_id": "fips199",
+        "locator": "\u00a73"
+      }
+    ]
+  },
+  {
+    "id": "flow-5",
+    "references": [
+      {
+        "source_id": "records2024",
+        "locator": "44 USC 3301"
+      },
+      {
+        "source_id": "records-cloud",
+        "locator": "NARA Bulletin 2010-05, questions 6\u20138"
+      },
+      {
+        "source_id": "foia2024",
+        "locator": "5 USC 552(f)(2)(B)"
+      }
+    ]
+  },
+  {
+    "id": "flow-6",
+    "references": [
+      {
+        "source_id": "records-cloud",
+        "locator": "Questions 6\u20138"
+      },
+      {
+        "source_id": "sp800182",
+        "locator": "\u00a73.2, System Operational Status; SP 800-37 Task M-7"
+      },
+      {
+        "source_id": "cui2025",
+        "locator": "32 CFR 2002.14(f)"
+      }
+    ]
+  },
+  {
+    "id": "example-figma",
+    "references": [
+      {
+        "source_id": "usc3554",
+        "locator": "44 USC 3554(a)(1)(A)"
+      },
+      {
+        "source_id": "cui2025",
+        "locator": "32 CFR 2002.14(h)"
+      },
+      {
+        "source_id": "m-24-15",
+        "locator": "\u00a7III"
+      },
+      {
+        "source_id": "scope2026",
+        "locator": "Social Media & Communications; Agency Use Case Indicators"
+      },
+      {
+        "source_id": "sp800372",
+        "locator": "Appendix G"
+      }
+    ]
+  },
+  {
+    "id": "example-aws",
+    "references": [
+      {
+        "source_id": "sp800145",
+        "locator": "\u00a72, IaaS definition"
+      },
+      {
+        "source_id": "sp800372",
+        "locator": "Appendix G, pp. 159\u2013161"
+      },
+      {
+        "source_id": "m-24-15",
+        "locator": "\u00a7III"
+      },
+      {
+        "source_id": "sp800182",
+        "locator": "\u00a73.2"
+      }
+    ]
+  },
+  {
+    "id": "example-contractor",
+    "references": [
+      {
+        "source_id": "usc3554",
+        "locator": "44 USC 3554(a)\u2013(b)"
+      },
+      {
+        "source_id": "a130-2016",
+        "locator": "Appendix I \u00a74(j)"
+      },
+      {
+        "source_id": "m-24-15",
+        "locator": "\u00a7III, exclusion 1"
+      },
+      {
+        "source_id": "scope2026",
+        "locator": "Single Agency Systems"
+      },
+      {
+        "source_id": "sp800372",
+        "locator": "Appendix G"
+      }
+    ]
+  },
+  {
+    "id": "example-incidental",
+    "references": [
+      {
+        "source_id": "cui2025",
+        "locator": "32 CFR 2002.14(h)(2)"
+      },
+      {
+        "source_id": "sp8001713",
+        "locator": "\u00a71.1"
+      },
+      {
+        "source_id": "far5220421",
+        "locator": "FAR 52.204-21(a)\u2013(c)"
+      }
+    ]
+  },
+  {
+    "id": "example-internet",
+    "references": [
+      {
+        "source_id": "usc3502",
+        "locator": "44 USC 3502(8)"
+      },
+      {
+        "source_id": "sp800372",
+        "locator": "\u00a7\u00a72.4\u20132.5; Appendix G"
+      },
+      {
+        "source_id": "sp800471",
+        "locator": "\u00a7\u00a72\u20133"
+      },
+      {
+        "source_id": "m-10-15",
+        "locator": "Question 38, printed pp. 14\u201315"
+      }
+    ]
+  },
+  {
+    "id": "nist-lineage",
+    "references": [
+      {
+        "source_id": "fips199",
+        "locator": "\u00a73"
+      },
+      {
+        "source_id": "fips200",
+        "locator": "\u00a7\u00a72\u20133"
+      },
+      {
+        "source_id": "sp800372",
+        "locator": "\u00a72.5, footnote 42; Appendix G, pp. 159\u2013161"
+      }
+    ]
+  },
+  {
+    "id": "nist-controls",
+    "references": [
+      {
+        "source_id": "sp800535",
+        "locator": "AC-20; CA-3; SA-9; SC-7; SC-8"
+      },
+      {
+        "source_id": "nist53status",
+        "locator": "Planning Note, August 27, 2025"
+      },
+      {
+        "source_id": "sp800182",
+        "locator": "\u00a73.2; References"
+      },
+      {
+        "source_id": "nist18status",
+        "locator": "Publication history, June 30, 2026"
+      }
+    ]
+  },
+  {
+    "id": "nist-nonfederal",
+    "references": [
+      {
+        "source_id": "sp8001713",
+        "locator": "\u00a71.1 and footnote 8; References"
+      },
+      {
+        "source_id": "nist171status",
+        "locator": "Publication history"
+      },
+      {
+        "source_id": "cui2025",
+        "locator": "32 CFR 2002.2; 2002.14(h)"
+      },
+      {
+        "source_id": "dhs2023",
+        "locator": "\u00a7II.B.7, 88 FR 40571"
+      }
+    ]
+  },
+  {
+    "id": "hypothesis-1",
+    "references": [
+      {
+        "source_id": "sp800372",
+        "locator": "\u00a72.5; Appendix G"
+      },
+      {
+        "source_id": "cui2025",
+        "locator": "32 CFR 2002.14(h)(1)"
+      }
+    ]
+  },
+  {
+    "id": "hypothesis-2",
+    "references": [
+      {
+        "source_id": "a130-1993",
+        "locator": "Appendix IV, Government Information"
+      },
+      {
+        "source_id": "sp8001713",
+        "locator": "\u00a71.1"
+      },
+      {
+        "source_id": "sp800372",
+        "locator": "Appendix G"
+      }
+    ]
+  },
+  {
+    "id": "hypothesis-3",
+    "references": [
+      {
+        "source_id": "usc3554",
+        "locator": "44 USC 3554(a)\u2013(b)"
+      },
+      {
+        "source_id": "fips200",
+        "locator": "\u00a7\u00a72\u20133"
+      },
+      {
+        "source_id": "m-24-15",
+        "locator": "\u00a7III"
+      }
+    ]
+  },
+  {
+    "id": "hypothesis-4",
+    "references": [
+      {
+        "source_id": "a130-2016",
+        "locator": "Appendix I \u00a74(j), \u00a75(r)"
+      },
+      {
+        "source_id": "sp800372",
+        "locator": "Appendix G"
+      }
+    ]
+  },
+  {
+    "id": "hypothesis-5",
+    "references": [
+      {
+        "source_id": "m-24-15",
+        "locator": "\u00a7III"
+      },
+      {
+        "source_id": "usc3554",
+        "locator": "44 USC 3554"
+      },
+      {
+        "source_id": "records-cloud",
+        "locator": "Questions 6\u20138"
+      }
+    ]
+  }
+]

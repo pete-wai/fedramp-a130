@@ -71,3 +71,20 @@ The law index now leads with 12 subject readings covering all 100 collected sect
 Verified with `pnpm test`, `scripts/editorial-check.py`, `scripts/reading-check.py`, the existing law browser suite, and `scripts/reading-browser-check.mjs`. Reading tests cover 1440, 768, 390, and 320px, subsection/section navigation, keyboard context expansion, inline source notes, no overflow, offline reading with and without JavaScript, and print styles. All 506 protected original files/source bodies remain unchanged; all 100 reading texts match their section pages. Visual self-review covered desktop and phone captures in `output/reading-*`. The design detector reported only a phrase in unchanged statutory text; it was preserved.
 
 Published feature commit `c4eacb1` through successful Pages run `38071557817`. All 12 reading pages, the index, CSS, and JavaScript matched tested local bytes; live 390px contents navigation and overflow checks passed. Evidence: `output/reading-live-check.json`.
+
+## On behalf of government — October 24, 2026 (local only)
+
+Completed implementation and separate self-review. No deployment was performed.
+
+- Normal build passed: 45 cited sources, 51 sourced discussions, five scenarios. Existing generated navigation links to the addition.
+- `pnpm test` passed, including new `behalf-check.mjs`: 451 protected source-file hashes, all 45 cited source hashes, 1,085 new local links/anchors, unique IDs, scenario presence, source locators, no remote runtime assets, and expanded print disclosures. Existing 178 records, 160 readers, and 219 law pages also pass.
+- `editorial-check.py` passed: all 506 protected original files/raw extracts/reader bodies unchanged. `law-check.py` passed for 100 sections, 240 sources, and 18,718 links.
+- `behalf-browser-check.mjs` passed at 1440, 768, 390, and 320px: no viewport overflow, scenario selection, browser Back, source and history filters/reset/empty states, deep-link visibility, keyboard disclosures, and no JavaScript exceptions. Computed typography checks passed (heading no larger than 70px; body line-height at least 1.5).
+- Offline file:// reading passed with JavaScript enabled and disabled. Skip-link keyboard behavior, 200% text size, complete print content, and the repository URL prefix passed.
+- Existing history-report and law-explorer browser regression suites passed. Installed Chrome was used; no new browser/runtime dependency was added.
+- Desktop/mobile screenshots were visually self-reviewed for the overview, wording comparison, and Figma scenario. Representative pages of the 48-page print edition were reviewed; the final print CSS uses a white root background. The print version expands all evidence and all five scenarios.
+- Source-page review confirmed NARA's outsourced/incidental text at 81 FR 63341 and DHS's definition response at 88 FR 40571. The report's DHS locator was corrected. Other source/editorial corrections and limits are recorded in `docs/on-behalf.md`.
+- One Impeccable detector pass produced 48 warnings, retained in `output/on-behalf/design-detector.json`. False numeric parses (4320px heading, 0.24 leading) were checked against computed browser styles. Arial is intentional for controls/metadata; Georgia is prose. Bibliographic separators and source titles account for repeated em dashes. No automated style changes were applied.
+- `git diff --check` reports trailing whitespace within the existing minified historical index line that was regenerated for navigation. It is existing source-title whitespace; source text was preserved rather than rewritten to silence the warning.
+
+Evidence: `output/on-behalf/static-check.json`, `browser-check.json`, responsive PNG captures, original-source page captures, and `report-print.pdf`. Authoring/research handoff: `docs/on-behalf.md`. Research gaps are visible in the report: incomplete 2015 comment docket, differing legal editions, incomplete later-law verification, and no actual vendor compliance review. The law snapshot and public-comment evidence must not be represented as exhaustive through October 24.

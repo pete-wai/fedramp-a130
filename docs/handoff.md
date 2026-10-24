@@ -46,3 +46,15 @@ The law index now leads with 12 subject readings covering all 100 collected sect
 Verified with `pnpm test`, `scripts/editorial-check.py`, `scripts/reading-check.py`, the existing law browser suite, and `scripts/reading-browser-check.mjs`. Reading tests cover 1440, 768, 390, and 320px, subsection/section navigation, keyboard context expansion, inline source notes, no overflow, offline reading with and without JavaScript, and print styles. All 506 protected original files/source bodies remain unchanged; all 100 reading texts match their section pages. Visual self-review covered desktop and phone captures in `output/reading-*`. The design detector reported only a phrase in unchanged statutory text; it was preserved.
 
 Published feature commit `c4eacb1` through successful Pages run `38071557817`. All 12 reading pages, the index, CSS, and JavaScript matched tested local bytes; live 390px contents navigation and overflow checks passed. Evidence: `output/reading-live-check.json`.
+
+## On behalf of government — October 24, 2026 (local only)
+
+Added `/on-behalf/index.html` to the existing site and shared navigation. Read `docs/on-behalf.md` before extending it. The report tests the tenant-only hypothesis, separates information lifecycle verbs from system operation, and traces laws, OMB policy, CUI rules, selected public comments, and NIST guidance. Five scenarios cover design SaaS, IaaS, contracted applications, incidental handling, and internet transit. There are 45 cited sources and 51 sourced discussions.
+
+Authoring: `scripts/behalf_content.py` and `scripts/behalf_build.py`; runtime assets in `site/on-behalf/`; provenance in `data/on-behalf/`. The normal build and `pnpm test` include this section. Preview with `mise exec -- pnpm preview` at http://127.0.0.1:4176/on-behalf/index.html . No dependency on a remembered process. Offline reading works through file://, with or without JavaScript.
+
+Static/provenance, browser, existing-site regression, and protected-source checks passed. Output base: `output/on-behalf/`; actual checks are recorded in validation.md. Source/editorial and visual review were self-review only. No publication or commit was performed for this addition.
+
+Unresolved: legal currency beyond the collected editions is not fully verified (OLRC through September 30; added 2024 Code provisions; 2025 CUI CFR). Complete 2015 comment docket was not recovered. NIST publication status and FedRAMP program guidance were checked October 24. Named vendors remain assumed examples, not compliance findings.
+
+Publication authorized October 24, 2026. The report is being delivered to the existing `pete-wai/fedramp-a130` repository and Pages site; deployment verification follows below.
