@@ -110,3 +110,7 @@ Replaced the on-behalf narrative with “Federal information in private services
 Research checks: official NIST publication pages confirmed the cited revisions. The official current OLRC endpoint returned an error; current-law consolidation beyond the preserved editions is not claimed. The existing incomplete 2015 comment-docket limitation remains visible. This was source/editorial and visual self-review, not independent legal review.
 
 Publication was explicitly requested. The following deployment entry records the actual delivered commit and live checks.
+
+## Revised report published and verified — October 24, 2026
+
+Published commit `63a6a3f8a6165b760922099e86d386d2c442986c` through successful Pages workflow [40097651531](https://github.com/pete-wai/fedramp-a130/actions/runs/40097651531). Live replacement: https://pete-wai.github.io/fedramp-a130/on-behalf/index.html . Twelve live files—including both editions, CSS/JS, source/claim/quotation exports, navigation entry points, and two original PDFs—matched local hashes. Live desktop and phone checks verified the new title, all 40 visible quotations, no overflow, scenario selection, public-comment filtering, and source deep links. Evidence: `output/on-behalf/live-check.json`. The earlier on-behalf report has been replaced at its existing URL.

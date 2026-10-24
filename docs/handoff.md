@@ -70,3 +70,7 @@ Replaced `/on-behalf/` with “Federal information in private services.” It fo
 Read `docs/on-behalf.md` for current authoring and limits. Main analysis is in `scripts/behalf_analysis.py`; quotations in `data/on-behalf/quotations.json`. Build and static checks passed; quotation checking and existing-source protection passed; report and law-browser regressions passed. Responsive/keyboard/offline/print checks passed. Self-review only; no independent legal review. Publication is authorized; the deployment verification below records the delivered revision.
 
 Preview: `mise exec -- pnpm preview` → http://127.0.0.1:4176/on-behalf/index.html . Evidence base: `output/on-behalf/`. The legal currency and incomplete-comment-docket limits remain explicit. No primary source bytes were changed.
+
+## Revised report published and verified — October 24, 2026
+
+Published commit `63a6a3f8a6165b760922099e86d386d2c442986c` through successful Pages workflow [40097651531](https://github.com/pete-wai/fedramp-a130/actions/runs/40097651531). Live replacement: https://pete-wai.github.io/fedramp-a130/on-behalf/index.html . Twelve live files—including both editions, CSS/JS, source/claim/quotation exports, navigation entry points, and two original PDFs—matched local hashes. Live desktop and phone checks verified the new title, all 40 visible quotations, no overflow, scenario selection, public-comment filtering, and source deep links. Evidence: `output/on-behalf/live-check.json`. The earlier on-behalf report has been replaced at its existing URL.
