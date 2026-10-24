@@ -58,3 +58,7 @@ Static/provenance, browser, existing-site regression, and protected-source check
 Unresolved: legal currency beyond the collected editions is not fully verified (OLRC through September 30; added 2024 Code provisions; 2025 CUI CFR). Complete 2015 comment docket was not recovered. NIST publication status and FedRAMP program guidance were checked October 24. Named vendors remain assumed examples, not compliance findings.
 
 Publication authorized October 24, 2026. The report is being delivered to the existing `pete-wai/fedramp-a130` repository and Pages site; deployment verification follows below.
+
+## Publication verified — October 24, 2026
+
+Published report commit `eb2eaf0e71d87407e9e30b1a6a6340d422ebd72d` through successful Pages workflow [40095459639](https://github.com/pete-wai/fedramp-a130/actions/runs/40095459639). Live report: https://pete-wai.github.io/fedramp-a130/on-behalf/index.html . Eleven live files, including HTML, assets, evidence manifests, and two source PDFs, matched tested local hashes. Live desktop (1440px) and phone (390px) checks passed for overflow, scenario selection, public-comment filtering, and source deep links. Evidence: `output/on-behalf/live-check.json`; repeat with `mise exec -- node scripts/behalf-live-check.mjs`. This supersedes the earlier local-only delivery status.

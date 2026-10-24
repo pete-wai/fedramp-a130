@@ -88,3 +88,7 @@ Completed implementation and separate self-review. No deployment was performed.
 - `git diff --check` reports trailing whitespace within the existing minified historical index line that was regenerated for navigation. It is existing source-title whitespace; source text was preserved rather than rewritten to silence the warning.
 
 Evidence: `output/on-behalf/static-check.json`, `browser-check.json`, responsive PNG captures, original-source page captures, and `report-print.pdf`. Authoring/research handoff: `docs/on-behalf.md`. Research gaps are visible in the report: incomplete 2015 comment docket, differing legal editions, incomplete later-law verification, and no actual vendor compliance review. The law snapshot and public-comment evidence must not be represented as exhaustive through October 24.
+
+## Publication verified — October 24, 2026
+
+Published report commit `eb2eaf0e71d87407e9e30b1a6a6340d422ebd72d` through successful Pages workflow [40095459639](https://github.com/pete-wai/fedramp-a130/actions/runs/40095459639). Live report: https://pete-wai.github.io/fedramp-a130/on-behalf/index.html . Eleven live files, including HTML, assets, evidence manifests, and two source PDFs, matched tested local hashes. Live desktop (1440px) and phone (390px) checks passed for overflow, scenario selection, public-comment filtering, and source deep links. Evidence: `output/on-behalf/live-check.json`; repeat with `mise exec -- node scripts/behalf-live-check.mjs`. This supersedes the earlier local-only delivery status.
