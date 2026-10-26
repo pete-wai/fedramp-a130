@@ -126,3 +126,7 @@ Published commit `63a6a3f8a6165b760922099e86d386d2c442986c` through successful P
 - Visual self-review covered desktop and phone report/quote layouts. Selected original-page images checked the Commerce statutory mandate, A-130 §4(j), and current SP 800-171 scope/footnotes. Source self-review corrected statutory section numbers and two printed-page locators and expanded the 2004 OMB guidance excerpt to retain its qualifications.
 - One design-detector run: two findings, responsive h1 falsely reported as 4800px (computed browser checks <=70px), and preserved Arial metadata/controls. See `output/on-behalf/history-design-detect.txt`. No repeated detector loop.
 - No external review or independent legal opinion. Publication verification follows after deployment.
+
+### Live delivery verification — October 25, 2026
+
+Feature commit `11b8379605ce4156a9e77f3019704ad3aeca7ad6`; Pages run [40258348027](https://github.com/pete-wai/fedramp-a130/actions/runs/40258348027) completed successfully. `scripts/behalf-live-check.mjs` passed: 19 live files matched tested local bytes, and 1440/390px interactions verified the 80 quotations, 41 milestones, new title, no overflow, authority filtering, hidden citation-target reveal, and new source link. Recorded in `output/on-behalf/history-live-check.json`. Workflow warnings concerned action runtime deprecations and the hosted Ubuntu image migration; deployment and checks succeeded. No unrelated workflow upgrade was made.
