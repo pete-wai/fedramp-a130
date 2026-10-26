@@ -1,0 +1,27 @@
+{
+  "checked": "2026-10-26T12:19:24.344Z",
+  "base": "https://pete-wai.github.io/fedramp-a130/proposed-fedramp-use/",
+  "matchedFiles": [
+    "index.html",
+    "on-behalf/index.html",
+    "on-behalf/print.html",
+    "proposed-fedramp-use/index.html",
+    "proposed-fedramp-use/report.css",
+    "proposed-fedramp-use/workbook.js",
+    "proposed-fedramp-use/quotations.json",
+    "proposed-fedramp-use/sources.json",
+    "proposed-fedramp-use/fields.json",
+    "proposed-fedramp-use/sources/fed-use.html",
+    "proposed-fedramp-use/sources/fed-initial.html",
+    "proposed-fedramp-use/sources/fed-ongoing.html",
+    "proposed-fedramp-use/sources/fed-rules.html",
+    "proposed-fedramp-use/sources/fed-scope.html"
+  ],
+  "browserWidths": [
+    1440,
+    390
+  ],
+  "quotes": 41,
+  "fields": 18,
+  "passed": true
+}

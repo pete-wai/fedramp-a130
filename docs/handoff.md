@@ -96,3 +96,5 @@ New `/proposed-fedramp-use/` report and workbook, requested by the user with exp
 Buildless and offline-readable; default session-only answers, opt-in local storage, JSON import/export, Markdown export, and full-answer print. No network submission. Authoring/research/review detail in `docs/proposed-fedramp-use.md`. Preview: `mise exec -- pnpm preview`, then `http://127.0.0.1:4176/proposed-fedramp-use/`. Do not rely on a prior server PID.
 
 Completed: full build, all static tests, 41 quote checks, nine current-Code clauses, 506 protected file/body checks, desktop/phone/tablet/320px, keyboard, 200% text, offline/no-JS, export/import/storage and print. Actual evidence under `output/proposed-fedramp-use/`; report print 31 pages, workbook seven pages with test answers. Separate self-review completed; not independent review. Publication pending at this entry.
+
+Publication completed: feature commit `bb9dd2f`, successful Pages run `40321471109`. Live `/proposed-fedramp-use/` checked at 1440/390px; 14 deployed hashes match. See `output/proposed-fedramp-use/live-check.json`. The follow-up commit records evidence only and skips CI.

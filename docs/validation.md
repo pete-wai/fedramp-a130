@@ -138,3 +138,5 @@ Feature commit `11b8379605ce4156a9e77f3019704ad3aeca7ad6`; Pages run [4025834802
 - `output/proposed-fedramp-use/browser-check.json`: 1440/768/390/320px; no overflow/errors; keyboard; 200% text; public prefix; offline `file://` with/without JS; view switching; opt-in saving; JSON import/export; Markdown; invalid imports preserve answers; unavailable storage fallback; clear; long-answer print.
 - PDF print outputs contain the end of the long test answer: 31-page report and seven-page workbook. Representative PDF pages and desktop/phone screenshots visually inspected. The site itself remains HTML-native; test PDFs are validation artifacts.
 - Self-review completed. Detector warnings (border accents/Arial) are retained intentionally and documented in the surface notes. No independent legal, physical-device, or screen-reader testing claimed.
+
+Live publication passed October 26, 2026: Pages run `40321471109`, feature commit `bb9dd2f`. Fourteen live file hashes match local release files; desktop and phone report/workbook behavior passes; linked historical report retains 80 quotes. Evidence: `output/proposed-fedramp-use/live-check.json`.

@@ -49,3 +49,9 @@ Completed in the current chat, without subagents or independent legal review. Th
 - Initial checks caught a duplicate section ID and two test timing/expectation issues (asynchronous import and deliberately unchecked unavailable storage). Fixed; the passing browser result is the final evidence.
 
 Limitations: browser emulation rather than a physical phone or screen-reader session; no independent legal opinion; no blanket assertion of current law beyond the disclosed Code snapshot. The workbook is not an official FedRAMP submission tool or signed authorization. Publication verification will be appended after deployment.
+
+### Publication verified
+
+Published feature commit `bb9dd2f6b116107f2559aabda27ae733d171f247` to `main`. GitHub Pages run [40321471109](https://github.com/pete-wai/fedramp-a130/actions/runs/40321471109) succeeded October 26, 2026. Live page: https://pete-wai.github.io/fedramp-a130/proposed-fedramp-use/.
+
+`output/proposed-fedramp-use/live-check.json` verifies 14 deployed file hashes, 41 quotes, 18 fields, live workbook switching and retained answers, desktop/phone layout, and the old history page's new link with all 80 historical quotations preserved. The workflow emitted existing action-runtime/runner migration notices; deployment and validation succeeded. No site edits in the follow-up documentation commit.
