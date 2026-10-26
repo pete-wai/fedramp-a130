@@ -71,17 +71,17 @@
   },
   {
     "id": "agreements",
-    "label": "Agreements and protections",
+    "label": "Agreements and control references",
     "step": 5,
-    "title": "Set agreements and prepare the use decision",
-    "hint": "Contract/agreement reference → requirement → responsible party → evidence/remedy. Include incidents, exchanges, retention, deletion, portability, and termination."
+    "title": "Perform and sign a Cloud Service Authorization",
+    "hint": "Contract/agreement reference → requirement → responsible party → evidence/remedy. Map the CSA identifier and version to SA-9, SA-4, CA-3, and other applicable agency-system control entries."
   },
   {
     "id": "draft-decision",
-    "label": "Draft service-use decision",
+    "label": "CSA decision and signed record",
     "step": 5,
-    "title": "Set agreements and prepare the use decision",
-    "hint": "Purpose/data, permitted configuration, dependencies, conditions, residual risks, owner, review triggers, and relationship to the agency ATO/ATU. Mark as draft until signed by the authorized official."
+    "title": "Perform and sign a Cloud Service Authorization",
+    "hint": "Status (draft, approved, denied, or deferred); CSA ID/version; FedRAMP CSA procedure/version; agency system ID; service and approved information/use; requirements, responsibilities, evidence, residual risk, conditions and monitoring; signing official/authority, signature/date and signed-record location; linked system ATO. This worksheet does not sign the CSA."
   },
   {
     "id": "implementation",
@@ -99,17 +99,17 @@
   },
   {
     "id": "decision",
-    "label": "Decision and authority",
+    "label": "Agency system ATO and CSA references",
     "step": 7,
-    "title": "Make the agency authorization decision before use",
-    "hint": "System/package ID, ATO or approved ATU basis, official, decision/date, approved information/use/configuration, conditions, review/expiration triggers, and signed-record location. Record denial or deferral when relevant."
+    "title": "Authorize the agency information system under FISMA",
+    "hint": "System/package ID; ATO official, decision/date and signed-record location; approved scope, information, configuration, residual risk and conditions; linked CSA IDs/versions and SA-9/SA-4/other control references; review triggers. Record denial, deferral, or the treatment of a change to an existing ATO."
   },
   {
     "id": "notification",
-    "label": "FedRAMP notification",
+    "label": "ATO submission and proposed CSA reporting",
     "step": 7,
-    "title": "Make the agency authorization decision before use",
-    "hint": "Date, submission/reference, letter and supplemental information supplied, or explanation of why not applicable. Record any unresolved ATO/ATU procedural question."
+    "title": "Authorize the agency information system under FISMA",
+    "hint": "Date/reference and agency ATO letter/supplementary information supplied to FedRAMP, or why not applicable. Separately identify any CSA reporting that the new procedure would require; do not assume it replaces the ATO submission."
   },
   {
     "id": "monitoring",

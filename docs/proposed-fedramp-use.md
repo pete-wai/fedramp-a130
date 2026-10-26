@@ -55,3 +55,11 @@ Limitations: browser emulation rather than a physical phone or screen-reader ses
 Published feature commit `bb9dd2f6b116107f2559aabda27ae733d171f247` to `main`. GitHub Pages run [40321471109](https://github.com/pete-wai/fedramp-a130/actions/runs/40321471109) succeeded October 26, 2026. Live page: https://pete-wai.github.io/fedramp-a130/proposed-fedramp-use/.
 
 `output/proposed-fedramp-use/live-check.json` verifies 14 deployed file hashes, 41 quotes, 18 fields, live workbook switching and retained answers, desktop/phone layout, and the old history page's new link with all 80 historical quotations preserved. The workflow emitted existing action-runtime/runner migration notices; deployment and validation succeeded. No site edits in the follow-up documentation commit.
+
+### Clarification: a distinct signed CSA — October 26, 2026
+
+The user clarified that proposal step 4 establishes a new FedRAMP-specific agency Cloud Service Authorization process. Revised the premise, six-step review, workbook CSA step, system authorization step, decision records, and monitoring text accordingly. A CSA is now a distinct signed agency authorization with its own procedure, scope, requirements, conditions, and evidence. It is referenced by identifier/version from SA-9, SA-4, and other applicable system controls. The agency system ATO remains a separate FISMA decision that relies on the CSAs and the rest of the system assessment.
+
+This supersedes the earlier editorial framing of a CSA as a possible annex or ATO/ATU record. The proposal is not a claim that current sources already establish that new procedure. Concerns now focus on defining the CSA's signing authority, decision criteria, lifecycle, reporting, and relationship to the system ATO while preserving reuse and FISMA duties. New systems and changes within existing ATO lifecycles are both addressed.
+
+All 41 quotations and source files remain unchanged. The 18 field identifiers and JSON schema remain stable for saved-answer compatibility; labels and prompts now call for the CSA signature record and separate system ATO references. No browser behavior or styling changes.

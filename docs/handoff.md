@@ -98,3 +98,7 @@ Buildless and offline-readable; default session-only answers, opt-in local stora
 Completed: full build, all static tests, 41 quote checks, nine current-Code clauses, 506 protected file/body checks, desktop/phone/tablet/320px, keyboard, 200% text, offline/no-JS, export/import/storage and print. Actual evidence under `output/proposed-fedramp-use/`; report print 31 pages, workbook seven pages with test answers. Separate self-review completed; not independent review. Publication pending at this entry.
 
 Publication completed: feature commit `bb9dd2f`, successful Pages run `40321471109`. Live `/proposed-fedramp-use/` checked at 1440/390px; 14 deployed hashes match. See `output/proposed-fedramp-use/live-check.json`. The follow-up commit records evidence only and skips CI.
+
+### CSA clarification — October 26, 2026
+
+User clarified proposal step 4: a distinct signed agency CSA under a new FedRAMP-specific process, separate from the federal information system ATO. Updated report and workbook throughout. Signed CSA references are required by the proposal in SA-9, SA-4, and other applicable control records; the ATO considers the system as a whole and incorporates the CSA evidence. Earlier annex/ATO-or-ATU framing is superseded. Existing-source quotations are unchanged and current procedure vs proposed procedure remains explicit. Saved-answer field identifiers remain compatible.

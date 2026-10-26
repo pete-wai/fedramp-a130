@@ -18,7 +18,7 @@ try{
  await p.locator('#field-mission').fill(demo);assert.equal(await p.evaluate(()=>localStorage.length),0);
  await p.locator('#save-local').check();await p.reload();assert.equal(await p.locator('#field-mission').inputValue(),demo);
  let download= p.waitForEvent('download');await p.locator('#export-json').click();const jsonDownload=await download;const exported=JSON.parse(fs.readFileSync(await jsonDownload.path(),'utf8'));assert.equal(exported.answers.mission,demo);assert.equal(Object.keys(exported.answers).length,18);
- download=p.waitForEvent('download');await p.locator('#export-md').click();const md=fs.readFileSync(await (await download).path(),'utf8');assert(md.includes(demo));assert(md.includes('## Make the agency authorization decision before use'));
+ download=p.waitForEvent('download');await p.locator('#export-md').click();const md=fs.readFileSync(await (await download).path(),'utf8');assert(md.includes(demo));assert(md.includes('## Authorize the agency information system under FISMA'));
  await p.locator('#save-local').uncheck();assert.equal(await p.evaluate(()=>localStorage.length),0);await p.reload();assert.equal(await p.locator('#field-mission').inputValue(),'');
  await p.locator('#import-json').setInputFiles({name:'answers.json',mimeType:'application/json',buffer:Buffer.from(JSON.stringify(exported))});await p.waitForFunction(()=>document.querySelector('#workbook-status').textContent.includes('Answers imported'));assert.equal(await p.locator('#field-mission').inputValue(),demo);assert.equal(await p.locator('#save-local').isChecked(),false);
  for(const invalid of ['{oops',JSON.stringify({...exported,version:99}),JSON.stringify({...exported,answers:{mission:'replace?',unknown:'bad'}})]){

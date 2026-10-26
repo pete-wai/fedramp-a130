@@ -140,3 +140,7 @@ Feature commit `11b8379605ce4156a9e77f3019704ad3aeca7ad6`; Pages run [4025834802
 - Self-review completed. Detector warnings (border accents/Arial) are retained intentionally and documented in the surface notes. No independent legal, physical-device, or screen-reader testing claimed.
 
 Live publication passed October 26, 2026: Pages run `40321471109`, feature commit `bb9dd2f`. Fourteen live file hashes match local release files; desktop and phone report/workbook behavior passes; linked historical report retains 80 quotes. Evidence: `output/proposed-fedramp-use/live-check.json`.
+
+## Distinct CSA clarification — October 26, 2026
+
+Rebuilt the updated proposal and passed all static site tests, 41 primary-source quotation checks, and the existing complete workbook browser suite (1440/768/390/320px, keyboard, 200% text, offline JS on/off, saving, JSON/Markdown export, invalid-import preservation, and printing). Updated the Markdown export assertion for the revised system-ATO heading. The CSA step and signature-record prompts were visually inspected at phone/desktop sizes. No style or runtime behavior changes; the field schema and original quotations are unchanged. See `output/proposed-fedramp-use/csa-*.png` and `browser-check.json`. Publication verification follows below.
