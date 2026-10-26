@@ -9,7 +9,7 @@ def norm(t):
     t=re.sub(r'(?<=\w)-\s*\n\s*(?=\w)','',t)
     t=re.sub(r'\s+([,.;:])',r'\1',t)
     return re.sub(r'\s+',' ',t).strip()
-quotes=json.loads((R/'data/on-behalf/quotations.json').read_text())
+quotes=json.loads((R/'data/on-behalf/history-quotations.json').read_text())
 assert len({q['id'] for q in quotes})==len(quotes)
 pages={}
 for q in quotes:
@@ -26,9 +26,13 @@ for name in ['index.html','print.html']:
     for q in quotes:assert norm(q['text']) in rendered,(name,q['id'])
     ids={x['id'] for x in soup.select('[id]')}
     assert set(json.loads((R/'data/on-behalf/prior-anchors.json').read_text()))<=ids
+# Check unchanged wording claims against separately preserved editions.
+by={q['id']:q for q in quotes}
+for a,b in [('f02-dual','f14-dual'),('sa9-2006','sa9-2007'),('rmf10-external','rmf14-external')]:
+    assert norm(by[a]['text'])==norm(by[b]['text']),(a,b)
 current=norm(BeautifulSoup((R/'site/law/44-3554.html').read_text(),'html.parser').get_text(' '))
-for id in ['law-info','law-system']:
-    assert norm(next(q['text'] for q in quotes if q['id']==id)) in current,id
-out={'passed':True,'originalMatchedQuotes':len(quotes),'visibleInBothEditions':True,'priorAnchorsPreserved':True,'twoFismaClausesMatchCollectedCurrentCode':True,'normalization':'Whitespace, punctuation spacing, and line-end hyphenation; compound agency-/non-/organization- preserved.'}
+for clause in ['information collected or maintained by or on behalf of the agency;', 'information systems used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency;']:
+    assert clause in current,clause
+out={'passed':True,'originalMatchedQuotes':len(quotes),'visibleInBothEditions':True,'priorAnchorsPreserved':True,'continuityComparisons':3,'twoFismaClausesMatchCollectedCurrentCode':True,'normalization':'Whitespace, punctuation spacing, and line-end hyphenation; compound agency-/non-/organization- preserved.'}
 (R/'output/on-behalf/quotation-check.json').write_text(json.dumps(out,indent=2)+'\n')
 print(json.dumps(out))

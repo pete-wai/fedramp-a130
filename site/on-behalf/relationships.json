@@ -1,0 +1,80 @@
+[
+  {
+    "relationship": "PRA \u2192 A-130",
+    "type": "implements",
+    "explanation": "OMB says it issued A-130 to fulfill the PRA responsibilities.",
+    "quote_id": "a93-authority"
+  },
+  {
+    "relationship": "FISMA \u2192 NIST / Commerce",
+    "type": "requires",
+    "explanation": "Congress assigns standards work and directs submission to Commerce.",
+    "quote_id": "f02-deliver"
+  },
+  {
+    "relationship": "FISMA \u2192 FIPS 199",
+    "type": "implements",
+    "explanation": "FIPS 199 identifies the first statutory task it addresses.",
+    "quote_id": "f199-origin"
+  },
+  {
+    "relationship": "FISMA \u2192 SP 800-60",
+    "type": "implements",
+    "explanation": "The mapping guide identifies the second task.",
+    "quote_id": "types04"
+  },
+  {
+    "relationship": "FIPS 200 \u2192 SP 800-53",
+    "type": "incorporates",
+    "explanation": "The standard requires selection using the control catalog.",
+    "quote_id": "f200-select"
+  },
+  {
+    "relationship": "A-130 \u2192 SP 800-37",
+    "type": "implements",
+    "explanation": "NIST attributes the authorization requirement to A-130.",
+    "quote_id": "rmf04-authorization"
+  },
+  {
+    "relationship": "SP 800-53 \u2192 SP 800-37",
+    "type": "cites",
+    "explanation": "The 2010 RMF cites the catalog\u2019s external-environment appendix.",
+    "quote_id": "rmf10-external"
+  },
+  {
+    "relationship": "CUI rule \u2192 SP 800-171",
+    "type": "incorporates",
+    "explanation": "The rule directs use of 800-171 for qualifying nonfederal CUI confidentiality.",
+    "quote_id": "cui16-nonfederal"
+  },
+  {
+    "relationship": "SP 800-53 \u2192 SP 800-171",
+    "type": "derived from",
+    "explanation": "NIST describes tailoring requirements from the federal standards and guidelines.",
+    "quote_id": "cui15-tailor"
+  },
+  {
+    "relationship": "FedRAMP Act \u2192 A-130 definitions",
+    "type": "incorporates",
+    "explanation": "Congress imports two definitions from the circular.",
+    "quote_id": "act22-definitions"
+  },
+  {
+    "relationship": "FedRAMP Act \u2192 OMB scope policy",
+    "type": "requires",
+    "explanation": "Congress directs OMB to specify program scope.",
+    "quote_id": "act22-omb"
+  },
+  {
+    "relationship": "A-130 \u2192 SP 800-18 Revision 2",
+    "type": "implements",
+    "explanation": "The planning guide identifies A-130\u2019s system-plan requirement.",
+    "quote_id": "plans26-origin"
+  },
+  {
+    "relationship": "Records guidance \u2194 cloud security",
+    "type": "related context",
+    "explanation": "Records duties coexist with security duties; this is not a claimed chain of authority.",
+    "quote_id": "records10"
+  }
+]

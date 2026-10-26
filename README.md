@@ -17,9 +17,9 @@ The report includes six approximately 300-word revision summaries, an aligned ch
 
 The law collection uses OLRC release 119-118, through September 30, 2026, retrieved October 10. It has a separate source manifest with 240 preserved files. Comparisons show collected editions rather than every intervening effective date. See [authoring, update procedures, and coverage boundaries](docs/law-explorer.md).
 
-## Federal information in private services
+## Information and systems: the legal and policy history
 
-[The report](https://pete-wai.github.io/fedramp-a130/on-behalf/index.html) compares agency responsibilities for federal systems and information handled by private services. It includes 40 directly attributed quotations, a scoped requirements comparison, agency/provider roles, five examples, searchable evidence, and a complete print edition. Ordinary federal information comes first; CUI, contract information, privacy, and records have separate triggers. Research checked October 24, 2026; legal editions vary. See [coverage, authoring, and research limits](docs/on-behalf.md).
+[Read the report](https://pete-wai.github.io/fedramp-a130/on-behalf/index.html). A chronological history from 2000–2026, with PRA and Computer Security Act foundations, 41 milestones, and 80 directly attributed quotations. It traces agency information and system duties through FISMA, A-130, FIPS, and NIST; shows explicit authority relationships; compares current responsibilities; and preserves original sources and edition limits. Responsive, searchable, offline-readable, and printable. Research checked October 25, 2026. See [coverage, authoring, and research limits](docs/on-behalf.md).
 
 ## Sources and coverage
 

@@ -6,7 +6,8 @@ const base=path.resolve('site/on-behalf');
 const hash=bytes=>crypto.createHash('sha256').update(bytes).digest('hex');
 const evidence=JSON.parse(fs.readFileSync(path.join(base,'evidence.json')));
 const quotes=JSON.parse(fs.readFileSync(path.join(base,'quotations.json')));
-assert.equal(quotes.length,40);
+assert.equal(quotes.length,80);
+assert.equal(JSON.parse(fs.readFileSync(path.join(base,'relationships.json'))).length,13);
 const claims=JSON.parse(fs.readFileSync(path.join(base,'claims.json')));
 const sources=new Map(evidence.sources.map(r=>[r.id,r]));
 const original=JSON.parse(fs.readFileSync('data/on-behalf/protected-baseline.json'));
@@ -17,7 +18,11 @@ for(const file of ['index.html','print.html']){
  const full=path.join(base,file),html=fs.readFileSync(full,'utf8');
  const ids=[...html.matchAll(/\bid="([^"]+)"/g)].map(m=>m[1]);
  assert.equal(ids.length,new Set(ids).size,'duplicate ID');
- assert.equal((html.match(/class="scenario"/g)||[]).length,5);
+ assert.equal((html.match(/class="scenario"/g)||[]).length,0);
+ assert.equal((html.match(/class="milestone /g)||[]).length,41);
+ assert(!html.includes('<select id="scenario-select"'));
+ assert(!html.includes('Figma'));
+ assert(!html.includes('Amazon Web Services'));
  assert.equal((html.match(/class="quotation"/g)||[]).length,quotes.length);
  for(const q of quotes){assert(q.uses>0,q.id);assert(sources.has(q.source_id),q.id);}
  assert(!/<(?:script|link)[^>]+(?:src|href)="https?:/.test(html),'network dependency');

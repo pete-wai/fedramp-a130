@@ -1,0 +1,872 @@
+[
+  {
+    "id": "pra-omb",
+    "source_id": "pra1980",
+    "source_file": "site/sources/pra1980.pdf",
+    "pages": [
+      5
+    ],
+    "text": "developing and implementing policies, principles, standards, and guidelines on information disclosure and confidentiality, and on safeguarding the security of information collected or maintained by or on behalf of agencies;",
+    "locator": "§2, former 44 USC 3504(f)(1); 94 Stat. 2816",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "csa-definition",
+    "source_id": "csa",
+    "source_file": "site/sources/csa.pdf",
+    "pages": [
+      3
+    ],
+    "text": "means a computer system operated by a Federal agency or by a contractor of a Federal agency or other organization that processes information (using a computer system) on behalf of the Federal Government to accomplish a Federal function;",
+    "locator": "§3, NBS Act §20(d)(2)(A); 101 Stat. 1726",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "csa-standards",
+    "source_id": "csa",
+    "source_file": "site/sources/csa.pdf",
+    "pages": [
+      2
+    ],
+    "text": "submit standards and guidelines developed pursuant to paragraphs (2) and (3) of this subsection, along with recommendations as to the extent to which these should be made compulsory and binding, to the Secretary of Commerce for promulgation under section 111(d) of the Federal Property and Administrative Services Act of 1949;",
+    "locator": "§3, NBS Act §20(a)(4); 101 Stat. 1725",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "pra-agencies",
+    "source_id": "pra1995",
+    "source_file": "site/sources/pra1995.pdf",
+    "pages": [
+      13
+    ],
+    "text": "‘‘(g) With respect to privacy and security, each agency shall— ‘‘(1) implement and enforce applicable policies, procedures, standards, and guidelines on privacy, confidentiality, security, disclosure and sharing of information collected or maintained by or for the agency; ‘‘(2) assume responsibility and accountability for compliance with and coordinated management of sections 552 and 552a of title 5, the Computer Security Act of 1987 (40 U.S.C. 759 note), and related information management laws; and ‘‘(3) consistent with the Computer Security Act of 1987 (40 U.S.C. 759 note), identify and afford security protections commensurate with the risk and magnitude of the harm resulting from the loss, misuse, or unauthorized access to or modification of information collected or maintained by or on behalf of an agency.",
+    "locator": "§2, 44 USC 3506(g); 109 Stat. 175",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "a93-authority",
+    "source_id": "a130-1993",
+    "source_file": "site/sources/a130-1993.html",
+    "pages": [],
+    "text": "The Paperwork Reduction Act (PRA) (44 U.S.C. Chapter 35) assigns the Director of OMB responsibility for maintaining a comprehensive set of information resources management (IRM) policies and for promoting the application of information technology to improve the use and dissemination of information by Federal agencies. To fulfill these responsibilities, OMB issued Circular No. A-130, Management of Federal Information Resources (50 FR 52730; December 24, 1985), which provided a policy framework for the management of Federal information resources.",
+    "locator": "1993 notice, Background (opening explanation)",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "a93-contract",
+    "source_id": "a130-1993",
+    "source_file": "site/sources/a130-1993.html",
+    "pages": [],
+    "text": "Thus the information responsibilities of grantees and contractors are not identical to those of Federal agencies except to the extent that the agencies make them so in the underlying grants or contracts.",
+    "locator": "Appendix IV §3, analysis of §6: Government Information",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "a96-risk",
+    "source_id": "a130-1996",
+    "source_file": "site/sources/a130-1996.html",
+    "pages": [],
+    "text": "Protect government information commensurate with the risk and magnitude of harm that could result from the loss, misuse, or unauthorized access to or modification of such information;",
+    "locator": "§8(a)(1)(g)",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "a96-response",
+    "source_id": "a130-1996-fr",
+    "source_file": "site/sources/a130-1996-fr.pdf",
+    "pages": [
+      3
+    ],
+    "text": "We agree that security measures must be risk-based. The Computer Security Act requires that security controls be commensurate with the risk and magnitude of harm that could occur. Implicit in that approach is a need to assess the risk to each system. However, given the complexity and detail such formal analyses often entail, a formal risk analysis is not appropriate for every system. Therefore, the Appendix does not require that a formal risk analysis be performed. At the same time, risk assessment is an essential element in ensuring adequate security.",
+    "locator": "61 FR 6430, response to comment 5; explanation, not a separate rule",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "a00-origin",
+    "source_id": "a130-2000-notice",
+    "source_file": "site/sources/a130-2000-notice.pdf",
+    "pages": [
+      1
+    ],
+    "text": "The Office of Management and Budget issues a revision to Circular No. A–130, ‘‘Management of Federal Information Resources,’’ to implement provisions of the Clinger-Cohen Act (also known as ‘‘Information Technology Management Reform Act of 1996’’) and for other purposes.",
+    "locator": "65 FR 77677, summary; November 28 revision announced December 12",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "a00-connections",
+    "source_id": "a130-2000-app-iii",
+    "source_file": "site/sources/a130-2000-app-iii.html",
+    "pages": [],
+    "text": "The management decision to interconnect should be based on the availability and use of technical and non-technical safeguards and consistent with the acceptable level of risk defined in the system rules.",
+    "locator": "Appendix III, Part B, General Support Systems, Security Plan / Interconnection",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "gisra-duty",
+    "source_id": "gisra",
+    "source_file": "site/sources/gisra.pdf",
+    "pages": [
+      270
+    ],
+    "text": "‘‘(A) adequately ensuring the integrity, confidentiality, authenticity, availability, and nonrepudiation of information and information systems supporting agency operations and assets; ‘‘(B) developing and implementing information security policies, procedures, and control techniques sufficient to afford security protections commensurate with the risk and magnitude of the harm resulting from unauthorized disclosure, disruption, modification, or destruction of information collected or maintained by or for the agency; and ‘‘(C) ensuring that the agency’s information security plan is practiced throughout the life cycle of each agency system;",
+    "locator": "§1061, former 44 USC 3534(a)(1); 114 Stat. 1654A–268",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "f02-dual",
+    "source_id": "fisma2002",
+    "source_file": "site/sources/fisma2002.pdf",
+    "pages": [
+      51
+    ],
+    "text": "‘‘(A) providing information security protections commensurate with the risk and magnitude of the harm resulting from unauthorized access, use, disclosure, disruption, modification, or destruction of— ‘‘(i) information collected or maintained by or on behalf of the agency; and ‘‘(ii) information systems used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency;",
+    "locator": "§301, former 44 USC 3544(a)(1)(A); 116 Stat. 2949",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "f02-program",
+    "source_id": "fisma2002",
+    "source_file": "site/sources/fisma2002.pdf",
+    "pages": [
+      52
+    ],
+    "text": "Each agency shall develop, document, and implement an agencywide information security program, approved by the Director under section 3543(a)(5), to provide information security for the information and information systems that support the operations and assets of the agency, including those provided or managed by another agency, contractor, or other source, that includes—",
+    "locator": "§301, former 44 USC 3544(b); 116 Stat. 2950",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "f02-nist",
+    "source_id": "fisma2002",
+    "source_file": "site/sources/fisma2002.pdf",
+    "pages": [
+      59
+    ],
+    "text": "‘‘(2) develop standards and guidelines, including minimum requirements, for information systems used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency, other than national security systems (as defined in section 3542(b)(2) of title 44, United States Code); and ‘‘(3) develop standards and guidelines, including minimum requirements, for providing adequate information security for all agency operations and assets, but such standards and guidelines shall not apply to national security systems.",
+    "locator": "§303, NIST Act §20(a)(2)–(3); 116 Stat. 2957",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "f02-deliver",
+    "source_id": "fisma2002",
+    "source_file": "site/sources/fisma2002.pdf",
+    "pages": [
+      60
+    ],
+    "text": "‘‘(3) submit to the Secretary of Commerce for promulgation under section 11331 of title 40, United States Code— ‘‘(A) standards, as required under subsection (b)(1)(A), no later than 12 months after the date of the enactment of this section; and ‘‘(B) minimum information security requirements for each category, as required under subsection (b)(1)(C), no later than 36 months after the date of the enactment of this section; ‘‘(4) issue guidelines as required under subsection (b)(1)(B), no later than 18 months after the date of the enactment of this section;",
+    "locator": "§303, NIST Act §20(c)(3)–(4); 116 Stat. 2958",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "f199-origin",
+    "source_id": "fips199",
+    "source_file": "site/sources/fips199.pdf",
+    "pages": [
+      5
+    ],
+    "text": "FIPS Publication 199 addresses the first task cited—to develop standards for categorizing information and information systems. Security categorization standards for information and information systems provide a common framework and understanding for expressing security that, for the federal government, promotes: (i) effective management and oversight of information security programs, including the coordination of information security efforts throughout the civilian, national security, emergency preparedness, homeland security, and law enforcement communities; and (ii) consistent reporting to the Office of Management and Budget (OMB) and Congress on the adequacy and effectiveness of information security policies, procedures, and practices. Subsequent NIST standards and guidelines will address the second and third tasks cited.",
+    "locator": "§1, printed p. 1",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "f199-scope",
+    "source_id": "fips199",
+    "source_file": "site/sources/fips199.pdf",
+    "pages": [
+      5
+    ],
+    "text": "These standards shall apply to: (i) all information within the federal government other than that information that has been determined pursuant to Executive Order 12958, as amended by Executive Order 13292, or any predecessor order, or by the Atomic Energy Act of 1954, as amended, to require protection against unauthorized disclosure and is marked to indicate its classified status; and (ii) all federal information systems other than those information systems designated as national security systems as defined in 44 United States Code Section 3542(b)(2). Agency officials shall use the security categorizations described in FIPS Publication 199 whenever there is a federal requirement to provide such a categorization of information or information systems.",
+    "locator": "§2, printed p. 1",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "rmf04-authority",
+    "source_id": "sp80037",
+    "source_file": "site/sources/sp80037.pdf",
+    "pages": [
+      4
+    ],
+    "text": "This document has been developed by the National Institute of Standards and Technology (NIST) in furtherance of its statutory responsibilities under the Federal Information Security Management Act (FISMA) of 2002, Public Law 107-347. NIST is responsible for developing standards and guidelines, including minimum requirements, for providing adequate information security for all agency operations and assets, but such standards and guidelines shall not apply to national security systems. This guideline is consistent with the requirements of the Office of Management and Budget (OMB) Circular A-130, Section 8b(3), Securing Agency Information Systems, as analyzed in A-130, Appendix IV: Analysis of Key Sections. Supplemental information is provided A-130, Appendix III.",
+    "locator": "Authority, p. ii",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "sa9-2005",
+    "source_id": "sp80053",
+    "source_file": "site/sources/sp80053.pdf",
+    "pages": [
+      100
+    ],
+    "text": "The organization ensures that third-party providers of information system services employ adequate security controls in accordance with applicable federal laws, directives, policies, regulations, standards, guidance, and established service level agreements. The organization monitors security control compliance. Supplemental Guidance: Third-party providers are subject to the same information system security policies and procedures of the supported organization, and must conform to the same security control and documentation requirements as would apply to the organization’s internal systems.",
+    "locator": "SA-9, control and opening supplemental guidance; p. 92",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "f200-select",
+    "source_id": "fips200",
+    "source_file": "site/sources/fips200.pdf",
+    "pages": [
+      10
+    ],
+    "text": "Organizations must meet the minimum security requirements in this standard by selecting the appropriate security controls and assurance requirements as described in NIST Special Publication 800-53, Recommended Security Controls for Federal Information Systems.5 The process of selecting the appropriate security controls and assurance requirements for organizational information systems to achieve adequate security6 is a multifaceted, risk-based activity involving management and operational personnel within the organization. Security categorization of federal information and information systems, as required by FIPS Publication 199, is the first step in the risk management process.7 Subsequent to the security categorization process, organizations must select an appropriate set of security controls for their information systems that satisfy the minimum security requirements set forth in this standard. The selected set of security controls must include one of three, appropriately tailored8 security control baselines from NIST Special Publication 800-53 that are associated with the designated impact levels of the organizational information systems as determined during the security categorization process.",
+    "locator": "§4, printed p. 4; footnote 5 requires the current SP 800-53, as amended",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "plan06-boundary",
+    "source_id": "sp800181",
+    "source_file": "site/sources/sp800181.pdf",
+    "pages": [
+      16
+    ],
+    "text": "The process of uniquely assigning information resources9 to an information system defines the security boundary for that system. Agencies have great flexibility in determining what constitutes an information system (i.e., major application or general support system). If a set of information resources is identified as an information system, the resources should generally be under the same direct management control. Direct management control10 does not necessarily imply that there is no intervening management.",
+    "locator": "§2.1, printed p. 9; see footnote 10 on budgetary/programmatic/operational authority",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "sa9-2006",
+    "source_id": "sp53r1",
+    "source_file": "site/on-behalf/sources/sp53r1.pdf",
+    "pages": [
+      127
+    ],
+    "text": "An external information system service is a service that is implemented outside of the accreditation boundary of the organizational information system (i.e., a service that is used by, but not a part of, the organizational information system). Relationships with external service providers are established in a variety of ways, for example, through joint ventures, business partnerships, outsourcing arrangements (i.e., through contracts, interagency agreements, lines of business arrangements), licensing agreements, and/or supply chain exchanges. Ultimately, the responsibility for adequately mitigating risks to the organization’s operations and assets, and to individuals, arising from the use of external information system services remains with the authorizing official.",
+    "locator": "SA-9 supplemental guidance, p. 120",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "sa9-2007",
+    "source_id": "sp53r2",
+    "source_file": "site/on-behalf/sources/sp53r2.pdf",
+    "pages": [
+      130
+    ],
+    "text": "An external information system service is a service that is implemented outside of the accreditation boundary of the organizational information system (i.e., a service that is used by, but not a part of, the organizational information system). Relationships with external service providers are established in a variety of ways, for example, through joint ventures, business partnerships, outsourcing arrangements (i.e., through contracts, interagency agreements, lines of business arrangements), licensing agreements, and/or supply chain exchanges. Ultimately, the responsibility for adequately mitigating risks to the organization’s operations and assets, and to individuals, arising from the use of external information system services remains with the authorizing official.",
+    "locator": "SA-9 supplemental guidance; PDF p. 130 including archive cover",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "sa9-2009",
+    "source_id": "sp53r3",
+    "source_file": "site/on-behalf/sources/sp53r3.pdf",
+    "pages": [
+      176
+    ],
+    "text": "The organization: a. Requires that providers of external information system services comply with organizational information security requirements and employ appropriate security controls in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance; b. Defines and documents government oversight and user roles and responsibilities with regard to external information system services; and c. Monitors security control compliance by external service providers.",
+    "locator": "SA-9 control; PDF p. 176 including archive cover",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "rmf10-external",
+    "source_id": "rmf2010",
+    "source_file": "site/on-behalf/sources/rmf2010.pdf",
+    "pages": [
+      23
+    ],
+    "text": "As noted in Appendix I (Security Controls in External Environments), FISMA and OMB policy require external providers handling federal information or operating information systems on behalf of the federal government to meet the same security requirements as federal agencies. These security requirements also apply to external subsystems storing, processing, or transmitting federal information and any services provided by or associated with the subsystem.",
+    "locator": "§2.4, printed p. 15; Appendix I referenced here is in SP 800-53",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "omb10-services",
+    "source_id": "m-10-15",
+    "source_file": "site/sources/m-10-15.pdf",
+    "pages": [
+      17
+    ],
+    "text": "Section 3544(b) requires each agency to provide information security for the information and “information systems that support the operations and assets of the agency, including those provided or managed by another agency, contractor, or other source.” This includes services which are either fully or partially provided, including agency hosted, outsourced, and software-as-a-service (SaaS) solutions.",
+    "locator": "FY2010 reporting instructions, question 36, printed p. 13",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "omb10-incidental",
+    "source_id": "m-10-15",
+    "source_file": "site/sources/m-10-15.pdf",
+    "pages": [
+      18
+    ],
+    "text": "Finally, because FISMA applies to Federal information and information systems, in certain limited circumstances its requirements also apply to a specific class of information technology to which Clinger-Cohen did not, i.e., “equipment that is acquired by a Federal contractor incidental to a Federal contract.” Therefore, when Federal information is used within incidentally acquired equipment, the agency continues to be responsible and accountable for ensuring FISMA requirements are met.",
+    "locator": "Question 36, printed p. 14",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "omb10-contract",
+    "source_id": "m-10-15",
+    "source_file": "site/sources/m-10-15.pdf",
+    "pages": [
+      19
+    ],
+    "text": "Agencies are fully responsible and accountable for ensuring all FISMA and related policy requirements are implemented and reviewed and such must be included in the terms of the contract. Agencies must ensure identical, not \"equivalent,\" security procedures. For example, annual reviews, risk assessments, security plans, control testing, contingency planning, and security authorization (C&A) must, at a minimum, explicitly meet guidance from NIST.",
+    "locator": "Question 38, service providers, printed p. 15; historical 2010 instructions",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "records10",
+    "source_id": "records-cloud",
+    "source_file": "site/on-behalf/sources/records-cloud.html",
+    "pages": [],
+    "text": "In the SaaS service model, the agency may maintain records in contractor-provided clouds, and any negotiated contract language will need to address specific records management responsibilities.",
+    "locator": "NARA Bulletin 2010-05, question 6",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "fedramp11",
+    "source_id": "fedramp2011",
+    "source_file": "site/sources/fedramp2011.pdf",
+    "pages": [
+      2
+    ],
+    "text": "Executive departments and agencies procuring commercial and non-commercial cloud services that are provided by information systems that support the operations and assets of the departments and agencies, including systems provided or managed by other departments or agencies, contractors, or other sources;",
+    "locator": "§3(a), printed p. 2; read with §3(b)–(c) and private-cloud exception in footnote 4",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "rmf14-external",
+    "source_id": "rmf2014",
+    "source_file": "site/on-behalf/sources/rmf2014.pdf",
+    "pages": [
+      33
+    ],
+    "text": "As noted in Appendix I (Security Controls in External Environments), FISMA and OMB policy require external providers handling federal information or operating information systems on behalf of the federal government to meet the same security requirements as federal agencies. These security requirements also apply to external subsystems storing, processing, or transmitting federal information and any services provided by or associated with the subsystem.",
+    "locator": "§2.4, printed p. 15; June 5, 2014 update, archive wrapper included",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "f14-dual",
+    "source_id": "fisma2014",
+    "source_file": "site/sources/fisma2014.pdf",
+    "pages": [
+      6
+    ],
+    "text": "‘‘(A) providing information security protections commensurate with the risk and magnitude of the harm resulting from unauthorized access, use, disclosure, disruption, modification, or destruction of— ‘‘(i) information collected or maintained by or on behalf of the agency; and ‘‘(ii) information systems used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency;",
+    "locator": "§2, 44 USC 3554(a)(1)(A); 128 Stat. 3078",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "f14-implement",
+    "source_id": "fisma2014",
+    "source_file": "site/sources/fisma2014.pdf",
+    "pages": [
+      6
+    ],
+    "text": "‘‘(2) ensure that senior agency officials provide information security for the information and information systems that support the operations and assets under their control, including through— ‘‘(A) assessing the risk and magnitude of the harm that could result from the unauthorized access, use, disclosure, disruption, modification, or destruction of such information or information systems; ‘‘(B) determining the levels of information security appropriate to protect such information and information systems in accordance with standards promulgated under section 11331 of title 40, for information security classifications and related requirements; ‘‘(C) implementing policies and procedures to cost-effectively reduce risks to an acceptable level; and ‘‘(D) periodically testing and evaluating information security controls and techniques to ensure that they are effectively implemented;",
+    "locator": "44 USC 3554(a)(2); 128 Stat. 3078",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "f14-program",
+    "source_id": "fisma2014",
+    "source_file": "site/sources/fisma2014.pdf",
+    "pages": [
+      7
+    ],
+    "text": "Each agency shall develop, document, and implement an agency-wide information security program to provide information security for the information and information systems that support the operations and assets of the agency, including those provided or managed by another agency, contractor, or other source, that includes—",
+    "locator": "44 USC 3554(b); 128 Stat. 3079",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "cui15-scope",
+    "source_id": "sp800171",
+    "source_file": "site/sources/sp800171.pdf",
+    "pages": [
+      13
+    ],
+    "text": "The purpose of this publication is to provide federal agencies with recommended requirements for protecting the confidentiality of CUI: (i) when the CUI is resident in nonfederal information systems and organizations; (ii) when the information systems where the CUI resides are not used or operated by contractors of federal agencies or other organizations on behalf of those agencies;8 and (iii) where there are no specific safeguarding requirements for protecting the confidentiality of CUI prescribed by the authorizing law, regulation, or governmentwide policy for the CUI category or subcategory listed in the CUI Registry. The requirements apply only to components9 of nonfederal information systems that process, store, or transmit CUI, or that provide security protection for such components. The CUI requirements are intended for use by federal agencies in appropriate contractual vehicles or other agreements established between those agencies and nonfederal organizations.",
+    "locator": "§1.1, printed p. 2; June 2015 text, saved PDF includes January 2016 update",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "cui15-footnote",
+    "source_id": "sp800171",
+    "source_file": "site/sources/sp800171.pdf",
+    "pages": [
+      13
+    ],
+    "text": "Nonfederal organizations that collect or maintain information on behalf of a federal agency or that operate or use information systems on behalf of a federal agency, must comply with the requirements in the Federal Information Security Modernization Act (FISMA), including the minimum security requirements in FIPS Publication 200 and the security controls in NIST Special Publication 800-53.",
+    "locator": "§1.1 footnote 8, printed p. 2",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "cui15-tailor",
+    "source_id": "sp800171",
+    "source_file": "site/sources/sp800171.pdf",
+    "pages": [
+      14
+    ],
+    "text": "The specific requirements for safeguarding CUI in nonfederal information systems and organizations are derived from the above authoritative federal standards and guidelines to maintain a consistent level of protection. However, recognizing that the scope of the safeguarding requirements in the proposed federal CUI regulation is limited to the security objective of confidentiality (i.e., not directly addressing integrity and availability) and that some of the FISMA-related requirements expressed in the NIST standards and guidelines are uniquely federal, the requirements in this publication have been tailored for nonfederal entities. The tailoring criteria, described in Chapter Two, are not intended to reduce or minimize the federal requirements for the safeguarding of CUI as expressed in the proposed federal CUI regulation. Rather, the intent is to express the requirements in a manner that allows for and facilitates the equivalent safeguarding measures within nonfederal information systems and organizations and does not diminish the level of protection of CUI required for moderate confidentiality.",
+    "locator": "§1.1, printed p. 3",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "a16-definitions",
+    "source_id": "a130-2016",
+    "source_file": "site/sources/a130-2016.pdf",
+    "pages": [
+      29
+    ],
+    "text": "22) ‘Federal information’ means information created, collected, processed, maintained, disseminated, disclosed, or disposed of by or for the Federal Government, in any medium or form. 23) ‘Federal information system’ means an information system used or operated by an agency or by a contractor of an agency or by another organization on behalf of an agency.",
+    "locator": "§10(a)(22)–(23), printed p. 29",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "a16-contracts",
+    "source_id": "a130-2016",
+    "source_file": "site/sources/a130-2016.pdf",
+    "pages": [
+      51
+    ],
+    "text": "1) Ensure that terms and conditions in contracts and other agreements involving the creation, collection, use, processing, storage, maintenance, dissemination, disclosure, and disposal of Federal information, incorporate security and privacy requirements and are sufficient to enable agencies to meet Federal and agency-specific requirements pertaining to the protection of Federal information;",
+    "locator": "Appendix I §4(j)(1), printed p. 14",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "a16-oversight",
+    "source_id": "a130-2016",
+    "source_file": "site/sources/a130-2016.pdf",
+    "pages": [
+      51
+    ],
+    "text": "2) Provide oversight of information systems used or operated by contractors or other entities on behalf of the Federal Government or that collect or maintain Federal information on behalf of the Federal Government, to include: a) Documenting and implementing policies and procedures for information security and privacy oversight, to include ensuring appropriate vetting and access control processes for contractors and others with access to information systems containing Federal information; b) Ensuring that security and privacy controls of such information systems and services are effectively implemented and comply with NIST standards and guidelines and agency requirements; c) Ensuring that these information systems are included in the agency’s inventory of information systems; d) Ensuring that the interface characteristics, security requirements, and the nature of the information communicated is documented for each interface between these systems and agency-owned or operated information systems;",
+    "locator": "Appendix I §4(j)(2)(a)–(d), printed p. 14",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "a16-incidents",
+    "source_id": "a130-2016",
+    "source_file": "site/sources/a130-2016.pdf",
+    "pages": [
+      51
+    ],
+    "text": "e) Ensuring that procedures are in place for incident response for these information systems including timelines for notification of affected individuals and reporting to OMB, DHS, and other entities as required in OMB guidance; f) Requiring agreements (e.g., memoranda of understanding, interconnection security agreements, contracts) for interfaces between these information systems and agency-owned or operated information systems;",
+    "locator": "Appendix I §4(j)(2)(e)–(f), printed p. 14",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "a16-applicability",
+    "source_id": "a130-2016",
+    "source_file": "site/sources/a130-2016.pdf",
+    "pages": [
+      62
+    ],
+    "text": "FISMA describes Federal agency security responsibilities as including “information collected or maintained by or on behalf of an agency” and “information systems used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency.” FISMA requires each agency to provide information security for the information and “information systems that support the operations and assets of the agency, including those provided or managed by another agency, contractor, or other source.” This includes services that are either fully or partially provided, including agency-hosted, outsourced, and cloud-based solutions.",
+    "locator": "Appendix I §5(r), printed p. 25",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "a16-incidental",
+    "source_id": "a130-2016",
+    "source_file": "site/sources/a130-2016.pdf",
+    "pages": [
+      63
+    ],
+    "text": "Therefore, when Federal information is used within incidentally acquired equipment, the agency continues to be responsible and accountable for ensuring that FISMA requirements are met for such information.",
+    "locator": "Appendix I §5(r), printed p. 26",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "a16-ato",
+    "source_id": "a130-2016",
+    "source_file": "site/sources/a130-2016.pdf",
+    "pages": [
+      44
+    ],
+    "text": "1) Designate senior Federal officials to formally authorize an information system to operate and authorize agency-designated common controls for use;",
+    "locator": "Appendix I §4(d)(1), printed p. 7",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "cui16-federal",
+    "source_id": "nara2016",
+    "source_file": "site/on-behalf/sources/nara2016.pdf",
+    "pages": [
+      18
+    ],
+    "text": "(1) A Federal information system is an information system used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency. An information system operated on behalf of an agency provides information processing services to the agency that the Government might otherwise perform itself but has decided to outsource. This includes systems operated exclusively for Government use and systems operated for multiple users (multiple Federal agencies or Government and private sector users). Information systems that a non-executive branch entity operates on behalf of an agency are subject to the requirements of this part as though they are the agency’s systems, and agencies may require these systems to meet additional requirements the agency sets for its own internal systems.",
+    "locator": "32 CFR 2002.14(h)(1), 81 FR 63341; final rule effective November 14, 2016",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "cui16-nonfederal",
+    "source_id": "nara2016",
+    "source_file": "site/on-behalf/sources/nara2016.pdf",
+    "pages": [
+      18
+    ],
+    "text": "(2) A non-Federal information system is any information system that does not meet the criteria for a Federal information system. Agencies may not treat non-Federal information systems as though they are agency systems, so agencies cannot require that non-executive branch entities protect these systems in the same manner that the agencies might protect their own information systems. When a non-executive branch entity receives Federal information only incidental to providing a service or product to the Government other than processing services, its information systems are not considered Federal information systems. NIST SP 800–171 (incorporated by reference, see § 2002.2) defines the requirements necessary to protect CUI Basic on non-Federal information systems in accordance with the requirements of this part. Agencies must use NIST SP 800–171 when establishing security requirements to protect CUI’s confidentiality on non-Federal information systems (unless the authorizing law, regulation, or Government-wide policy listed in the CUI Registry for the CUI category or subcategory of the information involved prescribes specific safeguarding requirements for protecting the information’s confidentiality, or unless an agreement establishes requirements to protect CUI Basic at higher than moderate confidentiality).",
+    "locator": "32 CFR 2002.14(h)(2), 81 FR 63341; quoted with both exceptions",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "cui16-revision",
+    "source_id": "sp171r1",
+    "source_file": "site/on-behalf/sources/sp171r1.pdf",
+    "pages": [
+      20
+    ],
+    "text": "The purpose of this publication is to provide federal agencies with recommended security requirements for protecting the confidentiality of CUI when the CUI is resident in a nonfederal system and organization; when the nonfederal organization is not collecting or maintaining information on behalf of a federal agency or using or operating a system on behalf of an agency; 6 and where there are no specific safeguarding requirements for protecting the confidentiality of CUI prescribed by the authorizing law, regulation, or governmentwide policy for the CUI category or subcategory listed in the CUI Registry.7 The security requirements apply only to components of nonfederal systems that process, store, or transmit CUI, or that provide security protection for such components.8 The security requirements are intended for use by federal agencies in appropriate contractual vehicles or other agreements established between those agencies and nonfederal organizations.",
+    "locator": "§1.1, printed p. 2; Revision 1 December 2016, saved edition updated June 7, 2018",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "rmf18-steward",
+    "source_id": "sp800372",
+    "source_file": "site/sources/sp800372.pdf",
+    "pages": [
+      138
+    ],
+    "text": "In information-sharing environments, the information owner/steward is responsible for establishing the rules for appropriate use and protection of the information and retains that responsibility even when the information is shared with or provided to other organizations. The owner/steward of the information processed, stored, or transmitted by a system may or may not be the same individual as the system owner.",
+    "locator": "Appendix D, Information Owner or Steward, printed p. 119",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "rmf18-ao",
+    "source_id": "sp800372",
+    "source_file": "site/sources/sp800372.pdf",
+    "pages": [
+      133
+    ],
+    "text": "The authorizing official is a senior official or executive with the authority to formally assume responsibility and accountability for operating a system; providing common controls inherited by organizational systems; or using a system, service, or application from an external provider.",
+    "locator": "Appendix D, Authorizing Official, printed p. 114",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "rmf18-external",
+    "source_id": "sp800372",
+    "source_file": "site/sources/sp800372.pdf",
+    "pages": [
+      178
+    ],
+    "text": "FISMA and OMB policy require external providers that process, store, or transmit federal information or operate information systems on behalf of the federal government to meet the same security and privacy requirements as federal agencies. Federal security and privacy requirements also apply to external systems storing, processing, or transmitting federal information and any services provided by or associated with the external system.",
+    "locator": "Appendix G, printed p. 159",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "rmf18-risk",
+    "source_id": "sp800372",
+    "source_file": "site/sources/sp800372.pdf",
+    "pages": [
+      179
+    ],
+    "text": "Alternatively, organizations may allow externally provided systems or services to be used only in those instances where the exchange of information risk determined by the organization is acceptable.",
+    "locator": "Appendix G, printed p. 160; an alternative risk response, not a waiver of law",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "cui20-agreement",
+    "source_id": "sp171r2",
+    "source_file": "site/on-behalf/sources/sp171r2.pdf",
+    "pages": [
+      10
+    ],
+    "text": "The recommended security requirements contained in this publication are only applicable to a nonfederal system or organization when mandated by a federal agency in a contract, grant, or other agreement. The security requirements apply to the components of nonfederal systems that process, store, or transmit CUI, or that provide security protection for such components.",
+    "locator": "Revision 2, front matter p. vii; February 2020, includes January 28, 2021 updates",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "cui20-boundary",
+    "source_id": "sp171r2",
+    "source_file": "site/on-behalf/sources/sp171r2.pdf",
+    "pages": [
+      15
+    ],
+    "text": "If nonfederal organizations designate specific system components for the processing, storage, or transmission of CUI, those organizations may limit the scope of the security requirements by isolating the designated system components in a separate CUI security domain. Isolation can be achieved by applying architectural and design concepts (e.g., implementing subnetworks with firewalls or other boundary protection devices and using information flow control mechanisms). Security domains may employ physical separation, logical separation, or a combination of both. This approach can provide adequate security for the CUI and avoid increasing the organization’s security posture to a level beyond that which it requires for protecting its missions, operations, and assets.",
+    "locator": "§1.1, printed p. 2",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "sa9-2020",
+    "source_id": "sp800535",
+    "source_file": "site/sources/sp800535.pdf",
+    "pages": [
+      298
+    ],
+    "text": "Control: a. Require that providers of external system services comply with organizational security and privacy requirements and employ the following controls: [Assignment: organization-defined controls]; b. Define and document organizational oversight and user roles and responsibilities with regard to external system services; and c. Employ the following processes, methods, and techniques to monitor control compliance by external service providers on an ongoing basis: [Assignment: organization-defined processes, methods, and techniques]. Discussion: External system services are provided by an external provider, and the organization has no direct control over the implementation of the required controls or the assessment of control effectiveness. Organizations establish relationships with external service providers in a variety of ways, including through business partnerships, contracts, interagency agreements, lines of business arrangements, licensing agreements, joint ventures, and supply chain exchanges. The responsibility for managing risks from the use of external system services remains with authorizing officials.",
+    "locator": "Revision 5, SA-9 control and discussion; September 2020, includes December 10, 2020 updates",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "exchange21",
+    "source_id": "sp800471",
+    "source_file": "site/on-behalf/sources/sp800471.pdf",
+    "pages": [
+      10
+    ],
+    "text": "However, it is recognized that the information being exchanged also requires the same or similar level of protection as it moves from one organization to another (protection commensurate with risk). This publication focuses on managing the protection of the information being exchanged or accessed before, during, and after the exchange and provides guidance on identifying information exchanges, considerations for protecting exchanged information, and the agreement(s) needed to help manage the risk associated with exchanging information.",
+    "locator": "§1, printed p. 1",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "exchange21-scope",
+    "source_id": "sp800471",
+    "source_file": "site/on-behalf/sources/sp800471.pdf",
+    "pages": [
+      10
+    ],
+    "text": "This publication provides guidance for managing (i.e., planning, establishing, maintaining, and discontinuing) the security of information exchanges between systems that are owned and operated by different organizations or are within the same organization but with different authorization boundaries, including organizations within a single federal agency.",
+    "locator": "§1.1, printed p. 1",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "dhs23-response",
+    "source_id": "dhs2023",
+    "source_file": "site/on-behalf/sources/dhs2023.pdf",
+    "pages": [
+      12
+    ],
+    "text": "DHS intentionally excluded the ‘‘on behalf of an agency’’ definition provided in the NARA CUI rule from this rulemaking. The phrase ‘‘on behalf of an agency’’ is already rooted in statute and is used extensively in FISMA. FISMA designates the Director of the OMB as being responsible for ‘‘developing and overseeing the implementation of policies, principles, standards, and guidelines on information security....’’ 44 U.S.C. 3553(a)(1). As such, any definition of the phrase ‘‘on behalf of an agency’’ must be provided in FISMA policy and guidance issued by OMB after going through the appropriate interagency coordination process to assess the wide-ranging implications of defining this term. In the case of the NARA CUI rule, that has not happened.",
+    "locator": "88 FR 40571, response under definition of Federal information system; DHS explanation",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "cui24-scope",
+    "source_id": "sp8001713",
+    "source_file": "site/sources/sp8001713.pdf",
+    "pages": [
+      12
+    ],
+    "text": "The requirements do not apply to nonfederal organizations that are collecting or maintaining information on behalf of a federal agency or using or operating a system on behalf of an agency.8 8 Nonfederal organizations that collect or maintain information on behalf of a federal agency or that use or operate a system on behalf of an agency must comply with the requirements in FISMA [9]. The security requirements in this publication are only applicable to components of nonfederal systems that process, store, or transmit CUI or that provide protection for such components.9 9 System components include workstations, servers, notebook computers, smartphones, tablets, input and output devices, network components, operating systems, virtual machines, database management systems, and applications. The requirements are intended for use by federal agencies in contractual vehicles or other agreements that are established between those agencies and nonfederal organizations.",
+    "locator": "Revision 3 §1.1, printed p. 2; read with footnote 8 on FISMA",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "omb24-scope",
+    "source_id": "m-24-15",
+    "source_file": "site/sources/m-24-15.pdf",
+    "pages": [
+      5
+    ],
+    "text": "The scope of FedRAMP is cloud computing products and services (such as IaaS, Platform-as-a-Service (PaaS), and SaaS) that create, collect, process, store, or maintain Federal information on behalf of a Federal agency, and that are not otherwise specified as out of scope below.",
+    "locator": "§III, printed p. 5; exclusions immediately follow",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "omb24-atu",
+    "source_id": "m-24-15",
+    "source_file": "site/sources/m-24-15.pdf",
+    "pages": [
+      6
+    ],
+    "text": "Agencies leverage the FedRAMP authorization package to issue their own “authorization to operate” (ATO) or “authorization to use” (ATU). FedRAMP does not replace other legal, Executive Order, regulatory, or OMB-issued compliance requirements for areas such as information management, records management, privacy, and cybersecurity.",
+    "locator": "§IV footnote 7, printed p. 6",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "release25",
+    "source_id": "nist53changes2025",
+    "source_file": "site/on-behalf/sources/nist53changes2025.pdf",
+    "pages": [
+      1
+    ],
+    "text": "This revision focuses on improving the security and reliability of software updates and patches in response to Executive Order 14306 on strengthening the Nation’s cybersecurity. SP 800-53 Release 5.2.0 addresses multiple aspects of the software development and deployment process, including software and system resiliency by design, developer testing, the deployment and management of updates, and software integrity and validation. This update also revises the discussion sections of some existing controls to provide additional scoping and implementation examples. A detailed list of changes is included below in Table 1.",
+    "locator": "Opening explanation, PDF p. 1; full control change list follows",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "plans26",
+    "source_id": "sp800182",
+    "source_file": "site/on-behalf/sources/sp800182.pdf",
+    "pages": [
+      11
+    ],
+    "text": "System plans collectively refer to the system security plan, system privacy plan, and cybersecurity supply chain risk management (C-SCRM) plan that describe the design and implementation of security, privacy, and cybersecurity supply chain protections throughout the system life cycle. System plans: • Include information about the data being created, collected, disseminated, used, stored, and disposed of; • Identify individuals who are responsible for system risk management efforts; • Describe the environment of operation, system components, and data flows within the environment; and • Account for risks associated with the sharing of information outside the scope of the system.",
+    "locator": "Executive summary, printed p. 1",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "plans26-origin",
+    "source_id": "sp800182",
+    "source_file": "site/on-behalf/sources/sp800182.pdf",
+    "pages": [
+      11
+    ],
+    "text": "Office of Management and Budget (OMB) Circular A-130 [OMBA-130] requires federal agencies to develop and maintain system plans for managing risks, including implementation details for the controls allocated to address the requirements. Nonfederal organizations may voluntarily apply the guidelines provided in this publication to develop and maintain system plans consistent with their risk management strategies.",
+    "locator": "Executive summary, printed p. 1; explicit A-130 connection",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "rmf04-authorization",
+    "source_id": "sp80037",
+    "source_file": "site/sources/sp80037.pdf",
+    "pages": [
+      7
+    ],
+    "text": "Security accreditation is the official management decision given by a senior agency official to authorize operation of an information system and to explicitly accept the risk to agency operations, agency assets, or individuals based on the implementation of an agreed-upon set of security controls. Required by OMB Circular A-130, Appendix III, security accreditation provides a form of quality control and challenges managers and technical staffs at all levels to implement the most effective security controls possible in an information system, given mission requirements, technical constraints, operational constraints, and cost/schedule constraints.",
+    "locator": "Executive summary, p. v; explicit A-130 Appendix III requirement",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "sa9-2013",
+    "source_id": "sp800534",
+    "source_file": "site/sources/sp800534.pdf",
+    "pages": [
+      320
+    ],
+    "text": "External information system services are services that are implemented outside of the authorization boundaries of organizational information systems. This includes services that are used by, but not a part of, organizational information systems. FISMA and OMB policy require that organizations using external service providers that are processing, storing, or transmitting federal information or operating information systems on behalf of the federal government ensure that such providers meet the same security requirements that federal agencies are required to meet. Organizations establish relationships with external service providers in a variety of ways including, for example, through joint ventures, business partnerships, contracts, interagency agreements, lines of business arrangements, licensing agreements, and supply chain exchanges. The responsibility for managing risks from the use of external information system services remains with authorizing officials.",
+    "locator": "Revision 4, SA-9 supplemental guidance, p. F-162; saved edition includes January 22, 2015 update",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "cloud11-accountability",
+    "source_id": "sp800144",
+    "source_file": "site/sources/sp800144.pdf",
+    "pages": [
+      62
+    ],
+    "text": "Accountability for security and privacy in public cloud deployments cannot be delegated to a cloud provider and remains an obligation for the organization to fulfill. Federal agencies must ensure that any selected public cloud computing solution is configured, deployed, and managed to meet the security, privacy, and other requirements of the organization. Organizational data must be protected in a manner consistent with policies, whether in the organization’s computing center or the cloud. The organization must ensure that security and privacy controls are implemented correctly and operate as intended, throughout the system lifecycle.",
+    "locator": "§6, Conclusion, printed p. 52",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "nara16-comments",
+    "source_id": "nara2016",
+    "source_file": "site/on-behalf/sources/nara2016.pdf",
+    "pages": [
+      3
+    ],
+    "text": "We determined from the number and scope of the comments that we needed to thoroughly revise this section to make it clearer. This section merely spells out that the regulation’s scope of impact will include non-executive branch entities by means of the requirement on agencies to include contract or agreement provisions regarding CUI, when relevant. Accordingly, we have revised the language to not only state that the rule applies to only agencies directly, but to also show that by the organization of the section.",
+    "locator": "81 FR 63326, response on §2002.1 scope; agency explanation",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "cui16-plans",
+    "source_id": "sp171r1",
+    "source_file": "site/on-behalf/sources/sp171r1.pdf",
+    "pages": [
+      32
+    ],
+    "text": "3.12.4 Develop, document, and periodically update system security plans that describe system boundaries, system environments of operation, how security requirements are implemented, and the relationships with or connections to other systems.",
+    "locator": "§3.12.4, printed p. 14; footnote 26 does not prescribe a plan format",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "act22-definitions",
+    "source_id": "fedramp-act",
+    "source_file": "site/sources/fedramp-act.pdf",
+    "pages": [
+      1055
+    ],
+    "text": "The terms ‘authorization to operate’ and ‘Federal information’ have the meaning given those term in Circular A–130 of the Office of Management and Budget entitled ‘Managing Information as a Strategic Resource’, or any successor document.",
+    "locator": "§5921, 44 USC 3607(b)(3); 136 Stat. 3449",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "act22-program",
+    "source_id": "fedramp-act",
+    "source_file": "site/sources/fedramp-act.pdf",
+    "pages": [
+      1056
+    ],
+    "text": "There is established within the General Services Administration the Federal Risk and Authorization Management Program. The Administrator, subject to section 3614, shall establish a Government-wide program that provides a standardized, reusable approach to security assessment and authorization for cloud computing products and services that process unclassified information used by agencies.",
+    "locator": "44 USC 3608; 136 Stat. 3450",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "act22-omb",
+    "source_id": "fedramp-act",
+    "source_file": "site/sources/fedramp-act.pdf",
+    "pages": [
+      1060
+    ],
+    "text": "‘‘(1) in consultation with the Administrator and the Secretary, issue guidance that— ‘‘(A) specifies the categories or characteristics of cloud computing products and services that are within the scope of FedRAMP; ‘‘(B) includes requirements for agencies to obtain a FedRAMP authorization when operating a cloud computing product or service described in subparagraph (A) as a Federal information system; and ‘‘(C) encompasses, to the greatest extent practicable, all necessary and appropriate cloud computing products and services;",
+    "locator": "44 USC 3614(1); 136 Stat. 3454",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "act22-duty",
+    "source_id": "fedramp-act",
+    "source_file": "site/sources/fedramp-act.pdf",
+    "pages": [
+      1060
+    ],
+    "text": "‘‘(2) INFORMATION SECURITY REQUIREMENTS.—The presumption under paragraph (1) does not modify or alter— ‘‘(A) the responsibility of any agency to ensure compliance with subchapter II of chapter 35 for any cloud computing product or service used by the agency; or ‘‘(B) the authority of the head of any agency to make a determination that there is a demonstrable need for additional security requirements beyond the security requirements included in a FedRAMP authorization for a particular control implementation.",
+    "locator": "44 USC 3613(e)(2); 136 Stat. 3454",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "omb03-incidental",
+    "source_id": "m-03-19",
+    "source_file": "site/sources/m-03-19.pdf",
+    "pages": [
+      5
+    ],
+    "text": "Therefore, when Federal information is used within incidentally acquired equipment, the agency is responsible for ensuring that FISMA requirements are met.",
+    "locator": "§I.A, p. 5",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "omb04-nist",
+    "source_id": "m-04-25",
+    "source_file": "site/sources/m-04-25.pdf",
+    "pages": [
+      5
+    ],
+    "text": "Is use of NIST publications required? Yes, for non-national security programs and systems, agencies must follow NIST standards and guidance. Federal Information Processing Standards (FIPS) must be implemented as written; the only flexibility exists within the standard itself. Special publications of the NIST 800 series and other NIST publications are guidance. As a general rule, use of NIST guidance is more flexible, provided agency implementation is consistent with the principles and processes outlined within the NIST guidance. However, from time to time, OMB policy will mandate stricter use of NIST guidance. For example, NIST Special Publication 800-26 is mandatory for use for agency annual systems reviews. Reviews and evaluations of agency IT security programs and systems should consider adherence to standards and consistency with NIST guidance. Where flexibility exists, evaluations must consider unique operational environments and allow for a reasonable degree of discretion.",
+    "locator": "§II.A, p. 5; historical reporting guidance",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "types04",
+    "source_id": "sp60-2004",
+    "source_file": "site/on-behalf/sources/sp60-2004.pdf",
+    "pages": [
+      8
+    ],
+    "text": "In response to the second of these tasks, this guideline has been developed to assist Federal government agencies to categorize information and information systems. The guideline’s objective is to facilitate provision of appropriate levels of information security according to a range of levels of impact or consequences that might result from the unauthorized disclosure, modification, or loss of availability of the information or information system. This guideline assumes that the user is familiar with Standards for Security Categorization of Federal Information and Information Systems (FIPS 199). The guideline and its appendixes: • Review the security categorization terms and definitions established by FIPS 199; • Recommend a security categorization process; • Describe a methodology for identifying types of Federal information and information systems; • Suggest provisional security impact levels for common information types; • Discuss information attributes that may result in variances from the provisional impact level assignment; and • Describe how to establish a system security categorization based on the system’s use, connectivity, and aggregate information content.",
+    "locator": "Volume I, executive summary, p. vii",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "types08",
+    "source_id": "sp60-2008",
+    "source_file": "site/on-behalf/sources/sp60-2008.pdf",
+    "pages": [
+      7
+    ],
+    "text": "In response to the second of these tasks, this guideline has been developed to assist Federal government agencies to categorize information and information systems. The guideline’s objective is to facilitate application of appropriate levels of information security according to a range of levels of impact or consequences that might result from the unauthorized disclosure, modification, or use of the information or information system. This guideline assumes that the user is familiar with Standards for Security Categorization of Federal Information and Information Systems (Federal Information Processing Standard [FIPS] 199). The guideline and its appendices: • Review the security categorization terms and definitions established by FIPS 199; • Recommend a security categorization process; • Describe a methodology for identifying types of Federal information and information systems; • Suggest provisional1 security impact levels for common information types; • Discuss information attributes that may result in variances from the provisional impact level assignment; and • Describe how to establish a system security categorization based on the system’s use, connectivity, and aggregate information content.",
+    "locator": "Volume I Revision 1, executive summary, p. vii",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "omb13-monitor",
+    "source_id": "m-14-03",
+    "source_file": "site/sources/m-14-03.pdf",
+    "pages": [
+      2
+    ],
+    "text": "To fully implement ISCM across the Government, agencies shall: 1) Develop and maintain, consistent with existing statutes, OMB policy, NIST guidelines10 and the CONOPS, an ISCM strategy, and establish an ISCM program that: a. Provides a clear understanding of organizational risk and helps officials set priorities and manage such risk consistently throughout the agency; and b. Addresses how the agency will conduct ongoing authorizations of information systems and the environments in which those systems operate, including the agency's use of common controls.",
+    "locator": "p. 2, action 1; ISCM means information security continuous monitoring",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "f02-categories",
+    "source_id": "fisma2002",
+    "source_file": "site/sources/fisma2002.pdf",
+    "pages": [
+      59
+    ],
+    "text": "‘‘(1)(A) standards to be used by all agencies to categorize all information and information systems collected or maintained by or on behalf of each agency based on the objectives of providing appropriate levels of information security according to a range of risk levels; ‘‘(B) guidelines recommending the types of information and information systems to be included in each such category; and",
+    "locator": "§303, NIST Act §20(b)(1)(A)–(B); 116 Stat. 2957; minimum requirements follow in (C)",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "omb24-exclusions",
+    "source_id": "m-24-15",
+    "source_file": "site/sources/m-24-15.pdf",
+    "pages": [
+      5
+    ],
+    "text": "The following categories of cloud computing products and services are specified as outside the scope of FedRAMP, subject to exceptions made by the FedRAMP Director with the approval of OMB: 1) Information systems that are only used for a single agency’s operations, hosted on cloud infrastructure or platform, and are not offered as a shared service or do not operate with a shared responsibility model; 2) Social media and communications platforms used in accordance with agency social media policies; 3) Search engines; 4) Widely available services that provide commercially available information to agencies, but do not collect Federal information; 5) Ancillary services whose compromise would pose a negligible risk to Federal information or information systems, such as systems that make external measurements or only ingest information from other publicly available services; and 6) Any other categories of products or services identified for exclusion by the FedRAMP Board, with the concurrence of the Federal CIO.",
+    "locator": "§III, exclusions 1–6, printed p. 5; footnote 6 limits scope to unclassified, non-national-security systems",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "f02-binding",
+    "source_id": "fisma2002",
+    "source_file": "site/sources/fisma2002.pdf",
+    "pages": [
+      58
+    ],
+    "text": "‘‘(2) REQUIRED MANDATORY STANDARDS.—(A) Standards prescribed under subsection (a)(1) shall include information security standards that— ‘‘(i) provide minimum information security requirements as determined under section 20(b) of the National Institute of Standards and Technology Act (15 U.S.C. 278g– 3(b)); and ‘‘(ii) are otherwise necessary to improve the security of Federal information and information systems. ‘‘(B) Information security standards described in subparagraph (A) shall be compulsory and binding.",
+    "locator": "§302, 40 USC 11331(b)(2); 116 Stat. 2956",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  }
+]

@@ -1,0 +1,3 @@
+Impeccable detector run once on the completed report, CSS, and JS. Exit 2.
+Findings: oversized-h1 reported 4800px; overused-font reported Arial.
+Disposition: false static size interpretation (browser computed heading <=70px at every checked width); Arial is confined to controls/metadata in the established reading design. Serif report body and headings retained. No invented font changes.

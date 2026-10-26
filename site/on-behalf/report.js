@@ -1,52 +1,46 @@
-// Progressive enhancement only: all report content is present in the HTML.
-const $ = selector => document.querySelector(selector);
-const normalize = text => text.toLocaleLowerCase().normalize('NFKC');
-function filter(formId, queryId, kindId, itemSelector, countId, emptyId, noun) {
-  const form=$(formId), query=$(queryId), kind=$(kindId), count=$(countId), items=[...document.querySelectorAll(itemSelector)];
-  form.hidden=false; count.hidden=false;
-  const update=()=>{
-    let visible=0;
-    for(const item of items){item.hidden=!(normalize(item.textContent).includes(normalize(query.value.trim())) && (!kind.value || item.dataset.kind===kind.value));if(!item.hidden)visible++;}
-    count.textContent=`${visible} of ${items.length} ${noun}`;$(emptyId).hidden=visible!==0;
-  };
-  form.addEventListener('submit',event=>event.preventDefault());
-  form.addEventListener('input',update); form.addEventListener('change',update);
-  form.addEventListener('reset',()=>setTimeout(update,0)); update();
-  return ()=>{form.reset();update();};
+'use strict';
+const milestones=[...document.querySelectorAll('.milestone')];
+const eras=[...document.querySelectorAll('.era')];
+const form=document.querySelector('#history-filter');
+const query=document.querySelector('#history-query');
+const kind=document.querySelector('#history-kind');
+const count=document.querySelector('#history-count');
+const searchable=new Map(milestones.map(el=>[el,el.textContent.toLowerCase()]));
+function filterHistory(){
+ const words=query.value.trim().toLowerCase().split(/\s+/).filter(Boolean);
+ for(const el of milestones)el.hidden=!!(kind.value&&el.dataset.kind!==kind.value)||!words.every(w=>searchable.get(el).includes(w));
+ for(const era of eras)era.hidden=![...era.querySelectorAll('.milestone')].some(el=>!el.hidden);
+ const visible=milestones.filter(el=>!el.hidden).length;
+ count.textContent=`${visible} of ${milestones.length} milestones shown. Quotations in matching milestones remain complete.`;
+ document.querySelector('#history-empty').hidden=visible!==0;
 }
-const resetHistory=filter('#history-filter','#history-query','#history-kind','.history-list>li','#history-count','#history-empty','events');
-const resetSources=filter('#source-filter','#source-query','#source-kind','.source','#source-count','#source-empty','sources');
-const scenarios=[...document.querySelectorAll('.scenario')], select=$('#scenario-select');
-$('#scenario-controls').hidden=false;$('#scenario-status').hidden=false;
-function showScenario(value){
-  select.value=value;
-  for(const scenario of scenarios)scenario.hidden=value!=='all' && scenario.id!==`example-${value}`;
-  $('#scenario-status').textContent=value==='all'?'Showing all five examples':`Showing ${select.selectedOptions[0].textContent}`;
+document.querySelector('#history-tools').hidden=false;
+form.addEventListener('input',filterHistory);
+form.addEventListener('submit',event=>event.preventDefault());
+form.addEventListener('reset',()=>setTimeout(filterHistory,0));filterHistory();
+const sourceForm=document.querySelector('#source-filter');
+const sourceQuery=document.querySelector('#source-query');
+const sourceCount=document.querySelector('#source-count');
+const sources=[...document.querySelectorAll('.source')];
+function filterSources(){
+ const words=sourceQuery.value.trim().toLowerCase().split(/\s+/).filter(Boolean);
+ for(const el of sources)el.hidden=!words.every(w=>el.textContent.toLowerCase().includes(w));
+ const n=sources.filter(el=>!el.hidden).length;
+ sourceCount.textContent=`${n} of ${sources.length} sources shown.`;
+ document.querySelector('#source-empty').hidden=n!==0;
 }
-select.addEventListener('change',()=>{
-  showScenario(select.value);
-  const anchor=select.value==='all'?'examples':`example-${select.value}`;
-  // This works under file:// too, and browser Back restores earlier choices.
-  history.pushState(null,'',`#${anchor}`);
-});
-function followHash(){
-  let id;try{id=decodeURIComponent(location.hash.slice(1));}catch{return;}
-  const target=document.getElementById(id);if(!target)return;
-  if(target.closest('.source'))resetSources();
-  if(target.closest('.history-list'))resetHistory();
-  const scenario=target.closest('.scenario');
-  if(scenario)showScenario(scenario.id.slice(8));
-  else if(id==='examples')showScenario('all');
-  for(let p=target;p;p=p.parentElement)if(p.tagName==='DETAILS')p.open=true;
-  if(location.hash)requestAnimationFrame(()=>target.scrollIntoView({block:'start'}));
+sourceForm.hidden=false;sourceCount.hidden=false;
+sourceForm.addEventListener('input',filterSources);
+sourceForm.addEventListener('submit',e=>e.preventDefault());
+sourceForm.addEventListener('reset',()=>setTimeout(filterSources,0));filterSources();
+function revealTarget(){
+ let id;try{id=decodeURIComponent(location.hash.slice(1));}catch{return;}
+ const target=document.getElementById(id);if(!target)return;
+ if(target.closest('.era')?.hidden||target.closest('.milestone')?.hidden){query.value='';kind.value='';filterHistory();}
+ if(target.closest('.source')?.hidden){sourceQuery.value='';filterSources();}
+ target.scrollIntoView({block:'start'});
 }
-window.addEventListener('hashchange',followHash);window.addEventListener('popstate',followHash);
-showScenario('all');followHash();
-// Compact the long contents list on small screens; navigation remains native.
-if(matchMedia('(max-width:800px)').matches)$('.contents details').open=false;
-let printState;
-window.addEventListener('beforeprint',()=>{
-  printState=[...document.querySelectorAll('details')].map(el=>[el,el.open]);
-  for(const [el] of printState)el.open=true;
-});
-window.addEventListener('afterprint',()=>{for(const [el,open] of printState||[])el.open=open;});
+window.addEventListener('hashchange',revealTarget);
+if(location.hash)requestAnimationFrame(revealTarget);
+window.addEventListener('beforeprint',()=>{milestones.forEach(el=>el.hidden=false);eras.forEach(el=>el.hidden=false);sources.forEach(el=>el.hidden=false);});
+window.addEventListener('afterprint',()=>{filterHistory();filterSources();});

@@ -114,3 +114,15 @@ Publication was explicitly requested. The following deployment entry records the
 ## Revised report published and verified — October 24, 2026
 
 Published commit `63a6a3f8a6165b760922099e86d386d2c442986c` through successful Pages workflow [40097651531](https://github.com/pete-wai/fedramp-a130/actions/runs/40097651531). Live replacement: https://pete-wai.github.io/fedramp-a130/on-behalf/index.html . Twelve live files—including both editions, CSS/JS, source/claim/quotation exports, navigation entry points, and two original PDFs—matched local hashes. Live desktop and phone checks verified the new title, all 40 visible quotations, no overflow, scenario selection, public-comment filtering, and source deep links. Evidence: `output/on-behalf/live-check.json`. The earlier on-behalf report has been replaced at its existing URL.
+
+## October 25, 2026 — chronological information/system report
+
+- Normal build completed: existing 178-record library, 160 scoped PDF readers, 219 law pages, and new 41-milestone report.
+- `pnpm test` passed: 451 report-protected source files, 72 library originals, 45 quoted sources, 80 quotations, 41 discussions, 989 local report links/anchors; main and law checks also passed.
+- `scripts/behalf-quotes-check.py` passed: all 80 excerpts match bounded originals and are visible in index/print; prior anchors remain; three continuity comparisons match; two FISMA clauses match the collected current Code.
+- `scripts/editorial-check.py` passed: all 506 protected original files/source bodies unchanged.
+- `scripts/behalf-browser-check.mjs` passed at 1440, 768, 390, and 320px: no overflow, all quotations visible, combined filters/reset/empty, hidden citation targets revealed, sources, legacy URLs, keyboard disclosures, no JavaScript exceptions. Offline file:// with JS on/off, keyboard skip link, 200% text, complete print edition, and Pages prefix passed. Evidence: `output/on-behalf/history-browser-check.json`, `history-*.png`, `history-print.pdf`.
+- Existing main-report and law browser suites passed after shared navigation label updates.
+- Visual self-review covered desktop and phone report/quote layouts. Selected original-page images checked the Commerce statutory mandate, A-130 §4(j), and current SP 800-171 scope/footnotes. Source self-review corrected statutory section numbers and two printed-page locators and expanded the 2004 OMB guidance excerpt to retain its qualifications.
+- One design-detector run: two findings, responsive h1 falsely reported as 4800px (computed browser checks <=70px), and preserved Arial metadata/controls. See `output/on-behalf/history-design-detect.txt`. No repeated detector loop.
+- No external review or independent legal opinion. Publication verification follows after deployment.

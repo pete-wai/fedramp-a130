@@ -1,0 +1,13 @@
+[
+  {
+    "id": "nist53changes2025",
+    "title": "NIST SP 800-53 Release 5.2.0: Summary of Changes",
+    "date": "2025-08-27",
+    "kind": "NIST guidance",
+    "url": "https://csrc.nist.gov/csrc/media/Projects/risk-management/800-53%20Comment%20Site/SP800-53-r5.2.0-changes.pdf",
+    "local": "sources/nist53changes2025.pdf",
+    "sha256": "bc4e626745fa4cf48a1bb6d09f552aa4f7a4b945b459119407d08f2e97a89a86",
+    "retrieved": "2026-10-25",
+    "provenance": "Official NIST change list; retrieved using curl after urllib received HTTP 403."
+  }
+]

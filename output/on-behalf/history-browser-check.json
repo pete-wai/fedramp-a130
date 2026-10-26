@@ -1,0 +1,83 @@
+[
+  {
+    "width": 1440,
+    "passed": true,
+    "checks": [
+      "overflow",
+      "all quotes visible",
+      "combined filters/reset/empty",
+      "citation reveals filtered target",
+      "source filter",
+      "legacy links",
+      "keyboard disclosure",
+      "no JS exceptions"
+    ]
+  },
+  {
+    "width": 768,
+    "passed": true,
+    "checks": [
+      "overflow",
+      "all quotes visible",
+      "combined filters/reset/empty",
+      "citation reveals filtered target",
+      "source filter",
+      "legacy links",
+      "keyboard disclosure",
+      "no JS exceptions"
+    ]
+  },
+  {
+    "width": 390,
+    "passed": true,
+    "checks": [
+      "overflow",
+      "all quotes visible",
+      "combined filters/reset/empty",
+      "citation reveals filtered target",
+      "source filter",
+      "legacy links",
+      "keyboard disclosure",
+      "no JS exceptions"
+    ]
+  },
+  {
+    "width": 320,
+    "passed": true,
+    "checks": [
+      "overflow",
+      "all quotes visible",
+      "combined filters/reset/empty",
+      "citation reveals filtered target",
+      "source filter",
+      "legacy links",
+      "keyboard disclosure",
+      "no JS exceptions"
+    ]
+  },
+  {
+    "fileProtocol": true,
+    "offline": true,
+    "javaScript": true,
+    "passed": true
+  },
+  {
+    "fileProtocol": true,
+    "offline": true,
+    "javaScript": false,
+    "passed": true
+  },
+  {
+    "keyboardSkip": true,
+    "textSize": "200%",
+    "passed": true
+  },
+  {
+    "print": "all milestones, quotations and provenance expanded",
+    "passed": true
+  },
+  {
+    "publicPrefix": true,
+    "passed": true
+  }
+]

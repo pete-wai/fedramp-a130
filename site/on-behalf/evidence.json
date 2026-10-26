@@ -1,6 +1,6 @@
 {
-  "research_date": "2026-10-24",
-  "currency_note": "The law links use the site\u2019s OLRC release 119-118, through September 30, 2026. FOIA and records-definition additions use the 2024 Code. The CUI text is the 2025 annual CFR. October 24 attempts to retrieve current OLRC and eCFR text failed. These limits prevent a claim that every legal change through October 24 has been verified.",
+  "research_date": "2026-10-25",
+  "currency_note": "Source-specific editions; OLRC snapshot through September 30, 2026. See coverage ledger.",
   "sources": [
     {
       "id": "nara2016",
@@ -14,7 +14,9 @@
       "retrieved": "2026-10-24",
       "bytes": 290066,
       "cited_locations": [
-        "81 FR 63330\u201363331, responses; \u00a7\u00a72002.4(hh), 2002.14(h); effective November 14, 2016"
+        "32 CFR 2002.14(h)(1), 81 FR 63341; final rule effective November 14, 2016",
+        "32 CFR 2002.14(h)(2), 81 FR 63341; quoted with both exceptions",
+        "81 FR 63326, response on \u00a72002.1 scope; agency explanation"
       ]
     },
     {
@@ -29,9 +31,7 @@
       "bytes": 581061,
       "retrieved": "2026-10-23",
       "provenance": "Original acquired by inforegs from Regulations.gov; SHA-256 verified. Direct retrieval October 24 returned 403.",
-      "cited_locations": [
-        "Comments 1\u20134, pp. 3\u20139"
-      ]
+      "cited_locations": []
     },
     {
       "id": "dhs2023",
@@ -45,8 +45,7 @@
       "retrieved": "2026-10-24",
       "bytes": 493458,
       "cited_locations": [
-        "\u00a7II.B.7, 88 FR 40571",
-        "88 FR 40563\u201340565; \u00a7II.B.7, Definitions, 40571; basic clause and Alternate I; effective July 21, 2023"
+        "88 FR 40571, response under definition of Federal information system; DHS explanation"
       ]
     },
     {
@@ -61,8 +60,8 @@
       "retrieved": "2026-10-24",
       "bytes": 1313448,
       "cited_locations": [
-        "\u00a73.2",
-        "\u00a73.2, System Operational Status; SP 800-37 Task M-7"
+        "Executive summary, printed p. 1",
+        "Executive summary, printed p. 1; explicit A-130 connection"
       ]
     },
     {
@@ -77,8 +76,8 @@
       "retrieved": "2026-10-24",
       "bytes": 721496,
       "cited_locations": [
-        "\u00a7\u00a72\u20133",
-        "\u00a7\u00a71\u20133"
+        "\u00a71, printed p. 1",
+        "\u00a71.1, printed p. 1"
       ]
     },
     {
@@ -93,12 +92,7 @@
       "retrieved": "2026-10-24",
       "bytes": 23571,
       "provenance": "Official FedRAMP/2026 repository, default branch snapshot. Retrieval date is not issuance date.",
-      "cited_locations": [
-        "Agency Use Case Indicators; Social Media & Communications; Single Agency Systems",
-        "Social Media & Communications; Agency Use Case Indicators",
-        "Single Agency Systems",
-        "Agency Use Case Indicators; Single Agency Systems"
-      ]
+      "cited_locations": []
     },
     {
       "id": "far5220421",
@@ -111,11 +105,7 @@
       "sha256": "da2a7d9150526fabb12e1869ebd82592b7fdebb1e01dd8081d93d401d6e4534d",
       "retrieved": "2026-10-24",
       "bytes": 124736,
-      "cited_locations": [
-        "FAR 52.204-21(a), definition; November 2021 clause, retrieved FAC 2026-01",
-        "FAR 52.204-21(b)(1)",
-        "FAR 52.204-21(a)\u2013(c)"
-      ]
+      "cited_locations": []
     },
     {
       "id": "nist18status",
@@ -128,8 +118,7 @@
       "sha256": "6e9b69244d8347df4a1b6c2a70ba411afbafd55c14ea748e420c6279501878a6",
       "retrieved": "2026-10-24",
       "bytes": 49741,
-      "cited_locations": [],
-      "provenance": " Retained from the earlier report for stable source links; not cited in this replacement."
+      "cited_locations": []
     },
     {
       "id": "nist53status",
@@ -142,8 +131,7 @@
       "sha256": "00c4e550ba1326976657136497711dc3f4dffc86e90f0d71052a3ebdc1b4d21c",
       "retrieved": "2026-10-24",
       "bytes": 57249,
-      "cited_locations": [],
-      "provenance": " Retained from the earlier report for stable source links; not cited in this replacement."
+      "cited_locations": []
     },
     {
       "id": "nist171status",
@@ -156,8 +144,7 @@
       "sha256": "a3cdded2f973b252b68e2082f794626a425c9bdbbf31ce7afb4a8ff1d90bf595",
       "retrieved": "2026-10-24",
       "bytes": 51592,
-      "cited_locations": [],
-      "provenance": " Retained from the earlier report for stable source links; not cited in this replacement."
+      "cited_locations": []
     },
     {
       "id": "records-cloud",
@@ -171,9 +158,7 @@
       "retrieved": "2026-10-24",
       "bytes": 52843,
       "cited_locations": [
-        "Questions 6\u20138",
-        "NARA Bulletin 2010-05, question 6 (September 8, 2010)",
-        "NARA Bulletin 2010-05, questions 6\u20138"
+        "NARA Bulletin 2010-05, question 6"
       ]
     },
     {
@@ -188,9 +173,7 @@
       "bytes": 190965,
       "retrieved": "2026-10-23",
       "provenance": "Primary commenter-hosted submission",
-      "cited_locations": [
-        "\u00a7III, pp. 5\u20136"
-      ]
+      "cited_locations": []
     },
     {
       "id": "notice2015",
@@ -204,9 +187,7 @@
       "bytes": 173992,
       "retrieved": "2026-10-23",
       "provenance": "Official issuing or archival host",
-      "cited_locations": [
-        "80 FR 64022, October 22, 2015"
-      ]
+      "cited_locations": []
     },
     {
       "id": "cui2025",
@@ -220,18 +201,7 @@
       "bytes": 106752,
       "retrieved": "2026-10-23",
       "provenance": "official host",
-      "cited_locations": [
-        "32 CFR 2002.14(h)(1), 2025 annual edition",
-        "32 CFR 2002.14(h)(1)\u2013(2); 2002.2",
-        "32 CFR 2002.14(h)(2), 2025 annual edition",
-        "32 CFR 2002.14(h)(1)\u2013(2); 2002.4(hh)",
-        "32 CFR 2002.2(b)(5), 2002.14(h)(2)",
-        "32 CFR 2002.14(h)",
-        "32 CFR 2002.16, 2002.18",
-        "32 CFR 2002.14(f)",
-        "32 CFR 2002.14(h)(2)",
-        "32 CFR 2002.4(hh), 2002.14(h)"
-      ]
+      "cited_locations": []
     },
     {
       "id": "foia2024",
@@ -244,10 +214,7 @@
       "sha256": "b1fad0a21337dc814f2f05e47f260dba90752af9f72c66c7b0323477183323de",
       "bytes": 177797,
       "retrieved": "2026-10-24",
-      "cited_locations": [
-        "5 USC 552(f)(2)(B)",
-        "5 USC 552(f)(2)(B), 2024 Code edition"
-      ]
+      "cited_locations": []
     },
     {
       "id": "records2024",
@@ -260,9 +227,7 @@
       "sha256": "ff9de8a95c4847cd61e115e1863f0a86fb766e66ffa29faae43bbb42623cb1ec",
       "bytes": 4909,
       "retrieved": "2026-10-24",
-      "cited_locations": [
-        "44 USC 3301"
-      ]
+      "cited_locations": []
     },
     {
       "id": "usc3554",
@@ -275,16 +240,7 @@
       "sha256": "7966161a532f2b1ddde650c8aaad3425737f85c578cac04fd4f0ce57ca97ead8",
       "retrieved": "2026-10-10",
       "provenance": "OLRC release 119-118; unchanged existing collection. Later-law verification incomplete.",
-      "cited_locations": [
-        "44 USC 3554(a)(1)(A)(i)\u2013(ii); collected Code through September 30, 2026",
-        "44 USC 3554(a)(2)(A)\u2013(D), (b)(1)\u2013(8)",
-        "44 USC 3554(b)(7)",
-        "\u00a73554(a)(1)(A), (b)",
-        "\u00a73554(a)(2)(D), (b)(5)",
-        "\u00a73554(b)(7)",
-        "44 USC 3554(a)\u2013(b)",
-        "44 USC 3554(a)(1)(A)"
-      ]
+      "cited_locations": []
     },
     {
       "id": "usc3502",
@@ -297,9 +253,7 @@
       "sha256": "7966161a532f2b1ddde650c8aaad3425737f85c578cac04fd4f0ce57ca97ead8",
       "retrieved": "2026-10-10",
       "provenance": "OLRC release 119-118; unchanged existing collection. Later-law verification incomplete.",
-      "cited_locations": [
-        "44 USC 3502(8)"
-      ]
+      "cited_locations": []
     },
     {
       "id": "usc3506",
@@ -312,9 +266,7 @@
       "sha256": "7966161a532f2b1ddde650c8aaad3425737f85c578cac04fd4f0ce57ca97ead8",
       "retrieved": "2026-10-10",
       "provenance": "OLRC release 119-118; unchanged existing collection. Later-law verification incomplete.",
-      "cited_locations": [
-        "44 USC 3506(c)"
-      ]
+      "cited_locations": []
     },
     {
       "id": "usc3614",
@@ -327,9 +279,7 @@
       "sha256": "7966161a532f2b1ddde650c8aaad3425737f85c578cac04fd4f0ce57ca97ead8",
       "retrieved": "2026-10-10",
       "provenance": "OLRC release 119-118; unchanged existing collection. Later-law verification incomplete.",
-      "cited_locations": [
-        "44 USC 3614(1)(A)"
-      ]
+      "cited_locations": []
     },
     {
       "id": "usc552a",
@@ -342,12 +292,7 @@
       "sha256": "f8e6aa5def8854f8d2b1702eccd36962b92080d6212b64c543fa72f1ae1b209a",
       "retrieved": "2026-10-10",
       "provenance": "OLRC release 119-118; unchanged existing collection. Later-law verification incomplete.",
-      "cited_locations": [
-        "5 USC 552a(a)(5), (b), (e), (m)",
-        "5 USC 552a(e), (m)",
-        "5 USC 552a(b)",
-        "5 USC 552a(m)"
-      ]
+      "cited_locations": []
     },
     {
       "id": "hsa2002",
@@ -359,15 +304,13 @@
       "sha256": "e96e8b44905469d308187a78a906db5695ebb0b3c218575e55835c62526a0fd2",
       "retrieved": "2026-10-10",
       "provenance": "General effective date 60 days after enactment; compare the December 17 E-Government Act separately.",
-      "cited_locations": [
-        "\u00a71001, former 44 USC 3534"
-      ]
+      "cited_locations": []
     },
     {
       "id": "a130-2016",
       "title": "A-130: Managing Information as a Strategic Resource",
       "date": "2016-07-28",
-      "kind": "OMB circular",
+      "kind": "OMB policy",
       "url": "https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf",
       "local": "../sources/a130-2016.pdf",
       "sha256": "f1a2e73a1063eab7d83da2a3bfa810f3aaebc9a6ef8e9d264ffc57ccd02152e6",
@@ -375,30 +318,13 @@
       "provenance": "2016 revision; later laws and memoranda also apply.",
       "text": "../sources/a130-2016.txt",
       "cited_locations": [
-        "\u00a710(22)\u2013(23)",
-        "Appendix I \u00a74(d)(1), printed p. 7 / PDF p. 44",
-        "Appendix I \u00a74(d)(1)\u2013(8)",
-        "Appendix I \u00a74(j)(1)\u2013(2)",
-        "\u00a710(23); Appendix I \u00a75(r)",
-        "Appendix I \u00a74(j)(1), printed p. 14 / PDF p. 51",
-        "Appendix I \u00a74(j)(2), printed p. 14 / PDF p. 51",
-        "Appendix I \u00a74(j)(2)(a), printed p. 14 / PDF p. 51",
-        "Appendix I \u00a74(j)(2)(b), printed p. 14 / PDF p. 51",
-        "Appendix I \u00a74(j)(2)(c), printed p. 14 / PDF p. 51",
-        "Appendix I \u00a74(j)(2)(d), printed p. 14 / PDF p. 51",
-        "Appendix I \u00a74(j)(2)(f), printed p. 14 / PDF p. 51",
-        "Appendix I \u00a74(j)(2)(e), printed p. 14 / PDF p. 51",
-        "Appendix I \u00a75(r), printed p. 26 / PDF p. 63",
-        "Appendix I \u00a75(r), pp. 25\u201326",
-        "Appendix I \u00a74(j)(2)(b)",
-        "Appendix I \u00a74(j)(2)(c)\u2013(f)",
-        "Appendix I \u00a74(j)(2)(e)",
-        "Appendix I \u00a75(r), printed p. 25 / PDF p. 62",
-        "Appendix I \u00a74(j), \u00a75(r)",
-        "\u00a75; Appendix II",
-        "Appendix I \u00a74(j)",
-        "Appendix I \u00a75(r)",
-        "Appendix I \u00a74(j); \u00a75(r), printed pp. 25\u201326 / PDF pp. 62\u201363"
+        "\u00a710(a)(22)\u2013(23), printed p. 29",
+        "Appendix I \u00a74(j)(1), printed p. 14",
+        "Appendix I \u00a74(j)(2)(a)\u2013(d), printed p. 14",
+        "Appendix I \u00a74(j)(2)(e)\u2013(f), printed p. 14",
+        "Appendix I \u00a75(r), printed p. 25",
+        "Appendix I \u00a75(r), printed p. 26",
+        "Appendix I \u00a74(d)(1), printed p. 7"
       ]
     },
     {
@@ -410,31 +336,20 @@
       "local": "../sources/sp800372.pdf",
       "sha256": "4f75e1136bb905a654f1bcd9eefefb4108f47597276ee5eec0688f6d96f6a01d",
       "retrieved": "2026-10-10",
-      "provenance": "Historical edition Publication date in this report checked against NIST publication history or the FIPS announcement; original bytes unchanged.",
+      "provenance": "Historical edition",
       "text": "../sources/sp800372.txt",
       "cited_locations": [
-        "Appendix D, System Owner, p. 123 / PDF p. 142",
-        "Appendix D, Authorizing Official, p. 114 / PDF p. 133",
-        "Appendix D, p. 114; Appendix G, pp. 159\u2013160",
-        "Appendix D, Information Owner or Steward, p. 119 / PDF p. 138",
-        "\u00a72.5, footnote 42, p. 17 / PDF p. 36",
-        "Appendix G, p. 159 / PDF p. 178",
-        "Appendix G, pp. 159\u2013160",
-        "Appendix D, pp. 114, 119, 123; Appendix G",
-        "Appendix D, p. 114; Appendix G, p. 160",
-        "Appendix G",
-        "Appendix G, p. 160 / PDF p. 179",
-        "\u00a72.4; Appendix G",
-        "Appendix G, pp. 159\u2013161",
-        "\u00a7\u00a72.4\u20132.5; Appendix G",
-        "\u00a72.5; Appendix G"
+        "Appendix D, Information Owner or Steward, printed p. 119",
+        "Appendix D, Authorizing Official, printed p. 114",
+        "Appendix G, printed p. 159",
+        "Appendix G, printed p. 160; an alternative risk response, not a waiver of law"
       ]
     },
     {
       "id": "a130-1993",
       "title": "A-130: Transmittal 1",
       "date": "1993-06-25",
-      "kind": "OMB circular",
+      "kind": "OMB policy",
       "url": "https://clintonwhitehouse6.archives.gov/1993/06/1993-06-25-omb-circular-a130-revised-to-remove-printer-codes.html",
       "local": "../sources/a130-1993.html",
       "sha256": "b394b7885e2a250a20af528c2c032bc8a749987bc7346c0f3bf385f00b05e270",
@@ -442,8 +357,8 @@
       "provenance": "Historical amendment; later editions contain further changes.",
       "text": "../sources/a130-1993.txt",
       "cited_locations": [
-        "Appendix IV \u00a73, analysis of \u00a76: Government Information (1993)",
-        "Appendix IV, \u00a73, Government Information"
+        "1993 notice, Background (opening explanation)",
+        "Appendix IV \u00a73, analysis of \u00a76: Government Information"
       ]
     },
     {
@@ -455,19 +370,17 @@
       "local": "../sources/fips200.pdf",
       "sha256": "107a9b9cdc8eccf37386aec28bbaf2dfaef5cfece17151ceabc3960423243a57",
       "retrieved": "2026-10-10",
-      "provenance": "Historical edition Publication date in this report checked against NIST publication history or the FIPS announcement; original bytes unchanged.",
+      "provenance": "Historical edition",
       "text": "../sources/fips200.txt",
       "cited_locations": [
-        "FIPS 200, announcement \u00a78, printed p. v / PDF p. 5",
-        "Announcement \u00a7\u00a76, 8; standard \u00a74",
-        "\u00a7\u00a72\u20133"
+        "\u00a74, printed p. 4; footnote 5 requires the current SP 800-53, as amended"
       ]
     },
     {
       "id": "m-24-15",
       "title": "Modernizing the Federal Risk and Authorization Management Program (FedRAMP)",
       "date": "2024-07-25",
-      "kind": "OMB memorandum",
+      "kind": "OMB policy",
       "url": "https://www.whitehouse.gov/wp-content/uploads/2024/07/M-24-15-Modernizing-the-Federal-Risk-and-Authorization-Management-Program.pdf",
       "local": "../sources/m-24-15.pdf",
       "sha256": "07aabe7fd0baa34e3c77b7c9537204c6ac1caff473e04af8dc7e40743c30250a",
@@ -475,13 +388,9 @@
       "provenance": "Current applicability not assessed",
       "text": "../sources/m-24-15.txt",
       "cited_locations": [
-        "\u00a7IV, footnote 7",
-        "\u00a7\u00a7III\u2013IV, footnote 7",
-        "\u00a7III, p. 5; exclusions follow this sentence",
-        "\u00a7IV, footnote 7, p. 6",
-        "\u00a7III exclusions",
-        "\u00a7III",
-        "\u00a7III, exclusion 1"
+        "\u00a7III, printed p. 5; exclusions immediately follow",
+        "\u00a7IV footnote 7, printed p. 6",
+        "\u00a7III, exclusions 1\u20136, printed p. 5; footnote 6 limits scope to unclassified, non-national-security systems"
       ]
     },
     {
@@ -493,14 +402,10 @@
       "local": "../sources/sp8001713.pdf",
       "sha256": "3e4631df8b5d61f40a6e542b52779ef30ddbbfff31e09214fa94ad6e6f5e6d08",
       "retrieved": "2026-10-10",
-      "provenance": "Historical edition Publication date in this report checked against NIST publication history or the FIPS announcement; original bytes unchanged.",
+      "provenance": "Historical edition",
       "text": "../sources/sp8001713.txt",
       "cited_locations": [
-        "\u00a71.1",
-        "\u00a71.1 and footnote 8",
-        "\u00a71.1, p. 2 / PDF p. 12; read with footnote 8",
-        "\u00a71.1, p. 2 / PDF p. 12",
-        "\u00a71.1, footnote 8; \u00a72"
+        "Revision 3 \u00a71.1, printed p. 2; read with footnote 8 on FISMA"
       ]
     },
     {
@@ -514,10 +419,7 @@
       "retrieved": "2026-10-10",
       "provenance": "Historical edition",
       "text": "../sources/privacy.txt",
-      "cited_locations": [
-        "Privacy Act of 1974 \u00a73, adding 5 USC 552a(m); 88 Stat. 1904 / PDF p. 9",
-        "\u00a73, adding 5 USC 552a(m)"
-      ]
+      "cited_locations": []
     },
     {
       "id": "pra1980",
@@ -531,7 +433,7 @@
       "provenance": "Historical edition",
       "text": "../sources/pra1980.txt",
       "cited_locations": [
-        "44 USC 3504\u20133506 as enacted"
+        "\u00a72, former 44 USC 3504(f)(1); 94 Stat. 2816"
       ]
     },
     {
@@ -545,9 +447,7 @@
       "retrieved": "2026-10-10",
       "provenance": "Amended by Transmittals 1\u20134.",
       "text": "../sources/a130-1985.txt",
-      "cited_locations": [
-        "\u00a76; Appendix IV, analysis of \u00a78b(2)\u2013(3), 50 FR 52749; PDF p. 307"
-      ]
+      "cited_locations": []
     },
     {
       "id": "csa",
@@ -561,14 +461,15 @@
       "provenance": "Historical edition",
       "text": "../sources/csa.txt",
       "cited_locations": [
-        "\u00a73, adding NBS Act \u00a720(d)(2); \u00a7\u00a75\u20137"
+        "\u00a73, NBS Act \u00a720(d)(2)(A); 101 Stat. 1726",
+        "\u00a73, NBS Act \u00a720(a)(4); 101 Stat. 1725"
       ]
     },
     {
       "id": "a130-1996",
       "title": "A-130: Transmittal 3",
       "date": "1996-02-08",
-      "kind": "OMB circular",
+      "kind": "OMB policy",
       "url": "https://clintonwhitehouse3.archives.gov/OMB/circulars/a130/a130.html",
       "local": "../sources/a130-1996.html",
       "sha256": "906a73bd9b77740b0ed2bfc6f2201ec33363e2a04def3f3108fc7aecc146c4b6",
@@ -576,8 +477,7 @@
       "provenance": "Historical consolidated text; amended in 2000 and replaced in 2016.",
       "text": "../sources/a130-1996.txt",
       "cited_locations": [
-        "Appendix IV, Government Information",
-        "Appendix III, \u00a7\u00a72\u20133"
+        "\u00a78(a)(1)(g)"
       ]
     },
     {
@@ -591,9 +491,7 @@
       "retrieved": "2026-10-10",
       "provenance": "Historical edition",
       "text": "../sources/a130-2000-app-iv.txt",
-      "cited_locations": [
-        "\u00a73, Government Information"
-      ]
+      "cited_locations": []
     },
     {
       "id": "clinger",
@@ -606,10 +504,7 @@
       "retrieved": "2026-10-10",
       "provenance": "Historical edition",
       "text": "../sources/clinger.txt",
-      "cited_locations": [
-        "Division E \u00a75002(3), now 40 USC 11101(6)",
-        "Division E, \u00a75002(3), now 40 USC 11101(6)"
-      ]
+      "cited_locations": []
     },
     {
       "id": "gisra",
@@ -623,7 +518,7 @@
       "provenance": "Historical edition",
       "text": "../sources/gisra.txt",
       "cited_locations": [
-        "\u00a71061, former 44 USC 3534"
+        "\u00a71061, former 44 USC 3534(a)(1); 114 Stat. 1654A\u2013268"
       ]
     },
     {
@@ -638,7 +533,12 @@
       "provenance": "Historical edition",
       "text": "../sources/fisma2002.txt",
       "cited_locations": [
-        "Title III \u00a7301, former 44 USC 3544(a)\u2013(b)"
+        "\u00a7301, former 44 USC 3544(a)(1)(A); 116 Stat. 2949",
+        "\u00a7301, former 44 USC 3544(b); 116 Stat. 2950",
+        "\u00a7303, NIST Act \u00a720(a)(2)\u2013(3); 116 Stat. 2957",
+        "\u00a7303, NIST Act \u00a720(c)(3)\u2013(4); 116 Stat. 2958",
+        "\u00a7303, NIST Act \u00a720(b)(1)(A)\u2013(B); 116 Stat. 2957; minimum requirements follow in (C)",
+        "\u00a7302, 40 USC 11331(b)(2); 116 Stat. 2956"
       ]
     },
     {
@@ -653,15 +553,15 @@
       "provenance": "Historical edition",
       "text": "../sources/fips199.txt",
       "cited_locations": [
-        "\u00a7\u00a72\u20133",
-        "\u00a73"
+        "\u00a71, printed p. 1",
+        "\u00a72, printed p. 1"
       ]
     },
     {
       "id": "m-10-15",
       "title": "M-10-15, FY 2010 Reporting Instructions for the Federal Information Security Management Act and Agency Privacy Management",
       "date": "2010-04-21",
-      "kind": "OMB memorandum",
+      "kind": "OMB policy",
       "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2010/m10-15.pdf",
       "local": "../sources/m-10-15.pdf",
       "sha256": "de73191abda2c3037a37d6ff60566a6dd72c9aacbeaa8f5337b1f7be467273d2",
@@ -669,15 +569,16 @@
       "provenance": "Current applicability not assessed",
       "text": "../sources/m-10-15.txt",
       "cited_locations": [
-        "Question 38, printed pp. 14\u201315",
-        "Questions 36\u201338, printed pp. 13\u201315; PDF pp. 17\u201319"
+        "FY2010 reporting instructions, question 36, printed p. 13",
+        "Question 36, printed p. 14",
+        "Question 38, service providers, printed p. 15; historical 2010 instructions"
       ]
     },
     {
       "id": "fedramp2011",
       "title": "Security Authorization of Information Systems in Cloud Computing Environments",
       "date": "2011-12-08",
-      "kind": "Unnumbered memorandum",
+      "kind": "OMB policy",
       "url": "https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/egov_docs/fedrampmemo.pdf",
       "local": "../sources/fedramp2011.pdf",
       "sha256": "1000dc126873b7d4831512434a5087d6991e7b02f73200a39d49e683ec068fbc",
@@ -685,7 +586,7 @@
       "provenance": "Rescinded by M-24-15 (opening and concluding sections).",
       "text": "../sources/fedramp2011.txt",
       "cited_locations": [
-        "Scope and agency responsibilities"
+        "\u00a73(a), printed p. 2; read with \u00a73(b)\u2013(c) and private-cloud exception in footnote 4"
       ]
     },
     {
@@ -700,14 +601,9 @@
       "provenance": "Historical edition",
       "text": "../sources/fisma2014.txt",
       "cited_locations": [
-        "44 USC 3554(a)(1)(A), shared introductory duty; 128 Stat. 3078",
-        "\u00a72, enacting 44 USC 3554(a)(1)(A)(i); 128 Stat. 3078",
-        "\u00a72, enacting 44 USC 3554(a)(1)(A)(ii); 128 Stat. 3078",
-        "44 USC 3554(a)(1)(B); 128 Stat. 3078",
-        "44 USC 3554(a)(2)(D); 128 Stat. 3078",
-        "44 USC 3554(b); 128 Stat. 3079",
-        "\u00a72, 44 USC 3554(a)(1)(A)(ii)",
-        "\u00a72, 44 USC 3554"
+        "\u00a72, 44 USC 3554(a)(1)(A); 128 Stat. 3078",
+        "44 USC 3554(a)(2); 128 Stat. 3078",
+        "44 USC 3554(b); 128 Stat. 3079"
       ]
     },
     {
@@ -721,9 +617,7 @@
       "retrieved": "2026-10-10",
       "provenance": "Historical edition",
       "text": "../sources/a130-2016-notice.txt",
-      "cited_locations": [
-        "81 FR 49689, July 28, 2016"
-      ]
+      "cited_locations": []
     },
     {
       "id": "fedramp-act",
@@ -737,25 +631,25 @@
       "provenance": "Historical edition",
       "text": "../sources/fedramp-act.txt",
       "cited_locations": [
-        "\u00a75921"
+        "\u00a75921, 44 USC 3607(b)(3); 136 Stat. 3449",
+        "44 USC 3608; 136 Stat. 3450",
+        "44 USC 3614(1); 136 Stat. 3454",
+        "44 USC 3613(e)(2); 136 Stat. 3454"
       ]
     },
     {
       "id": "sp800535",
       "title": "SP 800-53 Rev. 5: Security and Privacy Controls",
-      "date": "2020-09-01",
+      "date": "2020; updated December 2020",
       "kind": "NIST guidance",
       "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf",
       "local": "../sources/sp800535.pdf",
       "sha256": "fc63bcd61715d0181dd8e85998b1e6201ae3515fc6626102101cab1841e11ec6",
       "retrieved": "2026-10-10",
-      "provenance": "Historical edition",
+      "provenance": "Saved Revision 5 includes December 10, 2020 updates; 2025 release change list is separately preserved. Historical edition",
       "text": "../sources/sp800535.txt",
       "cited_locations": [
-        "SA-9; AC-20; CA-3",
-        "SA-9",
-        "SA-9; SC-28, Protection of Information at Rest",
-        "CA-3; SC-7; SC-8, Transmission Confidentiality and Integrity"
+        "Revision 5, SA-9 control and discussion; September 2020, includes December 10, 2020 updates"
       ]
     },
     {
@@ -769,8 +663,384 @@
       "retrieved": "2026-10-10",
       "provenance": "Historical edition",
       "text": "../sources/sp800145.txt",
+      "cited_locations": []
+    },
+    {
+      "id": "nist37status",
+      "title": "NIST publication status: SP 800-37 Revision 2",
+      "date": "2026-10-24",
+      "kind": "Publication status",
+      "url": "https://csrc.nist.gov/pubs/sp/800/37/r2/final",
+      "local": "sources/nist37status.html",
+      "text": "sources/nist37status.txt",
+      "sha256": "9467380090171f006bbd1db9525f5f4df92ec6181081f9c80bb9d77aa68a9fc2",
+      "retrieved": "2026-10-24",
+      "bytes": 53460,
+      "cited_locations": []
+    },
+    {
+      "id": "scope-archive",
+      "title": "FedRAMP 2026: content/scope.md",
+      "date": "Snapshot 2026-10-13",
+      "kind": "Program guidance",
+      "url": "https://raw.githubusercontent.com/FedRAMP/2026/97fc5d845b51c186d2e7fc232ba78b77000e65a3/content/scope.md",
+      "local": "sources/scope-archive.md",
+      "text": "sources/scope-archive.txt",
+      "sha256": "a338ad564d8c1eb0a6929e79df24d864bb214e66e12e54a2ae708ef18a9e26f7",
+      "bytes": 23571,
+      "retrieved": "2026-10-13",
+      "provenance": "Official FedRAMP GitHub repository, commit 97fc5d845b51c186d2e7fc232ba78b77000e65a3",
+      "cited_locations": []
+    },
+    {
+      "id": "nist53changes2025",
+      "title": "NIST SP 800-53 Release 5.2.0: Summary of Changes",
+      "date": "2025-08-27",
+      "kind": "NIST guidance",
+      "url": "https://csrc.nist.gov/csrc/media/Projects/risk-management/800-53%20Comment%20Site/SP800-53-r5.2.0-changes.pdf",
+      "local": "sources/nist53changes2025.pdf",
+      "sha256": "bc4e626745fa4cf48a1bb6d09f552aa4f7a4b945b459119407d08f2e97a89a86",
+      "retrieved": "2026-10-25",
+      "provenance": "Official NIST change list; retrieved using curl after urllib received HTTP 403.",
       "cited_locations": [
-        "\u00a72, IaaS definition"
+        "Opening explanation, PDF p. 1; full control change list follows"
+      ]
+    },
+    {
+      "id": "rmf2010",
+      "title": "SP 800-37 Rev. 1 \u2014 Guide for Applying the Risk Management Framework to Federal Information Systems: A Security Life Cycle Approach",
+      "date": "2010-02-22",
+      "kind": "NIST guidance",
+      "url": "https://csrc.nist.gov/files/pubs/sp/800/37/r1/final/docs/sp800-37-rev1-final.pdf",
+      "local": "sources/rmf2010.pdf",
+      "sha256": "685fe443c868692c43054c074ac329db41f3910489204e39217eacb402520f4d",
+      "retrieved": "2026-10-13",
+      "provenance": "Original located through Inforegs; copied and SHA-256 checked 2026-10-25. withdrawn. CSRC record: https://csrc.nist.gov/pubs/sp/800/37/r1/final; CSRC local download link: https://csrc.nist.gov/files/pubs/sp/800/37/r1/final/docs/sp800-37-rev1-final.pdf",
+      "cited_locations": [
+        "\u00a72.4, printed p. 15; Appendix I referenced here is in SP 800-53"
+      ]
+    },
+    {
+      "id": "rmf2014",
+      "title": "SP 800-37 Rev. 1 \u2014 Guide for Applying the Risk Management Framework to Federal Information Systems: A Security Life Cycle Approach",
+      "date": "2014-06-05",
+      "kind": "NIST guidance",
+      "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r1.pdf",
+      "local": "sources/rmf2014.pdf",
+      "sha256": "cd4af4a51c9b016b73116bc5fdfb284f9734e47b9cb95027f9d5d4fe35e74198",
+      "retrieved": "2026-10-13",
+      "provenance": "June 2014 updated edition, distinct from original February 2010 edition; later withdrawal wrapper included. Original located through Inforegs; copied and SHA-256 checked 2026-10-25. withdrawn. CSRC record: https://csrc.nist.gov/pubs/sp/800/37/r1/upd1/final; DOI: https://doi.org/10.6028/NIST.SP.800-37r1; PDF/publication URL: https://doi.org/10.6028/NIST.SP.800-37r1; CSRC local download link: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r1.pdf",
+      "cited_locations": [
+        "\u00a72.4, printed p. 15; June 5, 2014 update, archive wrapper included"
+      ]
+    },
+    {
+      "id": "sp53r1",
+      "title": "SP 800-53 Rev. 1 \u2014 Recommended Security Controls for Federal Information Systems",
+      "date": "2006-12-19",
+      "kind": "NIST guidance",
+      "url": "https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-53r1.pdf",
+      "local": "sources/sp53r1.pdf",
+      "sha256": "819365c6479f889137ea21ff3e25478dd35e5d8ddaa190b16b4db19021c1d0c0",
+      "retrieved": "2026-10-13",
+      "provenance": "Original located through Inforegs; copied and SHA-256 checked 2026-10-25. withdrawn. CSRC record: https://csrc.nist.gov/pubs/sp/800/53/r1/final; DOI: https://doi.org/10.6028/NIST.SP.800-53r1; PDF/publication URL: https://doi.org/10.6028/NIST.SP.800-53r1; CSRC local download link: https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-53r1.pdf",
+      "cited_locations": [
+        "SA-9 supplemental guidance, p. 120"
+      ]
+    },
+    {
+      "id": "sp53r2",
+      "title": "SP 800-53 Rev. 2 \u2014 Recommended Security Controls for Federal Information Systems",
+      "date": "2007-12-19",
+      "kind": "NIST guidance",
+      "url": "https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-53r2.pdf",
+      "local": "sources/sp53r2.pdf",
+      "sha256": "ec703bd3a2d5b85528c3b5f74d8b1a10f02d869b086c4103ba622078f2634d5b",
+      "retrieved": "2026-10-13",
+      "provenance": "Original located through Inforegs; copied and SHA-256 checked 2026-10-25. withdrawn. CSRC record: https://csrc.nist.gov/pubs/sp/800/53/r2/final; DOI: https://doi.org/10.6028/NIST.SP.800-53r2; PDF/publication URL: https://doi.org/10.6028/NIST.SP.800-53r2; CSRC local download link: https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-53r2.pdf",
+      "cited_locations": [
+        "SA-9 supplemental guidance; PDF p. 130 including archive cover"
+      ]
+    },
+    {
+      "id": "sp53r3",
+      "title": "SP 800-53 Rev. 3 \u2014 Recommended Security Controls for Federal Information Systems and Organizations",
+      "date": "2009; updated August 2010",
+      "kind": "NIST guidance",
+      "url": "https://doi.org/10.6028/nist.sp.800-53r3",
+      "local": "sources/sp53r3.pdf",
+      "sha256": "772a0b23cbc8d11a9a5ff77494d7bffe3a495dfbcfef3a507e29726bd4826e2f",
+      "retrieved": "2026-10-13",
+      "provenance": "Saved Revision 3 includes August 2010 updates and an archive cover. Original located through Inforegs; copied and SHA-256 checked 2026-10-25. withdrawn. CSRC record: https://csrc.nist.gov/pubs/sp/800/53/r3/upd2/final; No download or DOI link exposed on the CSRC detail page.; DOI metadata verified against Crossref/NIST record title (similarity 1.00): https://doi.org/10.6028/nist.sp.800-53r3",
+      "cited_locations": [
+        "SA-9 control; PDF p. 176 including archive cover"
+      ]
+    },
+    {
+      "id": "sp171r1",
+      "title": "SP 800-171 Rev. 1 \u2014 Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations",
+      "date": "2016; updated June 2018",
+      "kind": "NIST guidance",
+      "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171r1.pdf",
+      "local": "sources/sp171r1.pdf",
+      "sha256": "ba5afc608fc94baeda05c53ccd5d63dc44071f7042dfcf8bdf04b3b75485310d",
+      "retrieved": "2026-10-13",
+      "provenance": "Saved Revision 1 includes June 7, 2018 updates and a later withdrawal cover. Original located through Inforegs; copied and SHA-256 checked 2026-10-25. withdrawn. CSRC record: https://csrc.nist.gov/pubs/sp/800/171/r1/upd3/final; DOI: https://doi.org/10.6028/NIST.SP.800-171r1; PDF/publication URL: https://doi.org/10.6028/NIST.SP.800-171r1; CSRC local download link: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171r1.pdf",
+      "cited_locations": [
+        "\u00a71.1, printed p. 2; Revision 1 December 2016, saved edition updated June 7, 2018",
+        "\u00a73.12.4, printed p. 14; footnote 26 does not prescribe a plan format"
+      ]
+    },
+    {
+      "id": "sp171r2",
+      "title": "SP 800-171 Rev. 2 \u2014 Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations",
+      "date": "2020; updated January 2021",
+      "kind": "NIST guidance",
+      "url": "https://doi.org/10.6028/nist.sp.800-171r2",
+      "local": "sources/sp171r2.pdf",
+      "sha256": "298bdbfcf6a4890a564b225c893230a0b32b2e69e3b98dd898aaeb1d544c5e12",
+      "retrieved": "2026-10-13",
+      "provenance": "Saved Revision 2 includes January 28, 2021 updates and a later withdrawal cover. Original located through Inforegs; copied and SHA-256 checked 2026-10-25. withdrawn. CSRC record: https://csrc.nist.gov/pubs/sp/800/171/r2/final; No download or DOI link exposed on the CSRC detail page.; DOI metadata verified against Crossref/NIST record title (similarity 1.00): https://doi.org/10.6028/nist.sp.800-171r2",
+      "cited_locations": [
+        "Revision 2, front matter p. vii; February 2020, includes January 28, 2021 updates",
+        "\u00a71.1, printed p. 2"
+      ]
+    },
+    {
+      "id": "nist171-comments",
+      "title": "NIST \u2014 NIST SP 800-171 Revision 3 Final Public Draft and SP 800-171A Revision 3 Initial Public Draft: Analysis of Comments Received",
+      "date": "2024-02-21",
+      "kind": "NIST guidance",
+      "url": "https://csrc.nist.gov/csrc/media/Projects/protecting-controlled-unclassified-information/Call%20for%20comments%20Nov%202023/800-171r3-fpd-171Ar3-comment-analysis.pdf",
+      "local": "sources/nist171-comments.pdf",
+      "sha256": "132967ff206730d3bf01318a547738bf3589e157ee950cc90b68bd3f62840a8d",
+      "retrieved": "2026-10-23",
+      "provenance": "Original located through Inforegs; copied and SHA-256 checked 2026-10-25. published analysis. Candidate pending topic relevance; NIST staff analysis of FPD/IPD submissions; explanatory/adjudication record, not binding. Screen specifically for scope/on-behalf comments and NIST disposition.",
+      "cited_locations": []
+    },
+    {
+      "id": "sp60-2004",
+      "title": "SP 800-60 Vol. 1 \u2014 Guide for Mapping Types of Information and Information Systems to Security Categories",
+      "date": "2004-06-10",
+      "kind": "NIST guidance",
+      "url": "https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-60ver2v1.pdf",
+      "local": "sources/sp60-2004.pdf",
+      "sha256": "d0b1f1c6e45e89791a0d50f752de80a42a72a2ccac6075a5ef8284c396597e2e",
+      "retrieved": "2026-10-13",
+      "provenance": "Original located through Inforegs; copied and SHA-256 checked 2026-10-25. withdrawn. CSRC record: https://csrc.nist.gov/pubs/sp/800/60/v1/final; DOI: https://doi.org/10.6028/NIST.SP.800-60ver2v1; PDF/publication URL: https://doi.org/10.6028/NIST.SP.800-60ver2v1; CSRC local download link: https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-60ver2v1.pdf",
+      "cited_locations": [
+        "Volume I, executive summary, p. vii"
+      ]
+    },
+    {
+      "id": "sp60-2008",
+      "title": "SP 800-60 Vol. 1 Rev. 1 \u2014 Guide for Mapping Types of Information and Information Systems to Security Categories",
+      "date": "2008-08-01",
+      "kind": "NIST guidance",
+      "url": "https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-60v1r1.pdf",
+      "local": "sources/sp60-2008.pdf",
+      "sha256": "6f13f57f11697efcba694d0c9935c99168512f737cc76f2c432f248550128460",
+      "retrieved": "2026-10-13",
+      "provenance": "Original located through Inforegs; copied and SHA-256 checked 2026-10-25. final. CSRC record: https://csrc.nist.gov/pubs/sp/800/60/v1/r1/final; DOI: https://doi.org/10.6028/NIST.SP.800-60v1r1; PDF/publication URL: https://doi.org/10.6028/NIST.SP.800-60v1r1; CSRC local download link: https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-60v1r1.pdf",
+      "cited_locations": [
+        "Volume I Revision 1, executive summary, p. vii"
+      ]
+    },
+    {
+      "id": "pra1995",
+      "title": "Paperwork Reduction Act of 1995",
+      "date": "1995-05-22",
+      "kind": "Law",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-104publ13/pdf/PLAW-104publ13.pdf",
+      "local": "../sources/pra1995.pdf",
+      "sha256": "364b71f86413ba4424bba70125e51c983ea77d6c7d2d7aa7e62377520daddda9",
+      "retrieved": "2026-10-10",
+      "provenance": "Historical edition",
+      "cited_locations": [
+        "\u00a72, 44 USC 3506(g); 109 Stat. 175"
+      ]
+    },
+    {
+      "id": "a130-2000",
+      "title": "A-130: Transmittal 4 consolidated circular",
+      "date": "2000-11-28",
+      "kind": "OMB policy",
+      "url": "https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/omb/circulars/a130/a130trans4.pdf",
+      "local": "../sources/a130-2000.pdf",
+      "sha256": "51408f42212316a9e92c2b4ed3bfe4299768afd150280322096ed97e8caccb82",
+      "retrieved": "2026-10-10",
+      "provenance": "Replaced by 2016 A-130; PDF contains main circular, appendices listed separately.",
+      "cited_locations": []
+    },
+    {
+      "id": "a130-2000-app-iii",
+      "title": "A-130 (2000), Appendix III",
+      "date": "2000-11-28",
+      "kind": "OMB policy",
+      "url": "https://georgewbush-whitehouse.archives.gov/omb/circulars/a130/a130appendix_iii.html",
+      "local": "../sources/a130-2000-app-iii.html",
+      "sha256": "9b2406bfb6d36800fea1c38a361b17819c2adab4e45b5c4d14070ae512f29a74",
+      "retrieved": "2026-10-10",
+      "provenance": "Historical edition",
+      "cited_locations": [
+        "Appendix III, Part B, General Support Systems, Security Plan / Interconnection"
+      ]
+    },
+    {
+      "id": "a130-1996-fr",
+      "title": "A-130 Transmittal 3: Federal Register final notice",
+      "date": "1996-02-20",
+      "kind": "OMB circular",
+      "url": "https://www.govinfo.gov/content/pkg/FR-1996-02-20/pdf/96-3645.pdf",
+      "local": "../sources/a130-1996-fr.pdf",
+      "sha256": "86aae370d573c8d3e7aebddc8b629eda764043768bee8835f9bb8cccc4a5f0c5",
+      "retrieved": "2026-10-10",
+      "provenance": "Historical edition",
+      "cited_locations": [
+        "61 FR 6430, response to comment 5; explanation, not a separate rule"
+      ]
+    },
+    {
+      "id": "a130-2000-notice",
+      "title": "Transmittal 4 final Federal Register notice",
+      "date": "2000-12-12",
+      "kind": "OMB circular",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2000-12-12/pdf/00-31507.pdf",
+      "local": "../sources/a130-2000-notice.pdf",
+      "sha256": "88f92a0f399e62699c4f7693ea262c4a0d87cb32aff430e9d8fbc8993c5cd1f9",
+      "retrieved": "2026-10-10",
+      "provenance": "Historical edition",
+      "cited_locations": [
+        "65 FR 77677, summary; November 28 revision announced December 12"
+      ]
+    },
+    {
+      "id": "sp80037",
+      "title": "SP 800-37: Certification and Accreditation",
+      "date": "2004-05-01",
+      "kind": "NIST guidance",
+      "url": "https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-37.pdf",
+      "local": "../sources/sp80037.pdf",
+      "sha256": "97f1674500dab05be7fc48c0ef7d90eb44d32bc7c88212dfc9ec27af1add0522",
+      "retrieved": "2026-10-10",
+      "provenance": "Historical edition",
+      "cited_locations": [
+        "Authority, p. ii",
+        "Executive summary, p. v; explicit A-130 Appendix III requirement"
+      ]
+    },
+    {
+      "id": "sp80053",
+      "title": "SP 800-53: Recommended Security Controls",
+      "date": "2005-02-01",
+      "kind": "NIST guidance",
+      "url": "https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-53.pdf",
+      "local": "../sources/sp80053.pdf",
+      "sha256": "5fd3ea2a25d0c85038583b465896738dd952a33f52698a01a07d456a1eb54e2b",
+      "retrieved": "2026-10-10",
+      "provenance": "Historical edition",
+      "cited_locations": [
+        "SA-9, control and opening supplemental guidance; p. 92"
+      ]
+    },
+    {
+      "id": "sp800181",
+      "title": "SP 800-18 Rev. 1: Security Plans",
+      "date": "2006-02-01",
+      "kind": "NIST guidance",
+      "url": "https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-18r1.pdf",
+      "local": "../sources/sp800181.pdf",
+      "sha256": "1635870f7cac9c0606cddbf42a7e4d0d8d01c5ab8709d3667821a4cdeaddd506",
+      "retrieved": "2026-10-10",
+      "provenance": "Historical edition",
+      "cited_locations": [
+        "\u00a72.1, printed p. 9; see footnote 10 on budgetary/programmatic/operational authority"
+      ]
+    },
+    {
+      "id": "sp800171",
+      "title": "SP 800-171: Protecting CUI in Nonfederal Systems",
+      "date": "2015; updated January 2016",
+      "kind": "NIST guidance",
+      "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171.pdf",
+      "local": "../sources/sp800171.pdf",
+      "sha256": "0cf9452bccca2eea7d5dd4283d3daf62f58b9663be35ceceb62c49aa3dd02f0d",
+      "retrieved": "2026-10-10",
+      "provenance": "Saved original publication includes January 2016 updates. Historical edition",
+      "cited_locations": [
+        "\u00a71.1, printed p. 2; June 2015 text, saved PDF includes January 2016 update",
+        "\u00a71.1 footnote 8, printed p. 2",
+        "\u00a71.1, printed p. 3"
+      ]
+    },
+    {
+      "id": "sp800534",
+      "title": "SP 800-53 Rev. 4: Security and Privacy Controls",
+      "date": "2013; updated January 2015",
+      "kind": "NIST guidance",
+      "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf",
+      "local": "../sources/sp800534.pdf",
+      "sha256": "e6f8a1aae41168f4ec9edc5b34aee0a21f2c888c78bf1de33e6ec63a0209db4e",
+      "retrieved": "2026-10-10",
+      "provenance": "Saved Revision 4 includes January 22, 2015 updates. Withdrawn September 23, 2021, superseded by Rev. 5; withdrawal recorded on the archived PDF cover.",
+      "cited_locations": [
+        "Revision 4, SA-9 supplemental guidance, p. F-162; saved edition includes January 22, 2015 update"
+      ]
+    },
+    {
+      "id": "sp800144",
+      "title": "SP 800-144: Security and Privacy in Public Cloud Computing",
+      "date": "2011-12-01",
+      "kind": "NIST guidance",
+      "url": "https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-144.pdf",
+      "local": "../sources/sp800144.pdf",
+      "sha256": "47f0fdf31f4f2b37fb2a8fa0bf77235aad0b3daa74a6397603a619a839500a42",
+      "retrieved": "2026-10-10",
+      "provenance": "Historical edition",
+      "cited_locations": [
+        "\u00a76, Conclusion, printed p. 52"
+      ]
+    },
+    {
+      "id": "m-03-19",
+      "title": "M-03-19, Reporting Instructions for the Federal Information Security Management Act and Updated Guidance on Quarterly IT Security Reporting",
+      "date": "2003-08-06",
+      "kind": "OMB memorandum",
+      "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2003/m03-19.pdf",
+      "local": "../sources/m-03-19.pdf",
+      "sha256": "5309251f1fd6afcdf11c9d183bc29c998ca86a0cfa0b84898db8369f7c8e9815",
+      "retrieved": "2026-10-10",
+      "provenance": "Rescinded by M-17-26, Eliminated \u2013 Information Technology.",
+      "cited_locations": [
+        "\u00a7I.A, p. 5"
+      ]
+    },
+    {
+      "id": "m-04-25",
+      "title": "M-04-25, FY 2004 Reporting Instructions for the Federal Information Security Management Act",
+      "date": "2004-08-23",
+      "kind": "OMB memorandum",
+      "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2004/m04-25.pdf",
+      "local": "../sources/m-04-25.pdf",
+      "sha256": "6e89e7950cae63ee7ca425e55b60061f30f011f1850173681e06dbfd9a8a344b",
+      "retrieved": "2026-10-10",
+      "provenance": "Current applicability not assessed",
+      "cited_locations": [
+        "\u00a7II.A, p. 5; historical reporting guidance"
+      ]
+    },
+    {
+      "id": "m-14-03",
+      "title": "M-14-03, Enhancing the Security of Federal Information and Information Systems",
+      "date": "2013-11-18",
+      "kind": "OMB memorandum",
+      "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2014/m-14-03.pdf",
+      "local": "../sources/m-14-03.pdf",
+      "sha256": "a48fae52553832b7ce8884cf77f273d47a7aac309878df87a220ee0a074e9761",
+      "retrieved": "2026-10-10",
+      "provenance": "Current applicability not assessed",
+      "cited_locations": [
+        "p. 2, action 1; ISCM means information security continuous monitoring"
       ]
     }
   ]

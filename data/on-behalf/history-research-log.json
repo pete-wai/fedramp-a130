@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-25",
+  "archive": "Inforegs MCP on this machine",
+  "generation": "1792925048-9046:vectors-631348-1792925274499112000",
+  "semantic_status": "complete when checked",
+  "method": "Search/get_document/get_passage for discovery and provenance; preserved originals for quotation verification. No generated conclusions used as authority.",
+  "queries": [
+    "A-130 contractors comments",
+    "SP 800-60 Volume I Revision 1",
+    "SP 800-53 editions and external services",
+    "SP 800-37 original and updated Revision 1",
+    "SP 800-171 revisions and scope",
+    "Summary of Changes 5.2.0"
+  ],
+  "official_web_checks": [
+    "https://csrc.nist.gov/pubs/sp/800/37/r2/final",
+    "https://csrc.nist.gov/pubs/sp/800/171/r3/final",
+    "https://csrc.nist.gov/pubs/sp/800/18/r2/final",
+    "https://csrc.nist.gov/news/2025/nist-releases-revision-to-sp-800-53-controls",
+    "https://www.whitehouse.gov/omb/information-resources/guidance/circulars/"
+  ],
+  "retrieval_note": "NIST 2025 change-list urllib request returned HTTP 403; curl with browser user agent succeeded. PDF identity validated. Archive search did not locate that change list, so the official website supplied it.",
+  "limits": "Focused edition comparisons, not exhaustive source recovery. Current Code remains the September 30, 2026 collected release. See public coverage ledger.",
+  "quote_count": 80,
+  "milestones": 41,
+  "self_review": true
+}

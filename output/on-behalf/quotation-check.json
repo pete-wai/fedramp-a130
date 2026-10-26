@@ -1,8 +1,9 @@
 {
   "passed": true,
-  "originalMatchedQuotes": 40,
+  "originalMatchedQuotes": 80,
   "visibleInBothEditions": true,
   "priorAnchorsPreserved": true,
+  "continuityComparisons": 3,
   "twoFismaClausesMatchCollectedCurrentCode": true,
   "normalization": "Whitespace, punctuation spacing, and line-end hyphenation; compound agency-/non-/organization- preserved."
 }
