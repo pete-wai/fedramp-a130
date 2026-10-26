@@ -63,3 +63,5 @@ The user clarified that proposal step 4 establishes a new FedRAMP-specific agenc
 This supersedes the earlier editorial framing of a CSA as a possible annex or ATO/ATU record. The proposal is not a claim that current sources already establish that new procedure. Concerns now focus on defining the CSA's signing authority, decision criteria, lifecycle, reporting, and relationship to the system ATO while preserving reuse and FISMA duties. New systems and changes within existing ATO lifecycles are both addressed.
 
 All 41 quotations and source files remain unchanged. The 18 field identifiers and JSON schema remain stable for saved-answer compatibility; labels and prompts now call for the CSA signature record and separate system ATO references. No browser behavior or styling changes.
+
+Clarification published in commit `32ef46f1707da27e957bbebba876202a5ca631b9`; Pages run [40328888031](https://github.com/pete-wai/fedramp-a130/actions/runs/40328888031) succeeded. The live check again matched all 14 deployed files and passed desktop/phone workbook interactions. The existing source quotations and history report remain intact.

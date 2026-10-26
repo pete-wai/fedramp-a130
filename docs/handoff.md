@@ -102,3 +102,5 @@ Publication completed: feature commit `bb9dd2f`, successful Pages run `403214711
 ### CSA clarification — October 26, 2026
 
 User clarified proposal step 4: a distinct signed agency CSA under a new FedRAMP-specific process, separate from the federal information system ATO. Updated report and workbook throughout. Signed CSA references are required by the proposal in SA-9, SA-4, and other applicable control records; the ATO considers the system as a whole and incorporates the CSA evidence. Earlier annex/ATO-or-ATU framing is superseded. Existing-source quotations are unchanged and current procedure vs proposed procedure remains explicit. Saved-answer field identifiers remain compatible.
+
+CSA clarification publication verified: commit `32ef46f`, successful Pages run `40328888031`; 14 live hashes and desktop/phone workbook checks passed. Latest evidence: `output/proposed-fedramp-use/live-check.json`.
