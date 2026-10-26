@@ -1,0 +1,71 @@
+[
+  {
+    "width": 1440,
+    "overflow": false,
+    "quotes": 41,
+    "fields": 18,
+    "viewToggle": true,
+    "citationReveal": true,
+    "keyboard": true,
+    "errors": []
+  },
+  {
+    "width": 768,
+    "overflow": false,
+    "quotes": 41,
+    "fields": 18,
+    "viewToggle": true,
+    "citationReveal": true,
+    "keyboard": true,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "overflow": false,
+    "quotes": 41,
+    "fields": 18,
+    "viewToggle": true,
+    "citationReveal": true,
+    "keyboard": true,
+    "errors": []
+  },
+  {
+    "width": 320,
+    "overflow": false,
+    "quotes": 41,
+    "fields": 18,
+    "viewToggle": true,
+    "citationReveal": true,
+    "keyboard": true,
+    "errors": []
+  },
+  {
+    "sessionOnlyDefault": true,
+    "optInSaveRestore": true,
+    "saveRemoval": true,
+    "jsonRoundTrip": true,
+    "markdownExport": true,
+    "invalidImportAtomic": true,
+    "printLongAnswer": true,
+    "workbookOnlyPrint": true,
+    "clear": true
+  },
+  {
+    "fileProtocol": true,
+    "offline": true,
+    "javaScript": true,
+    "passed": true
+  },
+  {
+    "fileProtocol": true,
+    "offline": true,
+    "javaScript": false,
+    "passed": true
+  },
+  {
+    "skipLink": true,
+    "textSize": "200%",
+    "publicPrefix": true,
+    "blockedStorageFallback": true
+  }
+]

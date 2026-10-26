@@ -13,3 +13,6 @@ await import("./law-check.mjs");
 
 // Protect source provenance and links in the on-behalf report.
 await import("./behalf-check.mjs");
+
+// Verify the proposed agency-use workbook and retained source snapshots.
+await import('./use-check.mjs');

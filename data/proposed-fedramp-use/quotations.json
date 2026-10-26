@@ -1,0 +1,439 @@
+[
+  {
+    "id": "f200-select",
+    "source_id": "fips200",
+    "source_file": "site/sources/fips200.pdf",
+    "pages": [
+      10
+    ],
+    "text": "Organizations must meet the minimum security requirements in this standard by selecting the appropriate security controls and assurance requirements as described in NIST Special Publication 800-53, Recommended Security Controls for Federal Information Systems.5 The process of selecting the appropriate security controls and assurance requirements for organizational information systems to achieve adequate security6 is a multifaceted, risk-based activity involving management and operational personnel within the organization. Security categorization of federal information and information systems, as required by FIPS Publication 199, is the first step in the risk management process.7 Subsequent to the security categorization process, organizations must select an appropriate set of security controls for their information systems that satisfy the minimum security requirements set forth in this standard. The selected set of security controls must include one of three, appropriately tailored8 security control baselines from NIST Special Publication 800-53 that are associated with the designated impact levels of the organizational information systems as determined during the security categorization process.",
+    "locator": "§4, printed p. 4; footnote 5 requires the current SP 800-53, as amended",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "f14-dual",
+    "source_id": "fisma2014",
+    "source_file": "site/sources/fisma2014.pdf",
+    "pages": [
+      6
+    ],
+    "text": "‘‘(A) providing information security protections commensurate with the risk and magnitude of the harm resulting from unauthorized access, use, disclosure, disruption, modification, or destruction of— ‘‘(i) information collected or maintained by or on behalf of the agency; and ‘‘(ii) information systems used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency;",
+    "locator": "§2, 44 USC 3554(a)(1)(A); 128 Stat. 3078",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "f14-implement",
+    "source_id": "fisma2014",
+    "source_file": "site/sources/fisma2014.pdf",
+    "pages": [
+      6
+    ],
+    "text": "‘‘(2) ensure that senior agency officials provide information security for the information and information systems that support the operations and assets under their control, including through— ‘‘(A) assessing the risk and magnitude of the harm that could result from the unauthorized access, use, disclosure, disruption, modification, or destruction of such information or information systems; ‘‘(B) determining the levels of information security appropriate to protect such information and information systems in accordance with standards promulgated under section 11331 of title 40, for information security classifications and related requirements; ‘‘(C) implementing policies and procedures to cost-effectively reduce risks to an acceptable level; and ‘‘(D) periodically testing and evaluating information security controls and techniques to ensure that they are effectively implemented;",
+    "locator": "44 USC 3554(a)(2); 128 Stat. 3078",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "f14-program",
+    "source_id": "fisma2014",
+    "source_file": "site/sources/fisma2014.pdf",
+    "pages": [
+      7
+    ],
+    "text": "Each agency shall develop, document, and implement an agency-wide information security program to provide information security for the information and information systems that support the operations and assets of the agency, including those provided or managed by another agency, contractor, or other source, that includes—",
+    "locator": "44 USC 3554(b); 128 Stat. 3079",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "a16-contracts",
+    "source_id": "a130-2016",
+    "source_file": "site/sources/a130-2016.pdf",
+    "pages": [
+      51
+    ],
+    "text": "1) Ensure that terms and conditions in contracts and other agreements involving the creation, collection, use, processing, storage, maintenance, dissemination, disclosure, and disposal of Federal information, incorporate security and privacy requirements and are sufficient to enable agencies to meet Federal and agency-specific requirements pertaining to the protection of Federal information;",
+    "locator": "Appendix I §4(j)(1), printed p. 14",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "a16-oversight",
+    "source_id": "a130-2016",
+    "source_file": "site/sources/a130-2016.pdf",
+    "pages": [
+      51
+    ],
+    "text": "2) Provide oversight of information systems used or operated by contractors or other entities on behalf of the Federal Government or that collect or maintain Federal information on behalf of the Federal Government, to include: a) Documenting and implementing policies and procedures for information security and privacy oversight, to include ensuring appropriate vetting and access control processes for contractors and others with access to information systems containing Federal information; b) Ensuring that security and privacy controls of such information systems and services are effectively implemented and comply with NIST standards and guidelines and agency requirements; c) Ensuring that these information systems are included in the agency’s inventory of information systems; d) Ensuring that the interface characteristics, security requirements, and the nature of the information communicated is documented for each interface between these systems and agency-owned or operated information systems;",
+    "locator": "Appendix I §4(j)(2)(a)–(d), printed p. 14",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "a16-ato",
+    "source_id": "a130-2016",
+    "source_file": "site/sources/a130-2016.pdf",
+    "pages": [
+      44
+    ],
+    "text": "1) Designate senior Federal officials to formally authorize an information system to operate and authorize agency-designated common controls for use;",
+    "locator": "Appendix I §4(d)(1), printed p. 7",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "rmf18-external",
+    "source_id": "sp800372",
+    "source_file": "site/sources/sp800372.pdf",
+    "pages": [
+      178
+    ],
+    "text": "FISMA and OMB policy require external providers that process, store, or transmit federal information or operate information systems on behalf of the federal government to meet the same security and privacy requirements as federal agencies. Federal security and privacy requirements also apply to external systems storing, processing, or transmitting federal information and any services provided by or associated with the external system.",
+    "locator": "Appendix G, printed p. 159",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "omb24-atu",
+    "source_id": "m-24-15",
+    "source_file": "site/sources/m-24-15.pdf",
+    "pages": [
+      6
+    ],
+    "text": "Agencies leverage the FedRAMP authorization package to issue their own “authorization to operate” (ATO) or “authorization to use” (ATU). FedRAMP does not replace other legal, Executive Order, regulatory, or OMB-issued compliance requirements for areas such as information management, records management, privacy, and cybersecurity.",
+    "locator": "§IV footnote 7, printed p. 6",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "act22-program",
+    "source_id": "fedramp-act",
+    "source_file": "site/sources/fedramp-act.pdf",
+    "pages": [
+      1056
+    ],
+    "text": "There is established within the General Services Administration the Federal Risk and Authorization Management Program. The Administrator, subject to section 3614, shall establish a Government-wide program that provides a standardized, reusable approach to security assessment and authorization for cloud computing products and services that process unclassified information used by agencies.",
+    "locator": "44 USC 3608; 136 Stat. 3450",
+    "normalization": "Whitespace, punctuation spacing and line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "act-process",
+    "source_id": "fedramp-act",
+    "source_file": "site/sources/fedramp-act.pdf",
+    "pages": [
+      1056
+    ],
+    "text": "‘‘(1) in consultation with the Secretary, develop, coordinate, and implement a process to support agency review, reuse, and standardization, where appropriate, of security assessments of cloud computing products and services, including, as appropriate, oversight of continuous monitoring of cloud computing products and services, pursuant to guidance issued by the Director pursuant to section 3614; ‘‘(2) establish processes and identify criteria consistent with guidance issued by the Director under section 3614 to make a cloud computing product or service eligible for a FedRAMP authorization and validate whether a cloud computing product or service has a FedRAMP authorization; ‘‘(3) develop and publish templates, best practices, technical assistance, and other materials to support the authorization of cloud computing products and services and increase the speed, effectiveness, and transparency of the authorization process, consistent with standards and guidelines established by the Director of the National Institute of Standards and Technology and relevant statutes;",
+    "locator": "44 USC 3609(a)(1)–(3); 136 Stat. 3450",
+    "normalization": "Whitespace, punctuation spacing and PDF line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "act-reuse",
+    "source_id": "fedramp-act",
+    "source_file": "site/sources/fedramp-act.pdf",
+    "pages": [
+      1059
+    ],
+    "text": "‘‘(3) to the extent practicable, for any cloud computing product or service the agency seeks to authorize that has received a FedRAMP authorization, use the existing assessments of security controls and materials within any FedRAMP authorization package for that cloud computing product or service;",
+    "locator": "44 USC 3613(a)(3); 136 Stat. 3453",
+    "normalization": "Whitespace, punctuation spacing and PDF line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "act-presume",
+    "source_id": "fedramp-act",
+    "source_file": "site/sources/fedramp-act.pdf",
+    "pages": [
+      1060
+    ],
+    "text": "‘‘(e) PRESUMPTION OF ADEQUACY.— ‘‘(1) IN GENERAL.—The assessment of security controls and materials within the authorization package for a FedRAMP authorization shall be presumed adequate for use in an agency authorization to operate cloud computing products and services. ‘‘(2) INFORMATION SECURITY REQUIREMENTS.—The presumption under paragraph (1) does not modify or alter— ‘‘(A) the responsibility of any agency to ensure compliance with subchapter II of chapter 35 for any cloud computing product or service used by the agency; or ‘‘(B) the authority of the head of any agency to make a determination that there is a demonstrable need for additional security requirements beyond the security requirements included in a FedRAMP authorization for a particular control implementation.",
+    "locator": "44 USC 3613(e)(1)–(2); 136 Stat. 3454",
+    "normalization": "Whitespace, punctuation spacing and PDF line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "act-notify",
+    "source_id": "fedramp-act",
+    "source_file": "site/sources/fedramp-act.pdf",
+    "pages": [
+      1060
+    ],
+    "text": "‘‘(c) SUBMISSION OF AUTHORIZATIONS TO OPERATE REQUIRED.— Upon issuance of an agency authorization to operate based on a FedRAMP authorization, the head of the agency shall provide a copy of its authorization to operate letter and any supplementary information required pursuant to section 3609(a) to the Administrator.",
+    "locator": "44 USC 3613(c); 136 Stat. 3454",
+    "normalization": "Whitespace, punctuation spacing and PDF line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "omb-rescind",
+    "source_id": "m-24-15",
+    "source_file": "site/sources/m-24-15.pdf",
+    "pages": [
+      1
+    ],
+    "text": "As a result, this memorandum rescinds the Federal CIO’s December 8, 2011 memorandum, and replaces it with an updated vision, scope, and governance structure for FedRAMP that is responsive to developments in Federal cybersecurity and substantial changes to the commercial cloud marketplace that have occurred since the program was established.",
+    "locator": "Introduction, p. 1",
+    "normalization": "Whitespace, punctuation spacing and PDF line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "omb-process",
+    "source_id": "m-24-15",
+    "source_file": "site/sources/m-24-15.pdf",
+    "pages": [
+      7
+    ],
+    "text": "FedRAMP is responsible for defining the processes and criteria that must be met in order for a cloud product or service to receive a FedRAMP authorization.",
+    "locator": "§IV(b), p. 7; footnote 15 cites 44 USC 3609(a)(2)",
+    "normalization": "Whitespace, punctuation spacing and PDF line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "omb-scope",
+    "source_id": "m-24-15",
+    "source_file": "site/sources/m-24-15.pdf",
+    "pages": [
+      5
+    ],
+    "text": "FedRAMP’s goal is to ensure that Federal information systems and Federal information continue to be protected, even when the agency that owns those systems and information does not have complete control over them. FedRAMP does not apply to every use of an internet based service by a Federal agency. The scope of FedRAMP is cloud computing products and services (such as IaaS, Platform-as-a-Service (PaaS), and SaaS) that create, collect, process, store, or maintain Federal information on behalf of a Federal agency, and that are not otherwise specified as out of scope below.",
+    "locator": "§III, p. 5; exclusions and unclassified/non-NSS limit follow",
+    "normalization": "Whitespace, punctuation spacing and PDF line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "omb-presume",
+    "source_id": "m-24-15",
+    "source_file": "site/sources/m-24-15.pdf",
+    "pages": [
+      6
+    ],
+    "text": "To that end, if a given cloud product or service has a FedRAMP authorization at a given FIPS 199 impact level, the Act requires that agencies must presume the security assessment documented in the authorization package is adequate for their use in issuing an authorization to operate at or below that FIPS 199 impact level.",
+    "locator": "§IV(a), p. 6; continued on p. 7: authorization must be actively maintained",
+    "normalization": "Whitespace, punctuation spacing and PDF line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "omb-monitor",
+    "source_id": "m-24-15",
+    "source_file": "site/sources/m-24-15.pdf",
+    "pages": [
+      14
+    ],
+    "text": "For all FedRAMP authorized products and services, the FedRAMP PMO will provide a standard level of continuous monitoring support. The FedRAMP PMO will set this standard level of monitoring support by analyzing and identifying the highest-impact controls for ensuring the security of FedRAMP products and services. It will provide recommendations for the supported monitoring levels to the FedRAMP Board for review, feedback, and approval. When finalized, the FedRAMP PMO will provide supported monitoring to all agency customers of authorized FedRAMP products and services. The monitoring data provided to agencies will support agencies in making risk determinations for authorized cloud computing products and services, including when the CSO is leveraged within another information system.",
+    "locator": "§VI, p. 14",
+    "normalization": "Whitespace, punctuation spacing and PDF line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "omb-agility",
+    "source_id": "m-24-15",
+    "source_file": "site/sources/m-24-15.pdf",
+    "pages": [
+      13
+    ],
+    "text": "Redesigns the process for overseeing changes to cloud computing products and services to one that primarily monitors the CSP’s change process itself, rather than individual changes. Once a CSO is authorized, the FedRAMP process should generally empower CSPs to deploy changes and fixes at their own pace, without requiring advance approval from FedRAMP or an authorizing official for individual changes to existing FedRAMP authorized products and services;",
+    "locator": "§VI, p. 13",
+    "normalization": "Whitespace, punctuation spacing and PDF line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "f199-info",
+    "source_id": "fips199",
+    "source_file": "site/sources/fips199.pdf",
+    "pages": [
+      7
+    ],
+    "text": "The security category of an information type can be associated with both user information and system information3 and can be applicable to information in either electronic or non-electronic form. It can also be used as input in considering the appropriate security category of an information system (see description of security categories for information systems below). Establishing an appropriate security category of an information type essentially requires determining the potential impact for each security objective associated with the particular information type.",
+    "locator": "§3, printed p. 3",
+    "normalization": "Whitespace, punctuation spacing and PDF line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "f199-system",
+    "source_id": "fips199",
+    "source_file": "site/sources/fips199.pdf",
+    "pages": [
+      8
+    ],
+    "text": "Determining the security category of an information system requires slightly more analysis and must consider the security categories of all information types resident on the information system.",
+    "locator": "§3, printed p. 4",
+    "normalization": "Whitespace, punctuation spacing and PDF line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "f199-highwater",
+    "source_id": "fips199",
+    "source_file": "site/sources/fips199.pdf",
+    "pages": [
+      8
+    ],
+    "text": "For an information system, the potential impact values assigned to the respective security objectives (confidentiality, integrity, availability) shall be the highest values (i.e., high water mark) from among those security categories that have been determined for each type of information resident on the information system.",
+    "locator": "§3, printed p. 4",
+    "normalization": "Whitespace, punctuation spacing and PDF line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "rmf-boundary",
+    "source_id": "sp800372",
+    "source_file": "site/sources/sp800372.pdf",
+    "pages": [
+      36
+    ],
+    "text": "The authorization boundary establishes the scope of protection for an information system (i.e., what the organization agrees to protect under its direct management or within the scope of its responsibilities).41 The authorization boundary includes the people, processes, and information technologies (i.e., system elements) that are part of each system supporting the organization’s missions and business functions.",
+    "locator": "§2.5, printed p. 17; see footnote 42 on direct management",
+    "normalization": "Whitespace, punctuation spacing and PDF line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "rmf-allocate",
+    "source_id": "sp800372",
+    "source_file": "site/sources/sp800372.pdf",
+    "pages": [
+      72
+    ],
+    "text": "The organization designates controls as system-specific, hybrid, or common, and allocates the controls to the system elements (i.e, machine, physical, or human elements) responsible for providing a security or privacy capability. Controls are allocated to a system or an organization consistent with the organization’s enterprise architecture and security or privacy architecture and the allocated security and privacy requirements. Not all controls need to be allocated to every system element. Controls providing a specific security or privacy capability are only allocated to system elements that require that capability.",
+    "locator": "Task S-3, printed p. 53",
+    "normalization": "Whitespace, punctuation spacing and PDF line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "rmf-atu",
+    "source_id": "sp800372",
+    "source_file": "site/sources/sp800372.pdf",
+    "pages": [
+      163
+    ],
+    "text": "An authorization to use is employed when an organization (hereafter referred to as the customer organization) chooses to accept the information in an existing authorization package produced by another organization (either federal or nonfederal) for an information system that is authorized to operate by a federal entity (referred to as the provider organization).140 The authorization to use is a mechanism to promote reciprocity for systems under the purview of different authorizing officials. An authorization to use is issued by an authorizing official from the customer organization instead of an authorization to operate. The official issuing an authorization to use has the same level of responsibility and authority for risk management as an authorizing official issuing an authorization to operate or a common control authorization.",
+    "locator": "Appendix F, printed p. 144; footnotes 140–141",
+    "normalization": "Whitespace, punctuation spacing and PDF line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "rmf-atu-condition",
+    "source_id": "sp800372",
+    "source_file": "site/sources/sp800372.pdf",
+    "pages": [
+      163
+    ],
+    "text": "A customer organization can issue an authorization to use only after a valid authorization to operate has been issued by another federal entity (i.e., the provider organization).",
+    "locator": "Appendix F, p. 144; footnote 142 recognizes a GSA FedRAMP provisional ATO",
+    "normalization": "Whitespace, punctuation spacing and PDF line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "rmf-atu-decision",
+    "source_id": "sp800372",
+    "source_file": "site/sources/sp800372.pdf",
+    "pages": [
+      167
+    ],
+    "text": "The authorization to use is a streamlined version of the authorization to operate and includes: • A risk acceptance statement; and • Time- or event-driven triggers for review of the security and privacy posture of the provider organization shared cloud or system, application, or service (if any).",
+    "locator": "Appendix F, printed p. 148",
+    "normalization": "Whitespace, punctuation spacing and PDF line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "rmf-integrate",
+    "source_id": "sp800372",
+    "source_file": "site/sources/sp800372.pdf",
+    "pages": [
+      164
+    ],
+    "text": "If the customer organization plans to integrate the shared system, application, or service with one or more of its systems, the customer organization considers the risk in doing so.",
+    "locator": "Appendix F, printed p. 145",
+    "normalization": "Whitespace, punctuation spacing and PDF line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "sa9-control",
+    "source_id": "sp800535",
+    "source_file": "site/sources/sp800535.pdf",
+    "pages": [
+      298
+    ],
+    "text": "Control: a. Require that providers of external system services comply with organizational security and privacy requirements and employ the following controls: [Assignment: organization-defined controls]; b. Define and document organizational oversight and user roles and responsibilities with regard to external system services; and c. Employ the following processes, methods, and techniques to monitor control compliance by external service providers on an ongoing basis: [Assignment: organization-defined processes, methods, and techniques].",
+    "locator": "SA-9(a)–(c), printed p. 271; Rev. 5, December 2020 update",
+    "normalization": "Whitespace, punctuation spacing and PDF line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "sa9-risk",
+    "source_id": "sp800535",
+    "source_file": "site/sources/sp800535.pdf",
+    "pages": [
+      298
+    ],
+    "text": "Discussion: External system services are provided by an external provider, and the organization has no direct control over the implementation of the required controls or the assessment of control effectiveness. Organizations establish relationships with external service providers in a variety of ways, including through business partnerships, contracts, interagency agreements, lines of business arrangements, licensing agreements, joint ventures, and supply chain exchanges. The responsibility for managing risks from the use of external system services remains with authorizing officials. For services external to organizations, a chain of trust requires that organizations establish and retain a certain level of confidence that each provider in the consumer-provider relationship provides adequate protection for the services rendered. The extent and nature of this chain of trust vary based on relationships between organizations and the external providers. Organizations document the basis for the trust relationships so that the relationships can be monitored. External system services documentation includes government, service providers, end user security roles and responsibilities, and service-level agreements. Service-level agreements define the expectations of performance for implemented controls, describe measurable outcomes, and identify remedies and response requirements for identified instances of noncompliance.",
+    "locator": "SA-9 discussion, printed p. 271",
+    "normalization": "Whitespace, punctuation spacing and PDF line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "sa4-contract",
+    "source_id": "sp800535",
+    "source_file": "site/sources/sp800535.pdf",
+    "pages": [
+      279
+    ],
+    "text": "Control: Include the following requirements, descriptions, and criteria, explicitly or by reference, using [Selection (one or more): standardized contract language; [Assignment: organization-defined contract language]] in the acquisition contract for the system, system component, or system service: a. Security and privacy functional requirements; b. Strength of mechanism requirements; c. Security and privacy assurance requirements; d. Controls needed to satisfy the security and privacy requirements. e. Security and privacy documentation requirements; f. Requirements for protecting security and privacy documentation; g. Description of the system development environment and environment in which the system is intended to operate; h. Allocation of responsibility or identification of parties responsible for information security, privacy, and supply chain risk management; and i. Acceptance criteria.",
+    "locator": "SA-4(a)–(i), printed p. 252; control text, not the later revised discussion",
+    "normalization": "Whitespace, punctuation spacing and PDF line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "ca3-exchange",
+    "source_id": "sp800535",
+    "source_file": "site/sources/sp800535.pdf",
+    "pages": [
+      114
+    ],
+    "text": "b. Document, as part of each exchange agreement, the interface characteristics, security and privacy requirements, controls, and responsibilities for each system, and the impact level of the information communicated; and c. Review and update the agreements [Assignment: organization-defined frequency].",
+    "locator": "CA-3(b)–(c), printed p. 87; subsection (a) requires approval and management of the exchange through agreements",
+    "normalization": "Whitespace, punctuation spacing and PDF line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "fed-premise",
+    "source_id": "fed-use",
+    "source_file": "site/proposed-fedramp-use/sources/fed-use.txt",
+    "pages": [],
+    "text": "Agencies use FedRAMP Certifications as reusable security evidence, but each agency still authorizes its own federal information systems. FedRAMP certifies the cloud service offering; the agency authorizing official accepts risk for the agency’s specific use of that service, including the information processed, the configuration selected, the integrations enabled, and the controls the agency is responsible for operating.",
+    "locator": "Opening paragraph; retrieved October 26, 2026",
+    "normalization": "Whitespace, punctuation spacing and PDF line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "fed-before",
+    "source_id": "fed-initial",
+    "source_file": "site/proposed-fedramp-use/sources/fed-initial.txt",
+    "pages": [],
+    "text": "The resulting Authorization to Operate applies to the agency information system and its use of the cloud service.",
+    "locator": "Introduction; retrieved October 26, 2026",
+    "normalization": "Whitespace, punctuation spacing and PDF line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "fed-class",
+    "source_id": "fed-initial",
+    "source_file": "site/proposed-fedramp-use/sources/fed-initial.txt",
+    "pages": [],
+    "text": "Certification Classes describe the amount and frequency of assurance information available. They do not replace the agency's security categorization or risk decision.",
+    "locator": "§2, Compare FedRAMP Certified services",
+    "normalization": "Whitespace, punctuation spacing and PDF line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "fed-configure",
+    "source_id": "fed-initial",
+    "source_file": "site/proposed-fedramp-use/sources/fed-initial.txt",
+    "pages": [],
+    "text": "Configure the service according to the approved design and the Secure Configuration Guide. Implement the agency controls, common controls, integrations, training, and procedures. Test the agency's implementation. Confirm that identity integration works, required logs reach the SIEM, security settings remain in place, and agency staff can carry out incident and recovery procedures. Reuse the FedRAMP Certification Package for evidence about the provider's capabilities.",
+    "locator": "§4, Configure and assess the agency’s use",
+    "normalization": "Whitespace, punctuation spacing and PDF line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "fed-notify",
+    "source_id": "fed-rules",
+    "source_file": "site/proposed-fedramp-use/sources/fed-rules.txt",
+    "pages": [],
+    "text": "Agencies MUST notify FedRAMP upon authorizing the use of a cloud service within the scope of FedRAMP, supplying at least the following information: A copy of the agency's Authorization to Operate letter for the information system leveraging the cloud service, following agency policy and templates. All other supplemental information requested in the Submit an ATO Letter form by FedRAMP.",
+    "locator": "AGU-AGC-NAA; current page labels rules required, effective July 4, 2026",
+    "normalization": "Whitespace, punctuation spacing and PDF line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "fed-extra",
+    "source_id": "fed-rules",
+    "source_file": "site/proposed-fedramp-use/sources/fed-rules.txt",
+    "pages": [],
+    "text": "Agencies MUST NOT require additional information or materials from FedRAMP Certified cloud service offerings beyond those required by FedRAMP UNLESS the head of the agency or an authorized delegate determines there is a demonstrable need and notifies FedRAMP; this does not apply to seeking clarification or asking general questions about FedRAMP Certification Data.",
+    "locator": "AGU-AGC-NAR; demonstrable need, notification, clarification exception",
+    "normalization": "Whitespace, punctuation spacing and PDF line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "fed-monitor",
+    "source_id": "fed-ongoing",
+    "source_file": "site/proposed-fedramp-use/sources/fed-ongoing.txt",
+    "pages": [],
+    "text": "FedRAMP provides a minimum standard level of continuous monitoring focused on whether the cloud service provider continues to meet the requirements needed to maintain FedRAMP Certification. This is not a complete substitute for agency monitoring. Agencies should treat FedRAMP's monitoring as shared provider evidence. The agency still needs to decide how that evidence affects the agency authorization, whether additional agency action is needed, and whether the cloud service offering remains appropriate for the agency's use.",
+    "locator": "FedRAMP’s Standard Continuous Monitoring",
+    "normalization": "Whitespace, punctuation spacing and PDF line-end hyphenation only; wording retained."
+  },
+  {
+    "id": "baseline-modern",
+    "source_id": "sp80053b",
+    "source_file": "site/sources/sp80053b.pdf",
+    "pages": [
+      4
+    ],
+    "text": "This publication provides security and privacy control baselines for the Federal Government. There are three security control baselines (one for each system impact level—low-impact, moderate-impact, and high-impact), as well as a privacy baseline that is applied to systems irrespective of impact level. In addition to the control baselines, this publication provides tailoring guidance and a set of working assumptions that help guide and inform the control selection process.",
+    "locator": "Abstract, printed p. ii; October 2020, includes December 10, 2020 update",
+    "normalization": "Whitespace, punctuation spacing and PDF line-end hyphenation only; wording retained."
+  }
+]

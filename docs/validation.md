@@ -130,3 +130,11 @@ Published commit `63a6a3f8a6165b760922099e86d386d2c442986c` through successful P
 ### Live delivery verification — October 25, 2026
 
 Feature commit `11b8379605ce4156a9e77f3019704ad3aeca7ad6`; Pages run [40258348027](https://github.com/pete-wai/fedramp-a130/actions/runs/40258348027) completed successfully. `scripts/behalf-live-check.mjs` passed: 19 live files matched tested local bytes, and 1440/390px interactions verified the 80 quotations, 41 milestones, new title, no overflow, authority filtering, hidden citation-target reveal, and new source link. Recorded in `output/on-behalf/history-live-check.json`. Workflow warnings concerned action runtime deprecations and the hosted Ubuntu image migration; deployment and checks succeeded. No unrelated workflow upgrade was made.
+
+## Proposed agency FedRAMP use — October 26, 2026
+
+- Full normal build and `pnpm test` pass: new page has eight steps, 41 quotations, 18 fields, 14 verified source hashes, and 137 checked local links/anchors. Existing law, reader, and history checks still pass.
+- Primary-source check passes all displayed quotes and five captured web article extractions. Nine statutory clauses match the retained current Code. Original-source protection: 506 files/bodies unchanged.
+- `output/proposed-fedramp-use/browser-check.json`: 1440/768/390/320px; no overflow/errors; keyboard; 200% text; public prefix; offline `file://` with/without JS; view switching; opt-in saving; JSON import/export; Markdown; invalid imports preserve answers; unavailable storage fallback; clear; long-answer print.
+- PDF print outputs contain the end of the long test answer: 31-page report and seven-page workbook. Representative PDF pages and desktop/phone screenshots visually inspected. The site itself remains HTML-native; test PDFs are validation artifacts.
+- Self-review completed. Detector warnings (border accents/Arial) are retained intentionally and documented in the surface notes. No independent legal, physical-device, or screen-reader testing claimed.

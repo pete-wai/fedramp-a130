@@ -88,3 +88,11 @@ Remaining limits: Code snapshot through September 30, 2026; not every annual OMB
 ### Publication verified — October 25, 2026
 
 Published feature commit `11b8379605ce4156a9e77f3019704ad3aeca7ad6` through successful [Pages workflow 40258348027](https://github.com/pete-wai/fedramp-a130/actions/runs/40258348027). Live report: https://pete-wai.github.io/fedramp-a130/on-behalf/index.html . Nineteen live files matched local SHA-256 hashes, including report/print HTML, CSS/JS, exports, existing navigation, and selected newly preserved originals. Live desktop (1440px) and phone (390px) checks passed for all 80 quotations/41 milestones, filtering, citation-target reveal, source links, title, and overflow. Evidence: `output/on-behalf/history-live-check.json`. This supersedes the pending-deployment status above.
+
+## Proposed FedRAMP use — October 26, 2026
+
+New `/proposed-fedramp-use/` report and workbook, requested by the user with explicit GitHub Pages publication authorization. Eight-step implementation of the user's six-step concept, 41 original-matched quotations, 14 source records, 18 editable fields. Clear qualifications on SA-9 authority, service-use record vs agency ATO/ATU, commercial/external scope, statutory presumption of adequacy, and connected monitoring. Current published 2026 FedRAMP guidance already describes much of the workflow; the page distinguishes it from the proposed record.
+
+Buildless and offline-readable; default session-only answers, opt-in local storage, JSON import/export, Markdown export, and full-answer print. No network submission. Authoring/research/review detail in `docs/proposed-fedramp-use.md`. Preview: `mise exec -- pnpm preview`, then `http://127.0.0.1:4176/proposed-fedramp-use/`. Do not rely on a prior server PID.
+
+Completed: full build, all static tests, 41 quote checks, nine current-Code clauses, 506 protected file/body checks, desktop/phone/tablet/320px, keyboard, 200% text, offline/no-JS, export/import/storage and print. Actual evidence under `output/proposed-fedramp-use/`; report print 31 pages, workbook seven pages with test answers. Separate self-review completed; not independent review. Publication pending at this entry.

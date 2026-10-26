@@ -1,0 +1,128 @@
+[
+  {
+    "id": "mission",
+    "label": "Work and limits",
+    "step": 1,
+    "title": "Define the work, information, and scope",
+    "hint": "What task, users, and uses are allowed? What is prohibited?"
+  },
+  {
+    "id": "flows",
+    "label": "Information and flows",
+    "step": 1,
+    "title": "Define the work, information, and scope",
+    "hint": "Information types, origins, recipients, processing, storage, logs, exports, retention, and disposal. Identify the responsible information owner."
+  },
+  {
+    "id": "scope",
+    "label": "Scope and applicable obligations",
+    "step": 1,
+    "title": "Define the work, information, and scope",
+    "hint": "Record the FedRAMP scope provision, offering/version, inclusion or exclusion rationale, other obligations, reviewer, and date."
+  },
+  {
+    "id": "information-cia",
+    "label": "Information-type ratings",
+    "step": 2,
+    "title": "Categorize information and the agency system",
+    "hint": "For each type: confidentiality / integrity / availability impact; concrete harm; rationale; approving official."
+  },
+  {
+    "id": "system-cia",
+    "label": "System category and approval",
+    "step": 2,
+    "title": "Categorize information and the agency system",
+    "hint": "System name, impact by objective, overall impact, aggregation considerations, approval/date, and separate privacy risks."
+  },
+  {
+    "id": "boundary",
+    "label": "Boundary and dependencies",
+    "step": 3,
+    "title": "Set the boundary and allocate controls",
+    "hint": "Describe or link the diagram: agency resources, provider offering, interfaces, inherited services, and exclusions with reasons."
+  },
+  {
+    "id": "allocation",
+    "label": "Control allocation and tailoring",
+    "step": 3,
+    "title": "Set the boundary and allocate controls",
+    "hint": "For each requirement/control: rationale, parameter, agency/provider/shared owner, implementation, evidence needed, and monitoring owner. Record SA-9 oversight and monitoring assignments."
+  },
+  {
+    "id": "service",
+    "label": "Selected offering and evidence",
+    "step": 4,
+    "title": "Reuse FedRAMP evidence and decide whether the service fits",
+    "hint": "Provider/service/version/deployment, package identifier and date, status/class or impact basis as applicable, features and inherited services covered, reviewers, and evidence links."
+  },
+  {
+    "id": "fit",
+    "label": "Fit, gaps, and reuse",
+    "step": 4,
+    "title": "Reuse FedRAMP evidence and decide whether the service fits",
+    "hint": "Required capability → provider evidence → agency configuration/work → residual gap/risk. Identify stale or missing evidence."
+  },
+  {
+    "id": "additional",
+    "label": "Additional provider requirements, if any",
+    "step": 4,
+    "title": "Reuse FedRAMP evidence and decide whether the service fits",
+    "hint": "Distinguish clarification from added requirements. State demonstrable need, determining official, notification/reference, package conflicts, and resolution. Enter “none” when appropriate."
+  },
+  {
+    "id": "agreements",
+    "label": "Agreements and protections",
+    "step": 5,
+    "title": "Set agreements and prepare the use decision",
+    "hint": "Contract/agreement reference → requirement → responsible party → evidence/remedy. Include incidents, exchanges, retention, deletion, portability, and termination."
+  },
+  {
+    "id": "draft-decision",
+    "label": "Draft service-use decision",
+    "step": 5,
+    "title": "Set agreements and prepare the use decision",
+    "hint": "Purpose/data, permitted configuration, dependencies, conditions, residual risks, owner, review triggers, and relationship to the agency ATO/ATU. Mark as draft until signed by the authorized official."
+  },
+  {
+    "id": "implementation",
+    "label": "Agency implementation and assessment",
+    "step": 6,
+    "title": "Configure, integrate, and assess the agency’s implementation",
+    "hint": "Implemented settings/procedures, evidence links, assessor/date, provider evidence reused, inherited capabilities checked, and integration tests/results."
+  },
+  {
+    "id": "residual",
+    "label": "Findings and risk response",
+    "step": 6,
+    "title": "Configure, integrate, and assess the agency’s implementation",
+    "hint": "Finding → affected mission/information → owner → mitigation or acceptance → due date. Link provider remediation and record any agency compensating actions."
+  },
+  {
+    "id": "decision",
+    "label": "Decision and authority",
+    "step": 7,
+    "title": "Make the agency authorization decision before use",
+    "hint": "System/package ID, ATO or approved ATU basis, official, decision/date, approved information/use/configuration, conditions, review/expiration triggers, and signed-record location. Record denial or deferral when relevant."
+  },
+  {
+    "id": "notification",
+    "label": "FedRAMP notification",
+    "step": 7,
+    "title": "Make the agency authorization decision before use",
+    "hint": "Date, submission/reference, letter and supplemental information supplied, or explanation of why not applicable. Record any unresolved ATO/ATU procedural question."
+  },
+  {
+    "id": "monitoring",
+    "label": "Monitoring plan",
+    "step": 8,
+    "title": "Monitor both, respond to change, and plan exit",
+    "hint": "Evidence/report → review frequency → reviewer → trigger/threshold → action/official. Include provider and agency sources, inherited services, and continuity of contacts."
+  },
+  {
+    "id": "change-exit",
+    "label": "Change, incident, and exit plan",
+    "step": 8,
+    "title": "Monitor both, respond to change, and plan exit",
+    "hint": "Triggers for re-review, restrictions or suspension; incident coordination/notification; export/retention/deletion; account/key closure; transition owner; completion evidence."
+  }
+]

@@ -1,0 +1,201 @@
+[
+  {
+    "id": "fips200",
+    "title": "FIPS 200: Minimum Security Requirements",
+    "date": "2006-03-09",
+    "kind": "Mandatory standard",
+    "url": "https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.200.pdf",
+    "local": "../on-behalf/../sources/fips200.pdf",
+    "sha256": "107a9b9cdc8eccf37386aec28bbaf2dfaef5cfece17151ceabc3960423243a57",
+    "retrieved": "2026-10-10",
+    "provenance": "Historical edition",
+    "cited_locations": [
+      "§§2–3"
+    ]
+  },
+  {
+    "id": "fisma2014",
+    "title": "Federal Information Security Modernization Act",
+    "date": "2014-12-18",
+    "kind": "Law",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ283/pdf/PLAW-113publ283.pdf",
+    "local": "../on-behalf/../sources/fisma2014.pdf",
+    "sha256": "96ab24c78d410963ebb0bcd519dbe4b95ee800400c49ea4448e6d3f39c3eb917",
+    "retrieved": "2026-10-10",
+    "provenance": "Historical edition",
+    "cited_locations": [
+      "§2, 44 USC 3554"
+    ]
+  },
+  {
+    "id": "a130-2016",
+    "title": "A-130: Managing Information as a Strategic Resource",
+    "date": "2016-07-28",
+    "kind": "OMB policy",
+    "url": "https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf",
+    "local": "../on-behalf/../sources/a130-2016.pdf",
+    "sha256": "f1a2e73a1063eab7d83da2a3bfa810f3aaebc9a6ef8e9d264ffc57ccd02152e6",
+    "retrieved": "2026-10-10",
+    "provenance": "2016 revision; later laws and memoranda also apply.",
+    "cited_locations": [
+      "§6(a)(1); §10(22)–(23); Appendix I §5(r)",
+      "§10(22)–(23)",
+      "Appendix I §3(b)(2); §4(j); §5(r)",
+      "Appendix I §5(r)",
+      "Appendix I §4(j); §5(r), printed pp. 25–26 / PDF pp. 62–63",
+      "§10(22); Appendix I §3",
+      "§5; Appendix II",
+      "Appendix I §4(j)",
+      "Appendix I §4(j), §5(r)"
+    ]
+  },
+  {
+    "id": "sp800372",
+    "title": "SP 800-37 Rev. 2: Security and Privacy RMF",
+    "date": "2018-12-20",
+    "kind": "NIST guidance",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf",
+    "local": "../on-behalf/../sources/sp800372.pdf",
+    "sha256": "4f75e1136bb905a654f1bcd9eefefb4108f47597276ee5eec0688f6d96f6a01d",
+    "retrieved": "2026-10-10",
+    "provenance": "Historical edition",
+    "cited_locations": [
+      "§2.5 and footnote 42, pp. 17–18; Appendix G, pp. 159–161",
+      "Appendix G, pp. 157–161",
+      "Appendix G, p. 160",
+      "§2.5",
+      "§2.5; Appendix G",
+      "§§2.3–2.5; Appendix G",
+      "Appendix G",
+      "§2.4; Appendix G",
+      "Appendix G, pp. 159–161",
+      "§§2.4–2.5; Appendix G",
+      "§2.5, footnote 42; Appendix G, pp. 159–161"
+    ]
+  },
+  {
+    "id": "m-24-15",
+    "title": "Modernizing the Federal Risk and Authorization Management Program (FedRAMP)",
+    "date": "2024-07-25",
+    "kind": "OMB policy",
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2024/07/M-24-15-Modernizing-the-Federal-Risk-and-Authorization-Management-Program.pdf",
+    "local": "../on-behalf/../sources/m-24-15.pdf",
+    "sha256": "07aabe7fd0baa34e3c77b7c9537204c6ac1caff473e04af8dc7e40743c30250a",
+    "retrieved": "2026-10-10",
+    "provenance": "Current applicability not assessed",
+    "cited_locations": [
+      "§III, Scope of FedRAMP, p. 5",
+      "§III, p. 5",
+      "§III",
+      "§III, exclusion 1"
+    ]
+  },
+  {
+    "id": "fedramp-act",
+    "title": "FedRAMP Authorization Act in P.L. 117-263",
+    "date": "2022-12-23",
+    "kind": "Law",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/pdf/PLAW-117publ263.pdf",
+    "local": "../on-behalf/../sources/fedramp-act.pdf",
+    "sha256": "9e5d37dfa7d1282073c16f3dde21978078f62f58f9db36f4828e270e02de933f",
+    "retrieved": "2026-10-10",
+    "provenance": "Historical edition",
+    "cited_locations": [
+      "§5921"
+    ]
+  },
+  {
+    "id": "fed-use",
+    "title": "Using a FedRAMP Certified Cloud Service",
+    "url": "https://www.fedramp.gov/2026/agencies/use/",
+    "local": "sources/fed-use.html",
+    "text": "sources/fed-use.txt",
+    "sha256": "669bec2cf3b9a5a4441e495719997de1a98882fe9413f879dc593036b27c4317",
+    "date": "Retrieved 2026-10-26",
+    "kind": "FedRAMP program guidance"
+  },
+  {
+    "id": "fed-initial",
+    "title": "Initial Agency Authorization",
+    "url": "https://www.fedramp.gov/2026/agencies/use/initial/",
+    "local": "sources/fed-initial.html",
+    "text": "sources/fed-initial.txt",
+    "sha256": "dd12a4780b6731ac2e4c0fe5f8e96f9ceae6768f06b6f1fdbfebb12a51bbd69c",
+    "date": "Retrieved 2026-10-26",
+    "kind": "FedRAMP program guidance"
+  },
+  {
+    "id": "fed-ongoing",
+    "title": "Ongoing Agency Authorization",
+    "url": "https://www.fedramp.gov/2026/agencies/use/ongoing/",
+    "local": "sources/fed-ongoing.html",
+    "text": "sources/fed-ongoing.txt",
+    "sha256": "f18d1c5a206729b43ba95820eb2a2b3380071e056f469e37d9cb484944ff3f49",
+    "date": "Retrieved 2026-10-26",
+    "kind": "FedRAMP program guidance"
+  },
+  {
+    "id": "fed-rules",
+    "title": "Agency Use rules",
+    "url": "https://www.fedramp.gov/2026/agencies/rules/agency-use/",
+    "local": "sources/fed-rules.html",
+    "text": "sources/fed-rules.txt",
+    "sha256": "0cb9ab020cfedd30ae45c3b757f4c74ffaba7d4c8e7d95298b8ac149ac97ff93",
+    "date": "Retrieved 2026-10-26",
+    "kind": "FedRAMP program rules"
+  },
+  {
+    "id": "fed-scope",
+    "title": "FedRAMP scope",
+    "url": "https://www.fedramp.gov/2026/scope/",
+    "local": "sources/fed-scope.html",
+    "text": "sources/fed-scope.txt",
+    "sha256": "006a89ab84e612853f6c998fff7d89e817133010b767837e5da74fc3cb450cdb",
+    "date": "Retrieved 2026-10-26",
+    "kind": "FedRAMP program guidance"
+  },
+  {
+    "id": "fips199",
+    "title": "FIPS 199: Security Categorization",
+    "date": "2004-02-01",
+    "kind": "Mandatory standard",
+    "url": "https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.199.pdf",
+    "local": "../on-behalf/../sources/fips199.pdf",
+    "sha256": "73d19f05f71e30f378050f178aa3943c38790bbae56c07f2b5708c5a1a90242f",
+    "retrieved": "2026-10-10",
+    "provenance": "Historical edition",
+    "cited_locations": [
+      "§§2–3",
+      "§3"
+    ]
+  },
+  {
+    "id": "sp800535",
+    "title": "SP 800-53 Rev. 5: Security and Privacy Controls",
+    "date": "2020-09-01",
+    "kind": "NIST guidance",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf",
+    "local": "../on-behalf/../sources/sp800535.pdf",
+    "sha256": "fc63bcd61715d0181dd8e85998b1e6201ae3515fc6626102101cab1841e11ec6",
+    "retrieved": "2026-10-10",
+    "provenance": "Historical edition",
+    "cited_locations": [
+      "SA-9, External System Services; CA-3, Information Exchange; AC-20, Use of External Systems",
+      "SA-9; SC-7, Boundary Protection",
+      "SA-9; SC-28, Protection of Information at Rest",
+      "CA-3; SC-7; SC-8, Transmission Confidentiality and Integrity",
+      "AC-20; CA-3; SA-9; SC-7; SC-8"
+    ]
+  },
+  {
+    "id": "sp80053b",
+    "title": "SP 800-53B: Control Baselines",
+    "date": "2020-10-01",
+    "kind": "NIST guidance",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53B.pdf",
+    "local": "../on-behalf/../sources/sp80053b.pdf",
+    "sha256": "8a9dae903c2e4924d7b67c246faa32757d15f9731abb85922fad63f9ea0e02fa",
+    "retrieved": "2026-10-10",
+    "provenance": "Historical edition"
+  }
+]

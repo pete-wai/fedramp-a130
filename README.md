@@ -66,3 +66,9 @@ GitHub Actions checks local links and source hashes, then publishes the committe
 ## Source rights
 
 Government-origin materials are preserved for research with source URLs and hashes. Third-party material embedded in government publications may have separate rights. No license is asserted over third-party source content.
+
+## Proposed FedRAMP use workbook
+
+[Open the proposed workflow and workbook](https://pete-wai.github.io/fedramp-a130/proposed-fedramp-use/). Reviews the six-step proposal against FISMA, the FedRAMP Act, M-24-15, A-130, FIPS, NIST, and published 2026 FedRAMP guidance. Includes eight revised steps, 41 attributed quotations, highlighted concerns, and 18 editable fields. Supports opt-in browser storage, JSON import/export, Markdown export, and printing with long answers. No information entered in the workbook is sent to a server.
+
+Authoring and research notes: [docs/proposed-fedramp-use.md](docs/proposed-fedramp-use.md). Build with the normal build command. Verify new evidence with `uv run --locked python scripts/use-quotes-check.py`; run workbook behavior checks with `mise exec -- node scripts/use-browser-check.mjs` against the loopback preview.

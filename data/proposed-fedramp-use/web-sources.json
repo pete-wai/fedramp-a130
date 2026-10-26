@@ -1,0 +1,52 @@
+[
+  {
+    "id": "fed-use",
+    "title": "Using a FedRAMP Certified Cloud Service",
+    "url": "https://www.fedramp.gov/2026/agencies/use/",
+    "local": "sources/fed-use.html",
+    "text": "sources/fed-use.txt",
+    "sha256": "669bec2cf3b9a5a4441e495719997de1a98882fe9413f879dc593036b27c4317",
+    "date": "Retrieved 2026-10-26",
+    "kind": "FedRAMP program guidance"
+  },
+  {
+    "id": "fed-initial",
+    "title": "Initial Agency Authorization",
+    "url": "https://www.fedramp.gov/2026/agencies/use/initial/",
+    "local": "sources/fed-initial.html",
+    "text": "sources/fed-initial.txt",
+    "sha256": "dd12a4780b6731ac2e4c0fe5f8e96f9ceae6768f06b6f1fdbfebb12a51bbd69c",
+    "date": "Retrieved 2026-10-26",
+    "kind": "FedRAMP program guidance"
+  },
+  {
+    "id": "fed-ongoing",
+    "title": "Ongoing Agency Authorization",
+    "url": "https://www.fedramp.gov/2026/agencies/use/ongoing/",
+    "local": "sources/fed-ongoing.html",
+    "text": "sources/fed-ongoing.txt",
+    "sha256": "f18d1c5a206729b43ba95820eb2a2b3380071e056f469e37d9cb484944ff3f49",
+    "date": "Retrieved 2026-10-26",
+    "kind": "FedRAMP program guidance"
+  },
+  {
+    "id": "fed-rules",
+    "title": "Agency Use rules",
+    "url": "https://www.fedramp.gov/2026/agencies/rules/agency-use/",
+    "local": "sources/fed-rules.html",
+    "text": "sources/fed-rules.txt",
+    "sha256": "0cb9ab020cfedd30ae45c3b757f4c74ffaba7d4c8e7d95298b8ac149ac97ff93",
+    "date": "Retrieved 2026-10-26",
+    "kind": "FedRAMP program rules"
+  },
+  {
+    "id": "fed-scope",
+    "title": "FedRAMP scope",
+    "url": "https://www.fedramp.gov/2026/scope/",
+    "local": "sources/fed-scope.html",
+    "text": "sources/fed-scope.txt",
+    "sha256": "006a89ab84e612853f6c998fff7d89e817133010b767837e5da74fc3cb450cdb",
+    "date": "Retrieved 2026-10-26",
+    "kind": "FedRAMP program guidance"
+  }
+]
