@@ -35,7 +35,7 @@
  function download(filename,contents,type){const url=URL.createObjectURL(new Blob([contents],{type}));const a=document.createElement('a');a.href=url;a.download=filename;document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),1000);}
  document.querySelector('#export-json').addEventListener('click',()=>{download('proposed-fedramp-use-answers.json',JSON.stringify(data(),null,2)+'\n','application/json');say('JSON export prepared. It can be imported into this workbook.');});
  document.querySelector('#export-md').addEventListener('click',()=>{
-  const lines=['# Agency cloud-use working record','','Exported '+new Date().toISOString(),'','Working aid from the proposed FedRAMP use report. This is not a signed authorization.','Report: https://pete-wai.github.io/fedramp-a130/proposed-fedramp-use/',''];
+  const lines=['# Agency cloud-use working record','','Exported '+new Date().toISOString(),'','Working aid from the proposed FedRAMP use report. This is not a signed authorization.','Report: https://pwai.dev/fedramp-a130/proposed-fedramp-use/',''];
   for(const section of form.querySelectorAll('.step')){lines.push('## '+section.querySelector('h2').textContent,'');for(const el of section.querySelectorAll('textarea')){lines.push('### '+form.querySelector(`label[for="${el.id}"]`).textContent,'',el.value||'Not recorded.','');}}
   download('proposed-fedramp-use-record.md',lines.join('\n'),'text/markdown');say('Markdown record export prepared. Add the signed decision and supporting agency records separately.');
  });

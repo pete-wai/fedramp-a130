@@ -1,6 +1,6 @@
 # A-130: history and authority
 
-[Read the report](https://pete-wai.github.io/fedramp-a130/).
+[Read the report](https://pwai.dev/fedramp-a130/).
 
 A buildless, primary-source research site tracing OMB Circular A-130, federal computer-security legislation, NIST standards and guidance, and cloud/FedRAMP policy through October 10, 2026.
 
@@ -10,16 +10,16 @@ The report includes six approximately 300-word revision summaries, an aligned ch
 
 ## Current-law and A-130 guides
 
-- [Read the law](https://pete-wai.github.io/fedramp-a130/law/index.html): full Title 44 chapters 35 and 36 and connected authorities, with 100 section explanations and 2,819 indexed provisions.
-- [A-130 responsibilities](https://pete-wai.github.io/fedramp-a130/a130/index.html): 71 topics covering the complete 2016 circular and both appendices, with source passages and statutory connections.
-- [History comparisons](https://pete-wai.github.io/fedramp-a130/law/history.html): dated Code editions, original amendment notes, and reviewed origins of selected duties.
-- [IGs and oversight](https://pete-wai.github.io/fedramp-a130/law/oversight.html): annual evaluations, management testing, reporting, and the roles of OMB, CIGIE, and GAO.
+- [Read the law](https://pwai.dev/fedramp-a130/law/index.html): full Title 44 chapters 35 and 36 and connected authorities, with 100 section explanations and 2,819 indexed provisions.
+- [A-130 responsibilities](https://pwai.dev/fedramp-a130/a130/index.html): 71 topics covering the complete 2016 circular and both appendices, with source passages and statutory connections.
+- [History comparisons](https://pwai.dev/fedramp-a130/law/history.html): dated Code editions, original amendment notes, and reviewed origins of selected duties.
+- [IGs and oversight](https://pwai.dev/fedramp-a130/law/oversight.html): annual evaluations, management testing, reporting, and the roles of OMB, CIGIE, and GAO.
 
 The law collection uses OLRC release 119-118, through September 30, 2026, retrieved October 10. It has a separate source manifest with 240 preserved files. Comparisons show collected editions rather than every intervening effective date. See [authoring, update procedures, and coverage boundaries](docs/law-explorer.md).
 
 ## Information and systems: the legal and policy history
 
-[Read the report](https://pete-wai.github.io/fedramp-a130/on-behalf/index.html). A chronological history from 2000–2026, with PRA and Computer Security Act foundations, 41 milestones, and 80 directly attributed quotations. It traces agency information and system duties through FISMA, A-130, FIPS, and NIST; shows explicit authority relationships; compares current responsibilities; and preserves original sources and edition limits. Responsive, searchable, offline-readable, and printable. Research checked October 25, 2026. See [coverage, authoring, and research limits](docs/on-behalf.md).
+[Read the report](https://pwai.dev/fedramp-a130/on-behalf/index.html). A chronological history from 2000–2026, with PRA and Computer Security Act foundations, 41 milestones, and 80 directly attributed quotations. It traces agency information and system duties through FISMA, A-130, FIPS, and NIST; shows explicit authority relationships; compares current responsibilities; and preserves original sources and edition limits. Responsive, searchable, offline-readable, and printable. Research checked October 25, 2026. See [coverage, authoring, and research limits](docs/on-behalf.md).
 
 ## Sources and coverage
 
@@ -69,6 +69,6 @@ Government-origin materials are preserved for research with source URLs and hash
 
 ## Proposed FedRAMP use workbook
 
-[Open the proposed workflow and workbook](https://pete-wai.github.io/fedramp-a130/proposed-fedramp-use/). Reviews the six-step proposal against FISMA, the FedRAMP Act, M-24-15, A-130, FIPS, NIST, and published 2026 FedRAMP guidance. Proposes a distinct signed agency Cloud Service Authorization under a new FedRAMP process, referenced from SA-9, SA-4, and other controls, alongside a separate agency system ATO. Includes eight revised steps, 41 attributed quotations, highlighted concerns, and 18 editable fields. Supports opt-in browser storage, JSON import/export, Markdown export, and printing with long answers. No information entered in the workbook is sent to a server.
+[Open the proposed workflow and workbook](https://pwai.dev/fedramp-a130/proposed-fedramp-use/). Reviews the six-step proposal against FISMA, the FedRAMP Act, M-24-15, A-130, FIPS, NIST, and published 2026 FedRAMP guidance. Proposes a distinct signed agency Cloud Service Authorization under a new FedRAMP process, referenced from SA-9, SA-4, and other controls, alongside a separate agency system ATO. Includes eight revised steps, 41 attributed quotations, highlighted concerns, and 18 editable fields. Supports opt-in browser storage, JSON import/export, Markdown export, and printing with long answers. No information entered in the workbook is sent to a server.
 
 Authoring and research notes: [docs/proposed-fedramp-use.md](docs/proposed-fedramp-use.md). Build with the normal build command. Verify new evidence with `uv run --locked python scripts/use-quotes-check.py`; run workbook behavior checks with `mise exec -- node scripts/use-browser-check.mjs` against the loopback preview.

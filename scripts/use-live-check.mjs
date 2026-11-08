@@ -1,5 +1,5 @@
 import fs from 'node:fs';import crypto from 'node:crypto';import assert from 'node:assert/strict';import {chromium} from 'playwright';
-const base='https://pete-wai.github.io/fedramp-a130/';const root='proposed-fedramp-use/';
+const base='https://pwai.dev/fedramp-a130/';const root='proposed-fedramp-use/';
 const files=['index.html','on-behalf/index.html','on-behalf/print.html',...['index.html','report.css','workbook.js','quotations.json','sources.json','fields.json','sources/fed-use.html','sources/fed-initial.html','sources/fed-ongoing.html','sources/fed-rules.html','sources/fed-scope.html'].map(p=>root+p)];
 const hash=b=>crypto.createHash('sha256').update(b).digest('hex');
 for(const f of files){const r=await fetch(base+f);assert(r.ok,`${f}: ${r.status}`);assert.equal(hash(Buffer.from(await r.arrayBuffer())),hash(fs.readFileSync('site/'+f)),f);}
