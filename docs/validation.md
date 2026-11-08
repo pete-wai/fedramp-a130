@@ -146,3 +146,7 @@ Live publication passed October 26, 2026: Pages run `40321471109`, feature commi
 Rebuilt the updated proposal and passed all static site tests, 41 primary-source quotation checks, and the existing complete workbook browser suite (1440/768/390/320px, keyboard, 200% text, offline JS on/off, saving, JSON/Markdown export, invalid-import preservation, and printing). Updated the Markdown export assertion for the revised system-ATO heading. The CSA step and signature-record prompts were visually inspected at phone/desktop sizes. No style or runtime behavior changes; the field schema and original quotations are unchanged. See `output/proposed-fedramp-use/csa-*.png` and `browser-check.json`. Publication verification follows below.
 
 CSA clarification deployed successfully in Pages run `40328888031` from commit `32ef46f`. The live check matched 14 files and passed 1440/390px report/workbook behavior. Full-report and workbook print checks retained the final line of the long answer (31 and seven pages respectively).
+
+## Custom domain — November 8, 2026
+
+Local `mise exec -- pnpm test` passed source hashes, report links, law pages, readers, and workbook static checks. Actions run 42503350741 passed and deployed. HTTPS checks passed for the homepage, law and A-130 guides, workbook, and their sampled CSS/JS assets. The deployed workbook export link uses https://pwai.dev/fedramp-a130/proposed-fedramp-use/. Only URLs changed; browser behavior and visual checks were not repeated.
